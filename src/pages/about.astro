@@ -12,30 +12,133 @@ import SiteHeader from '../components/SiteHeader.astro';
   <div class="container prose">
     <h1 class="page-title">About this book</h1>
 
+    <blockquote>
+      <p>
+        <em>"Some treasures are buried beneath the earth.</em>
+      </p>
+      <p>
+        <em>Others are found in the friends who choose to search for them."</em>
+      </p>
+    </blockquote>
+
     <p>
-      <em>Chronicles of Ethium</em> is a novel retelling of a Dungeons &amp; Dragons
-      campaign played around a table with dice, maps, and far too many bad jokes.
-      After each session, the story is rewritten as prose you can read like any other
-      book.
+      This is the story of four young heroes who became caught up in the mystery of an
+      ancient civilisation known only as <strong>Ethium</strong>.
     </p>
 
     <p>
-      It is written for readers aged twelve and up — clear enough for younger readers
-      to follow alone, but with enough mystery and peril to keep older readers turning
-      pages. Think classic adventure stories: brave companions, strange lands, and
-      choices that matter.
+      The events in this book are based on our Dungeons &amp; Dragons campaign. Every
+      battle was fought, every difficult decision was made, and every ridiculous idea
+      really happened around our gaming table.
     </p>
 
     <p>
-      The black-and-white illustrations echo old fighting fantasy books — woodcut plates
-      beside the text, as if you had pulled this volume from a dusty shelf in a very
-      old library.
+      Some conversations have been expanded and descriptions added so that the adventure
+      reads like a fantasy novel, but the story remains faithful to the adventures of
+      our heroes.
     </p>
 
     <p>
-      New chapters appear after each game session. Start from the
-      <a href="/chapters/">table of contents</a>, or jump straight in with
-      <a href="/">Begin reading</a>.
+      This manuscript is a living document. As the adventure continues, new chapters
+      will be added and earlier chapters refined, until the campaign is complete.
+    </p>
+
+    <h2>Dramatis Personae</h2>
+
+    <h3>The Heroes</h3>
+
+    <h4>Thorn Axehand</h4>
+    <p>
+      A brave young half-orc fighter who rarely hesitates when danger appears. Armed
+      with his trusty axe and an even stronger sense of loyalty, Thorn often finds
+      himself leading the group into adventure.
+    </p>
+
+    <h4>Loki</h4>
+    <p>
+      Thorn's faithful guard dog. Fearless, loyal and blessed with an excellent nose,
+      Loki has an uncanny habit of finding trouble — and occasionally saving the day.
+    </p>
+
+    <h4>Derek</h4>
+    <p>
+      A dependable dwarven cleric named after one of the greatest heroes from
+      <em>Stranger Things</em>. Calm under pressure and always ready to protect his
+      friends, Derek is the heart of the group.
+    </p>
+
+    <h4>Dave</h4>
+    <p>
+      A very young copper dragonborn wizard whose favourite spell launches magically
+      propelled potatoes instead of glowing bolts of force. Despite his unusual style,
+      his magic has saved the party more than once. When truly threatened, he can
+      unleash the poisonous breath of his dragon ancestors.
+    </p>
+
+    <h4>Nibbles McPicklepants</h4>
+    <p>
+      A dragonborn rogue with quick hands, sharp eyes and an endless curiosity.
+      Nibbles is always searching for hidden treasure, secret passages or his next
+      upgrade. One day he hopes to own enough poison to coat every blade he carries.
+    </p>
+
+    <h3>Friends</h3>
+
+    <h4>Mara</h4>
+    <p>A courier rescued from goblins while carrying a mysterious map to Fallcrest.</p>
+
+    <h4>Sergeant Murgaddin</h4>
+    <p>
+      A veteran member of the Fallcrest town guard who quickly recognises that the
+      companions are more than ordinary travellers.
+    </p>
+
+    <h4>Tobbs</h4>
+    <p>The cheerful halfling apprentice of the legendary wizard Nimozaran.</p>
+
+    <h4>Nimozaran</h4>
+    <p>
+      The greatest wizard in Fallcrest. He has not been seen outside his tower for
+      many years.
+    </p>
+
+    <h3>Enemies</h3>
+
+    <h4>The Hammers</h4>
+    <p>A violent street gang operating around Fallcrest.</p>
+
+    <h4>The Gang of Four</h4>
+    <p>A powerful criminal organisation based in the great city of Almanor.</p>
+
+    <p>
+      Start from the <a href="/chapters/">table of contents</a>, or jump straight in
+      with <a href="/">Begin reading</a>.
     </p>
   </div>
 </BaseLayout>
+
+<style>
+  .prose h2,
+  .prose h3,
+  .prose h4 {
+    font-family: var(--font-display);
+    font-weight: 400;
+  }
+
+  .prose h2 {
+    font-size: 1.75rem;
+    margin: 2.5rem 0 1rem;
+    border-bottom: 1px solid var(--paper-edge);
+    padding-bottom: 0.35rem;
+  }
+
+  .prose h3 {
+    font-size: 1.35rem;
+    margin: 1.75rem 0 0.75rem;
+  }
+
+  .prose h4 {
+    font-size: 1.1rem;
+    margin: 1.25rem 0 0.35rem;
+  }
+</style>

@@ -18,9 +18,16 @@ Open [http://localhost:4321](http://localhost:4321).
 
 ## Adding a chapter after a session
 
+**Drop content in [`publish/`](publish/)** — that is the folder to edit. Subfolders:
+
+- `publish/chapters/` — chapter markdown
+- `publish/illustrations/` — artwork (PNG, JPG, SVG)
+
+Run `npm run publish` to copy files into the site (this also runs automatically before `npm run dev` and `npm run build`).
+
 1. Copy the template:
    ```bash
-   cp src/content/chapters/_template.md src/content/chapters/02-your-chapter-slug.md
+   cp publish/chapters/_template.md publish/chapters/02-your-chapter-slug.md
    ```
    Use a numeric prefix for sorting (`01-`, `02-`, …). The filename becomes the URL slug.
 
@@ -48,7 +55,7 @@ Open [http://localhost:4321](http://localhost:4321).
 
 3. Write the chapter prose in markdown below the frontmatter. Aim for clear, vivid prose suitable for readers aged twelve and up.
 
-4. Add illustrations to `public/illustrations/` (PNG, JPG, or SVG). Reference them in markdown:
+4. Add illustrations to `publish/illustrations/` (PNG, JPG, or SVG). Reference them in markdown:
 
    ```markdown
    ![A goblin in the shadows](/illustrations/ch01-goblin.png)
@@ -58,13 +65,17 @@ Open [http://localhost:4321](http://localhost:4321).
 
    Images are styled automatically as engraved black-and-white plates.
 
-5. Commit and push. Netlify rebuilds with the new chapter.
+5. Run `npm run publish` (or `npm run dev` / push to GitHub — sync runs automatically).
+
+6. Commit and push. Netlify rebuilds with the new chapter.
 
 ## Project structure
 
 ```
-public/illustrations/     # Chapter artwork (PNG, JPG, SVG)
-src/content/chapters/     # One .md file per chapter
+publish/chapters/         # Drop chapter markdown here (edit this)
+publish/illustrations/    # Drop artwork here (edit this)
+public/illustrations/     # Synced artwork (auto-updated)
+src/content/chapters/     # Synced chapters (auto-updated)
 src/content/config.ts     # Frontmatter schema
 src/pages/                # Site routes
 src/styles/global.css     # Fighting Fantasy theme
@@ -87,8 +98,9 @@ After the first deploy, update `site` in [`astro.config.mjs`](astro.config.mjs) 
 
 | Command | Action |
 |---------|--------|
-| `npm run dev` | Start local dev server |
-| `npm run build` | Build static site to `dist/` |
+| `npm run publish` | Copy `publish/` content into the site |
+| `npm run dev` | Sync + start local dev server |
+| `npm run build` | Sync + build static site to `dist/` |
 | `npm run preview` | Preview the production build locally |
 
 ## Draft chapters

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="A broken stone gate on a hill">
+  <rect width="320" height="240" fill="#faf8f2"/>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hill -->
+    <path d="M20 200 Q80 120 160 145 T300 190 L300 240 L20 240 Z" fill="#e8e4dc" stroke="none"/>
+    <path d="M20 200 Q80 120 160 145 T300 190"/>
+    <!-- gate left pillar -->
+    <path d="M115 200 L115 95 Q115 70 130 62 L130 200"/>
+    <!-- gate right pillar -->
+    <path d="M205 200 L205 88 Q205 65 190 58 L190 200"/>
+    <!-- broken arch -->
+    <path d="M130 62 Q160 38 190 58"/>
+    <path d="M148 48 L162 42" stroke-width="1"/>
+    <!-- ivy -->
+    <path d="M118 130 Q105 115 112 100 Q120 88 115 75" stroke-width="1"/>
+    <path d="M200 120 Q215 108 208 92 Q198 80 203 68" stroke-width="1"/>
+    <!-- path -->
+    <path d="M160 240 Q158 210 160 200" stroke-width="1" stroke-dasharray="3 4"/>
+    <!-- distant trees -->
+    <path d="M40 175 L48 155 L56 175" stroke-width="1"/>
+    <path d="M260 168 L268 148 L276 168" stroke-width="1"/>
+    <path d="M280 180 L286 165 L292 180" stroke-width="1"/>
+  </g>
+  <!-- humming lines -->
+  <g stroke="#1a1a1a" stroke-width="0.75" opacity="0.35">
+    <path d="M160 72 Q175 68 190 72"/>
+    <path d="M160 76 Q172 74 182 76"/>
+  </g>
+</svg>
