@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+---
+
+<BaseLayout
+  title="About"
+  description="About Chronicles of Ethium — a novel for readers aged twelve and up."
+>
+  <SiteHeader slot="header" />
+
+  <div class="container prose">
+    <h1 class="page-title">About this book</h1>
+
+    <p>
+      <em>Chronicles of Ethium</em> is a novel retelling of a Dungeons &amp; Dragons
+      campaign played around a table with dice, maps, and far too many bad jokes.
+      After each session, the story is rewritten as prose you can read like any other
+      book.
+    </p>
+
+    <p>
+      It is written for readers aged twelve and up — clear enough for younger readers
+      to follow alone, but with enough mystery and peril to keep older readers turning
+      pages. Think classic adventure stories: brave companions, strange lands, and
+      choices that matter.
+    </p>
+
+    <p>
+      The black-and-white illustrations echo old fighting fantasy books — woodcut plates
+      beside the text, as if you had pulled this volume from a dusty shelf in a very
+      old library.
+    </p>
+
+    <p>
+      New chapters appear after each game session. Start from the
+      <a href="/chapters/">table of contents</a>, or jump straight in with
+      <a href="/">Begin reading</a>.
+    </p>
+  </div>
+</BaseLayout>

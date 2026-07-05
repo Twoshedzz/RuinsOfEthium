@@ -1,0 +1,17 @@
+{
+  "name": "chronicles-of-ethium",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { getPublishedChapters, formatChapterLabel } from '../../lib/chapters';
+
+const chapters = await getPublishedChapters();
+---
+
+<BaseLayout title="Chapters" description="Table of contents for Chronicles of Ethium.">
+  <SiteHeader slot="header" />
+
+  <div class="container">
+    <h1 class="page-title">Table of Contents</h1>
+
+    {
+      chapters.length === 0 ? (
+        <p>No chapters have been published yet. Check back soon.</p>
+      ) : (
+        <ul class="chapter-list">
+          {
+            chapters.map((chapter) => (
+              <li>
+                <span class="chapter-list__number">
+                  {formatChapterLabel(chapter.data.chapter)}
+                  {chapter.data.session != null && chapter.data.session > 0 && (
+                    <span> · Session {chapter.data.session}</span>
+                  )}
+                </span>
+                <a href={`/chapters/${chapter.slug}/`}>{chapter.data.title}</a>
+                {chapter.data.summary && (
+                  <p class="chapter-list__summary">{chapter.data.summary}</p>
+                )}
+              </li>
+            ))
+          }
+        </ul>
+      )
+    }
+  </div>
+</BaseLayout>

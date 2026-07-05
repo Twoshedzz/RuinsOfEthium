@@ -1,0 +1,29 @@
+---
+const currentPath = Astro.url.pathname;
+
+const links = [
+  { href: '/', label: 'Cover' },
+  { href: '/chapters/', label: 'Chapters' },
+  { href: '/about/', label: 'About' },
+];
+---
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <h1 class="site-title">
+      <a href="/">Chronicles of Ethium</a>
+    </h1>
+    <nav class="site-nav" aria-label="Main">
+      {
+        links.map(({ href, label }) => (
+          <a
+            href={href}
+            aria-current={currentPath === href || (href !== '/' && currentPath.startsWith(href)) ? 'page' : undefined}
+          >
+            {label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

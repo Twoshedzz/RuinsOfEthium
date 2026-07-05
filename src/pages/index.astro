@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import { getPublishedChapters, formatChapterLabel } from '../lib/chapters';
+
+const chapters = await getPublishedChapters();
+const firstChapter = chapters[0];
+---
+
+<BaseLayout title="Chronicles of Ethium">
+  <SiteHeader slot="header" />
+
+  <div class="container">
+    <section class="cover">
+      <p class="cover__ornament">✦ ✦ ✦</p>
+      <h1 class="cover__title">Chronicles of Ethium</h1>
+      <p class="cover__subtitle">A tale of road, ruin, and rumour</p>
+      <div class="cover__rule" aria-hidden="true"></div>
+
+      {
+        firstChapter ? (
+          <a class="cover__cta" href={`/chapters/${firstChapter.slug}/`}>
+            Begin reading
+          </a>
+        ) : (
+          <p>No chapters published yet.</p>
+        )
+      }
+
+      {
+        chapters.length > 0 && (
+          <section class="recent-chapters">
+            <h2>Chapters</h2>
+            <ul class="chapter-list">
+              {
+                chapters.map((chapter) => (
+                  <li>
+                    <span class="chapter-list__number">
+                      {formatChapterLabel(chapter.data.chapter)}
+                    </span>
+                    <a href={`/chapters/${chapter.slug}/`}>{chapter.data.title}</a>
+                    {chapter.data.summary && (
+                      <p class="chapter-list__summary">{chapter.data.summary}</p>
+                    )}
+                  </li>
+                ))
+              }
+            </ul>
+          </section>
+        )
+      }
+    </section>
+  </div>
+</BaseLayout>
