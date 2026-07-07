@@ -25,6 +25,7 @@ The live site reads from [`../chapters/`](../chapters/). This folder is your res
 |------|---------|
 | [`00-campaign-bible.md`](00-campaign-bible.md) | Canon, cast, timeline, open plot threads |
 | [`style-guide.md`](style-guide.md) | How chapters should read |
+| [`illustration-style.md`](illustration-style.md) | Fighting Fantasy B&W art direction |
 
 Update the campaign bible when something important changes in play.
 

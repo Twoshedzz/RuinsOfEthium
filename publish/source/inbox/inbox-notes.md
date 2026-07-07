@@ -10,6 +10,7 @@ See **[INVENTORY.md](INVENTORY.md)** for campaign synthesis.
 - [x] **Reference maps filed** (Jul 2026) — Axirian peninsula, continents, Ethium map lineage, Fallcrest variants → `world/maps/`
 - [x] **Maps, portraits, items filed** — see [`../world/maps/MAP-CATALOG.md`](../world/maps/MAP-CATALOG.md)
 - [ ] Copy any remaining ChatGPT attachment images (not in Obsidian export)
+- [x] **Image recipe** filed → `reference/fighting-fantasy/image-recipe.md`
 - [x] Write novel chapters 3–5
 - [ ] Write novel chapters 6+
 

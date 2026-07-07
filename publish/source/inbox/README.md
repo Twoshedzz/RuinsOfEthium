@@ -20,6 +20,7 @@ Still drop new unsorted files here if needed.
 
 - Session plan markdown (any naming)
 - Map images, hand-drawn scans, screenshots
+- **Fighting Fantasy style examples** — book scans or reference art (filed to `reference/fighting-fantasy/`)
 - NPC notes, location sketches
 - Old docs you're not sure belong where
 - Duplicates of things that might already exist elsewhere
@@ -52,6 +53,7 @@ Files should move **out** of inbox into:
 | Lore / setting | [`../world/notes.md`](../world/notes.md) |
 | ChatGPT paste | [`../chatgpt-exports/fragments/`](../chatgpt-exports/fragments/) |
 | Draft prose | [`../manuscripts/`](../manuscripts/) |
+| Style reference art | [`../reference/fighting-fantasy/`](../reference/fighting-fantasy/) |
 
 Leave a stub in `inbox-notes.md` if something was moved and you want a paper trail.
 

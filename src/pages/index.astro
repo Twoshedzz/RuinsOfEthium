@@ -11,22 +11,31 @@ const firstChapter = chapters[0];
 <BaseLayout title={SITE_TITLE}>
   <SiteHeader slot="header" />
 
-  <div class="container">
+  <div class="container container--cover">
     <section class="cover">
-      <p class="cover__ornament">✦ ✦ ✦</p>
-      <h1 class="cover__title">{SITE_TITLE}</h1>
-      <p class="cover__subtitle">The Adventures of Thorn Axehand and Friends</p>
-      <div class="cover__rule" aria-hidden="true"></div>
+      <div class="cover__hero">
+        <figure class="cover__art">
+          <img
+            src="/illustrations/cover/book-cover-ethium-battle.png"
+            alt="Thorn, Derek, Dave, Nibbles and Loki fight goblins among the ruins of Ethium"
+            width="1200"
+            height="900"
+            loading="eager"
+          />
+        </figure>
 
-      {
-        firstChapter ? (
-          <a class="cover__cta" href={`/chapters/${firstChapter.slug}/`}>
-            Begin reading
-          </a>
-        ) : (
-          <p>No chapters published yet.</p>
-        )
-      }
+        {
+          firstChapter ? (
+            <div class="cover__overlay cover__overlay--cta">
+              <a class="cover__cta" href={`/chapters/${firstChapter.slug}/`}>
+                Begin reading
+              </a>
+            </div>
+          ) : (
+            <p class="cover__empty">No chapters published yet.</p>
+          )
+        }
+      </div>
 
       {
         chapters.length > 0 && (
