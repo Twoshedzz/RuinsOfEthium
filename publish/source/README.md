@@ -10,14 +10,14 @@ The live site reads from [`../chapters/`](../chapters/). This folder is your res
 
 | Folder | What goes here |
 |--------|----------------|
-| [`inbox/`](inbox/) | **Unsorted dump** — mixed images, session plans, notes (filter later) |
+| [`inbox/`](inbox/) | **Unsorted dump** — mixed images, session plans, notes (filter later). **Local only** — gitignored |
 | [`characters/`](characters/) | PC list, NPCs, traits, voice notes |
 | [`world/`](world/) | Setting notes, locations, factions, lore |
 | [`world/maps/`](world/maps/) | Map images (PNG, JPG, SVG, PDF) |
 | [`session-plans/`](session-plans/) | Prep written before you play |
 | [`sessions/`](sessions/) | What happened **after** each game (one folder per session) |
-| [`chatgpt-exports/`](chatgpt-exports/) | ChatGPT chats — **use [`fragments/`](chatgpt-exports/fragments/) for messy pastes** |
-| [`manuscripts/`](manuscripts/) | Draft chapter prose that needs refinement |
+| [`chatgpt-exports/`](chatgpt-exports/) | ChatGPT chats — **use [`fragments/`](chatgpt-exports/fragments/) for messy pastes** (fragments gitignored) |
+| [`manuscripts/`](manuscripts/) | Draft chapter prose that needs refinement (**local only** — gitignored) |
 
 ## Reference docs (read every time)
 

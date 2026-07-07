@@ -20,9 +20,13 @@ pnpm-debug.log*
 # Astro
 .astro/
 
-# DM inbox — exclude huge non-campaign PDFs (keep Ethium session packs)
-publish/source/inbox/**/PHB.pdf
-publish/source/inbox/Gaming/Dungeon*.pdf
-publish/source/inbox/Gaming/Dungeons*.pdf
-publish/source/inbox/Gaming/T1-*.pdf
-publish/source/inbox/Gaming/tsr*.pdf
+# Authoring intake — local only; feed to Cursor, do not commit
+publish/source/inbox/
+publish/source/manuscripts/
+publish/source/characters/sheets/
+
+# ChatGPT fragments — keep folder scaffolding only
+publish/source/chatgpt-exports/fragments/**
+!publish/source/chatgpt-exports/fragments/.gitkeep
+!publish/source/chatgpt-exports/fragments/_paste-template.md
+!publish/source/chatgpt-exports/fragments/README.md

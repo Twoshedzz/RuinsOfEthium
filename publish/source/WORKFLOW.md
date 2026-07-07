@@ -46,7 +46,7 @@ flowchart LR
 - Generate printable handouts, item cards, trackers
 - Keep using your existing Hellfire / Ruins of Ethium chats
 
-Optional: paste useful bits into `source/chatgpt-exports/fragments/` or drop files in `source/inbox/`.
+Optional: paste useful bits into `source/chatgpt-exports/fragments/` or drop files in `source/inbox/`. Both folders are **gitignored** — they stay on your machine for Cursor only.
 
 ### At the table
 
