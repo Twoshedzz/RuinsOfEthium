@@ -4,6 +4,7 @@ import BaseLayout from './BaseLayout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import ChapterIllustration from '../components/ChapterIllustration.astro';
 import ChapterNav from '../components/ChapterNav.astro';
+import ChapterBodyLightbox from '../components/ChapterBodyLightbox.astro';
 
 interface Props {
   chapter: CollectionEntry<'chapters'>;
@@ -39,6 +40,8 @@ const { title, chapter: chapterNumber, summary, coverIllustration } = chapter.da
     <div class="chapter-body">
       <Content />
     </div>
+
+    <ChapterBodyLightbox />
 
     <ChapterNav prev={prev} next={next} />
   </article>

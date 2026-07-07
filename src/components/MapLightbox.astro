@@ -1,4 +1,6 @@
 ---
+import IllustrationLightbox from './IllustrationLightbox.astro';
+
 interface Props {
   slug: string;
   src: string;
@@ -9,62 +11,14 @@ interface Props {
 }
 
 const { slug, src, alt, caption, width, height } = Astro.props;
-const dialogId = `map-lightbox-${slug}`;
 ---
 
-<div class="map-lightbox" data-map-lightbox={slug}>
-  <figure class="illustration-plate illustration-plate--map">
-    <button
-      type="button"
-      class="map-lightbox__trigger"
-      data-map-open
-      aria-haspopup="dialog"
-      aria-controls={dialogId}
-    >
-      <img src={src} alt={alt} width={width} height={height} loading="lazy" />
-    </button>
-    <figcaption class="illustration-plate__caption">
-      {caption}
-      <span class="map-lightbox__hint"> — click to enlarge</span>
-    </figcaption>
-  </figure>
-
-  <dialog class="map-lightbox__dialog" id={dialogId} aria-label={caption}>
-    <div class="map-lightbox__panel">
-      <button type="button" class="map-lightbox__close" data-map-close>
-        Close
-      </button>
-      <img
-        class="map-lightbox__full"
-        src={src}
-        alt={alt}
-        width={width}
-        height={height}
-        decoding="async"
-      />
-      <p class="map-lightbox__title">{caption}</p>
-    </div>
-  </dialog>
-</div>
-
-<script>
-  document.querySelectorAll('[data-map-lightbox]').forEach((root) => {
-    const dialog = root.querySelector('dialog');
-    const openBtn = root.querySelector('[data-map-open]');
-    const closeBtn = root.querySelector('[data-map-close]');
-
-    if (!(dialog instanceof HTMLDialogElement) || !(openBtn instanceof HTMLButtonElement)) {
-      return;
-    }
-
-    openBtn.addEventListener('click', () => dialog.showModal());
-
-    closeBtn?.addEventListener('click', () => dialog.close());
-
-    dialog.addEventListener('click', (event) => {
-      if (event.target === dialog) {
-        dialog.close();
-      }
-    });
-  });
-</script>
+<IllustrationLightbox
+  id={slug}
+  src={src}
+  alt={alt}
+  caption={caption}
+  variant="map"
+  width={width}
+  height={height}
+/>

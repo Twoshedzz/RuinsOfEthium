@@ -29,3 +29,7 @@ None of them had any idea what awaited them.
 And none of them had ever heard the name...
 
 **Ethium.**
+
+![Thorn, Derek, Dave, Nibbles and Loki walk towards the reader along the North Road through the forests of Almenor](/illustrations/scenes/prologue-party-north-road.png)
+
+*The North Road — and four young adventurers who chose it anyway.*

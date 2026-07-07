@@ -4,6 +4,8 @@
 
 When generating: use the **full prompt** below, or swap the scene block for another subject.
 
+**Characters in the scene:** attach source images from [`../character-illustration-refs.md`](../character-illustration-refs.md) via `reference_image_paths` before generating.
+
 ---
 
 ## Full prompt (copy-paste)

@@ -4,7 +4,7 @@
 
 When asking Cursor to generate or brief art:
 
-> *"Follow `publish/source/illustration-style.md` and the prompt in `reference/fighting-fantasy/image-recipe.md`."*
+> *"Follow `publish/source/illustration-style.md`, the prompt in `reference/fighting-fantasy/image-recipe.md`, and attach character refs from `reference/character-illustration-refs.md`."*
 
 Prose voice remains in [`style-guide.md`](style-guide.md).
 
@@ -83,11 +83,19 @@ Drop Fighting Fantasy scans or favourites into **`publish/source/inbox/`** — a
 
 ---
 
+## Character source images (required)
+
+Any plate with party members or recurring NPCs **must** use the canonical portrait and scene references in [`reference/character-illustration-refs.md`](reference/character-illustration-refs.md).
+
+Attach those files as `reference_image_paths` when generating. Match face, build, and gear from the refs; render as black ink on white.
+
+---
+
 ## Generating new art
 
-**Cursor:** subject + scene block + image recipe.
+**Cursor:** character refs + scene block + image recipe.
 
-**ChatGPT:** same prompt; export PNG → run `process-cover-art.py` on the file → `publish/illustrations/` → `npm run publish`.
+**ChatGPT:** same prompt and attach the same reference images; export PNG → run `process-cover-art.py` on the file → `publish/illustrations/` → `npm run publish`.
 
 ---
 

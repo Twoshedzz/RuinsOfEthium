@@ -244,6 +244,10 @@ It was not an elegant fight. Dave hurled potatoes with more enthusiasm than accu
 
 When the dust settled, both goblins were groaning on the floor and Nibbles was bleeding slightly from a shallow cut along one arm.
 
+![Dave hurls potatoes while Nibbles lunges at goblin warriors who tripped over their spilled dice bag in a torchlit cave passage](/illustrations/scenes/ch01-goblin-cave-dice-fight.png)
+
+*The western tunnel — where an argument over bone dice became considerably less important.*
+
 "Are you all right?" Dave asked.
 
 "I've had worse from a bread knife," Nibbles said, though he did not sound entirely convinced.
@@ -269,6 +273,10 @@ For a few frantic moments Thorn had all he could do simply to keep the boss from
 Across the cavern, Derek fought with the steady, unshowy competence of someone who had done this before and preferred not to make a fuss about it. One goblin hurled a spear that rang off his shield. The other came at him with a rusty blade and was knocked flat before it could complain. The first goblin tried again, got caught by the hammer, and decided that loyalty to the boss had limits. Mara shouted encouragement from inside the cage, which helped rather more than anyone expected.
 
 Meanwhile Ratbag had tried to squeeze beneath a broken table and failed halfway. Loki seized his chance. There was a furious scuffle, one enormous squeal, one triumphant bark, and the goblin boss turned just in time to see his beloved pet meet a heroic but unfortunate end.
+
+![Thorn battles the goblin boss in his red curtain cloak while Derek fights goblin warriors, Mara watches from a wooden cage, and Loki pins the giant rat Ratbag in the great cavern](/illustrations/scenes/ch01-goblin-boss-fight.png)
+
+*The great cavern — Thorn, Derek, Mara, Loki, and a goblin chief who had just lost an argument with a dog.*
 
 "Ratbag!" he wailed.
 

@@ -212,6 +212,10 @@ Then it turned its head.
 
 Nibbles froze. The creature had wings — not feathered wings, but stone-coloured wings folded tight against its back. Its little eyes glinted. Nibbles took one careful step towards the wall. The creature saw him, snapped its wings open, and with a single silent leap launched itself from the rooftop. It glided over the square and vanished into the shadows between two taller buildings.
 
+![Nibbles shades his eyes as a tiny stone-winged homunculus launches from the Blue Moon Alehouse rooftop and glides away over Fallcrest's dockside square](/illustrations/scenes/ch02-homunculus-rooftop.png)
+
+*The Blue Moon roof — where something that was definitely not a statue took flight.*
+
 The children cheered. Nibbles did not. He hurried back inside to report that there had definitely been something up there, and that it had most certainly not been a statue, because statues did not fly.
 
 Thorn frowned. "Did it see you?"
@@ -285,6 +289,10 @@ He rested two fingers lightly on the stone and spoke two words Thorn had never h
 The change was immediate.
 
 A soft blue light bloomed from within the stone, steady and bright enough to read by, filling the space between their faces with a colour that did not belong to any torch or candle. At the same time a gentle warmth spread out from it, like standing close to a banked fire on a cold night. The veins in the stone pulsed once, slowly, as though something deep inside had drawn breath.
+
+![Tobbs and the companions lean over a booth table as an awakened Ethium Stone glows on the table, illuminating their faces in the crowded Blue Moon Alehouse](/illustrations/scenes/ch02-ethium-stone-booth.png)
+
+*"Aethra Lumis" — and for a moment the old magic remembered itself.*
 
 Dave made a small sound of wonder. Nibbles' eyes widened. Derek leaned closer, studying the light without touching it.
 

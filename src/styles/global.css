@@ -413,7 +413,8 @@ a:hover {
 
 /* Illustration plates — ink on transparent PNG; site parchment shows through */
 .chapter-body img,
-.illustration-plate img {
+.illustration-plate img,
+.image-lightbox__trigger img {
   display: block;
   width: 100%;
   max-width: 26rem;
@@ -429,6 +430,7 @@ a:hover {
 
 .chapter-body img + em,
 .chapter-body p:has(+ em) + em,
+.chapter-body p:has(.image-lightbox__trigger) + p em,
 .illustration-plate__caption {
   display: block;
   text-align: center;
@@ -437,6 +439,11 @@ a:hover {
   color: var(--ink-muted);
   margin: -1.25rem auto 2rem;
   max-width: 26rem;
+}
+
+.chapter-body p:has(.image-lightbox__trigger) + p em::after {
+  content: " — click to enlarge";
+  font-style: normal;
 }
 
 .illustration-plate {
@@ -460,11 +467,20 @@ a:hover {
   max-width: var(--measure);
 }
 
-.illustration-plate--map img {
+.illustration-plate--map .image-lightbox__trigger img {
   max-width: 100%;
   padding: 0;
   border: none;
   outline: none;
+  margin: 0 auto;
+}
+
+.image-lightbox {
+  margin: 0;
+}
+
+.image-lightbox .illustration-plate {
+  margin: 0 auto;
 }
 
 .map-entry + .map-entry {
@@ -473,8 +489,8 @@ a:hover {
   border-top: 1px solid var(--paper-edge);
 }
 
-/* Map lightbox gallery */
-.map-lightbox__trigger {
+/* Image lightbox — chapters, maps, and other enlargeable plates */
+.image-lightbox__trigger {
   display: block;
   width: 100%;
   margin: 0;
@@ -486,17 +502,17 @@ a:hover {
   color: inherit;
 }
 
-.map-lightbox__trigger:focus-visible {
+.image-lightbox__trigger:focus-visible {
   outline: 2px solid var(--ink);
   outline-offset: 4px;
 }
 
-.map-lightbox__hint {
+.image-lightbox__hint {
   font-style: normal;
   color: var(--ink-muted);
 }
 
-.map-lightbox__dialog {
+.image-lightbox__dialog {
   border: 2px solid var(--ink);
   padding: 0;
   margin: auto;
@@ -506,17 +522,17 @@ a:hover {
   box-shadow: 0 0 0 4px var(--paper-edge);
 }
 
-.map-lightbox__dialog::backdrop {
+.image-lightbox__dialog::backdrop {
   background: rgba(20, 18, 14, 0.82);
 }
 
-.map-lightbox__panel {
+.image-lightbox__panel {
   position: relative;
   padding: clamp(1rem, 3vw, 1.5rem);
   padding-top: clamp(2.75rem, 6vw, 3.25rem);
 }
 
-.map-lightbox__close {
+.image-lightbox__close {
   position: absolute;
   top: 0.75rem;
   right: 0.75rem;
@@ -531,12 +547,12 @@ a:hover {
   transition: background 0.2s, color 0.2s;
 }
 
-.map-lightbox__close:hover {
+.image-lightbox__close:hover {
   background: var(--ink);
   color: var(--paper);
 }
 
-.map-lightbox__full {
+.image-lightbox__full {
   display: block;
   width: auto;
   max-width: min(92vw, 76rem);
@@ -550,7 +566,7 @@ a:hover {
   filter: grayscale(100%) contrast(1.12);
 }
 
-.map-lightbox__title {
+.image-lightbox__title {
   margin: 1rem 0 0;
   text-align: center;
   font-family: var(--font-display);
