@@ -65,7 +65,12 @@ Optional: paste useful bits into `source/chatgpt-exports/fragments/` or drop fil
 
 4. **Review** — read the draft; fix anything the table did differently
 
-5. **Publish** — move final text to `publish/chapters/`, set `published: true`, push to GitHub → Netlify updates
+5. **Publish** — final text in `publish/chapters/`, `published: true`, then:
+   ```bash
+   node scripts/sync-publish.mjs
+   git add -A && git commit -m "…" && git push origin main
+   ```
+   Netlify deploys automatically from **main**.
 
 ---
 
