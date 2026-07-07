@@ -2,11 +2,13 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import { getPublishedChapters, formatChapterLabel } from '../../lib/chapters';
+import { SITE_TITLE } from '../../lib/site';
 
 const chapters = await getPublishedChapters();
+const chaptersDescription = `Table of contents for ${SITE_TITLE}.`;
 ---
 
-<BaseLayout title="Chapters" description="Table of contents for Chronicles of Ethium.">
+<BaseLayout title="Chapters" description={chaptersDescription}>
   <SiteHeader slot="header" />
 
   <div class="container">

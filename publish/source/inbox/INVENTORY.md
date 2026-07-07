@@ -8,7 +8,7 @@ This document explains what your dumped files are, how they fit together, and wh
 
 ## The big picture
 
-You are running **Ruins of Ethium** (working title in Obsidian: **Hellfire**), a family D&D campaign set in **Almanor** (kingdom). **Fallcrest** is a northern frontier town. The novel site covers the same story as **Chronicles of Ethium**.
+You are running **Ruins of Ethium** (working title in Obsidian: **Hellfire**), a family D&D campaign set in **Almanor** (kingdom). **Fallcrest** is a northern frontier town. The novel site is titled **The Ruins of Ethium** and covers the same story.
 
 **Published on the website (chapters 0–2):** Prologue → goblin road → Fallcrest → Blue Moon brawl → Ethium map revealed.
 

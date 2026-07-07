@@ -1,11 +1,13 @@
 ---
+import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_TITLE } from '../lib/site';
+
 interface Props {
   title: string;
   description?: string;
 }
 
-const { title, description = 'A novel retelling of a Dungeons & Dragons campaign, for readers aged twelve and up.' } = Astro.props;
-const fullTitle = title === 'Chronicles of Ethium' ? title : `${title} · Chronicles of Ethium`;
+const { title, description = SITE_DESCRIPTION } = Astro.props;
+const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
 ---
 
 <!doctype html>
@@ -14,6 +16,9 @@ const fullTitle = title === 'Chronicles of Ethium' ? title : `${title} · Chroni
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:site_name" content={SITE_TITLE} />
+    <meta property="og:description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{fullTitle}</title>
   </head>
@@ -24,7 +29,7 @@ const fullTitle = title === 'Chronicles of Ethium' ? title : `${title} · Chroni
         <slot />
       </main>
       <footer class="site-footer">
-        <p>Chronicles of Ethium — a tale from the table</p>
+        <p>{SITE_TITLE} — {SITE_TAGLINE}</p>
       </footer>
     </div>
   </body>

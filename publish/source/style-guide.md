@@ -1,4 +1,4 @@
-# Style reference — Chronicles of Ethium
+# Style reference — The Ruins of Ethium
 
 **This is the canonical voice** for all new chapters and refinements.
 

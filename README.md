@@ -1,4 +1,4 @@
-# Chronicles of Ethium
+# The Ruins of Ethium
 
 A static novel site built with [Astro](https://astro.build), styled after classic Fighting Fantasy books — parchment pages, serif type, and black-and-white illustration plates.
 
@@ -101,11 +101,9 @@ See [`publish/source/README.md`](publish/source/README.md) for the full workflow
 3. Netlify detects Astro automatically. Confirm:
    - **Build command:** `npm run build`
    - **Publish directory:** `dist`
-4. Deploy. Each push to your main branch updates the live site.
+4. Deploy. Each push to your main branch updates the live site at [ruinsofethium.netlify.app](https://ruinsofethium.netlify.app).
 
-These settings are also defined in [`netlify.toml`](netlify.toml).
-
-After the first deploy, update `site` in [`astro.config.mjs`](astro.config.mjs) to your real Netlify URL (or custom domain).
+These settings are also defined in [`netlify.toml`](netlify.toml). The canonical site URL is set in [`astro.config.mjs`](astro.config.mjs).
 
 ## Commands
 

@@ -2,18 +2,19 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import { getPublishedChapters, formatChapterLabel } from '../lib/chapters';
+import { SITE_TITLE } from '../lib/site';
 
 const chapters = await getPublishedChapters();
 const firstChapter = chapters[0];
 ---
 
-<BaseLayout title="Chronicles of Ethium">
+<BaseLayout title={SITE_TITLE}>
   <SiteHeader slot="header" />
 
   <div class="container">
     <section class="cover">
       <p class="cover__ornament">✦ ✦ ✦</p>
-      <h1 class="cover__title">Chronicles of Ethium</h1>
+      <h1 class="cover__title">{SITE_TITLE}</h1>
       <p class="cover__subtitle">The Adventures of Thorn Axehand and Friends</p>
       <div class="cover__rule" aria-hidden="true"></div>
 

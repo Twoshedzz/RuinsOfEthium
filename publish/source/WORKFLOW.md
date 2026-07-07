@@ -1,6 +1,6 @@
 # How this project works
 
-**Chronicles of Ethium** is the published story of your sons' D&D campaign — a novel the boys, parents, and friends can read. It is separate from the tools you use to *run* the game.
+**The Ruins of Ethium** is the published story of your sons' D&D campaign — a novel the boys, parents, and friends can read. It is separate from the tools you use to *run* the game.
 
 ---
 

@@ -1,6 +1,4 @@
-# Chronicles of Ethium
-
-# The Chronicles of Ethium
+# The Ruins of Ethium
 
 ### The Adventures of Thorn Axehand and Friends
 

@@ -1,10 +1,10 @@
-# Campaign bible — Chronicles of Ethium
+# Campaign bible — The Ruins of Ethium
 
 Living reference for canon. Update after each session.
 
 ## The book
 
-- **Title:** Chronicles of Ethium
+- **Title:** The Ruins of Ethium
 - **Subtitle:** The Adventures of Thorn Axehand and Friends
 - **Audience:** Readers aged 12+ (Peter's son and friends at the table)
 - **Basis:** Real D&D sessions — battles, decisions, and silly ideas really happened

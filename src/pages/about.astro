@@ -1,12 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
+import { SITE_TITLE } from '../lib/site';
+
+const aboutDescription = `About ${SITE_TITLE} — a novel for readers aged twelve and up.`;
 ---
 
-<BaseLayout
-  title="About"
-  description="About Chronicles of Ethium — a novel for readers aged twelve and up."
->
+<BaseLayout title="About" description={aboutDescription}>
   <SiteHeader slot="header" />
 
   <div class="container prose">

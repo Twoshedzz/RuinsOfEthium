@@ -4,7 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const sourcePath = path.join(root, 'publish/Chronicles of Ethium.md');
+const sourcePath = path.join(root, 'publish/source/manuscripts/chronicles-of-ethium-full.md');
 const source = readFileSync(sourcePath, 'utf8');
 
 function formatBody(text) {

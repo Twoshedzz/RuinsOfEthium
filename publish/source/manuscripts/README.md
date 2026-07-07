@@ -9,7 +9,7 @@ When a draft is finished, move it to [`../../chapters/`](../../chapters/) with p
 | File | Notes |
 |------|-------|
 | [`chapter-01-rewrite-draft.md`](chapter-01-rewrite-draft.md) | Slower-paced rewrite of Chapter 1 — refine against published version |
-| [`chronicles-of-ethium-full.md`](chronicles-of-ethium-full.md) | Full manuscript export (intro + prologue + ch 1–2) |
+| [`chronicles-of-ethium-full.md`](chronicles-of-ethium-full.md) | Full manuscript export for *The Ruins of Ethium* (intro + prologue + ch 1–2) |
 
 ## Ask Cursor
 
