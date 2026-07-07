@@ -17,6 +17,8 @@ Rather than shaming him, they gave him a trial — **not of combat, but of wisdo
 
 One passage in his spellbook speaks of **ancient knowledge hidden near great falls and old crossroads**, where magic gathers and history leaves echoes. Those words have led him toward **Fallcrest**, a town built on ruins, water, and forgotten stories.
 
+His familiar is **Peggy**, a pseudodragon — small enough to perch on his shoulder, curious, and useful for scouting. Dave calls her **Pegs**. He has never explained why, and the party has not pressed him on it.
+
 ![Dave the wizard](/illustrations/portraits/dave-wizard.png)
 
 ## Thorn Axehand

@@ -50,6 +50,10 @@ The ground floor was a maze of fallen beams, ash and bird droppings. Loki's nose
 
 They went down.
 
+![Thorn carries a torch as the party descends the broken stone stairwell into the cold cellars beneath the ruined manor](/illustrations/scenes/ch03-manor-cellar-stairs.png)
+
+*The old manor — where the stone steps led to trouble.*
+
 The first cellar chamber might once have been a wine store or a servants' hall. Now it was a rough camp. Crates had been dragged in as tables and barricades. Muddy footprints crossed the floor in every direction. Three men wearing patched leather and iron hammer pendants on leather cords looked up as the torchlight spilled down the stairs.
 
 One of them reached for a club.
@@ -121,6 +125,10 @@ Beyond lay a low stone room lined with four sarcophagi.
 For a moment nothing moved.
 
 Then the lids began to shift.
+
+![Skeletons sit up and erupt from stone sarcophagi in the family tomb as Thorn, Derek, Dave, Nibbles and Loki fight in the low cellar chamber](/illustrations/scenes/ch03-tomb-skeletons.png)
+
+*The family tomb — where the dead objected to visitors.*
 
 Skeletons sat up with the dry, horrible sound of bone on stone — four of them, yellowed and ancient, empty eyes turning towards the living with the mindless hunger of things that should have stayed buried. Thorn met the first with his axe. Derek's hammer cracked another apart. Nibbles danced back swearing. Dave, who had only just learned Sleep, tried it on the third skeleton with no effect whatsoever, which he felt was deeply unfair.
 

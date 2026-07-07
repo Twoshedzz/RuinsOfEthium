@@ -16,7 +16,7 @@ Beside him padded Loki, his faithful guard dog. The big animal walked with his n
 
 Behind them came Derek, steady as a walking barrel with boots. The dwarf carried himself with the calm patience of someone who expected trouble eventually, but saw no reason to hurry towards it. His shield hung across his back and his warhammer rested comfortably on one shoulder.
 
-Dave followed next, clutching his spellbook as if it might run away. He was a copper dragonborn and still young by the standards of his people, but he stood six foot seven — exceptionally tall even for one of his kind, and tall enough that Thorn could always see his copper-scaled head above the ferns when they walked in single file. He kept glancing at the trees, then at the road, then at the trees again. Every so often he muttered something under his breath and wiggled his fingers, practising the careful motions of a spell.
+Dave followed next, clutching his spellbook as if it might run away. He was a copper dragonborn and still young by the standards of his people, but he stood six foot seven — exceptionally tall even for one of his kind, and tall enough that Thorn could always see his copper-scaled head above the ferns when they walked in single file. Every so often something small stirred beneath his cloak — a familiar resting in the pocket between worlds, Dave said, though he rarely bothered to explain further. He kept glancing at the trees, then at the road, then at the trees again. Every so often he muttered something under his breath and wiggled his fingers, practising the careful motions of a spell.
 
 Nibbles McPicklepants brought up the rear, mostly because he had seen something shiny in the mud ten minutes earlier and was still hoping there might be more.
 
@@ -143,6 +143,18 @@ Another shout came from deeper in the hill. "Ratbag's nicked my dinner again!"
 The goblin disappeared into the cave.
 
 The companions stared at the now unguarded entrance.
+
+Before anyone stepped through, Dave murmured two careful words and held out one hand. A small shape unfolded from the air beside his wrist — a pseudodragon no larger than a house cat, with bright eyes and wings folded tight against coppery scales.
+
+"Peggy," Dave said softly. Everyone called her Peggy. Dave called her Pegs, for reasons he had never explained and nobody had thought to ask about twice.
+
+"Go look," he told her. "Quietly."
+
+The little familiar slipped into the cave mouth and was gone.
+
+She returned less than a minute later, landing on Dave's shoulder and chittering urgent nonsense into his ear. Dave listened, then nodded.
+
+"Fighters," he said. "At least two goblin warriors deeper in — west side, she thinks. More voices to the east."
 
 Thorn rested a hand on the handle of his axe. Derek adjusted his shield strap. Nibbles was already trying to decide whether treasure or prisoners should be searched for first. Dave looked at the dark opening and swallowed.
 

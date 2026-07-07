@@ -16,13 +16,13 @@ Full text: [`reference/fighting-fantasy/image-recipe.md`](reference/fighting-fan
 
 **Core line** — use this for every generation:
 
-> Highly detailed black ink illustration. Traditional dip-pen fantasy artwork on white paper. Fine cross-hatching and stippling with varied line weight throughout. Classic early-1980s British fantasy gamebook interior illustration. Full-page composition with a single dominant hero occupying around seventy percent of the page. Every texture rendered with intricate pen work. Crisp black linework only. No colour. No greyscale. No digital painting. No soft shading. No engraving effect. White paper background. Slightly loose hand-drawn linework, visible pen strokes with natural variation.
+> Highly detailed black ink illustration. Traditional dip-pen fantasy artwork on white paper, drawn by hand at the table — not digitally cleaned or vectorised. Slightly loose hand-drawn linework with visible pen strokes, natural wobble, and uneven line weight. Fine cross-hatching and stippling, but leave deliberate white space. Classic early-1980s British fantasy gamebook interior illustration in the manner of Russ Nicholson. Slightly imperfect perspective, occasional sketch lines, and a little visual noise are welcome. Crisp black linework only. No colour. No greyscale. No digital painting. No soft shading. No engraving effect. No sterile computer-perfect lines. White paper background.
 
-Then add a **scene block** (location, subject, action). See the recipe file for the Ethium plateau / Dave example and a blank template.
+Then add a **scene block** (location, subject, action). **Always attach character refs** from [`reference/character-illustration-refs.md`](reference/character-illustration-refs.md) when party members or NPCs appear. See the recipe file for the full prompt, hand-drawn notes, and scene template.
 
 ### Hand-drawn authenticity
 
-Original Fighting Fantasy interiors were inked by hand — imperfect perspective, uneven line weight, loose hatching, sketch lines, deliberate white space. **Embrace that noise**; avoid sterile digital perfection.
+Original Fighting Fantasy interiors were inked by hand — imperfect perspective, uneven line weight, loose hatching, sketch lines, deliberate white space. **Every plate should feel hand-drawn**, not digitally perfect. See the **Hand-drawn feel** section in [`reference/fighting-fantasy/image-recipe.md`](reference/fighting-fantasy/image-recipe.md).
 
 ---
 
