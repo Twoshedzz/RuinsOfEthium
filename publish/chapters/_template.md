@@ -1,7 +1,6 @@
 ---
 title: "Chapter Title Here"
 chapter: 1
-session: 1
 summary: "One sentence describing what happens in this chapter."
 coverIllustration: "/illustrations/ch01-cover.png"
 published: false

@@ -38,7 +38,7 @@ NPC ally: [`garnel-stoneblender.md`](garnel-stoneblender.md)
 - **Player:**
 - **Race / class:** Copper dragonborn wizard (young)
 - **Build:** Six foot seven — exceptionally tall for a dragonborn, and still growing into it
-- **Familiar:** **Peggy** — pseudodragon. Dave calls her **Pegs** (unexplained). Scouts ahead when sent; often rests in the pocket dimension between summons
+- **Familiar:** **Peggy** — pseudodragon. Dave calls her **Pegs** (unexplained). Scouts ahead when sent; Dave enters a trance to see and hear through her senses; often rests in the pocket dimension between summons
 - **Role in party:** Arcane damage; comic relief that works
 - **Personality:** Magic missile → potatoes; poison breath when threatened
 - **Voice / speech:** Earnest, hopeful

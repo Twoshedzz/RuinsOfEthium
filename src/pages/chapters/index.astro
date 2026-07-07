@@ -24,9 +24,6 @@ const chaptersDescription = `Table of contents for ${SITE_TITLE}.`;
               <li>
                 <span class="chapter-list__number">
                   {formatChapterLabel(chapter.data.chapter)}
-                  {chapter.data.session != null && chapter.data.session > 0 && (
-                    <span> · Session {chapter.data.session}</span>
-                  )}
                 </span>
                 <a href={`/chapters/${chapter.slug}/`}>{chapter.data.title}</a>
                 {chapter.data.summary && (

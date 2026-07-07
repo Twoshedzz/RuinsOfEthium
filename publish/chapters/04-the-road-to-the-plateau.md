@@ -1,7 +1,6 @@
 ---
 title: "The Road to the Plateau"
 chapter: 4
-session: 3
 summary: "Wolves, axe beaks, and a cloaked watcher on the road — then a brutal climb behind the waterfall. On the Ethium plateau the companions see a dragon, rest in an old shrine, glimpse the castle ruins, and set out for the ruined tower."
 published: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Old Manor"
 chapter: 3
-session: 3
 summary: "The companions strike the Hammers' cellar hideout beneath a ruined manor, uncover a Gang of Four plot, and set out for Ethium."
 published: true
 ---

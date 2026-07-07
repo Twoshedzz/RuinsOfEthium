@@ -1,7 +1,6 @@
 ---
 title: "Prologue"
 chapter: 0
-session: 0
 summary: "Four young adventurers choose the dangerous North Road — and none of them has yet heard the name Ethium."
 published: true
 ---

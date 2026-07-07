@@ -1,7 +1,6 @@
 ---
 title: "The Blue Moon Alehouse"
 chapter: 2
-session: 2
 summary: "Fallcrest welcomes the heroes — until the Hammers crash the Blue Moon Alehouse and Tobbs reveals the secret of Ethium."
 published: true
 ---
@@ -194,33 +193,33 @@ The shouting began outside.
 
 At first it sounded like ordinary children playing in the square. Then one voice rose above the others — "It's back!" — and another joined it: "The little statue! On the roof again!"
 
-Nibbles looked up immediately.
+Derek looked up sharply.
 
-Thorn reached across the table without looking. "Don't steal it."
+Thorn reached across the table without looking at Nibbles. "Don't steal it."
 
-"I wasn't going to steal it."
+"I wasn't going to steal it," Nibbles said.
 
 "Don't climb onto the roof either."
 
 Nibbles paused. "I wasn't going to climb very high."
 
-He slipped outside before anyone could stop him.
+Derek was already on his feet, moving towards the door with the calm urgency of someone who had heard what mattered in the children's voices. Nibbles made a disappointed noise and stayed at the table.
 
-Several children stood in the square pointing towards the roof of the Blue Moon. One small boy had both hands cupped around his mouth and was shouting at the tiles. Nibbles shaded his eyes and looked up. At first he saw only chimneys and roof beams. Then something moved — a tiny grey shape crouched beside one of the chimney pots, no bigger than a cat, with thin limbs and a hunched back. For a moment it looked exactly like a carved gargoyle.
+Several children stood in the square pointing towards the roof of the Blue Moon. One small boy had both hands cupped around his mouth and was shouting at the tiles. Derek shaded his eyes and looked up. At first he saw only chimneys and roof beams. Then something moved — a tiny grey shape crouched beside one of the chimney pots, no bigger than a cat, with thin limbs and a hunched back. For a moment it looked exactly like a carved gargoyle.
 
 Then it turned its head.
 
-Nibbles froze. The creature had wings — not feathered wings, but stone-coloured wings folded tight against its back. Its little eyes glinted. Nibbles took one careful step towards the wall. The creature saw him, snapped its wings open, and with a single silent leap launched itself from the rooftop. It glided over the square and vanished into the shadows between two taller buildings.
+Derek went still. The creature had wings — not feathered wings, but stone-coloured wings folded tight against its back. Its little eyes glinted. Derek took one careful step towards the wall. The creature saw him, snapped its wings open, and with a single silent leap launched itself from the rooftop. It glided over the square and vanished into the shadows between two taller buildings.
 
-![Nibbles shades his eyes as a tiny stone-winged homunculus launches from the Blue Moon Alehouse rooftop and glides away over Fallcrest's dockside square](/illustrations/scenes/ch02-homunculus-rooftop.png)
+![Derek shades his eyes as a tiny stone-winged homunculus launches from the Blue Moon Alehouse rooftop and glides away over Fallcrest's dockside square](/illustrations/scenes/ch02-homunculus-rooftop.png)
 
 *The Blue Moon roof — where something that was definitely not a statue took flight.*
 
-The children cheered. Nibbles did not. He hurried back inside to report that there had definitely been something up there, and that it had most certainly not been a statue, because statues did not fly.
+The children cheered. Derek did not. He turned back inside to report that there had definitely been something up there, and that it had most certainly not been a statue, because statues did not fly.
 
 Thorn frowned. "Did it see you?"
 
-Nibbles considered lying, then remembered Thorn usually noticed anyway. "Yes."
+Derek met his gaze. "Yes."
 
 Mara's smile faded slightly. "That's odd."
 
@@ -330,11 +329,11 @@ Tobbs looked at each of them in turn, hope and worry fighting in his face. "Then
 
 "We'll consider it," Thorn said. "After we've—"
 
-Nibbles leaned forward. "What other kind of things have been happening, exactly? You mentioned lights and dreams. What about little stone creatures on roofs?"
+Derek leaned forward. "What other kind of things have been happening, exactly? You mentioned lights and dreams. What about little stone creatures on roofs?"
 
 Tobbs blinked. "What?"
 
-"A tiny stone thing," Nibbles said. "On the roof. With wings. It flew away when it saw me."
+"A tiny stone thing," Derek said. "On the roof. With wings on its back. It flew away when it saw me."
 
 All colour left Tobbs' face. Mara noticed immediately. "Tobbs?"
 

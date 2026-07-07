@@ -1,7 +1,6 @@
 ---
 title: "The Road to Fallcrest"
 chapter: 1
-session: 1
 summary: "Goblins ambush the companions on the North Road. They rescue Mara, defeat a goblin boss, and set out for Fallcrest with a mysterious map."
 published: true
 ---
@@ -150,11 +149,17 @@ Before anyone stepped through, Dave murmured two careful words and held out one 
 
 "Go look," he told her. "Quietly."
 
-The little familiar slipped into the cave mouth and was gone.
+The little familiar slipped into the cave mouth and was gone. Dave's eyes went distant at once. He stood very still, one hand half-raised, breathing slow and even, as though he had gone somewhere else entirely.
 
-She returned less than a minute later, landing on Dave's shoulder and chittering urgent nonsense into his ear. Dave listened, then nodded.
+"He's in a trance," Derek said quietly. "He sees through her eyes."
 
-"Fighters," he said. "At least two goblin warriors deeper in — west side, she thinks. More voices to the east."
+Nobody spoke. Thorn kept his axe ready and watched the forest. Nibbles craned his neck towards the cave, then back at Dave, who did not blink.
+
+For the companions it was only a long minute of waiting. For Dave it was torchlit stone, dripping water, and the sharp green world as Peggy glided through the dark — two goblin warriors arguing over bone dice in a western passage, more voices and movement somewhere to the east.
+
+Peggy returned on silent wings and landed on Dave's shoulder. He shuddered, drew a sharp breath, and came back to himself.
+
+"Fighters," he said. "At least two goblin warriors deeper in — west side. More voices to the east."
 
 Thorn rested a hand on the handle of his axe. Derek adjusted his shield strap. Nibbles was already trying to decide whether treasure or prisoners should be searched for first. Dave looked at the dark opening and swallowed.
 

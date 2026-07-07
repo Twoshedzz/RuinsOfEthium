@@ -5,7 +5,6 @@ const chapters = defineCollection({
   schema: z.object({
     title: z.string(),
     chapter: z.number(),
-    session: z.number().optional(),
     summary: z.string().optional(),
     coverIllustration: z.string().optional(),
     published: z.boolean().default(true),

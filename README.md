@@ -43,7 +43,6 @@ Run `npm run publish` to copy files into the site (this also runs automatically 
    ---
    title: "The Road to Fallcrest"
    chapter: 1
-   session: 1
    summary: "One sentence describing what happens in this chapter."
    coverIllustration: "/illustrations/ch01-cover.png"
    published: true
@@ -54,7 +53,6 @@ Run `npm run publish` to copy files into the site (this also runs automatically 
    |-------|----------|-------|
    | `title` | Yes | Chapter title shown on the page |
    | `chapter` | Yes | Number for ordering (`0` = Prologue) |
-   | `session` | No | D&D session number, shown in the table of contents |
    | `summary` | No | Short blurb for listings |
    | `coverIllustration` | No | Hero image path under `public/` |
    | `published` | Yes | Set `false` to hide a draft |

@@ -1,7 +1,6 @@
 ---
 title: "The Ruined Tower"
 chapter: 5
-session: 3
 summary: "On the road to the ruined tower — a grisly dragon's leavings, then a Hammer ambush. Beneath the tower the companions rescue Garnel Stoneblender and awaken an ancient healing pool."
 published: true
 ---
