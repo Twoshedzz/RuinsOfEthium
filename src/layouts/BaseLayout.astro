@@ -1,4 +1,5 @@
 ---
+import { SITE_BUILT_AT, SITE_EDITION } from '../lib/build-info';
 import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_TITLE } from '../lib/site';
 
 interface Props {
@@ -19,6 +20,7 @@ const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
     <meta property="og:title" content={fullTitle} />
     <meta property="og:site_name" content={SITE_TITLE} />
     <meta property="og:description" content={description} />
+    <meta name="site-edition" content={SITE_EDITION} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{fullTitle}</title>
   </head>
@@ -30,6 +32,9 @@ const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
       </main>
       <footer class="site-footer">
         <p>{SITE_TITLE} — {SITE_TAGLINE}</p>
+        <p class="site-footer__edition" title={`Built ${SITE_BUILT_AT}`}>
+          Edition {SITE_EDITION}
+        </p>
       </footer>
     </div>
   </body>

@@ -121,6 +121,14 @@ a:hover {
   color: var(--ink-muted);
 }
 
+.site-footer__edition {
+  margin: 0.4rem 0 0;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
 .container {
   max-width: var(--measure);
   margin: 0 auto;

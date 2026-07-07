@@ -3,10 +3,10 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "node scripts/sync-publish.mjs && astro dev",
+    "dev": "node scripts/sync-publish.mjs && node scripts/write-build-info.mjs && astro dev",
     "start": "npm run dev",
     "publish": "node scripts/sync-publish.mjs",
-    "build": "node scripts/sync-publish.mjs && astro build",
+    "build": "node scripts/sync-publish.mjs && node scripts/write-build-info.mjs && astro build",
     "preview": "astro preview"
   },
   "dependencies": {
