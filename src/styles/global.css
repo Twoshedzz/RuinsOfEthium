@@ -411,7 +411,7 @@ a:hover {
   width: 30%;
 }
 
-/* Illustration plates */
+/* Illustration plates — ink on transparent PNG; site parchment shows through */
 .chapter-body img,
 .illustration-plate img {
   display: block;
@@ -422,9 +422,9 @@ a:hover {
   border: 1px solid var(--ink);
   outline: 1px solid var(--ink);
   outline-offset: 3px;
-  background: #faf8f2;
-  box-shadow: inset 0 0 0 1px var(--paper-edge);
-  filter: grayscale(100%) contrast(1.08);
+  background: transparent;
+  box-shadow: none;
+  filter: grayscale(100%) contrast(1.12);
 }
 
 .chapter-body img + em,
@@ -454,6 +454,109 @@ a:hover {
 
 .illustration-plate--wide img {
   max-width: 100%;
+}
+
+.illustration-plate--map {
+  max-width: var(--measure);
+}
+
+.illustration-plate--map img {
+  max-width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+.map-entry + .map-entry {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--paper-edge);
+}
+
+/* Map lightbox gallery */
+.map-lightbox__trigger {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: zoom-in;
+  font: inherit;
+  color: inherit;
+}
+
+.map-lightbox__trigger:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 4px;
+}
+
+.map-lightbox__hint {
+  font-style: normal;
+  color: var(--ink-muted);
+}
+
+.map-lightbox__dialog {
+  border: 2px solid var(--ink);
+  padding: 0;
+  margin: auto;
+  max-width: min(96vw, 80rem);
+  width: max-content;
+  background: var(--paper);
+  box-shadow: 0 0 0 4px var(--paper-edge);
+}
+
+.map-lightbox__dialog::backdrop {
+  background: rgba(20, 18, 14, 0.82);
+}
+
+.map-lightbox__panel {
+  position: relative;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  padding-top: clamp(2.75rem, 6vw, 3.25rem);
+}
+
+.map-lightbox__close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 1;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  padding: 0.35rem 0.85rem;
+  border: 2px solid var(--ink);
+  background: rgba(244, 238, 218, 0.95);
+  color: var(--ink);
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.map-lightbox__close:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.map-lightbox__full {
+  display: block;
+  width: auto;
+  max-width: min(92vw, 76rem);
+  max-height: calc(92vh - 5rem);
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+  border: none;
+  outline: none;
+  background: transparent;
+  filter: grayscale(100%) contrast(1.12);
+}
+
+.map-lightbox__title {
+  margin: 1rem 0 0;
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--ink-muted);
 }
 
 /* Chapter navigation */

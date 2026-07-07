@@ -72,13 +72,13 @@ A passage led deeper, where the air grew damper and a faint blue-green glow seep
 
 "Everything interesting is poisonous," Nibbles sighed.
 
-Beyond the mushrooms, the passage opened into a larger chamber where a table had been set up with maps, coins, and a guttering lamp. Two more Hammers stood when they saw the torchlight. Behind them, a thin man in dark robes rose from a stool with a curse and raised both hands. A crackle of sickly green energy spat towards Thorn and fizzed harmlessly against his shield.
+Beyond the mushrooms, the passage opened into a larger chamber where a table had been set up with maps, coins, and a guttering lamp. Four men stood when they saw the torchlight — two Hammers with clubs and iron pendants, a swordsman in boiled leather with a long blade already half-drawn, and a broad figure in heavy plate who looked as though he had been hired precisely to stand between danger and whoever stood behind him. Behind them all, a thin man in dark robes rose from a stool with a curse and raised both hands. A crackle of sickly green energy spat towards Thorn and fizzed harmlessly against his shield.
 
 The mage — Rulden, if the papers on his table were any guide — had not expected company.
 
 He had even less time to complain about it.
 
-Derek met the next bolt on his shield and advanced with his hammer held low. Thorn came in from the side. Nibbles slipped through the fungal gloom towards the Hammers, who were too busy watching the half-orc with the axe to notice the dragonborn with the very sharp dagger until it was far too late. Dave, remembering the goblin cave, raised both hands and sent a potato sailing into the nearest thug's face with admirable accuracy.
+Derek met the next bolt on his shield and went straight for the armoured man, hammer ringing against steel. Thorn closed with the swordsman, axe meeting blade in a shower of sparks. The two Hammers lunged together — and Nibbles slipped through the fungal gloom towards them, too quick for either to watch the half-orc with the axe and the dragonborn with the very sharp dagger at once. Dave, remembering the goblin cave, raised both hands and sent a potato sailing into the nearest Hammer's face with admirable accuracy.
 
 Rulden snarled something under his breath and reached for a book on the table. Before he could finish whatever spell he had in mind, Thorn knocked the stool from under him and pinned his wrist to the stone floor.
 
@@ -136,7 +136,7 @@ Nibbles searched the sarcophagi with the focused energy of someone who felt owed
 
 ---
 
-They returned to Fallcrest in the late afternoon with rope burns on their hands, mushroom spores on their boots, and Rulden's correspondence tucked safely in Thorn's pack.
+They returned to Fallcrest in the late afternoon with scrapes on their knuckles, mushroom spores on their boots, and Rulden's correspondence tucked safely in Thorn's pack.
 
 Murgaddin met them at Knight's Gate. He read the letter twice without speaking.
 
@@ -182,9 +182,9 @@ Derek closed his prayer book. "Better to go now than wait for the next letter."
 
 "Then you leave at first light," Tobbs said, relief plain in his face. "Follow the river road until it turns east. The blue mark on your copy shows where the old track climbs towards the hills — and the waterfall behind it, the only sensible way up. Make for the ruined tower first. If the stones are waking, that's where you'll feel it." He swallowed. "After that... you'll be deep in Ethium's shadow."
 
-They slept, packed, and were at the gate when the bells rang dawn.
+They slept, packed, and were at Wizard's Gate when the bells rang dawn.
 
-Fallcrest's northern road lay ahead — pale and empty, curving away between hedgerows towards forests and the distant plateau where old magic stirred beneath broken stone. Thorn Axehand led the way with his axe across his back and the new shield at his side. Derek walked steady as ever. Dave clutched his spellbook, now heavier by one spell. Nibbles had the silver dagger, the magical shortsword, and an identify scroll he intended to use on something impressive at the first opportunity. Loki trotted ahead, nose to the wind, utterly certain that whatever came next would be interesting.
+The road east lay ahead — pale and empty, curving away between hedgerows towards the river and, beyond that, the distant plateau where old magic stirred beneath broken stone. Thorn Axehand led the way with his axe across his back and the new shield at his side. Derek walked steady as ever. Dave clutched his spellbook, now heavier by one spell. Nibbles had the silver dagger, the magical shortsword, and an identify scroll he intended to use on something impressive at the first opportunity. Loki trotted ahead, nose to the wind, utterly certain that whatever came next would be interesting.
 
 Behind them, Fallcrest's walls grew small in the morning light.
 

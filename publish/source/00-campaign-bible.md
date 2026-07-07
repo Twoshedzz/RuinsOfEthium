@@ -60,7 +60,7 @@ Living reference for canon. Update after each session.
 - **Almenor** — country on the **Axirian peninsula** (see [`world/notes/axirian-peninsula.md`](world/notes/axirian-peninsula.md))
 - **Sunfall** — capital of Almenor; base of the Gang of Four
 - **Fallcrest** — northern frontier town, above the heartland; gateway to Ethium
-- **Ethium** — ruined plateau civilisation north-east of Fallcrest; map lineage in [`world/notes/ethium-maps.md`](world/notes/ethium-maps.md)
+- **Ethium** — the whole plateau was a vast ancient city; map lineage in [`world/notes/ethium-maps.md`](world/notes/ethium-maps.md); place lore in [`world/notes/ethium.md`](world/notes/ethium.md); stonework in [`world/notes/ethium-stonework.md`](world/notes/ethium-stonework.md)
 
 ## Key locations
 

@@ -5,9 +5,14 @@ Reference maps: [`../maps/axirian-peninsula.png`](../maps/axirian-peninsula.png)
 ## Where Almenor sits
 
 - **Almenor** is a country on the **Axirian peninsula**, south of the central mountain range.
-- **Sunfall** (★ on the peninsula map) is the capital — inland, on the river south of the mountains.
-- **Fallcrest** sits further **north**, on the frontier above Almenor proper — last town before the wild hills and the Ethium ruins.
+- **Northern border:** the mountain **foothills** — Almenor does not claim the high peaks.
+- **Fallcrest** (○ on the peninsula map) sits on that northern frontier — last town before the unclaimed mountains and the Ethium ruins beyond.
+- **Sunfall** (★ on the peninsula map) is the capital — in the **south** of Almenor, inland on the river.
 - The **Western Axirian Empire** occupies much of the eastern peninsula; Almenor borders it.
+
+## Mountains
+
+The central range is **unclaimed** — no country’s border runs through the mountain terrain. Borders stop at the foothills.
 
 ## Neighbouring regions (peninsula map)
 

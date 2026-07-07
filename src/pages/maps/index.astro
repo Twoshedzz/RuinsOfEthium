@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MapLightbox from '../../components/MapLightbox.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { siteMaps } from '../../lib/maps';
+import { SITE_TITLE } from '../../lib/site';
+
+const mapsDescription = `Maps from the world of ${SITE_TITLE}.`;
+---
+
+<BaseLayout title="Maps" description={mapsDescription}>
+  <SiteHeader slot="header" />
+
+  <div class="container prose">
+    <h1 class="page-title">Maps</h1>
+
+    <p>
+      Cartographer's plates from the known world — drawn in the manner of the old gamebook
+      illustrators, for travellers who mean to find their way.
+    </p>
+
+    {
+      siteMaps.map((map) => (
+        <section class="map-entry" id={map.slug}>
+          <h2>{map.title}</h2>
+          <p>{map.summary}</p>
+          <MapLightbox
+            slug={map.slug}
+            src={map.image}
+            alt={map.alt}
+            caption={map.title}
+            width={1536}
+            height={1024}
+          />
+        </section>
+      ))
+    }
+  </div>
+</BaseLayout>

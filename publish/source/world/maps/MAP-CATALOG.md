@@ -67,6 +67,7 @@ Synced to `public/illustrations/` on build (includes subfolders).
 
 | File | Use in markdown |
 |------|-----------------|
+| `axirian-peninsula-illustrated.png` | Site `/maps/` — FF ink regional map |
 | `fallcrest-town.png` | `/illustrations/maps/fallcrest-town.png` |
 | `ethium-plateau.jpg` | `/illustrations/maps/ethium-plateau.jpg` |
 | `fallcrest-to-ethium.png` | `/illustrations/maps/fallcrest-to-ethium.png` |

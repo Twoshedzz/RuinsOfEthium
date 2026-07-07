@@ -2,7 +2,7 @@
 title: "The Road to the Plateau"
 chapter: 4
 session: 3
-summary: "Wolves, axe beaks, and a cloaked watcher on the road — then a brutal climb behind the waterfall. On the Ethium plateau the companions see a dragon, rest in an old shrine, and make for the ruined tower."
+summary: "Wolves, axe beaks, and a cloaked watcher on the road — then a brutal climb behind the waterfall. On the Ethium plateau the companions see a dragon, rest in an old shrine, glimpse the castle ruins, and set out for the ruined tower."
 published: true
 ---
 
@@ -50,6 +50,12 @@ The fight became a scramble of wings, dust and shouting. Nibbles darted between 
 
 When it was over, three axe beaks fled limping across the hills and the rest did not get up.
 
+The birds were enormous. Nibbles looked from one fallen axe beak to another, then down at their legs.
+
+"Those," he said, "are drumsticks."
+
+No one argued. Each leg was nearly as long as Dave's forearm — jointed, muscular, and far too much meat to leave behind. Thorn and Derek set to with axe and belt knife while Dave studied the burial mounds with great attention and Loki watched every cut with professional interest. They packed what they could carry, greasy bundles strapped to their packs, enough for several meals if the smell did not bring more trouble down on them.
+
 "Note to self," Nibbles said, leaning on his knee and breathing hard. "Avoid large angry birds."
 
 "Note to self," Dave echoed, "Sleep works on birds."
@@ -58,7 +64,7 @@ When it was over, three axe beaks fled limping across the hills and the rest did
 
 ---
 
-They camped that night among the burial mounds, where the old stones caught the last of the sunset and the air smelled of grass and earth and something older than either. Derek volunteered for the middle watch.
+They camped that night among the burial mounds, where the old stones caught the last of the sunset and the air smelled of grass and earth and something older than either. Nibbles roasted axe beak leg over the fire until the outside crackled — a drumstick the size of a small ham — and divided it with the seriousness of a quartermaster. Derek volunteered for the middle watch.
 
 He liked the quiet. He liked knowing where everyone was. He sat with his back to a mound and his hammer across his knees, watching the fire settle to embers.
 
@@ -162,7 +168,7 @@ But they were up.
 
 The Ethium plateau was nothing like the forests below.
 
-Stone foundations stretched across the high ground beneath creeping vines and wind-bent grass. Roads led to walls that had fallen centuries ago. Whatever had stood here had died long before Fallcrest was rebuilt, and the silence was the silence of a place that remembered being important.
+Stone foundations stretched across the high ground beneath creeping vines and wind-bent grass. Roads led to walls that had fallen centuries ago. Tobbs had called the whole plateau Ethium, and walking it now Thorn believed him — not one ruined town but the bones of a city so vast that rubble showed in every direction. Whatever had stood here had died long before Fallcrest was rebuilt, and the silence was the silence of a place that remembered being important.
 
 They walked for the rest of the afternoon without speaking much. The air was thinner. The light had a strange clarity, as though the plateau sharpened everything it touched. Once, far to the east, Nibbles thought he saw goblin shapes on wolfback racing along a distant ridge — fast, organised, hunting something that was not them. He pointed. The riders vanished behind a fold of land.
 
@@ -184,17 +190,25 @@ A shape cut across the clouds far above the plateau — at first no larger than 
 
 Nobody spoke.
 
-The dragon banked eastward and slid away into the haze above the broken hills.
+The dragon banked eastward. Something slipped from its jaws — a dark shape, small against the sky — and tumbled down towards the broken hills below.
+
+"Was that—" Dave began.
+
+Nobody wanted to finish the sentence.
+
+The dragon slid away into the haze above the broken hills.
 
 Dave swallowed. "I always said adventures should have more dragons."
 
-"That," Nibbles said quietly, "is not the sort I meant."
+"I assume you didn't mean the sort that's that big?" Nibbles said quietly.
 
 They watched the sky for a long time after it was gone. Nothing else moved up there. But the image stayed — vast, casual, indifferent to anything walking below.
 
 ---
 
-Tobbs had marked a collapsed shrine on their map, a little way north of the waterfall path — a safe place, he had said, if the stones on the plateau were waking. They found it just as the light failed: a small stone building half-sunken into the earth, its roof fallen in, its walls cracked but still standing. Strange smooth stones were set into the altar at the centre, faintly warm to the touch.
+Tobbs had marked a collapsed shrine on their map, a little way north of the waterfall path — a safe place, he had said, if the stones on the plateau were waking. They set out towards it as the light failed, picking their way through scrub and fallen stone while the last colour drained from the sky.
+
+They found the shrine just beyond a low rise: a small stone building half-sunken into the earth, its roof fallen in, its walls cracked but still standing. Pale near-white blocks — Ethium work, smooth as marble — framed the altar at the centre, where smaller worked stones were set, faintly warm to the touch.
 
 Derek rested his palm on one and felt a pulse like a slow heartbeat.
 
@@ -210,26 +224,18 @@ They made camp inside the shrine walls, where the wind could not reach and the n
 
 They ate, packed, and walked on.
 
----
+The morning was clear, and the plateau opened around them with every mile. Ahead, the land climbed to its highest point — a great hill ringed with cliffs that dropped away on three sides, too vast and too deliberate to be natural. Against that skyline stood the ruins of a castle: blackened walls, broken battlements, and the jagged outline of what might once have been a palace. Nobody in Fallcrest could have seen this from the cliffs. You had to be walking Ethium's bones to know it was there.
 
-The ruined tower appeared before midday.
+Dave stopped. "That's the biggest thing left standing."
 
-They saw it first from a rise — not the distant blackened castle some of them had glimpsed from Fallcrest's cliffs, but a nearer thing: a broken tower of Ethium stonework on a low ridge, its upper floors gone, its base still stubbornly upright. Faint veins of blue ran through the blocks like frozen lightning. The air around it felt still. Sound did not carry properly; when Loki barked, the noise seemed to die against the stone within a few yards.
+"And not where we're going," Thorn said, checking Tobbs's map. The castle crowned the largest hill on the plateau — older and grander than anything they had passed, though none of them could have said who had built it or why. Their destination lay elsewhere, on a smaller ridge to the west, marked in blue ink where the ruined tower waited.
 
-"That's it," Thorn said, checking Tobbs's map. "Where he told us to start."
+"We're not going up there," he added. "Not yet."
 
-Collapsed archways marked the approach, carved with symbols worn smooth — not destroyed, Thorn thought, but erased. A headless statue stood beside the path, robed stone hands cupped as though holding something that had been taken. Blue mineral traces glowed faintly in the cracks beneath their feet, like something had once flowed through the rock and never quite stopped.
+They turned west, keeping the great hill at their backs.
 
-No camp was visible from where they stood. No voices. No smoke.
+The ruined tower lay somewhere ahead on Tobbs's map — a ridge marked in blue ink, west of the great hill and well away from the waterfall path they had climbed. Thorn led the way with the map folded in his hand. Dave kept glancing at the sky. Nibbles complained that his boots were still damp from the waterfall and that nobody had warned him Ethium would be so large. Derek walked at the centre of the group, calm as ever, and Loki trotted ahead with his nose to the wind.
 
-"Quiet," Derek said.
-
-"Too quiet," Nibbles said, hand on his sword.
-
-Thorn adjusted the strap on his shield. Dave closed his spellbook and stood taller. Loki's ears pricked forward.
-
-The ruined tower waited on the ridge ahead — broken, ancient, and full of the sort of silence that usually meant something was listening.
+Behind them, the castle hill and its blackened ruins sank slowly into the haze. Before them, the tower waited — or so Tobbs's blue mark promised. They had come too far to turn back now.
 
 They set out towards it.
-
-Behind them, the waterfall's roar faded into the high wind. Before them, Ethium's old magic stirred in the stones.

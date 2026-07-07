@@ -43,6 +43,25 @@ Keep the **core prompt** (first paragraph) and **linework constraints** (last pa
 
 ---
 
-## Site note
+## Site display — transparent parchment
 
-Chapter pages apply a light frame and contrast on the website. **Source art should still be pure black ink on white.**
+**Generate on white paper** (models need a light background). **Before publishing**, strip the paper so ink sits on the site's parchment (`#f4eeda`):
+
+```bash
+python3 scripts/process-cover-art.py publish/illustrations/maps/your-map.png
+python3 scripts/process-cover-art.py publish/illustrations/cover/book-cover-ethium-battle.png
+```
+
+The script turns near-white pixels transparent. A backup of the original cover is saved once as `book-cover-ethium-battle-opaque.png`.
+
+**Run only once per file.** Re-processing an already-transparent PNG turns cleared pixels black.
+
+**On the website**, images use `background: transparent` — never a white or off-white box. Chapter plates keep a thin ink frame; cover art and maps are borderless, like the title image.
+
+| Do | Avoid |
+|----|--------|
+| Black ink on **white** in the source file | Grey washes, coloured backgrounds |
+| Run **process-cover-art.py** before `npm run publish` | Shipping opaque white rectangles |
+| Pure linework PNG with alpha | JPEG (no transparency) for ink plates |
+
+Chapter pages apply **grayscale + contrast** in CSS only. Source art stays black ink.

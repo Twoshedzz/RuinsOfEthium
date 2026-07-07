@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Remove light paper from cover art so ink lines sit on the site parchment."""
+"""Remove light paper from ink art so linework sits on the site parchment background.
+
+Use for cover art, maps, chapter plates, portraits — any black-ink-on-white PNG.
+Pass a file path, or run with no args to process the default cover art.
+"""
 
 from __future__ import annotations
 
@@ -37,7 +41,10 @@ def process(path: Path) -> None:
 
     for y in range(height):
         for x in range(width):
-            r, g, b, _ = pixels[x, y]
+            r, g, b, a = pixels[x, y]
+            if a < 16:
+                pixels[x, y] = (0, 0, 0, 0)
+                continue
             lum = luminance(r, g, b)
             alpha = alpha_for_luminance(lum)
             if alpha == 0:

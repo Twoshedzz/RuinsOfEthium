@@ -38,7 +38,24 @@ Classic **Fighting Fantasy gamebook** interiors — *The Warlock of Firetop Moun
 | **One dominant figure (~70% of page)** | Crowded ensemble casts |
 | **Medieval / early D&D** gear | Modern costumes, anime |
 
-The site adds a light **frame and contrast** on chapter pages — art should read well as pure linework before that.
+The site adds a light **frame** on chapter plates and **contrast** in CSS — art should read well as pure linework before that. **Never** display a white box: processed PNGs are transparent so the parchment background shows through (same treatment as the cover and maps).
+
+---
+
+## Site display — transparent parchment
+
+1. **Generate** black ink on white paper (see image recipe).
+2. **Process** before publish — strips the paper, keeps the linework:
+
+```bash
+python3 scripts/process-cover-art.py path/to/your-art.png
+```
+
+3. **File** under `publish/illustrations/` → `npm run publish`.
+
+Cover art and maps are **borderless** on the site. Chapter illustrations keep a thin ink frame; the fill inside is always the site parchment, not white.
+
+See [`reference/fighting-fantasy/image-recipe.md`](reference/fighting-fantasy/image-recipe.md) for the full site-display table.
 
 ---
 
@@ -56,7 +73,7 @@ The site adds a light **frame and contrast** on chapter pages — art should rea
 | **Portraits** | `illustrations/portraits/` | Bust or three-quarter; plain or simple background |
 | **Monsters** | `illustrations/monsters/` | Single creature, clear pose |
 | **Items / loot** | `illustrations/items/` | Object on simple ground or cut-out card layout |
-| **Maps** | `illustrations/maps/` or `world/maps/` | **Hand-drawn canon** preferred |
+| **Maps** | `illustrations/maps/` or `world/maps/` | **Hand-drawn canon** preferred; process with `process-cover-art.py` like cover art |
 
 ---
 
@@ -70,7 +87,7 @@ Drop Fighting Fantasy scans or favourites into **`publish/source/inbox/`** — a
 
 **Cursor:** subject + scene block + image recipe.
 
-**ChatGPT:** same prompt; export PNG → `publish/illustrations/` → `npm run publish`.
+**ChatGPT:** same prompt; export PNG → run `process-cover-art.py` on the file → `publish/illustrations/` → `npm run publish`.
 
 ---
 
