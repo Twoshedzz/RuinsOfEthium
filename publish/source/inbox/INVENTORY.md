@@ -8,7 +8,7 @@ This document explains what your dumped files are, how they fit together, and wh
 
 ## The big picture
 
-You are running **Ruins of Ethium** (working title in Obsidian: **Hellfire**), a family D&D campaign set in **Almanor** (kingdom). **Fallcrest** is a northern frontier town. The novel site is titled **The Ruins of Ethium** and covers the same story.
+You are running **Ruins of Ethium** (working title in Obsidian: **Hellfire**), a family D&D campaign set in **Almenor** (kingdom). **Fallcrest** is a northern frontier town. The novel site is titled **The Ruins of Ethium** and covers the same story.
 
 **Published on the website (chapters 0–2):** Prologue → goblin road → Fallcrest → Blue Moon brawl → Ethium map revealed.
 
@@ -24,7 +24,7 @@ You are running **Ruins of Ethium** (working title in Obsidian: **Hellfire**), a
 
 | File | What it is |
 |------|------------|
-| `Almanor.md` | Country overview — capital **Sunfall**, king, Fallcrest as northern border town |
+| `Almenor.md` | Country overview — capital **Sunfall**, king, Fallcrest as northern border town |
 | `The gang of four.md` | Four allied thief guilds + Axirian mage commission to investigate Ethium |
 | `Garnel Stoneblender.md` | NPC backstory — grandmother **Mala Stoneblender** researched Ethium; Hammers hold her book |
 
@@ -93,7 +93,7 @@ You are running **Ruins of Ethium** (working title in Obsidian: **Hellfire**), a
 |-------|-----------|
 | **Valnaran family** | Tiefling trade racketeers, docks, smuggling — letter signed by Maelis Varn |
 | **Silent Knives** | Assassins, keep uneasy peace between gangs |
-| **Brotherhood** | Original Almanor thieves' guild, many hideouts |
+| **Brotherhood** | Original Almenor thieves' guild, many hideouts |
 | **The Hammers** | Young thugs, direct violence — local Fallcrest cell |
 
 Allied ~4 years. Recently hired by **Axirian agents** (mage) to investigate Ethium reawakening.
@@ -119,7 +119,7 @@ Allied ~4 years. Recently hired by **Axirian agents** (mage) to investigate Ethi
 |-------|----------------|------------|
 | Sergeant | Murgaddin, Murgeddin, Murgadin | Murgaddin |
 | Tobbs | Tobbs, Tobbs Quickfoot, Tobolar Quickfoot | Tobbs |
-| Capital | Sunfall (correct in lore), "great city of Almanor" in ch.2 | Consider fixing ch.2 to Sunfall |
+| Capital | **Sunfall** (capital of Almenor) | Correct in published chapters 2–3 and about page |
 | Garnel | Garnel, Garnel Stoneblender | Not in novel yet |
 | Innkeeper Wisara | Novel: Nentir Inn / Wisara; Wiki: Wisara Osterman owns **Silver Unicorn** | Pick one for canon |
 | Session 1 end | One-pager says "Captain Rook" | Novel uses Murgaddin |
@@ -170,7 +170,7 @@ If you still have these in Obsidian or on disk, copy them into `publish/source/w
 | From inbox | Move to |
 |------------|---------|
 | `Fallcrest information.md` | `world/notes/fallcrest.md` |
-| `Almanor.md`, `The gang of four.md`, `Garnel Stoneblender.md` | `world/notes/` |
+| `Almenor.md`, `The gang of four.md`, `Garnel Stoneblender.md` | `world/notes/` |
 | Session 1–2 one-pagers | `session-plans/` |
 | `session notes.md` | `sessions/session-03/what-happened.md` (merge/edit) |
 | `The party.md` | merge into `characters/pcs.md` |

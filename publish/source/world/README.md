@@ -5,7 +5,7 @@
 | File | Contents |
 |------|----------|
 | [`notes/fallcrest.md`](notes/fallcrest.md) | Full Fallcrest gazetteer + town map |
-| [`notes/almanor.md`](notes/almanor.md) | Kingdom overview |
+| [`notes/almenor.md`](notes/almenor.md) | Kingdom overview |
 | [`notes/gang-of-four.md`](notes/gang-of-four.md) | Criminal guilds |
 | [`notes.md`](notes.md) | General worldbuilding (add here) |
 

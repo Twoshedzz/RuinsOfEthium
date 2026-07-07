@@ -249,7 +249,7 @@ He reveals:
 
 The **Gang of Four**:
 
-- Based in the capital **Almanor**
+- Based in **Sunfall**, capital of Almenor
     
 - Four allied guilds, unstable but coordinated
     

@@ -7,6 +7,7 @@ See **[INVENTORY.md](INVENTORY.md)** for campaign synthesis.
 - [x] Examined — campaign arc through Session 3+ play
 - [x] Willow Starbloom — daughter's character; not in campaign yet
 - [x] `Notes and summary.md` → `sessions/session-03/what-happened.md`
+- [x] **Reference maps filed** (Jul 2026) — Axirian peninsula, continents, Ethium map lineage, Fallcrest variants → `world/maps/`
 - [x] **Maps, portraits, items filed** — see [`../world/maps/MAP-CATALOG.md`](../world/maps/MAP-CATALOG.md)
 - [ ] Copy any remaining ChatGPT attachment images (not in Obsidian export)
 - [x] Write novel chapters 3–5
@@ -19,7 +20,7 @@ See **[INVENTORY.md](INVENTORY.md)** for campaign synthesis.
 | Battle & overland maps | `world/maps/` + `illustrations/maps/` |
 | Portraits, items, lore art | `illustrations/` |
 | Fallcrest gazetteer | `world/notes/fallcrest.md` |
-| Almanor, Gang of Four | `world/notes/` |
+| Almenor, Axirian peninsula, Ethium maps | `world/notes/almenor.md`, `axirian-peninsula.md`, `ethium-maps.md` |
 | Garnel backstory | `characters/garnel-stoneblender.md` |
 | Party backgrounds | `characters/party-backgrounds.md` |
 | Session 1–2 plans | `session-plans/` |

@@ -54,7 +54,7 @@ The dog looked up. The sausage disappeared in one bite.
 
 Thorn sighed. "I suppose you've earned it."
 
-Mara led them through the bustling streets of Lowtown, explaining as they walked that Fallcrest was Almanor's northernmost outpost — the last proper town before the wild mountains and forests took over. Most visitors stayed down here, close to the river, where barges brought trade up from the south and wagons from the west eventually found their way in along the long road over the hills. In the Nentir Vale, she said, almost everything passed through Fallcrest sooner or later — timber from the forests, grain from the farms, goods and gossip from the cities far to the south. When Thorn asked about the ruins, she glanced towards a roofless stone building standing beside a newly built warehouse.
+Mara led them through the bustling streets of Lowtown, explaining as they walked that Fallcrest was Almenor's northernmost outpost — the last proper town before the wild mountains and forests took over. Most visitors stayed down here, close to the river, where barges brought trade up from the south and wagons from the west eventually found their way in along the long road over the hills. In the Nentir Vale, she said, almost everything passed through Fallcrest sooner or later — timber from the forests, grain from the farms, goods and gossip from the cities far to the south. When Thorn asked about the ruins, she glanced towards a roofless stone building standing beside a newly built warehouse.
 
 "The orcs destroyed most of Lowtown a century ago," she said quietly. She rested a hand on one of the old stone walls as they passed. "My grandfather helped rebuild this street."
 

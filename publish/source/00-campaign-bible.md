@@ -55,6 +55,13 @@ Living reference for canon. Update after each session.
 - [ ] Thorn's commissioned axe — collected?
 - [ ] Healing pool powers — Garnel may discover more
 
+## Geography
+
+- **Almenor** — country on the **Axirian peninsula** (see [`world/notes/axirian-peninsula.md`](world/notes/axirian-peninsula.md))
+- **Sunfall** — capital of Almenor; base of the Gang of Four
+- **Fallcrest** — northern frontier town, above the heartland; gateway to Ethium
+- **Ethium** — ruined plateau civilisation north-east of Fallcrest; map lineage in [`world/notes/ethium-maps.md`](world/notes/ethium-maps.md)
+
 ## Key locations
 
 - **North Road** — goblin activity; Mara ambushed here
@@ -63,7 +70,7 @@ Living reference for canon. Update after each session.
 - **Ruined manor** — Hammer hideout outside Fallcrest (orc-war ruin, intact cellars)
 - **Ethium plateau** — cliffs, waterfall access, shrine, ruined tower, distant castle
 - **Ruined tower dungeon** — spiral stairs, Ethium stonework, healing pool
-- **Sunfall** — capital of Almanor; Gang of Four base
+- **Sunfall** — capital of Almenor; Gang of Four base
 - **Ethium** — ancient civilisation; stones reawakening
 
 ## Factions
@@ -88,7 +95,7 @@ Living reference for canon. Update after each session.
 
 ## Naming & spelling
 
-Thorn Axehand, Loki, Derek, Dave, Nibbles McPicklepants, Mara, Tobbs, Sergeant Murgaddin, Nimozaran, Garnel Stoneblender, Mala Stoneblender, Maelis Varn, Fallcrest, Ethium, Almanor, **Sunfall**, Nentir Vale.
+Thorn Axehand, Loki, Derek, Dave, Nibbles McPicklepants, Mara, Tobbs, Sergeant Murgaddin, Nimozaran, Garnel Stoneblender, Mala Stoneblender, Maelis Varn, Fallcrest, Ethium, Almenor, **Sunfall**, Nentir Vale.
 
 ## Session log
 

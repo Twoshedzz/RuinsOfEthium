@@ -3,7 +3,7 @@
 See also:
 
 - [`notes/fallcrest.md`](notes/fallcrest.md)
-- [`notes/almanor.md`](notes/almanor.md)
+- [`notes/almenor.md`](notes/almenor.md)
 - [`notes/gang-of-four.md`](notes/gang-of-four.md)
 - [`maps/MAP-CATALOG.md`](maps/MAP-CATALOG.md)
 

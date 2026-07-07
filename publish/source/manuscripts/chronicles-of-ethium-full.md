@@ -67,7 +67,7 @@ The greatest wizard in Fallcrest. He has not been seen outside his tower for man
 A violent street gang operating around Fallcrest.
 
 ### The Gang of Four
-A powerful criminal organisation based in the great city of Almanor.
+A powerful criminal organisation based in Sunfall, the capital of Almenor.
 
 ---
 
@@ -1036,7 +1036,7 @@ He looked around the table.
 
 "The Hammers are one part of something much larger."
 
-"They answer to one of the criminal gangs from Almanor."
+"They answer to one of the criminal gangs from Almenor."
 
 "The Gang of Four."
 

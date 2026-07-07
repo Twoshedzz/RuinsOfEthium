@@ -6,7 +6,7 @@ summary: "Goblins ambush the companions on the North Road. They rescue Mara, def
 published: true
 ---
 
-The North Road wound its way through the great forests of northern Almanor like a pale ribbon cut through an endless sea of green. Towering oaks and pines crowded close to the track, their branches weaving together high overhead until only shafts of golden afternoon sunlight reached the road below. Moss covered ancient stones beside the path, birds called somewhere in the canopy, and a cool breeze carried the earthy smell of damp leaves and pine needles.
+The North Road wound its way through the great forests of northern Almenor like a pale ribbon cut through an endless sea of green. Towering oaks and pines crowded close to the track, their branches weaving together high overhead until only shafts of golden afternoon sunlight reached the road below. Moss covered ancient stones beside the path, birds called somewhere in the canopy, and a cool breeze carried the earthy smell of damp leaves and pine needles.
 
 It was, Thorn Axehand decided, a very good place for an ambush.
 

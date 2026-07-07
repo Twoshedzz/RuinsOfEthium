@@ -16,7 +16,7 @@ PDFs for later sessions: `inbox/Hellfire/Session notes/` (Session 3 stat blocks,
 ## Corrections / clarifications
 
 - Letter opens **"Rulden,"** — likely the manor mage's name (addressee), not a separate NPC
-- Capital of Almanor is **Sunfall** (not "the city of Almanor")
+- Capital of Almenor is **Sunfall** (not "the city of Almenor")
 - Sergeant spelling: **Murgaddin** (Murgeddin in Fallcrest wiki text)
 
 ## Not in this play log yet

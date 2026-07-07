@@ -1,6 +1,21 @@
 # Map & image catalog
 
-Canonical locations after filing from `inbox/Hellfire/`. Original inbox copies remain as archive.
+Canonical locations after filing from `inbox/`. Original inbox copies remain as archive.
+
+---
+
+## World & regional maps — `publish/source/world/maps/`
+
+| File | Notes |
+|------|-------|
+| `axirian-peninsula.png` | **Regional** — Almenor, Sunfall (★), Fallcrest, Western Axirian Empire, neighbours |
+| `continents-world.png` | Whole-world overview — Wild Lands, Axirian peninsula, islands |
+| `ethium-plateau.jpg` | **Canonical Tobbs/Nimozaran map** — labelled parchment (also on site) |
+| `ethium-plateau-nimozaran-unlabeled.jpg` | Same art before red labels were added |
+| `ethium-plateau-old-handdrawn.jpg` | **Reference only** — ~2006 first-campaign sketch (sites a–j) |
+| `ethium-plateau-old-handdrawn-web.jpg` | Web-sized export of the old sketch |
+
+See [`../notes/ethium-maps.md`](../notes/ethium-maps.md) and [`../notes/axirian-peninsula.md`](../notes/axirian-peninsula.md).
 
 ---
 
@@ -8,9 +23,13 @@ Canonical locations after filing from `inbox/Hellfire/`. Original inbox copies r
 
 | File | Story beat |
 |------|------------|
-| `fallcrest-town.png` | Fallcrest locations 1–29 · Ch. 2 |
+| `fallcrest-town.png` | Fallcrest locations 1–29 · Ch. 2 (canonical numbered plan) |
+| `fallcrest-town-numbered.jpg` | Same plan — JPG export from inbox |
+| `fallcrest-town-numbered.png` | Same plan — PNG export |
+| `fallcrest-town-alt.jpg` | Alternate Fallcrest art |
+| `fallcrest-terrain-sketchup.jpg` | 3D terrain overview (D&D 4e Fallcrest reference) |
 | `fallcrest-to-ethium.png` | Overland journey · Ch. 4 |
-| `ethium-plateau.jpg` | Tobbs's Ethium map · Ch. 2+ |
+| `ethium-plateau.jpg` | Tobbs's Ethium map · Ch. 2+ (Nimozaran labelled parchment) |
 | `goblin-cave.png` | Session 1 dungeon · Ch. 1 |
 | `goblin-cave-alt.jpeg` | Alternate goblin cave layout |
 | `waterfall-climb.jpg` | Waterfall fight · Ch. 5 |
@@ -98,7 +117,7 @@ Synced to `public/illustrations/` on build (includes subfolders).
 | File | From |
 |------|------|
 | `world/notes/fallcrest.md` | `inbox/Fallcrest/Fallcrest information.md` |
-| `world/notes/almanor.md` | `inbox/Almanor.md` |
+| `world/notes/almenor.md` | `inbox/Almenor.md` |
 | `world/notes/gang-of-four.md` | `inbox/The gang of four.md` |
 | `characters/garnel-stoneblender.md` | `inbox/Garnel Stoneblender.md` |
 | `characters/party-backgrounds.md` | `inbox/Hellfire/The party.md` |

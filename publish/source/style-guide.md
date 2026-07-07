@@ -28,7 +28,7 @@ When asking Cursor to write: *"Follow `publish/source/style-guide.md` exactly."*
 
 ### Good — travel (slower, novel-like)
 
-> The North Road wound its way through the great forests of northern Almanor like a pale ribbon cut through an endless sea of green. Towering oaks and pines crowded close to the track, their branches weaving together high overhead until only shafts of golden afternoon sunlight reached the road below.
+> The North Road wound its way through the great forests of northern Almenor like a pale ribbon cut through an endless sea of green. Towering oaks and pines crowded close to the track, their branches weaving together high overhead until only shafts of golden afternoon sunlight reached the road below.
 
 ### Good — tension (quicker, but not fragmentary)
 
