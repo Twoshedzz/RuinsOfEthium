@@ -1,28 +1,40 @@
 # Publish folder
 
-Drop session content here, then sync it into the site.
+**ChatGPT** → prep & handouts at the table. **This folder** → the story on the website.
 
-## Folders
+Full workflow: [`source/WORKFLOW.md`](source/WORKFLOW.md)
 
-| Folder | Put here |
-|--------|----------|
-| [`chapters/`](chapters/) | Chapter markdown files (`.md`) |
-| [`illustrations/`](illustrations/) | Images referenced in chapters (`.png`, `.jpg`, `.svg`) |
+## Two areas
 
-Copy [`chapters/_template.md`](chapters/_template.md) when starting a new chapter. Use a numeric prefix in the filename, e.g. `02-the-goblin-cave.md`.
+| Folder | Purpose |
+|--------|---------|
+| [`source/`](source/) | **Research** — session notes, maps, PCs, drafts, ChatGPT exports, **unsorted inbox** |
+| [`chapters/`](chapters/) | **Published prose** — finished chapters that go on the site |
+| [`illustrations/`](illustrations/) | Artwork for chapters |
 
-## Workflow
+The site only syncs from `chapters/` and `illustrations/`. Everything in `source/` is for you and the Cursor agent.
 
-1. Write your chapter in `chapters/`
-2. Add any artwork to `illustrations/`
-3. Reference images in markdown as `/illustrations/your-file.png`
-4. Set `published: true` in the chapter frontmatter when ready
-5. Sync into the site:
+## Quick workflow
 
-   ```bash
-   npm run publish
-   ```
+### After a D&D session
 
-6. Preview with `npm run dev`, then commit and push — Netlify runs the same sync before each build
+1. Drop unsorted files in [`source/inbox/`](source/inbox/) if needed
+2. Copy [`source/sessions/_template/`](source/sessions/_template/) → `source/sessions/session-03/`
+2. Fill in `what-happened.md` while it's fresh
+3. Paste any ChatGPT bits into [`source/chatgpt-exports/fragments/`](source/chatgpt-exports/fragments/) — partial copies are fine
+4. Ask Cursor to write the chapter using `source/style-guide.md`
+5. Put the finished chapter in `chapters/` with frontmatter
+6. Run `npm run publish` and push
 
-Files here are the source you edit. The sync step copies them into `src/content/chapters/` and `public/illustrations/` for Astro.
+### Refining an existing draft
+
+Put rough chapters in [`source/manuscripts/`](source/manuscripts/) and ask Cursor to refine them against the style guide.
+
+## Site sync
+
+```bash
+npm run publish   # copies chapters/ + illustrations/ into the Astro site
+npm run dev       # sync + local preview
+```
+
+See [`source/README.md`](source/README.md) for the full authoring guide.

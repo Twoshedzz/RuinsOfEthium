@@ -19,3 +19,10 @@ pnpm-debug.log*
 
 # Astro
 .astro/
+
+# DM inbox — exclude huge non-campaign PDFs (keep Ethium session packs)
+publish/source/inbox/**/PHB.pdf
+publish/source/inbox/Gaming/Dungeon*.pdf
+publish/source/inbox/Gaming/Dungeons*.pdf
+publish/source/inbox/Gaming/T1-*.pdf
+publish/source/inbox/Gaming/tsr*.pdf

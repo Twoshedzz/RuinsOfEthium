@@ -38,15 +38,28 @@ async function syncChapters() {
   return copied;
 }
 
-async function syncIllustrations() {
-  await ensureDir(illustrationSources);
-  await ensureDir(illustrationTargets);
+async function syncIllustrationsDir(sourceDir, targetDir, relativePath = '') {
+  await ensureDir(sourceDir);
+  await ensureDir(targetDir);
 
-  const entries = await readdir(illustrationSources, { withFileTypes: true });
+  const entries = await readdir(sourceDir, { withFileTypes: true });
   let copied = 0;
 
   for (const entry of entries) {
-    if (!entry.isFile() || entry.name.startsWith('.')) {
+    if (entry.name.startsWith('.')) {
+      continue;
+    }
+
+    const from = path.join(sourceDir, entry.name);
+    const rel = relativePath ? path.join(relativePath, entry.name) : entry.name;
+    const to = path.join(targetDir, rel);
+
+    if (entry.isDirectory()) {
+      copied += await syncIllustrationsDir(from, targetDir, rel);
+      continue;
+    }
+
+    if (!entry.isFile()) {
       continue;
     }
 
@@ -55,14 +68,17 @@ async function syncIllustrations() {
       continue;
     }
 
-    const from = path.join(illustrationSources, entry.name);
-    const to = path.join(illustrationTargets, entry.name);
+    await mkdir(path.dirname(to), { recursive: true });
     await cp(from, to);
-    console.log(`image    ${entry.name}`);
+    console.log(`image    ${rel}`);
     copied += 1;
   }
 
   return copied;
+}
+
+async function syncIllustrations() {
+  return syncIllustrationsDir(illustrationSources, illustrationTargets);
 }
 
 async function main() {

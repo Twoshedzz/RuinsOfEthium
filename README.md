@@ -2,6 +2,12 @@
 
 A static novel site built with [Astro](https://astro.build), styled after classic Fighting Fantasy books — parchment pages, serif type, and black-and-white illustration plates.
 
+**What this is:** the published story of a family D&D campaign — for the boys, parents, and friends to read after each session.
+
+**How it fits your tools:** use **ChatGPT** to plan sessions and make handouts; use **this repo** (with Cursor) to turn what actually happened at the table into consistent novel chapters on Netlify.
+
+See **[`publish/source/WORKFLOW.md`](publish/source/WORKFLOW.md)** for the full before / during / after loop.
+
 Each chapter is a markdown file. Push to GitHub and [Netlify](https://www.netlify.com) rebuilds the site automatically.
 
 ## Local development
@@ -21,7 +27,7 @@ Open [http://localhost:4321](http://localhost:4321).
 **Drop content in [`publish/`](publish/)** — that is the folder to edit. Subfolders:
 
 - `publish/chapters/` — chapter markdown
-- `publish/illustrations/` — artwork (PNG, JPG, SVG)
+- `publish/illustrations/` — artwork (PNG, JPG, SVG) — supports subfolders (`portraits/`, `maps/`, `items/`, etc.)
 
 Run `npm run publish` to copy files into the site (this also runs automatically before `npm run dev` and `npm run build`).
 
@@ -72,14 +78,21 @@ Run `npm run publish` to copy files into the site (this also runs automatically 
 ## Project structure
 
 ```
-publish/chapters/         # Drop chapter markdown here (edit this)
-publish/illustrations/    # Drop artwork here (edit this)
+publish/source/           # Session notes, maps, PCs, drafts, ChatGPT exports
+publish/chapters/         # Finished chapter markdown (goes on the site)
+publish/illustrations/    # Artwork (PNG, JPG, SVG)
 public/illustrations/     # Synced artwork (auto-updated)
 src/content/chapters/     # Synced chapters (auto-updated)
 src/content/config.ts     # Frontmatter schema
 src/pages/                # Site routes
 src/styles/global.css     # Fighting Fantasy theme
 ```
+
+## Writing chapters with Cursor
+
+Source material lives in [`publish/source/`](publish/source/) — session notes, maps, PC list, style guide, and manuscript drafts. After each game, fill in `publish/source/sessions/session-XX/` and ask Cursor to draft the next chapter using `publish/source/style-guide.md`.
+
+See [`publish/source/README.md`](publish/source/README.md) for the full workflow.
 
 ## Deploy to Netlify
 
