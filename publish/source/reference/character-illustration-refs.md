@@ -13,7 +13,7 @@ When generating in Cursor, pass paths via `reference_image_paths`. Prefer **port
 | **Thorn Axehand** | Human fighter | `publish/illustrations/portraits/thorn-axehand.png` | `publish/illustrations/scenes/prologue-party-north-road-opaque.png` |
 | **Derek** | Dwarf cleric | `publish/illustrations/portraits/derek.jpg` | `publish/illustrations/scenes/prologue-party-north-road-opaque.png` |
 | **Dave** | Copper dragonborn wizard (6′7″, tallest) | `publish/illustrations/portraits/dave-wizard.png` | `publish/illustrations/scenes/ch01-goblin-cave-dice-fight-opaque.png` (tall robed dragonborn) |
-| **Nibbles McPicklepants** | Small dragonborn rogue | `publish/illustrations/portraits/nibbles.jpg` | `publish/illustrations/scenes/ch01-goblin-cave-dice-fight-opaque.png` (small armoured dragonborn) |
+| **Nibbles McPicklepants** | Dragonborn rogue (mid-height) | `publish/illustrations/portraits/nibbles.jpg` | `publish/illustrations/scenes/ch01-goblin-cave-dice-fight-opaque.png` (armoured dragonborn) |
 | **Loki** | Thorn's scruffy guard dog | — | `publish/illustrations/scenes/prologue-party-north-road-opaque.png` |
 
 ### Visual notes (party)
@@ -21,8 +21,10 @@ When generating in Cursor, pass paths via `reference_image_paths`. Prefer **port
 - **Thorn:** muscular human, short dark hair, fur-trimmed leather, double-headed battleaxe.
 - **Derek:** stout dwarf, bald, round spectacles, long braided beard, plate armour, round shield with sunburst, warhammer.
 - **Dave:** copper-scaled dragonborn, exceptionally tall, ornate wizard robes, spellbook. Always tallest in frame.
-- **Nibbles:** much smaller dragonborn than Dave, leather armour, cloak, dagger. Red scales in colour ref — render as ink texture.
+- **Nibbles:** dragonborn rogue, leather armour, cloak, dagger. Red scales in colour ref — render as ink texture. **Height:** between Derek and Thorn — taller than Derek (dwarf), shorter than Thorn. Not tiny.
 - **Loki:** wolf-like scruffy dog, not a golden retriever.
+
+**Party height order (tallest → shortest):** Dave (by far the tallest) › Thorn › Nibbles › Derek (dwarf, shortest).
 
 ---
 

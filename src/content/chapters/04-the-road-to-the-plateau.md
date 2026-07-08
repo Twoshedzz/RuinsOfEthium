@@ -163,6 +163,10 @@ Nobody spoke.
 
 The dragon banked eastward. Something slipped from its jaws — a dark shape, small against the sky — and tumbled down towards the broken hills below.
 
+![The five companions stand together among the ruins of the Ethium plateau, looking up in serious concern at a distant black dragon banking across the evening sky as the torso of a goblin tumbles down from its jaws](/illustrations/scenes/ch04-dragon-overhead.png)
+
+*High above the plateau — the dragon banked away, and something small and grim fell from its jaws.*
+
 "Was that—" Dave began.
 
 Nobody wanted to finish the sentence.
