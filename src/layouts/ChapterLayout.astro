@@ -5,6 +5,8 @@ import SiteHeader from '../components/SiteHeader.astro';
 import ChapterIllustration from '../components/ChapterIllustration.astro';
 import ChapterNav from '../components/ChapterNav.astro';
 import ChapterBodyLightbox from '../components/ChapterBodyLightbox.astro';
+import ChapterAudioPlayer from '../components/ChapterAudioPlayer.astro';
+import { getChapterAudio } from '../lib/chapter-audio';
 
 interface Props {
   chapter: CollectionEntry<'chapters'>;
@@ -15,6 +17,7 @@ interface Props {
 const { chapter, prev, next } = Astro.props;
 const { Content } = await chapter.render();
 const { title, chapter: chapterNumber, summary, coverIllustration } = chapter.data;
+const chapterAudio = getChapterAudio(chapter.slug);
 ---
 
 <BaseLayout title={title} description={summary}>
@@ -28,6 +31,10 @@ const { title, chapter: chapterNumber, summary, coverIllustration } = chapter.da
       <h1 class="chapter-header__title">{title}</h1>
       {summary && <p class="chapter-header__summary">{summary}</p>}
     </header>
+
+    {chapterAudio && chapterAudio.parts.length > 0 && (
+      <ChapterAudioPlayer slug={chapter.slug} parts={chapterAudio.parts} title={title} />
+    )}
 
     {coverIllustration && (
       <ChapterIllustration

@@ -73,6 +73,21 @@ Run `npm run publish` to copy files into the site (this also runs automatically 
 
 6. Commit and push. Netlify rebuilds with the new chapter.
 
+## Listen aloud (OpenAI voice)
+
+Chapters can include a **Listen to this chapter** player powered by [OpenAI Text-to-Speech](https://platform.openai.com/docs/guides/text-to-speech). Audio is generated on your machine and committed to the repo — visitors play static MP3 files, so no API key is needed on Netlify.
+
+1. Copy `.env.example` to `.env` and add your `OPENAI_API_KEY`.
+2. Preview chunking (no API calls): `npm run audio:dry-run`
+3. Generate narration: `npm run audio` (all chapters) or `npm run audio -- --slug 00-prologue`
+4. Commit the new files under `public/audio/` and push.
+
+Defaults: `gpt-4o-mini-tts` with voice `fable`, styled as a warm British fantasy storyteller. Override with `TTS_MODEL`, `TTS_VOICE`, or `TTS_INSTRUCTIONS` in `.env`.
+
+Re-running `npm run audio` skips chapters whose prose has not changed. Use `npm run audio -- --force` to regenerate anyway.
+
+Rough cost: about **$1–2 one-off** for all current chapters, then pennies per new chapter.
+
 ## Project structure
 
 ```
@@ -108,6 +123,8 @@ These settings are also defined in [`netlify.toml`](netlify.toml). The canonical
 | Command | Action |
 |---------|--------|
 | `npm run publish` | Copy `publish/` content into the site |
+| `npm run audio` | Generate chapter narration MP3s via OpenAI TTS |
+| `npm run audio:dry-run` | Preview TTS chunking without calling the API |
 | `npm run dev` | Sync + start local dev server |
 | `npm run build` | Sync + build static site to `dist/` |
 | `npm run preview` | Preview the production build locally |

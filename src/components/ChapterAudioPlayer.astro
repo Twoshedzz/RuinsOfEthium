@@ -1,0 +1,199 @@
+---
+interface Props {
+  slug: string;
+  parts: string[];
+  title: string;
+}
+
+const { slug, parts, title } = Astro.props;
+const playerId = `chapter-audio-${slug}`;
+---
+
+<div class="chapter-audio" data-chapter-audio={playerId}>
+  <p class="chapter-audio__label">Listen to this chapter</p>
+
+  <div class="chapter-audio__controls">
+    <button
+      type="button"
+      class="chapter-audio__play"
+      data-audio-play
+      aria-label={`Play narration for ${title}`}
+    >
+      Play
+    </button>
+
+    <div class="chapter-audio__progress-wrap">
+      <input
+        type="range"
+        class="chapter-audio__progress"
+        data-audio-progress
+        min="0"
+        max="1000"
+        value="0"
+        step="1"
+        aria-label="Narration progress"
+      />
+      <div class="chapter-audio__times">
+        <span data-audio-elapsed>0:00</span>
+        <span data-audio-part></span>
+        <span data-audio-duration>0:00</span>
+      </div>
+    </div>
+  </div>
+
+  <audio data-audio-element preload="metadata"></audio>
+</div>
+
+<script define:vars={{ parts, playerId }}>
+  const root = document.querySelector(`[data-chapter-audio="${playerId}"]`);
+  if (!root || parts.length === 0) {
+    root?.remove();
+  } else {
+    const audio = root.querySelector('[data-audio-element]');
+    const playButton = root.querySelector('[data-audio-play]');
+    const progress = root.querySelector('[data-audio-progress]');
+    const elapsed = root.querySelector('[data-audio-elapsed]');
+    const duration = root.querySelector('[data-audio-duration]');
+    const partLabel = root.querySelector('[data-audio-part]');
+
+    let partIndex = 0;
+    let partOffsets = [0];
+    let totalDuration = 0;
+    let seeking = false;
+
+    function formatTime(seconds) {
+      if (!Number.isFinite(seconds) || seconds < 0) return '0:00';
+      const whole = Math.floor(seconds);
+      const minutes = Math.floor(whole / 60);
+      const secs = String(whole % 60).padStart(2, '0');
+      return `${minutes}:${secs}`;
+    }
+
+    function updatePartLabel() {
+      if (parts.length > 1) {
+        partLabel.textContent = `Part ${partIndex + 1} of ${parts.length}`;
+      } else {
+        partLabel.textContent = '';
+      }
+    }
+
+    function globalTime() {
+      return partOffsets[partIndex] + audio.currentTime;
+    }
+
+    function updateProgressUi() {
+      if (totalDuration <= 0) return;
+      const value = Math.round((globalTime() / totalDuration) * 1000);
+      progress.value = String(value);
+      elapsed.textContent = formatTime(globalTime());
+      duration.textContent = formatTime(totalDuration);
+      updatePartLabel();
+    }
+
+    function setPlayState(playing) {
+      playButton.textContent = playing ? 'Pause' : 'Play';
+      playButton.setAttribute('aria-pressed', playing ? 'true' : 'false');
+    }
+
+    function loadPart(index) {
+      partIndex = index;
+      audio.src = parts[index];
+      audio.load();
+      updatePartLabel();
+    }
+
+    function seekToGlobalTime(targetSeconds) {
+      let index = 0;
+      while (index < partOffsets.length - 1 && targetSeconds >= partOffsets[index + 1]) {
+        index += 1;
+      }
+
+      const wasPlaying = !audio.paused;
+      loadPart(index);
+      audio.currentTime = Math.max(0, targetSeconds - partOffsets[index]);
+
+      if (wasPlaying) {
+        audio.play().catch(() => setPlayState(false));
+      }
+
+      updateProgressUi();
+    }
+
+    async function preloadDurations() {
+      const partDurations = await Promise.all(
+        parts.map(
+          (src) =>
+            new Promise((resolve) => {
+              const probe = new Audio();
+              probe.preload = 'metadata';
+              probe.src = src;
+              const done = () =>
+                resolve(Number.isFinite(probe.duration) ? probe.duration : 0);
+              probe.addEventListener('loadedmetadata', done, { once: true });
+              probe.addEventListener('error', () => resolve(0), { once: true });
+            }),
+        ),
+      );
+
+      partOffsets = [0];
+      for (let index = 1; index < partDurations.length; index += 1) {
+        partOffsets[index] = partOffsets[index - 1] + partDurations[index - 1];
+      }
+
+      totalDuration = partDurations.reduce((sum, value) => sum + value, 0);
+      duration.textContent = formatTime(totalDuration);
+    }
+
+    playButton.addEventListener('click', async () => {
+      if (audio.paused) {
+        if (!audio.src) {
+          loadPart(0);
+        }
+        try {
+          await audio.play();
+          setPlayState(true);
+        } catch {
+          setPlayState(false);
+        }
+      } else {
+        audio.pause();
+        setPlayState(false);
+      }
+    });
+
+    audio.addEventListener('play', () => setPlayState(true));
+    audio.addEventListener('pause', () => setPlayState(false));
+
+    audio.addEventListener('timeupdate', () => {
+      if (!seeking) {
+        updateProgressUi();
+      }
+    });
+
+    audio.addEventListener('ended', () => {
+      if (partIndex < parts.length - 1) {
+        loadPart(partIndex + 1);
+        audio.play().catch(() => setPlayState(false));
+      } else {
+        setPlayState(false);
+        progress.value = '1000';
+        elapsed.textContent = formatTime(totalDuration);
+      }
+    });
+
+    progress.addEventListener('input', () => {
+      seeking = true;
+      const target = (Number(progress.value) / 1000) * totalDuration;
+      elapsed.textContent = formatTime(target);
+    });
+
+    progress.addEventListener('change', () => {
+      const target = (Number(progress.value) / 1000) * totalDuration;
+      seekToGlobalTime(target);
+      seeking = false;
+    });
+
+    loadPart(0);
+    preloadDurations();
+  }
+</script>
