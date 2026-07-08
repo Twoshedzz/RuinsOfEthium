@@ -10,33 +10,48 @@ const playerId = `chapter-audio-${slug}`;
 ---
 
 <div class="chapter-audio" data-chapter-audio={playerId}>
-  <p class="chapter-audio__label">Listen to this chapter</p>
+  <button
+    type="button"
+    class="chapter-audio__toggle"
+    data-audio-toggle
+    aria-expanded="false"
+    aria-controls={`${playerId}-panel`}
+  >
+    Listen to this chapter
+  </button>
 
-  <div class="chapter-audio__controls">
-    <button
-      type="button"
-      class="chapter-audio__play"
-      data-audio-play
-      aria-label={`Play narration for ${title}`}
-    >
-      Play
-    </button>
+  <div
+    class="chapter-audio__panel"
+    id={`${playerId}-panel`}
+    data-audio-panel
+    hidden
+  >
+    <div class="chapter-audio__controls">
+      <button
+        type="button"
+        class="chapter-audio__play"
+        data-audio-play
+        aria-label={`Play narration for ${title}`}
+      >
+        Play
+      </button>
 
-    <div class="chapter-audio__progress-wrap">
-      <input
-        type="range"
-        class="chapter-audio__progress"
-        data-audio-progress
-        min="0"
-        max="1000"
-        value="0"
-        step="1"
-        aria-label="Narration progress"
-      />
-      <div class="chapter-audio__times">
-        <span data-audio-elapsed>0:00</span>
-        <span data-audio-part></span>
-        <span data-audio-duration>0:00</span>
+      <div class="chapter-audio__progress-wrap">
+        <input
+          type="range"
+          class="chapter-audio__progress"
+          data-audio-progress
+          min="0"
+          max="1000"
+          value="0"
+          step="1"
+          aria-label="Narration progress"
+        />
+        <div class="chapter-audio__times">
+          <span data-audio-elapsed>0:00</span>
+          <span data-audio-part></span>
+          <span data-audio-duration>0:00</span>
+        </div>
       </div>
     </div>
   </div>
@@ -50,6 +65,8 @@ const playerId = `chapter-audio-${slug}`;
     root?.remove();
   } else {
     const audio = root.querySelector('[data-audio-element]');
+    const toggleButton = root.querySelector('[data-audio-toggle]');
+    const panel = root.querySelector('[data-audio-panel]');
     const playButton = root.querySelector('[data-audio-play]');
     const progress = root.querySelector('[data-audio-progress]');
     const elapsed = root.querySelector('[data-audio-elapsed]');
@@ -60,6 +77,7 @@ const playerId = `chapter-audio-${slug}`;
     let partOffsets = [0];
     let totalDuration = 0;
     let seeking = false;
+    let durationsLoaded = false;
 
     function formatTime(seconds) {
       if (!Number.isFinite(seconds) || seconds < 0) return '0:00';
@@ -120,6 +138,9 @@ const playerId = `chapter-audio-${slug}`;
     }
 
     async function preloadDurations() {
+      if (durationsLoaded) return;
+      durationsLoaded = true;
+
       const partDurations = await Promise.all(
         parts.map(
           (src) =>
@@ -143,6 +164,30 @@ const playerId = `chapter-audio-${slug}`;
       totalDuration = partDurations.reduce((sum, value) => sum + value, 0);
       duration.textContent = formatTime(totalDuration);
     }
+
+    function openPanel() {
+      panel.hidden = false;
+      toggleButton.setAttribute('aria-expanded', 'true');
+      root.classList.add('is-open');
+      if (!audio.src) {
+        loadPart(0);
+      }
+      preloadDurations();
+    }
+
+    function closePanel() {
+      panel.hidden = true;
+      toggleButton.setAttribute('aria-expanded', 'false');
+      root.classList.remove('is-open');
+    }
+
+    toggleButton.addEventListener('click', () => {
+      if (panel.hidden) {
+        openPanel();
+      } else {
+        closePanel();
+      }
+    });
 
     playButton.addEventListener('click', async () => {
       if (audio.paused) {
@@ -192,8 +237,5 @@ const playerId = `chapter-audio-${slug}`;
       seekToGlobalTime(target);
       seeking = false;
     });
-
-    loadPart(0);
-    preloadDurations();
   }
 </script>

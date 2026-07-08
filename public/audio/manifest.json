@@ -2,5 +2,27 @@
   "version": 1,
   "model": "gpt-4o-mini-tts",
   "voice": "fable",
-  "chapters": {}
+  "chapters": {
+    "00-prologue": {
+      "parts": [
+        "/audio/chapters/00-prologue/part-00.mp3"
+      ],
+      "contentHash": "59a27dd4eefefb8b",
+      "generatedAt": "2026-07-08T20:04:28.072Z"
+    },
+    "01-the-road-to-fallcrest": {
+      "parts": [
+        "/audio/chapters/01-the-road-to-fallcrest/part-00.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-01.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-02.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-03.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-04.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-05.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-06.mp3",
+        "/audio/chapters/01-the-road-to-fallcrest/part-07.mp3"
+      ],
+      "contentHash": "ec2c9dc541762fad",
+      "generatedAt": "2026-07-08T20:12:20.827Z"
+    }
+  }
 }
