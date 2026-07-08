@@ -10,7 +10,7 @@ When generating in Cursor, pass paths via `reference_image_paths`. Prefer **port
 
 | Character | Role | Primary reference | Ink scene reference (costume / group) |
 |-----------|------|-------------------|--------------------------------------|
-| **Thorn Axehand** | Human fighter | `publish/illustrations/portraits/thorn-axehand.png` | `publish/illustrations/scenes/prologue-party-north-road-opaque.png` |
+| **Thorn Axehand** | Half-orc fighter (blue-grey skin) | `publish/illustrations/portraits/thorn-axehand.png` | `publish/illustrations/scenes/prologue-party-north-road-opaque.png` |
 | **Derek** | Dwarf cleric | `publish/illustrations/portraits/derek.jpg` | `publish/illustrations/scenes/prologue-party-north-road-opaque.png` |
 | **Dave** | Copper dragonborn wizard (6′7″, tallest) | `publish/illustrations/portraits/dave-wizard.png` | `publish/illustrations/scenes/ch01-goblin-cave-dice-fight-opaque.png` (tall robed dragonborn) |
 | **Nibbles McPicklepants** | Dragonborn rogue (mid-height) | `publish/illustrations/portraits/nibbles.jpg` | `publish/illustrations/scenes/ch01-goblin-cave-dice-fight-opaque.png` (armoured dragonborn) |
@@ -18,7 +18,7 @@ When generating in Cursor, pass paths via `reference_image_paths`. Prefer **port
 
 ### Visual notes (party)
 
-- **Thorn:** muscular human, short dark hair, fur-trimmed leather. **Loadout:** one-handed battle axe **and** the round Fallcrest shield (given to him by Mara) — axe in one hand, shield in the other. Rendered this way on the book cover. Not a two-handed/double-headed axe.
+- **Thorn:** muscular **half-orc with blue-grey skin** and small orcish lower tusks, short dark hair, fur-trimmed leather. **Loadout:** one-handed battle axe **and** the round Fallcrest shield (given to him by Mara) — axe in one hand, shield in the other. Rendered this way on the colour book cover. Not a two-handed/double-headed axe. (Note: earlier ink plates rendered him as human — treat blue-skinned half-orc as canonical going forward.)
 - **Derek:** stout dwarf, bald, round spectacles, long braided beard, plate armour, round shield with sunburst, warhammer.
 - **Dave:** copper-scaled dragonborn, exceptionally tall, ornate wizard robes, spellbook. Always tallest in frame.
 - **Nibbles:** dragonborn rogue, leather armour, cloak, dagger. Red scales in colour ref — render as ink texture. **Height:** between Derek and Thorn — taller than Derek (dwarf), shorter than Thorn. Not tiny.

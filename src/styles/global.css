@@ -215,7 +215,6 @@ a:hover {
   outline: none;
   background: transparent;
   box-shadow: none;
-  filter: grayscale(100%) contrast(1.12);
 }
 
 .cover__overlay {
