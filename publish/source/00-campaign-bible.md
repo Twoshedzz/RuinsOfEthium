@@ -55,6 +55,10 @@ Living reference for canon. Update after each session.
 - [ ] Thorn's commissioned axe — collected?
 - [ ] Healing pool powers — Garnel may discover more
 
+### Secret (DM only — emerging theme)
+
+Mountain **water feeding Ethium has changed**. A **great demon** is coming to the mountains; **residual magic on the water** is what has **stirred the Ethium Stones**. Not for published prose until revealed in play. See [`world/notes/secret-demon-and-the-water.md`](world/notes/secret-demon-and-the-water.md).
+
 ## Geography
 
 - **Almenor** — country on the **Axirian peninsula** (see [`world/notes/axirian-peninsula.md`](world/notes/axirian-peninsula.md))

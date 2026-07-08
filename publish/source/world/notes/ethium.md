@@ -18,4 +18,8 @@ The **whole plateau** is Ethium — not a settlement on the high ground, but a *
 
 The cliff-crowned hill held the **royal seat**. Save that for when lore, maps, or Garnel’s grandmother’s research pays off.
 
+## DM note — secret (do not publish yet)
+
+**Emerging theme:** mountain water feeding Ethium has changed; a **great demon** is coming to those mountains; **residual magic on the water** is stirring the Ethium Stones. Full detail: [`secret-demon-and-the-water.md`](secret-demon-and-the-water.md).
+
 Related: [`ethium-stonework.md`](ethium-stonework.md) · [`ethium-maps.md`](ethium-maps.md) · plateau map `/illustrations/maps/ethium-plateau.jpg`
