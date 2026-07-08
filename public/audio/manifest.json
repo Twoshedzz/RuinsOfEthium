@@ -38,6 +38,39 @@
       ],
       "contentHash": "38947b5707f3180f",
       "generatedAt": "2026-07-08T20:27:05.251Z"
+    },
+    "03-the-old-manor": {
+      "parts": [
+        "/audio/chapters/03-the-old-manor/part-00.mp3",
+        "/audio/chapters/03-the-old-manor/part-01.mp3",
+        "/audio/chapters/03-the-old-manor/part-02.mp3",
+        "/audio/chapters/03-the-old-manor/part-03.mp3"
+      ],
+      "contentHash": "cceb27dc7564b044",
+      "generatedAt": "2026-07-08T20:33:26.465Z"
+    },
+    "04-the-road-to-the-plateau": {
+      "parts": [
+        "/audio/chapters/04-the-road-to-the-plateau/part-00.mp3",
+        "/audio/chapters/04-the-road-to-the-plateau/part-01.mp3",
+        "/audio/chapters/04-the-road-to-the-plateau/part-02.mp3",
+        "/audio/chapters/04-the-road-to-the-plateau/part-03.mp3",
+        "/audio/chapters/04-the-road-to-the-plateau/part-04.mp3"
+      ],
+      "contentHash": "8e97a69a6de7ac5e",
+      "generatedAt": "2026-07-08T20:35:37.115Z"
+    },
+    "05-the-ruined-tower": {
+      "parts": [
+        "/audio/chapters/05-the-ruined-tower/part-00.mp3",
+        "/audio/chapters/05-the-ruined-tower/part-01.mp3",
+        "/audio/chapters/05-the-ruined-tower/part-02.mp3",
+        "/audio/chapters/05-the-ruined-tower/part-03.mp3",
+        "/audio/chapters/05-the-ruined-tower/part-04.mp3",
+        "/audio/chapters/05-the-ruined-tower/part-05.mp3"
+      ],
+      "contentHash": "7b396b77b69382e1",
+      "generatedAt": "2026-07-08T20:38:17.411Z"
     }
   }
 }
