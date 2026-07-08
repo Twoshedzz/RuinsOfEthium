@@ -23,6 +23,21 @@
       ],
       "contentHash": "ec2c9dc541762fad",
       "generatedAt": "2026-07-08T20:12:20.827Z"
+    },
+    "02-the-blue-moon-alehouse": {
+      "parts": [
+        "/audio/chapters/02-the-blue-moon-alehouse/part-00.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-01.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-02.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-03.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-04.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-05.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-06.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-07.mp3",
+        "/audio/chapters/02-the-blue-moon-alehouse/part-08.mp3"
+      ],
+      "contentHash": "38947b5707f3180f",
+      "generatedAt": "2026-07-08T20:27:05.251Z"
     }
   }
 }
