@@ -18,7 +18,7 @@ When generating in Cursor, pass paths via `reference_image_paths`. Prefer **port
 
 ### Visual notes (party)
 
-- **Thorn:** muscular human, short dark hair, fur-trimmed leather, double-headed battleaxe.
+- **Thorn:** muscular human, short dark hair, fur-trimmed leather. **Loadout:** one-handed battle axe **and** the round Fallcrest shield (given to him by Mara) — axe in one hand, shield in the other. Rendered this way on the book cover. Not a two-handed/double-headed axe.
 - **Derek:** stout dwarf, bald, round spectacles, long braided beard, plate armour, round shield with sunburst, warhammer.
 - **Dave:** copper-scaled dragonborn, exceptionally tall, ornate wizard robes, spellbook. Always tallest in frame.
 - **Nibbles:** dragonborn rogue, leather armour, cloak, dagger. Red scales in colour ref — render as ink texture. **Height:** between Derek and Thorn — taller than Derek (dwarf), shorter than Thorn. Not tiny.

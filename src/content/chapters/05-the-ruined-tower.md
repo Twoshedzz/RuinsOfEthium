@@ -97,6 +97,8 @@ He wiped his blade and fished the glinting object from the muck: a hand axe, fin
 
 The passage opened into a chamber walled in pale stone, every block carved with runes — lines, curves and old Ethium symbols crawling up the walls and across the floor, dormant and colourless. Papers, books and copied diagrams lay scattered everywhere, kicked aside and trampled: Garnel's notes, his grandmother's scraps, charcoal sketches of the floor. A large orc in battered armour loomed over the kneeling gnome, one meaty hand twisted in his collar. Two Hammer thugs flanked the door. The gnome's eyes were wide behind round spectacles, a stylus still clutched in one shaking hand as he tried to read the lines at his feet.
 
+![View from the chamber doorway: a broad, square, rune-carved room with double doors ajar to the left, a large brutish orc towering with a raised fist over Garnel the wild-haired gnome, who crouches scribbling notes among scattered papers, while two Hammer thugs in leather armour lounge against the wall](/illustrations/scenes/ch05-garnel-rune-chamber.png)
+
 "Read it again," the orc snarled.
 
 "I did read it again — the angle is wrong, the light is wrong, you are standing on the wrong part of the floor —"
