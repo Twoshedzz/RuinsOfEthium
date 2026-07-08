@@ -113,6 +113,10 @@ Dave shouted the Sleep spell with everything he had. Two archers went limp and s
 
 A bugbear came down the path like a landslide, morningstar swinging. Thorn met it on the narrow ledge, axe in hand, cliff at his back, spray so thick he could barely see its face. He blocked, gave ground, blocked again — the ledge slick, the roar too loud to hear his own breath. Loki snapped at its ankle; it kicked, missed, and Thorn drove his shoulder into its chest, shoving it towards the torrent. It slipped, swore in a language Thorn didn't know, and gave him room for one clean swing that finished it.
 
+![Thorn fights a bugbear with his axe on a wet stone ledge behind a thundering waterfall while Dave, below him, casts a sleep spell up at unseen goblins as arrows whizz past through the spray](/illustrations/scenes/ch04-waterfall-bugbear-fight.png)
+
+*Behind the falls — Thorn traded blows with a bugbear while Dave's spell reached for the archers above, and their arrows answered.*
+
 Above on the steep route, Nibbles had his own problems. The second bugbear had come down the scramble the goblins hadn't bothered guarding, because nobody sensible would climb there — Nibbles had climbed there anyway, sensible being a word he reserved for people who missed treasure.
 
 He fought quick and vicious. The bugbear fought better, catching him a blow that sent him skidding on wet rock. Derek healed him; Nibbles got up, swore, and went back in. It hit him again. Derek healed him again, jaw tight.
