@@ -1,14 +1,14 @@
 {
   "version": 1,
   "model": "gpt-4o-mini-tts",
-  "voice": "fable",
+  "voice": "onyx",
   "chapters": {
     "00-prologue": {
       "parts": [
         "/audio/chapters/00-prologue/part-00.mp3"
       ],
       "contentHash": "59a27dd4eefefb8b",
-      "generatedAt": "2026-07-08T20:04:28.072Z"
+      "generatedAt": "2026-07-08T21:08:50.805Z"
     },
     "01-the-road-to-fallcrest": {
       "parts": [
@@ -22,7 +22,7 @@
         "/audio/chapters/01-the-road-to-fallcrest/part-07.mp3"
       ],
       "contentHash": "ec2c9dc541762fad",
-      "generatedAt": "2026-07-08T20:12:20.827Z"
+      "generatedAt": "2026-07-08T21:22:44.465Z"
     },
     "02-the-blue-moon-alehouse": {
       "parts": [
@@ -37,7 +37,7 @@
         "/audio/chapters/02-the-blue-moon-alehouse/part-08.mp3"
       ],
       "contentHash": "38947b5707f3180f",
-      "generatedAt": "2026-07-08T20:27:05.251Z"
+      "generatedAt": "2026-07-08T21:26:46.215Z"
     },
     "03-the-old-manor": {
       "parts": [
@@ -47,7 +47,7 @@
         "/audio/chapters/03-the-old-manor/part-03.mp3"
       ],
       "contentHash": "cceb27dc7564b044",
-      "generatedAt": "2026-07-08T20:33:26.465Z"
+      "generatedAt": "2026-07-08T21:28:26.984Z"
     },
     "04-the-road-to-the-plateau": {
       "parts": [
@@ -58,7 +58,7 @@
         "/audio/chapters/04-the-road-to-the-plateau/part-04.mp3"
       ],
       "contentHash": "8e97a69a6de7ac5e",
-      "generatedAt": "2026-07-08T20:35:37.115Z"
+      "generatedAt": "2026-07-08T21:30:29.777Z"
     },
     "05-the-ruined-tower": {
       "parts": [
@@ -70,7 +70,7 @@
         "/audio/chapters/05-the-ruined-tower/part-05.mp3"
       ],
       "contentHash": "7b396b77b69382e1",
-      "generatedAt": "2026-07-08T20:38:17.411Z"
+      "generatedAt": "2026-07-08T21:33:03.820Z"
     }
   }
 }

@@ -18,10 +18,11 @@ const MODEL_LIMITS = {
 };
 
 const DEFAULT_MODEL = 'gpt-4o-mini-tts';
-const DEFAULT_VOICE = 'fable';
+const DEFAULT_VOICE = 'onyx';
 const DEFAULT_INSTRUCTIONS =
-  'Read aloud as a warm British fantasy storyteller narrating an adventure novel for young readers. ' +
-  'Use clear pacing, gentle drama at tense moments, and a touch of wonder.';
+  'Speak as an older British man with a deep, resonant voice — wise, measured, and slightly gravelly, ' +
+  'like a veteran storyteller recounting an epic fantasy tale. Warm authority, unhurried pacing, ' +
+  'gentle gravity at dramatic moments.';
 
 async function loadEnvFile() {
   try {
