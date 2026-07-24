@@ -1,0 +1,25 @@
+# DM hub (canonical)
+/dungeonmaster    /dm/    301
+/dungeonmaster/   /dm/    301
+
+# Legacy table → session plans / assets
+/table            /dm/plans/   301
+/table/           /dm/plans/   301
+/table/maps/*     /dm/maps/:splat   301
+/table/pdfs/*     /dm/pdfs/:splat   301
+
+# Legacy library → DM sections
+/library                    /dm/              301
+/library/                   /dm/              301
+/library/modules            /dm/modules/      301
+/library/modules/           /dm/modules/      301
+/library/modules/*          /dm/modules/:splat 301
+/library/places             /dm/world/        301
+/library/places/            /dm/world/        301
+/library/places/*           /dm/world/places/:splat 301
+/library/characters         /dm/world/        301
+/library/characters/        /dm/world/        301
+/library/characters/*       /dm/world/characters/:splat 301
+/library/sessions           /dm/notes/        301
+/library/sessions/          /dm/notes/        301
+/library/sessions/*         /dm/notes/:splat  301

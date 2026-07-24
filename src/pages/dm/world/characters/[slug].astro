@@ -1,0 +1,40 @@
+---
+import DmShell from '../../../../components/DmShell.astro';
+import DmBodyEnhance from '../../../../components/DmBodyEnhance.astro';
+import { getPublishedLibraryCharacters } from '../../../../lib/library';
+import { SITE_TITLE } from '../../../../lib/site';
+
+export async function getStaticPaths() {
+  const characters = await getPublishedLibraryCharacters();
+  return characters.map((character) => ({
+    params: { slug: character.slug },
+    props: { character },
+  }));
+}
+
+const { character } = Astro.props;
+const { Content } = await character.render();
+const description =
+  character.data.summary ?? `${character.data.title} — character notes for ${SITE_TITLE}.`;
+---
+
+<DmShell title={character.data.title} description={description} current="world">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">World · Character</p>
+      <h1 class="page-title">{character.data.title}</h1>
+      {character.data.summary && <p class="table-desk__lede">{character.data.summary}</p>}
+    </header>
+
+    <div class="prose table-desk__body dm-desk__body">
+      <Content />
+    </div>
+
+    <p class="table-desk__footer-nav">
+      <a href="/dm/world/">← World</a>
+      ·
+      <a href="/dm/">DM hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</DmShell>

@@ -1,0 +1,22 @@
+# Filenames (one per line) copied from publish/source/world/maps/
+# into public/dm/maps/ by scripts/sync-publish.mjs (legacy /table/maps/ redirects).
+# Edit this list when a dungeon map should be openable at /dm/maps/.
+# Lines starting with # are ignored.
+
+axirian-peninsula.png
+continents-world.png
+beyond-the-pool.png
+duergar-route-sm.png
+ethium-pool-handdrawn.jpg
+tower-c-krutick-lair.jpg
+ethium-pool-dungeon.png
+ruined-tower.jpg
+fallcrest-to-ethium.png
+waterfall-climb.jpg
+fallcrest-town.png
+inn-tavern-interior.png
+goblin-cave.png
+goblin-cave-alt.jpeg
+session-01-one-pager.png
+ethium-plateau.jpg
+troglodyte-route.png

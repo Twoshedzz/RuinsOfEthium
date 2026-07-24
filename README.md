@@ -1,14 +1,37 @@
 # The Ruins of Ethium
 
-A static novel site built with [Astro](https://astro.build), styled after classic Fighting Fantasy books — parchment pages, serif type, and black-and-white illustration plates.
+A static novel site built with [Astro](https://astro.build), styled after classic Fighting Fantasy books — parchment pages, serif type, and black-and-white illustration plates. Hosted on [Netlify](https://www.netlify.com).
 
-**What this is:** the published story of a family D&D campaign — for the boys, parents, and friends to read after each session.
+**What this is:** the published story of a family D&D campaign — for the boys, parents, and friends to read after each session — plus a hidden DM hub and a CYOA reworking of the same material.
 
-**How it fits your tools:** use **ChatGPT** to plan sessions and make handouts; use **this repo** (with Cursor) to turn what actually happened at the table into consistent novel chapters on Netlify.
+**How it fits your tools:** use **ChatGPT** to plan sessions and make handouts; use **this repo** (with Cursor) to keep world/modules/plans/notes in one place and turn what happened at the table into consistent novel chapters.
 
-See **[`publish/source/WORKFLOW.md`](publish/source/WORKFLOW.md)** for the full before / during / after loop.
+| Doc | Purpose |
+|-----|---------|
+| [`docs/PROJECT-BRIEF.md`](docs/PROJECT-BRIEF.md) | Why the project exists, how it evolved, next steps |
+| [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Stack, content model, sync, and design decisions |
+| [`publish/source/WORKFLOW.md`](publish/source/WORKFLOW.md) | Before / during / after loop at the table |
 
-Each chapter is a markdown file. Push to GitHub and [Netlify](https://www.netlify.com) rebuilds the site automatically.
+Each chapter is a markdown file. Push to GitHub and Netlify rebuilds automatically.
+
+## Three product faces
+
+| Face | Edit home | Site | Notes |
+|------|-----------|------|-------|
+| **Story** | `publish/chapters/` · `publish/illustrations/` | `/chapters/` | Novel — in the main nav |
+| **DM hub** | world · characters · table · sessions | **`/dm/`** | Hidden; `noindex`. Also `/dungeonmaster/` → `/dm/` |
+| **CYOA** | `publish/source/cyoa/` | **`/cyoa/`** | Hidden; `noindex` |
+
+### DM hub desks
+
+| Desk | Meaning | Source → URL |
+|------|---------|--------------|
+| **World** | Places, factions, NPCs | `publish/source/world/notes/` · `characters/` → `/dm/world/` |
+| **Modules** | Replayable adventure blocks (no party play log) | `publish/source/world/modules/` → `/dm/modules/` |
+| **Session plans** | Prep for an upcoming session | `session-plans/` · live `publish/table/` → `/dm/plans/` (Cmd+P to print) |
+| **Session notes** | What happened → novel | `publish/source/sessions/` → `/dm/notes/` |
+
+DM maps/PDFs: `/dm/maps/`, `/dm/pdfs/`. Terminology and loop: [`publish/source/WORKFLOW.md`](publish/source/WORKFLOW.md).
 
 ## Local development
 
@@ -20,24 +43,43 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:4321](http://localhost:4321).
+Open [http://localhost:4321](http://localhost:4321). Sync runs automatically before `dev` and `build`.
+
+## Content model & sync
+
+Edit under **`publish/`** only. Run `npm run publish` (`scripts/sync-publish.mjs`) to copy into the site (also runs before `dev` / `build`).
+
+```
+publish/chapters/              # Story → /chapters/
+publish/illustrations/         # Story art → /illustrations/
+publish/source/world/          # Modules, place notes, canonical maps
+publish/source/characters/     # PCs & NPCs → /dm/world/characters/
+publish/source/sessions/       # Session notes → /dm/notes/
+publish/source/session-plans/  # Draft prep (promote live sheets to table/)
+publish/table/                 # Live session plans → /dm/plans/
+publish/table-assets/          # PDFs + map manifest → /dm/pdfs|maps/
+publish/source/cyoa/           # CYOA → /cyoa/
+publish/source/chatgpt-exports/# Raw ChatGPT dumps (not synced to the site)
+publish/source/chapter-drafts/ # Beat sheets before prose
+```
+
+**Terms:** Modules = replayable · Session plans = prep · Session notes = what happened → novel.
+
+Canonical assets: maps in `publish/source/world/maps/` (list in `table-assets/table-maps.manifest` for `/dm/maps/`); PDFs in `publish/table-assets/pdfs/`. Legacy `/table/` and `/library/` redirect into `/dm/…`.
+
+See [`publish/README.md`](publish/README.md).
 
 ## Adding a chapter after a session
 
-**Drop content in [`publish/`](publish/)** — that is the folder to edit. Subfolders:
+1. Fill `publish/source/sessions/session-XX/what-happened.md`, then draft with Cursor + `publish/source/style-guide.md` (see [`publish/source/README.md`](publish/source/README.md)).
 
-- `publish/chapters/` — chapter markdown
-- `publish/illustrations/` — artwork (PNG, JPG, SVG) — supports subfolders (`portraits/`, `maps/`, `items/`, etc.)
-
-Run `npm run publish` to copy files into the site (this also runs automatically before `npm run dev` and `npm run build`).
-
-1. Copy the template:
+2. Copy the template:
    ```bash
-   cp publish/chapters/_template.md publish/chapters/02-your-chapter-slug.md
+   cp publish/chapters/_template.md publish/chapters/06-your-chapter-slug.md
    ```
    Use a numeric prefix for sorting (`01-`, `02-`, …). The filename becomes the URL slug.
 
-2. Edit the frontmatter at the top of the file:
+3. Edit the frontmatter:
 
    ```yaml
    ---
@@ -57,21 +99,9 @@ Run `npm run publish` to copy files into the site (this also runs automatically 
    | `coverIllustration` | No | Hero image path under `public/` |
    | `published` | Yes | Set `false` to hide a draft |
 
-3. Write the chapter prose in markdown below the frontmatter. Aim for clear, vivid prose suitable for readers aged twelve and up.
+4. Write prose below the frontmatter (clear, vivid, ~12+). Add art under `publish/illustrations/` and reference `/illustrations/…` — chapter images are styled as engraved black-and-white plates.
 
-4. Add illustrations to `publish/illustrations/` (PNG, JPG, or SVG). Reference them in markdown:
-
-   ```markdown
-   ![A goblin in the shadows](/illustrations/ch01-goblin.png)
-
-   *The goblin watched from the rocks.*
-   ```
-
-   Images are styled automatically as engraved black-and-white plates.
-
-5. Run `npm run publish` (or `npm run dev` / push to GitHub — sync runs automatically).
-
-6. Commit and push. Netlify rebuilds with the new chapter.
+5. `npm run publish` (or `npm run dev` / push — sync runs automatically). Commit and push; Netlify rebuilds.
 
 ## Listen aloud (OpenAI voice)
 
@@ -88,25 +118,6 @@ Re-running `npm run audio` skips chapters whose prose has not changed. Use `npm 
 
 Rough cost: about **$1–2 one-off** for all current chapters, then pennies per new chapter.
 
-## Project structure
-
-```
-publish/source/           # Session notes, maps, PCs, drafts, ChatGPT exports
-publish/chapters/         # Finished chapter markdown (goes on the site)
-publish/illustrations/    # Artwork (PNG, JPG, SVG)
-public/illustrations/     # Synced artwork (auto-updated)
-src/content/chapters/     # Synced chapters (auto-updated)
-src/content/config.ts     # Frontmatter schema
-src/pages/                # Site routes
-src/styles/global.css     # Fighting Fantasy theme
-```
-
-## Writing chapters with Cursor
-
-Source material lives in [`publish/source/`](publish/source/) — session notes, maps, PC list, style guide, and manuscript drafts. After each game, fill in `publish/source/sessions/session-XX/` and ask Cursor to draft the next chapter using `publish/source/style-guide.md`.
-
-See [`publish/source/README.md`](publish/source/README.md) for the full workflow.
-
 ## Deploy to Netlify
 
 1. Push this repository to GitHub.
@@ -122,7 +133,7 @@ These settings are also defined in [`netlify.toml`](netlify.toml). The canonical
 
 | Command | Action |
 |---------|--------|
-| `npm run publish` | Copy `publish/` content into the site |
+| `npm run publish` | Sync `publish/` into `src/content` and `public` |
 | `npm run audio` | Generate chapter narration MP3s via OpenAI TTS |
 | `npm run audio:dry-run` | Preview TTS chunking without calling the API |
 | `npm run dev` | Sync + start local dev server |

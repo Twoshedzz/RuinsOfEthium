@@ -1,0 +1,40 @@
+---
+import DmShell from '../../../../components/DmShell.astro';
+import DmBodyEnhance from '../../../../components/DmBodyEnhance.astro';
+import { getPublishedLibraryPlaces } from '../../../../lib/library';
+import { SITE_TITLE } from '../../../../lib/site';
+
+export async function getStaticPaths() {
+  const places = await getPublishedLibraryPlaces();
+  return places.map((place) => ({
+    params: { slug: place.slug },
+    props: { place },
+  }));
+}
+
+const { place } = Astro.props;
+const { Content } = await place.render();
+const description =
+  place.data.summary ?? `${place.data.title} — world reference for ${SITE_TITLE}.`;
+---
+
+<DmShell title={place.data.title} description={description} current="world">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">World · Place</p>
+      <h1 class="page-title">{place.data.title}</h1>
+      {place.data.summary && <p class="table-desk__lede">{place.data.summary}</p>}
+    </header>
+
+    <div class="prose table-desk__body dm-desk__body">
+      <Content />
+    </div>
+
+    <p class="table-desk__footer-nav">
+      <a href="/dm/world/">← World</a>
+      ·
+      <a href="/dm/">DM hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</DmShell>

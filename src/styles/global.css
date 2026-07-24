@@ -501,10 +501,9 @@ a:hover {
   width: 30%;
 }
 
-/* Illustration plates — ink on transparent PNG; site parchment shows through */
+/* Illustration plates — Fighting Fantasy B&W; chapters + novel plates only */
 .chapter-body img,
-.illustration-plate img,
-.image-lightbox__trigger img {
+.illustration-plate img {
   display: block;
   width: 100%;
   max-width: 26rem;
@@ -653,6 +652,11 @@ a:hover {
   border: none;
   outline: none;
   background: transparent;
+}
+
+/* Enlarged chapter / novel plates keep the engraved B&W treatment */
+#chapter-image-dialog .image-lightbox__full,
+[data-image-lightbox] .image-lightbox__full {
   filter: grayscale(100%) contrast(1.12);
 }
 
@@ -771,3 +775,307 @@ a:hover {
     text-align: center;
   }
 }
+
+/* —— Table desk (DM run notes — distinct from the novel) —— */
+
+.table-desk {
+  --table-ink: #1c2420;
+  --table-muted: #4a5a52;
+  --table-rule: #9aab9e;
+  --table-panel: rgba(28, 52, 40, 0.06);
+  --table-next: #2f5d45;
+  color: var(--table-ink);
+  max-width: 46rem;
+}
+
+.table-desk__banner {
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--table-muted);
+  background: var(--table-panel);
+  border-left: 3px solid var(--table-next);
+}
+
+.table-desk__banner a {
+  color: var(--table-next);
+}
+
+.table-desk__lede {
+  margin: 0 0 1.75rem;
+  color: var(--table-muted);
+  font-size: 1.05rem;
+}
+
+.table-desk__eyebrow {
+  margin: 0 0 0.35rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--table-muted);
+}
+
+.table-desk__header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--table-rule);
+}
+
+.table-desk__header .page-title {
+  margin-bottom: 0.35rem;
+}
+
+.table-desk__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.table-desk__item a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+  color: inherit;
+  background: rgba(255, 255, 255, 0.35);
+  border: 1px solid var(--table-rule);
+}
+
+.table-desk__item a:hover {
+  border-color: var(--table-next);
+  text-decoration: none;
+}
+
+.table-desk__item--next a {
+  border-color: var(--table-next);
+  box-shadow: inset 3px 0 0 var(--table-next);
+}
+
+.table-desk__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--table-muted);
+}
+
+.table-desk__status {
+  color: var(--table-next);
+  font-weight: 600;
+}
+
+.table-desk__title {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  color: var(--table-ink);
+}
+
+.table-desk__summary {
+  font-size: 0.98rem;
+  color: var(--table-muted);
+  line-height: 1.45;
+}
+
+.table-desk__body {
+  max-width: none;
+}
+
+.table-desk__body table {
+  font-size: 0.92rem;
+}
+
+.table-desk__footer-nav {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--table-rule);
+  font-size: 0.95rem;
+}
+
+/* —— Library hub (research index — same desk as table notes) —— */
+
+.library-hub {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.library-hub a {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  gap: 0.2rem 1rem;
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+  color: inherit;
+  background: rgba(255, 255, 255, 0.35);
+  border: 1px solid var(--table-rule);
+}
+
+.library-hub a:hover {
+  border-color: var(--table-next);
+  text-decoration: none;
+}
+
+.library-hub__label {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  color: var(--table-ink);
+}
+
+.library-hub__count {
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--table-muted);
+  align-self: center;
+}
+
+.library-hub__blurb {
+  grid-column: 1 / -1;
+  font-size: 0.98rem;
+  color: var(--table-muted);
+  line-height: 1.45;
+}
+
+/* —— DM hub (utilitarian desk; aliases table-desk) —— */
+
+.dm-desk {
+  --table-ink: #1c2420;
+  --table-muted: #4a5a52;
+  --table-rule: #9aab9e;
+  --table-panel: rgba(28, 52, 40, 0.06);
+  --table-next: #2f5d45;
+  color: var(--table-ink);
+  max-width: 52rem;
+}
+
+.dm-desk__banner {
+  margin: 0 0 1.25rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--table-muted);
+  background: var(--table-panel);
+  border-left: 3px solid var(--table-next);
+}
+
+.dm-desk__banner a {
+  color: var(--table-next);
+}
+
+.dm-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 1rem;
+  margin: 0 0 1.75rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--table-rule);
+}
+
+.dm-nav__brand {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--table-ink);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+}
+
+.dm-nav__brand:hover {
+  text-decoration: none;
+  color: var(--table-next);
+}
+
+.dm-nav__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.85rem;
+}
+
+.dm-nav__link {
+  font-size: 0.92rem;
+  color: var(--table-muted);
+  text-decoration: none;
+  padding: 0.2rem 0;
+  border-bottom: 2px solid transparent;
+}
+
+.dm-nav__link:hover {
+  color: var(--table-ink);
+  text-decoration: none;
+}
+
+.dm-nav__link--active {
+  color: var(--table-ink);
+  border-bottom-color: var(--table-next);
+  font-weight: 600;
+}
+
+.dm-section-title {
+  margin: 2rem 0 0.85rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--table-muted);
+}
+
+.dm-desk__body img.dm-thumb,
+.dm-thumb {
+  display: block;
+  max-width: min(100%, 14rem);
+  max-height: 9rem;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  border: 1px solid var(--table-rule);
+  background: #fff;
+  /* Full colour — do not inherit chapter plate grayscale */
+  filter: none;
+}
+
+#dm-image-dialog .image-lightbox__full {
+  filter: none;
+}
+
+.dm-thumb-wrap {
+  display: inline-block;
+  padding: 0;
+  margin: 0.35rem 0.5rem 0.35rem 0;
+  border: none;
+  background: transparent;
+  cursor: zoom-in;
+  vertical-align: middle;
+}
+
+.dm-media-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+  margin: 0.35rem 0.75rem 0.35rem 0;
+  vertical-align: top;
+}
+
+.dm-media-link__name {
+  font-size: 0.85rem;
+  color: var(--table-next);
+}
+
+.cyoa-desk .dm-nav__brand {
+  letter-spacing: 0.06em;
+}
+

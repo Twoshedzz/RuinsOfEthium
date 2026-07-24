@@ -1,16 +1,23 @@
----
----
-Four thieves guilds allied as one
-An unstable relationship but has been maintained for 4 years
+# Gang of Four
 
-Recently commissioned by Axirian agents (mage) to investigate Ethium
+Four thieves’ guilds allied as one. Unstable relationship, maintained about **four years**.
 
-Four gangs
+Recently commissioned by **Axirian agents** (mage) to investigate Ethium.
 
-The Valnaran family. Tieflings. Trade racketeers. Have protection at docks and smuggling operations
+## The four gangs
 
-Silent knives. Group of assassins. often caught between families. Brought in to the three to ensure no ill. doing
+| Gang | Notes |
+|------|--------|
+| **Valnaran family** | Tieflings. Trade racketeers; docks protection and smuggling. Agent: [`../../characters/maelis-varn.md`](../../characters/maelis-varn.md) |
+| **Silent Knives** | Assassins; often caught between families; brought in to keep the peace |
+| **Brotherhood** | Original underworld thieves’ guild of Almenor; long legacy; many secret hideouts |
+| **The Hammers** | Newer; youths; thuggery — see [`hammers.md`](hammers.md) |
 
-Brotherhood. Original guild of underworld thieves in. Almenor. A long legacy and many secret hideouts.
+## Base
 
-The hammers. A newer gang, mostly of youths, who have taken a more direct approach to dominance through thuggery and bullying.
+United in **[`sunfall.md`](sunfall.md)** (capital); power reaching north to Fallcrest.
+
+## Related
+
+- Inbox archive copy: `inbox/The gang of four.md` (same text — leave raw)
+- Plot hooks: [`plot-hooks-session-era.md`](plot-hooks-session-era.md)

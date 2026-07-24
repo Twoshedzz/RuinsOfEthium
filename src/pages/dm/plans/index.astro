@@ -1,0 +1,58 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import {
+  formatSessionLabel,
+  formatStatusLabel,
+  getPublishedTableNotes,
+} from '../../../lib/table-notes';
+import { SITE_TITLE } from '../../../lib/site';
+import '../../../styles/dm-plan-print.css';
+
+const plans = await getPublishedTableNotes();
+const description = `Session plans for ${SITE_TITLE} — prep for an upcoming session.`;
+---
+
+<DmShell title="Session plans" description={description} current="plans" variant="plan">
+  <header class="table-desk__header">
+    <p class="table-desk__eyebrow">DM · Session plans</p>
+    <h1 class="page-title">Session plans</h1>
+    <p class="table-desk__lede">
+      Prep for tonight — cold opens, beats, stats, choices. After the game, log outcomes under Session
+      notes.
+    </p>
+  </header>
+
+  {
+    plans.length === 0 ? (
+      <p>
+        No session plans yet. Add markdown under <code>publish/table/</code>.
+      </p>
+    ) : (
+      <ul class="table-desk__list">
+        {plans.map((plan) => (
+          <li
+            class:list={[
+              'table-desk__item',
+              plan.data.status === 'next' && 'table-desk__item--next',
+            ]}
+          >
+            <a href={`/dm/plans/${plan.slug}/`}>
+              <span class="table-desk__meta">
+                <span class="table-desk__session">{formatSessionLabel(plan.data.session)}</span>
+                <span class="table-desk__status">{formatStatusLabel(plan.data.status)}</span>
+              </span>
+              <span class="table-desk__title">{plan.data.title}</span>
+              {plan.data.summary && <span class="table-desk__summary">{plan.data.summary}</span>}
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="table-desk__footer-nav">
+    <a href="/dm/">← DM hub</a>
+    ·
+    <a href="/dm/notes/">Session notes</a>
+  </p>
+</DmShell>

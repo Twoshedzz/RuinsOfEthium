@@ -1,9 +1,20 @@
-# Session plan — Session NN
+# Session plan — Session NN (prep)
+
+<!--
+  SESSION PLAN = prep for an upcoming session (before play).
+  Not session notes (what happened) — those go in publish/source/sessions/.
+  Pull reusable stats/maps from world/modules/ as needed.
+-->
 
 **Date planned:**
-**Expected chapter:**
+**Expected chapter:** *(optional)*
+**Modules / maps to pull:**
 
 ## Goals for this session
+
+-
+
+## Where we start
 
 -
 
@@ -21,7 +32,7 @@
 
 -
 
-## Encounters
+## Encounters (stats / trackers)
 
 -
 
@@ -29,6 +40,10 @@
 
 -
 
+## End state / player choices
+
+-
+
 ## Notes
 
-<!-- Paste from ChatGPT prep here if useful -->
+<!-- Paste from ChatGPT prep here if useful; leave messy dumps in chatgpt-exports/ -->

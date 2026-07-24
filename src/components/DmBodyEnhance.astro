@@ -1,0 +1,247 @@
+---
+/**
+ * Enhances DM markdown bodies:
+ * - image links / imgs → clickable thumbs with lightbox
+ * - PDF / asset links keep filename-only display
+ */
+---
+
+<dialog class="image-lightbox__dialog" id="dm-image-dialog" aria-label="Enlarged map or image">
+  <div class="image-lightbox__panel">
+    <button type="button" class="image-lightbox__close" data-dm-lightbox-close>Close</button>
+    <img class="image-lightbox__full" id="dm-image-dialog-img" src="" alt="" decoding="async" />
+    <p class="image-lightbox__title" id="dm-image-dialog-title"></p>
+  </div>
+</dialog>
+
+<script>
+  const IMAGE_EXT = /\.(?:png|jpe?g|gif|webp|svg)(?:[?#]|$)/i;
+
+  function basename(url) {
+    const path = url.split('?')[0].split('#')[0].replace(/\/+$/, '');
+    const parts = path.split('/');
+    return parts[parts.length - 1] || url;
+  }
+
+  function looksLikePathText(text) {
+    return /[/\\]/.test(text) || /^publish\//.test(text) || /^\/(?:dm|table|library)\//.test(text);
+  }
+
+  /**
+   * Match Duergar Combat Tracker / Session 4 pack: exactly one empty square
+   * per HP (never ×5 / grouped). Boxes wrap onto multiple rows; tick with pen.
+   */
+  const HP_BOX_MAX = 150;
+
+  function parseHpValue(text) {
+    const t = (text || '').replace(/\u00a0/g, ' ').trim();
+    if (!t) return null;
+    // Pure numeric HP column cell
+    if (/^\d{1,3}$/.test(t)) {
+      const n = parseInt(t, 10);
+      return n > 0 ? n : null;
+    }
+    // "**HP** 68" / "HP 68" as the cell's main content (mini-stat blocks)
+    const labeled = t.match(/^\*{0,2}HP\*{0,2}\s*[:.]?\s*(\d{1,3})\s*$/i);
+    if (labeled) {
+      const n = parseInt(labeled[1], 10);
+      return n > 0 ? n : null;
+    }
+    return null;
+  }
+
+  function appendHpTracker(hpCell, hp) {
+    if (hpCell.querySelector('.dm-hp-tracker')) return;
+    const boxCount = Math.min(hp, HP_BOX_MAX);
+
+    const tracker = document.createElement('div');
+    tracker.className = 'dm-hp-tracker';
+    tracker.setAttribute('aria-hidden', 'true');
+    tracker.dataset.hp = String(hp);
+    tracker.dataset.boxes = String(boxCount);
+    tracker.title =
+      boxCount < hp
+        ? `HP ${hp} — ${boxCount} boxes (capped); cross off as damage`
+        : `HP ${hp} — cross off one box per damage`;
+
+    for (let i = 0; i < boxCount; i++) {
+      const box = document.createElement('span');
+      box.className = 'dm-hp-tracker__box';
+      tracker.appendChild(box);
+    }
+
+    hpCell.classList.add('dm-hp-cell');
+    hpCell.appendChild(tracker);
+  }
+
+  function enhanceHpTrackers(root) {
+    if (!(root instanceof HTMLElement)) return;
+    if (!root.closest('.dm-desk--plan')) return;
+
+    root.querySelectorAll('table').forEach((table) => {
+      if (!(table instanceof HTMLTableElement)) return;
+      if (table.dataset.hpEnhanced === 'true') return;
+
+      const headers = [...table.querySelectorAll('thead th, tr:first-child th')].map((th) =>
+        (th.textContent || '').trim().toLowerCase(),
+      );
+      // Markdown tables often put headers in the first row without <thead>
+      const headerCells =
+        headers.length > 0
+          ? headers
+          : [...(table.querySelector('tr')?.children || [])].map((cell) =>
+              (cell.textContent || '').trim().toLowerCase(),
+            );
+
+      const hpIdx = headerCells.findIndex((h) => h === 'hp' || /^hp\b/.test(h) || /\bhp\b/.test(h));
+
+      const rows = table.tBodies.length
+        ? [...table.tBodies].flatMap((body) => [...body.rows])
+        : [...table.rows].slice(1);
+
+      let enhanced = 0;
+
+      rows.forEach((tr) => {
+        const cells = [...tr.cells];
+
+        if (hpIdx >= 0) {
+          const hpCell = cells[hpIdx];
+          if (!hpCell) return;
+          const hp = parseHpValue(hpCell.textContent || '');
+          if (hp == null) return;
+          appendHpTracker(hpCell, hp);
+          enhanced += 1;
+          return;
+        }
+
+        // No HP column: pick up mini-stat cells like "**HP** 68"
+        cells.forEach((cell) => {
+          const hp = parseHpValue(cell.textContent || '');
+          if (hp == null) return;
+          appendHpTracker(cell, hp);
+          enhanced += 1;
+        });
+      });
+
+      if (enhanced > 0) {
+        table.dataset.hpEnhanced = 'true';
+        table.classList.add('dm-encounter-table');
+      }
+    });
+  }
+
+  function initDmBodyEnhance() {
+    const root = document.querySelector('.dm-desk__body');
+    const dialog = document.getElementById('dm-image-dialog');
+    const fullImg = document.getElementById('dm-image-dialog-img');
+    const title = document.getElementById('dm-image-dialog-title');
+    const closeBtn = document.querySelector('[data-dm-lightbox-close]');
+
+    if (!(root instanceof HTMLElement)) {
+      return;
+    }
+
+    enhanceHpTrackers(root);
+
+    if (
+      !(dialog instanceof HTMLDialogElement) ||
+      !(fullImg instanceof HTMLImageElement) ||
+      !(title instanceof HTMLParagraphElement)
+    ) {
+      return;
+    }
+
+    if (!dialog.dataset.bound) {
+      dialog.dataset.bound = 'true';
+      closeBtn?.addEventListener('click', () => dialog.close());
+      dialog.addEventListener('click', (event) => {
+        if (event.target === dialog) dialog.close();
+      });
+    }
+
+    const openLightbox = (src, alt) => {
+      fullImg.src = src;
+      fullImg.alt = alt;
+      title.textContent = alt;
+      dialog.showModal();
+    };
+
+    root.querySelectorAll('img').forEach((img) => {
+      if (!(img instanceof HTMLImageElement)) return;
+      if (img.closest('[data-image-lightbox]') || img.dataset.enhanced === 'true') return;
+      img.dataset.enhanced = 'true';
+      img.classList.add('dm-thumb');
+
+      const trigger = document.createElement('button');
+      trigger.type = 'button';
+      trigger.className = 'image-lightbox__trigger dm-thumb-wrap';
+      trigger.setAttribute('aria-haspopup', 'dialog');
+      trigger.setAttribute('aria-controls', dialog.id);
+      const label = img.alt || basename(img.src);
+      trigger.setAttribute('aria-label', `Enlarge: ${label}`);
+
+      img.parentNode?.insertBefore(trigger, img);
+      trigger.appendChild(img);
+
+      trigger.addEventListener('click', () => {
+        openLightbox(img.currentSrc || img.src, label);
+      });
+    });
+
+    root.querySelectorAll('a[href]').forEach((anchor) => {
+      if (!(anchor instanceof HTMLAnchorElement)) return;
+      if (anchor.dataset.enhanced === 'true') return;
+      const href = anchor.getAttribute('href') || '';
+      if (!IMAGE_EXT.test(href)) {
+        const text = anchor.textContent?.trim() || '';
+        if (href.includes('/dm/') && looksLikePathText(text)) {
+          const file = basename(href);
+          if (file && text !== file) {
+            anchor.textContent = file;
+          }
+        }
+        return;
+      }
+
+      if (anchor.querySelector('img')) return;
+
+      anchor.dataset.enhanced = 'true';
+      const file = basename(href);
+      const wrap = document.createElement('span');
+      wrap.className = 'dm-media-link';
+
+      const trigger = document.createElement('button');
+      trigger.type = 'button';
+      trigger.className = 'image-lightbox__trigger dm-thumb-wrap';
+      trigger.setAttribute('aria-haspopup', 'dialog');
+      trigger.setAttribute('aria-controls', dialog.id);
+      trigger.setAttribute('aria-label', `Enlarge: ${file}`);
+
+      const img = document.createElement('img');
+      img.src = href;
+      img.alt = file;
+      img.className = 'dm-thumb';
+      img.loading = 'lazy';
+      trigger.appendChild(img);
+
+      const caption = document.createElement('a');
+      caption.href = href;
+      caption.className = 'dm-media-link__name';
+      caption.textContent = file;
+      caption.target = '_blank';
+      caption.rel = 'noopener';
+
+      trigger.addEventListener('click', (event) => {
+        event.preventDefault();
+        openLightbox(href, file);
+      });
+
+      wrap.appendChild(trigger);
+      wrap.appendChild(caption);
+      anchor.replaceWith(wrap);
+    });
+  }
+
+  initDmBodyEnhance();
+  document.addEventListener('astro:page-load', initDmBodyEnhance);
+</script>

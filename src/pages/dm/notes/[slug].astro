@@ -1,0 +1,44 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import DmBodyEnhance from '../../../components/DmBodyEnhance.astro';
+import {
+  formatLibrarySessionLabel,
+  getPublishedLibrarySessions,
+} from '../../../lib/library';
+import { SITE_TITLE } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const sessions = await getPublishedLibrarySessions();
+  return sessions.map((session) => ({
+    params: { slug: session.slug },
+    props: { session },
+  }));
+}
+
+const { session } = Astro.props;
+const { Content } = await session.render();
+const description =
+  session.data.summary ??
+  `${formatLibrarySessionLabel(session.data.session)} — what happened, for ${SITE_TITLE}.`;
+---
+
+<DmShell title={session.data.title} description={description} current="notes">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">{formatLibrarySessionLabel(session.data.session)}</p>
+      <h1 class="page-title">{session.data.title}</h1>
+      {session.data.summary && <p class="table-desk__lede">{session.data.summary}</p>}
+    </header>
+
+    <div class="prose table-desk__body dm-desk__body">
+      <Content />
+    </div>
+
+    <p class="table-desk__footer-nav">
+      <a href="/dm/notes/">← All session notes</a>
+      ·
+      <a href="/dm/">DM hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</DmShell>

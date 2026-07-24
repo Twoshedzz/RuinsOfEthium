@@ -1,0 +1,64 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import {
+  getPublishedLibraryCharacters,
+  getPublishedLibraryPlaces,
+} from '../../../lib/library';
+import { SITE_TITLE } from '../../../lib/site';
+
+const places = await getPublishedLibraryPlaces();
+const characters = await getPublishedLibraryCharacters();
+const description = `World reference for ${SITE_TITLE} — places, factions, and characters.`;
+---
+
+<DmShell title="World" description={description} current="world">
+  <header class="table-desk__header">
+    <p class="table-desk__eyebrow">DM · World</p>
+    <h1 class="page-title">World</h1>
+    <p class="table-desk__lede">
+      Setting reference — places, factions, and recurring people. Not session plans or play logs.
+    </p>
+  </header>
+
+  <h2 class="dm-section-title">Places &amp; notes</h2>
+  {
+    places.length === 0 ? (
+      <p>No place notes yet.</p>
+    ) : (
+      <ul class="table-desk__list">
+        {places.map((place) => (
+          <li class="table-desk__item">
+            <a href={`/dm/world/places/${place.slug}/`}>
+              <span class="table-desk__title">{place.data.title}</span>
+              {place.data.summary && <span class="table-desk__summary">{place.data.summary}</span>}
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <h2 class="dm-section-title">Characters</h2>
+  {
+    characters.length === 0 ? (
+      <p>No character files yet.</p>
+    ) : (
+      <ul class="table-desk__list">
+        {characters.map((character) => (
+          <li class="table-desk__item">
+            <a href={`/dm/world/characters/${character.slug}/`}>
+              <span class="table-desk__title">{character.data.title}</span>
+              {character.data.summary && (
+                <span class="table-desk__summary">{character.data.summary}</span>
+              )}
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="table-desk__footer-nav">
+    <a href="/dm/">← DM hub</a>
+  </p>
+</DmShell>

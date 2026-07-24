@@ -1,0 +1,65 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import DmBodyEnhance from '../../../components/DmBodyEnhance.astro';
+import {
+  formatSessionLabel,
+  formatStatusLabel,
+  getPublishedTableNotes,
+} from '../../../lib/table-notes';
+import { SITE_TITLE } from '../../../lib/site';
+import '../../../styles/dm-plan-print.css';
+
+export async function getStaticPaths() {
+  const plans = await getPublishedTableNotes();
+  return plans.map((plan) => ({
+    params: { slug: plan.slug },
+    props: { plan },
+  }));
+}
+
+const { plan } = Astro.props;
+const { Content } = await plan.render();
+const description =
+  plan.data.summary ??
+  `Session plan for ${formatSessionLabel(plan.data.session)} — prep for ${SITE_TITLE}.`;
+---
+
+<DmShell title={plan.data.title} description={description} current="plans" variant="plan">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">
+        {formatSessionLabel(plan.data.session)}
+        <span aria-hidden="true"> · </span>
+        {formatStatusLabel(plan.data.status)}
+      </p>
+      <h1 class="page-title">{plan.data.title}</h1>
+      {plan.data.summary && <p class="table-desk__lede">{plan.data.summary}</p>}
+    </header>
+
+    <div class="dm-plan-toolbar">
+      <button type="button" class="dm-plan-print-btn" data-print-plan>
+        Print plan
+      </button>
+      <p class="dm-plan-print-hint">Cmd+P / Ctrl+P — table-ready A4 pack (chrome hidden)</p>
+    </div>
+
+    <div class="prose table-desk__body dm-desk__body">
+      <Content />
+    </div>
+
+    <script>
+      document.querySelectorAll('[data-print-plan]').forEach((btn) => {
+        btn.addEventListener('click', () => window.print());
+      });
+    </script>
+
+    <p class="table-desk__footer-nav">
+      <a href="/dm/plans/">← All session plans</a>
+      ·
+      <a href="/dm/notes/">Session notes</a>
+      ·
+      <a href="/dm/">DM hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</DmShell>

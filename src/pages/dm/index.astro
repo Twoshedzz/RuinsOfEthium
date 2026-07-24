@@ -1,0 +1,65 @@
+---
+import DmShell from '../../components/DmShell.astro';
+import {
+  getPublishedLibraryCharacters,
+  getPublishedLibraryModules,
+  getPublishedLibraryPlaces,
+  getPublishedLibrarySessions,
+} from '../../lib/library';
+import { getPublishedTableNotes } from '../../lib/table-notes';
+import { SITE_TITLE } from '../../lib/site';
+
+const modules = await getPublishedLibraryModules();
+const places = await getPublishedLibraryPlaces();
+const characters = await getPublishedLibraryCharacters();
+const sessions = await getPublishedLibrarySessions();
+const plans = await getPublishedTableNotes();
+
+const description = `DM tools for ${SITE_TITLE} — world, modules, session plans, and session notes.`;
+---
+
+<DmShell title="DM" description={description} current="hub">
+  <header class="table-desk__header">
+    <p class="table-desk__eyebrow">Dungeon master</p>
+    <h1 class="page-title">DM hub</h1>
+    <p class="table-desk__lede">
+      Bookmark this page. Hidden from the novel nav. World reference, replayable modules, tonight’s
+      session plans, and after-play session notes.
+    </p>
+  </header>
+
+  <ul class="library-hub">
+    <li>
+      <a href="/dm/world/">
+        <span class="library-hub__label">World</span>
+        <span class="library-hub__count">{places.length + characters.length}</span>
+        <span class="library-hub__blurb">Places, factions, and NPCs — setting reference</span>
+      </a>
+    </li>
+    <li>
+      <a href="/dm/modules/">
+        <span class="library-hub__label">Modules</span>
+        <span class="library-hub__count">{modules.length}</span>
+        <span class="library-hub__blurb">Replayable adventure blocks — run again / publish later</span>
+      </a>
+    </li>
+    <li>
+      <a href="/dm/plans/">
+        <span class="library-hub__label">Session plans</span>
+        <span class="library-hub__count">{plans.length}</span>
+        <span class="library-hub__blurb">Prep for an upcoming session — cold opens, stats, choices</span>
+      </a>
+    </li>
+    <li>
+      <a href="/dm/notes/">
+        <span class="library-hub__label">Session notes</span>
+        <span class="library-hub__count">{sessions.length}</span>
+        <span class="library-hub__blurb">What happened at the table — for the novel</span>
+      </a>
+    </li>
+  </ul>
+
+  <p class="table-desk__footer-nav">
+    Also: <a href="/cyoa/">CYOA reworking</a> · <a href="/chapters/">Published chapters</a>
+  </p>
+</DmShell>

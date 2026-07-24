@@ -1,6 +1,6 @@
 # Sessions 3+ — What happened
 
-**Source:** [`../../inbox/Notes and summary.md`](../../inbox/Notes and summary.md) (filed and cleaned up)  
+**Source:** filed from inbox Hellfire session notes / `Notes and summary.md` (cleaned up here)  
 **Chapter:** 3–5 — Manor, road to plateau, ruined tower  
 **Status:** Ch. 3 [`../../../chapters/03-the-old-manor.md`](../../../chapters/03-the-old-manor.md) · Ch. 4 [`../../../chapters/04-the-road-to-the-plateau.md`](../../../chapters/04-the-road-to-the-plateau.md) · Ch. 5 [`../../../chapters/05-the-ruined-tower.md`](../../../chapters/05-the-ruined-tower.md)
 
@@ -123,4 +123,4 @@ Outside Fallcrest: an ancient house destroyed in the orc attack; cellars intact.
 - Why did the manor tomb skeletons erupt? Family curse?
 - Who is the cloaked watcher on the road?
 - What is the distant castle on the hill?
-- What lies beyond the collapsed east tunnels (Session 4 — Duergar / Troglodyte routes)?
+- East tunnels / duergar path — continued in [`../session-04/what-happened.md`](../session-04/what-happened.md)

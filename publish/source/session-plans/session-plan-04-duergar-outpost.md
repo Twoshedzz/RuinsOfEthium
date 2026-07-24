@@ -9,7 +9,9 @@
 
 ## Where we start
 
-Party has beaten the **Otyugh** in the collapsed lake cavern and pushed into worked stone passages toward a **duergar-held district** of ancient Ethium. Last session ended **mid-fight** against duergar and **quaggoth** slaves.
+Party has beaten the **Otyugh** in the collapsed lake cavern and pushed into worked stone passages toward a **duergar-held district** of ancient Ethium. This plan assumed starting mid-fight in the outpost rooms.
+
+**Played past this point:** party reached the **Assembly Hall** and the **Grey Burrower** fight. For the next table session, use [`session-plan-05-after-grey-burrower.md`](session-plan-05-after-grey-burrower.md).
 
 ---
 
@@ -29,8 +31,8 @@ Party has beaten the **Otyugh** in the collapsed lake cavern and pushed into wor
 - ✓ Goblin ambush · cave · Mara
 - ✓ Fallcrest · Blue Moon · Hammers manor
 - ✓ Ethium pool · deeper Ethium · Otyugh
-- ► **Duergar outpost** ← this session
-- Next: Troglodytes / Fallcrest return / Duergar city
+- ► **Duergar outpost** ← mostly played (Assembly Hall / Grey Burrower in progress)
+- Next: see [`../../table/05-after-grey-burrower.md`](../../table/05-after-grey-burrower.md) (`/dm/plans/05-after-grey-burrower/`)
 
 ---
 
@@ -69,6 +71,10 @@ Circular dais, two hollows. Stone in socket 1 → blue light, crystal pillars, *
 **Memory sequence:** Power → Relic placed → Memory Retrieved → Glitch → Memory Updated
 
 **Example relics:** Explorer's Compass, Ethium Smith's Hammer, Child's Drawing — each unlocks past/present vision node.
+
+**Print handout — Explorer's Compass:**
+
+![Explorer's Compass item card](../../illustrations/items/item-card-explorers-compass.png)
 
 ---
 

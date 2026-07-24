@@ -2,7 +2,7 @@
 
 **Dump messy, partial, or cut-and-paste ChatGPT chats here.**
 
-You do not need a complete conversation. A few copied messages is enough. The agent will piece fragments together with your session notes and campaign bible.
+This is raw prep. Overlap with session plans and PDFs is fine. World canon lives in `world/` and `characters/` — merge **unique facts only**, leave these files messy.
 
 ## How to add a fragment
 
@@ -18,20 +18,12 @@ You do not need a complete conversation. A few copied messages is enough. The ag
 
 ## Tips when ChatGPT won't export cleanly
 
-- Copy **one exchange at a time** (your message + its reply) into the same file
-- Use **separate files** per topic if easier — `ethium-stones.md`, `hammer-gang.md`
-- Screenshot text? Type or dictate the key facts into a file instead
-- Label uncertainty: `<!-- might be wrong -->` or "I think this was about session 3"
-- **Duplicates are OK** — better to paste twice than lose something
+- Copy **one exchange at a time** into the same file
+- Use **separate files** per topic if easier
+- Duplicates are OK — better to paste twice than lose something
 
 ## After pasting
 
-Tell Cursor something like:
+> *"List unique facts from fragments not already in world/characters topic files."*
 
-> *"Read everything in `chatgpt-exports/fragments/` and merge useful facts into the campaign bible."*
-
-or
-
-> *"Use the fragments plus session-03 notes to write chapter 3."*
-
-No need to organise first. Dump now, sort later.
+Do **not** ask to “clean up” or rewrite these chats into canon dumps.

@@ -1,0 +1,34 @@
+---
+interface Props {
+  current: 'hub' | 'world' | 'modules' | 'plans' | 'notes';
+}
+
+const { current } = Astro.props;
+
+const items = [
+  { id: 'hub', href: '/dm/', label: 'Hub' },
+  { id: 'world', href: '/dm/world/', label: 'World' },
+  { id: 'modules', href: '/dm/modules/', label: 'Modules' },
+  { id: 'plans', href: '/dm/plans/', label: 'Session plans' },
+  { id: 'notes', href: '/dm/notes/', label: 'Session notes' },
+] as const;
+---
+
+<nav class="dm-nav" aria-label="DM tools">
+  <a class="dm-nav__brand" href="/dm/">DM</a>
+  <ul class="dm-nav__list">
+    {
+      items.map((item) => (
+        <li>
+          <a
+            href={item.href}
+            class:list={['dm-nav__link', current === item.id && 'dm-nav__link--active']}
+            aria-current={current === item.id ? 'page' : undefined}
+          >
+            {item.label}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>

@@ -1,0 +1,42 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import { getPublishedLibraryModules } from '../../../lib/library';
+import { SITE_TITLE } from '../../../lib/site';
+
+const modules = await getPublishedLibraryModules();
+const description = `Adventure modules for ${SITE_TITLE} — replayable building blocks.`;
+---
+
+<DmShell title="Modules" description={description} current="modules">
+  <header class="table-desk__header">
+    <p class="table-desk__eyebrow">DM · Modules</p>
+    <h1 class="page-title">Modules</h1>
+    <p class="table-desk__lede">
+      Replayable location / adventure blocks — areas, stats, maps. Not party play history (that’s
+      Session notes).
+    </p>
+  </header>
+
+  {
+    modules.length === 0 ? (
+      <p>
+        No modules yet. Add markdown under <code>publish/source/world/modules/</code>.
+      </p>
+    ) : (
+      <ul class="table-desk__list">
+        {modules.map((mod) => (
+          <li class="table-desk__item">
+            <a href={`/dm/modules/${mod.slug}/`}>
+              <span class="table-desk__title">{mod.data.title}</span>
+              {mod.data.summary && <span class="table-desk__summary">{mod.data.summary}</span>}
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="table-desk__footer-nav">
+    <a href="/dm/">← DM hub</a>
+  </p>
+</DmShell>

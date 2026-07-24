@@ -51,7 +51,7 @@ Living reference for canon. Update after each session.
 - [ ] Distant **castle on the hill** on the plateau
 - [ ] **Black dragon** — returns?
 - [ ] Garnel's grandmother **Mala Stoneblender**'s research; book held by Hammers
-- [ ] Ethium tunnels east — collapsed; Session 4 (Duergar / Troglodyte) ahead
+- [ ] Ethium tunnels east — opened; Otyugh → duergar outpost → **Assembly Hall / Grey Burrower** (in progress); great doors / troglodytes / Fallcrest next
 - [ ] Thorn's commissioned axe — collected?
 - [ ] Healing pool powers — Garnel may discover more
 
@@ -61,9 +61,9 @@ Mountain **water feeding Ethium has changed**. A **great demon** is coming to th
 
 ## Geography
 
-- **Almenor** — country on the **Axirian peninsula** (see [`world/notes/axirian-peninsula.md`](world/notes/axirian-peninsula.md))
-- **Sunfall** — capital of Almenor; base of the Gang of Four
-- **Fallcrest** — northern frontier town, above the heartland; gateway to Ethium
+- **Almenor** — country on the **Axirian peninsula** (see [`world/notes/axirian-peninsula.md`](world/notes/axirian-peninsula.md) · [`world/notes/almenor.md`](world/notes/almenor.md))
+- **Sunfall** — capital of Almenor; base of the Gang of Four ([`world/notes/sunfall.md`](world/notes/sunfall.md))
+- **Fallcrest** — northern frontier town, above the heartland; gateway to Ethium ([`world/notes/fallcrest.md`](world/notes/fallcrest.md))
 - **Ethium** — the whole plateau was a vast ancient city; map lineage in [`world/notes/ethium-maps.md`](world/notes/ethium-maps.md); place lore in [`world/notes/ethium.md`](world/notes/ethium.md); stonework in [`world/notes/ethium-stonework.md`](world/notes/ethium-stonework.md)
 
 ## Key locations
@@ -79,23 +79,25 @@ Mountain **water feeding Ethium has changed**. A **great demon** is coming to th
 
 ## Factions
 
-| Name | Notes |
-|------|-------|
-| The Hammers | Local thugs; hammer pendants; manor + tower cells |
-| Gang of Four | Valnarans, Silent Knives, Brotherhood, Hammers — allied in Sunfall |
-| Valnaran family | Tiefling racketeers; **Maelis Varn**, Third Hand |
-| Axirian agents | Hired gangs to investigate Ethium (from prep notes) |
-| Fallcrest town guard | Sergeant Murgaddin |
+| Name | Notes | Topic file |
+|------|-------|------------|
+| The Hammers | Local thugs; hammer pendants; manor + tower cells | [`world/notes/hammers.md`](world/notes/hammers.md) |
+| Gang of Four | Valnarans, Silent Knives, Brotherhood, Hammers — allied in Sunfall | [`world/notes/gang-of-four.md`](world/notes/gang-of-four.md) |
+| Valnaran family | Tiefling racketeers; **Maelis Varn**, Third Hand | see Maelis |
+| Axirian agents | Hired gangs to investigate Ethium (from prep notes) | [`world/notes/plot-hooks-session-era.md`](world/notes/plot-hooks-session-era.md) |
+| Fallcrest town guard | Sergeant Murgaddin | see Murgaddin |
 
 ## Key NPCs
 
-| Name | Role |
-|------|------|
-| Mara | Courier; map |
-| Tobbs | Nimozaran's apprentice |
-| Murgaddin | Town guard sergeant |
-| Garnel Stoneblender | Gnome ally; illusionist; Ethium lore; rescued Session 3+ |
-| Maelis Varn | Valnaran agent; letter author |
+| Name | Role | Topic file |
+|------|------|------------|
+| Mara | Courier; map | [`characters/mara.md`](characters/mara.md) |
+| Tobbs | Nimozaran's apprentice | [`characters/tobbs.md`](characters/tobbs.md) |
+| Nimozaran | High Septarch | [`characters/nimozaran.md`](characters/nimozaran.md) |
+| Murgaddin | Town guard sergeant | [`characters/murgaddin.md`](characters/murgaddin.md) |
+| Garnel Stoneblender | Gnome ally; illusionist; Ethium lore; rescued Session 3+ | [`characters/garnel-stoneblender.md`](characters/garnel-stoneblender.md) |
+| Mala Stoneblender | Garnel's grandmother; Ethium research | [`characters/mala-stoneblender.md`](characters/mala-stoneblender.md) |
+| Maelis Varn | Valnaran agent; letter author | [`characters/maelis-varn.md`](characters/maelis-varn.md) |
 
 ## Naming & spelling
 
@@ -111,6 +113,7 @@ Thorn Axehand, Loki, Derek, Dave, Nibbles McPicklepants, Mara, Tobbs, Sergeant M
 
 ## Notes for the author
 
-- Source paste: [`inbox/Notes and summary.md`](inbox/Notes%20and%20summary.md)
-- Garnel backstory: [`inbox/Garnel Stoneblender.md`](inbox/Garnel%20Stoneblender.md)
-- Gang structure: [`inbox/The gang of four.md`](inbox/The%20gang%20of%20four.md)
+- Session 3+ play log: [`sessions/session-03/what-happened.md`](sessions/session-03/what-happened.md)
+- World index: [`world/README.md`](world/README.md) · modules: [`world/modules/README.md`](world/modules/README.md) · characters: [`characters/README.md`](characters/README.md)
+- Raw ChatGPT dumps: [`chatgpt-exports/`](chatgpt-exports/) (do not over-sort)
+- Live table prep: [`../table/`](../table/) · PDFs [`../table-assets/pdfs/`](../table-assets/pdfs/) · maps [`world/maps/`](world/maps/) (phone via `table-maps.manifest`)

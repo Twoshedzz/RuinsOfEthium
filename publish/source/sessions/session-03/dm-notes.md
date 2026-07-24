@@ -1,6 +1,6 @@
 # Session 3+ — DM notes
 
-**Raw source:** `inbox/Notes and summary.md` (duplicate of `inbox/Hellfire/session notes.md`)
+**Play log (canonical):** [`what-happened.md`](what-happened.md) (filed from inbox Hellfire session notes)
 
 ## Maps referenced at the table
 
@@ -8,10 +8,11 @@
 - Fallcrest to Ethium (overland)
 - Waterfall climb
 - Ruined tower (surface camp)
-- Ethium pool (small map)
+- Ethium pool (small map) — `/dm/maps/ethium-pool-dungeon.png`
 - Spiral stairs / dungeon
+- Beyond the pool / Tower C — `/dm/maps/beyond-the-pool.png` · `tower-c-krutick-lair.jpg`
 
-PDFs for later sessions: `inbox/Hellfire/Session notes/` (Session 3 stat blocks, Session 4 DM pack).
+PDFs: [`../../../table-assets/pdfs/`](../../../table-assets/pdfs/) → `/dm/pdfs/`
 
 ## Corrections / clarifications
 
@@ -19,7 +20,8 @@ PDFs for later sessions: `inbox/Hellfire/Session notes/` (Session 3 stat blocks,
 - Capital of Almenor is **Sunfall** (not "the city of Almenor")
 - Sergeant spelling: **Murgaddin** (Murgeddin in Fallcrest wiki text)
 
-## Not in this play log yet
+## Not in this play log yet (later sessions)
 
-- Session 4 Duergar / Troglodyte routes under Ethium
-- Otyugh, myconids, lizardfolk alliance (from ChatGPT Session 4 prep)
+- Full write-up of east dig → Otyugh → duergar outpost → Assembly Hall
+- Grey Burrower fight in progress at table — next prep: [`../../../table/05-after-grey-burrower.md`](../../../table/05-after-grey-burrower.md)
+- Troglodyte route / Fallcrest return / sealed duergar city (player choice after doors)

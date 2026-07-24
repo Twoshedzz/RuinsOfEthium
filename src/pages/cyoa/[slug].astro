@@ -1,0 +1,40 @@
+---
+import CyoaShell from '../../components/CyoaShell.astro';
+import DmBodyEnhance from '../../components/DmBodyEnhance.astro';
+import { getPublishedCyoaPages } from '../../lib/cyoa';
+import { SITE_TITLE } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const pages = await getPublishedCyoaPages();
+  return pages.map((page) => ({
+    params: { slug: page.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await page.render();
+const description =
+  page.data.summary ?? `${page.data.title} — CYOA source for ${SITE_TITLE}.`;
+---
+
+<CyoaShell title={page.data.title} description={description}>
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">CYOA</p>
+      <h1 class="page-title">{page.data.title}</h1>
+      {page.data.summary && <p class="table-desk__lede">{page.data.summary}</p>}
+    </header>
+
+    <div class="prose table-desk__body dm-desk__body">
+      <Content />
+    </div>
+
+    <p class="table-desk__footer-nav">
+      <a href="/cyoa/">← CYOA index</a>
+      ·
+      <a href="/dm/">DM hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</CyoaShell>

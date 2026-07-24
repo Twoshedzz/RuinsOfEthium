@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from './SiteHeader.astro';
+import DmNav from './DmNav.astro';
+import { SITE_TITLE } from '../lib/site';
+
+interface Props {
+  title: string;
+  description: string;
+  current: 'hub' | 'world' | 'modules' | 'plans' | 'notes';
+  wide?: boolean;
+  /** Session-plan desk — enables print pack class + masthead */
+  variant?: 'plan';
+}
+
+const { title, description, current, wide = true, variant } = Astro.props;
+const isPlan = variant === 'plan';
+---
+
+<BaseLayout title={title} description={description}>
+  <meta slot="head" name="robots" content="noindex,nofollow" />
+  <SiteHeader slot="header" />
+
+  <div class:list={['container', wide && 'container--wide', 'dm-desk', isPlan && 'dm-desk--plan']}>
+    <p class="dm-desk__banner" role="note">
+      <strong>DM tools</strong> — not the novel.
+      <a href="/chapters/">Chapters</a>
+    </p>
+
+    <DmNav current={current} />
+
+    {isPlan && (
+      <p class="dm-plan-print-masthead">
+        {SITE_TITLE} · Session plan
+      </p>
+    )}
+
+    <slot />
+  </div>
+</BaseLayout>

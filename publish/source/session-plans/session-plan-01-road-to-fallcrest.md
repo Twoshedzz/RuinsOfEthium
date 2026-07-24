@@ -2,6 +2,8 @@
 
 **A 1st-level intro adventure for 4 players | Tone: heroic, tense, kid-friendly**
 
+**Replayable module:** [`../world/modules/road-to-fallcrest.md`](../world/modules/road-to-fallcrest.md) (road + cave). Town block after arrival → [`../world/modules/blue-moon-fallcrest.md`](../world/modules/blue-moon-fallcrest.md).
+
 ---
 
 ## **Premise (read aloud, 30 seconds)**

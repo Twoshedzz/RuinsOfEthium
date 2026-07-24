@@ -1,0 +1,55 @@
+---
+import CyoaShell from '../../components/CyoaShell.astro';
+import { getPublishedCyoaPages } from '../../lib/cyoa';
+import { SITE_TITLE } from '../../lib/site';
+
+const pages = await getPublishedCyoaPages();
+const description = `Choose-your-own-adventure rework of ${SITE_TITLE} — separate from the novel.`;
+
+const blurbs: Record<string, string> = {
+  readme: 'Overview — scope, tone, player role',
+  format: 'Passage markup and engine import notes',
+  flow: 'Mermaid flow of major choices',
+  'book-01-the-road-to-ethium': 'Full Book 1 passages (prologue → pool camp)',
+  encounters: 'Combat encounter stubs',
+};
+---
+
+<CyoaShell title="CYOA" description={description}>
+  <header class="table-desk__header">
+    <p class="table-desk__eyebrow">Choose your own adventure</p>
+    <h1 class="page-title">CYOA</h1>
+    <p class="table-desk__lede">
+      Branching single-player rework. Separate from the published novel and from DM modules / session
+      notes. Bookmark this page — not in the main nav.
+    </p>
+  </header>
+
+  {
+    pages.length === 0 ? (
+      <p>
+        No CYOA pages synced. Add markdown under <code>publish/source/cyoa/</code>.
+      </p>
+    ) : (
+      <ul class="library-hub">
+        {pages.map((page) => (
+          <li>
+            <a href={page.slug === 'readme' ? '/cyoa/readme/' : `/cyoa/${page.slug}/`}>
+              <span class="library-hub__label">{page.data.title}</span>
+              <span class="library-hub__count">{page.slug}</span>
+              <span class="library-hub__blurb">
+                {page.data.summary ?? blurbs[page.slug] ?? 'CYOA source'}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="table-desk__footer-nav">
+    <a href="/dm/">DM hub</a>
+    ·
+    <a href="/chapters/">Published chapters</a>
+  </p>
+</CyoaShell>

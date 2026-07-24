@@ -1,0 +1,40 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import DmBodyEnhance from '../../../components/DmBodyEnhance.astro';
+import { getPublishedLibraryModules } from '../../../lib/library';
+import { SITE_TITLE } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const modules = await getPublishedLibraryModules();
+  return modules.map((mod) => ({
+    params: { slug: mod.slug },
+    props: { mod },
+  }));
+}
+
+const { mod } = Astro.props;
+const { Content } = await mod.render();
+const description =
+  mod.data.summary ?? `${mod.data.title} — replayable module for ${SITE_TITLE}.`;
+---
+
+<DmShell title={mod.data.title} description={description} current="modules">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">Module</p>
+      <h1 class="page-title">{mod.data.title}</h1>
+      {mod.data.summary && <p class="table-desk__lede">{mod.data.summary}</p>}
+    </header>
+
+    <div class="prose table-desk__body dm-desk__body">
+      <Content />
+    </div>
+
+    <p class="table-desk__footer-nav">
+      <a href="/dm/modules/">← All modules</a>
+      ·
+      <a href="/dm/">DM hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</DmShell>

@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from './SiteHeader.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  wide?: boolean;
+}
+
+const { title, description, wide = true } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <meta slot="head" name="robots" content="noindex,nofollow" />
+  <SiteHeader slot="header" />
+
+  <div class:list={['container', wide && 'container--wide', 'dm-desk', 'cyoa-desk']}>
+    <p class="dm-desk__banner" role="note">
+      <strong>CYOA</strong> — choose-your-own-adventure rework; not the novel.
+      <a href="/chapters/">Chapters</a>
+      ·
+      <a href="/dm/">DM tools</a>
+    </p>
+
+    <nav class="dm-nav" aria-label="CYOA">
+      <a class="dm-nav__brand" href="/cyoa/">CYOA</a>
+      <ul class="dm-nav__list">
+        <li>
+          <a class="dm-nav__link" href="/cyoa/">Index</a>
+        </li>
+        <li>
+          <a class="dm-nav__link" href="/dm/">DM hub</a>
+        </li>
+      </ul>
+    </nav>
+
+    <slot />
+  </div>
+</BaseLayout>

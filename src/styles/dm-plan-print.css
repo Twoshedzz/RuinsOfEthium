@@ -1,0 +1,377 @@
+/**
+ * Print pack styles for DM session plans only.
+ * Loaded only when DmShell variant="plan" (pages with .dm-desk--plan).
+ * Does not affect novel chapters or other DM sections.
+ */
+
+/* —— Screen: compact print control —— */
+
+.dm-plan-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1rem;
+  margin: 0 0 1.25rem;
+}
+
+.dm-plan-print-btn {
+  appearance: none;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--table-ink, #1c2420);
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid var(--table-rule, #9aab9e);
+  padding: 0.4rem 0.85rem;
+  cursor: pointer;
+  line-height: 1.3;
+}
+
+.dm-plan-print-btn:hover {
+  border-color: var(--table-next, #2f5d45);
+  color: var(--table-next, #2f5d45);
+}
+
+.dm-plan-print-btn:focus-visible {
+  outline: 2px solid var(--table-next, #2f5d45);
+  outline-offset: 2px;
+}
+
+.dm-plan-print-hint {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--table-muted, #4a5a52);
+}
+
+.dm-plan-print-masthead {
+  display: none;
+}
+
+/*
+ * HP tick boxes — match Duergar Combat Tracker / Session 4 pack:
+ * empty stroke-only squares, exactly one per HP (no ×5 grouping).
+ * Wrap onto as many rows as needed; tick/cross with pen.
+ * Shown on screen too so Print plan is WYSIWYG.
+ */
+.dm-desk--plan .dm-hp-tracker {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: center;
+  column-gap: 2px;
+  row-gap: 3px;
+  margin-top: 0.35rem;
+  max-width: 100%;
+  width: 100%;
+}
+
+.dm-desk--plan .dm-hp-tracker__box {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border: 1.5px solid var(--table-ink, #1c2420);
+  background: #fff;
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+
+.dm-desk--plan .dm-hp-cell {
+  min-width: 8rem;
+  max-width: 22rem;
+  vertical-align: top;
+}
+
+.dm-desk--plan .dm-hp-tracker__label {
+  display: none;
+}
+
+@media print {
+  /* A4 only when this stylesheet is present (plan pages). */
+  @page {
+    size: A4;
+    margin: 12mm;
+  }
+
+  body:has(.dm-desk--plan) {
+    margin: 0;
+    min-height: 0;
+    color: #000;
+    background: #fff !important;
+    background-image: none !important;
+    font-size: 11pt;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body:has(.dm-desk--plan) .site-header,
+  body:has(.dm-desk--plan) .site-footer,
+  body:has(.dm-desk--plan) .dm-desk__banner,
+  body:has(.dm-desk--plan) .dm-nav,
+  body:has(.dm-desk--plan) .dm-plan-toolbar,
+  body:has(.dm-desk--plan) .table-desk__footer-nav,
+  body:has(.dm-desk--plan) #dm-image-dialog,
+  body:has(.dm-desk--plan) .image-lightbox__dialog {
+    display: none !important;
+  }
+
+  body:has(.dm-desk--plan) .site-shell,
+  body:has(.dm-desk--plan) .site-main,
+  body:has(.dm-desk--plan) .container,
+  body:has(.dm-desk--plan) .container--wide,
+  body:has(.dm-desk--plan) .dm-desk {
+    max-width: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .dm-desk--plan {
+    color: #000;
+    --table-ink: #000;
+    --table-muted: #222;
+    --table-rule: #000;
+    --table-panel: transparent;
+    --table-next: #000;
+  }
+
+  .dm-desk--plan .dm-plan-print-masthead {
+    display: block;
+    margin: 0 0 0.35rem;
+    padding: 0 0 0.25rem;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 9pt;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #000;
+    border-bottom: 1.5pt solid #000;
+  }
+
+  .dm-desk--plan .table-desk__header {
+    margin-bottom: 0.65rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1pt solid #000;
+  }
+
+  .dm-desk--plan .table-desk__eyebrow {
+    margin: 0 0 0.15rem;
+    font-size: 8pt;
+    letter-spacing: 0.06em;
+    color: #000;
+  }
+
+  .dm-desk--plan .page-title {
+    margin: 0 0 0.2rem;
+    font-size: 16pt;
+    font-weight: 700;
+    text-align: left;
+    color: #000;
+    line-height: 1.2;
+  }
+
+  .dm-desk--plan .table-desk__lede {
+    margin: 0;
+    font-size: 9.5pt;
+    color: #000;
+    line-height: 1.35;
+  }
+
+  .dm-desk--plan .prose,
+  .dm-desk--plan .table-desk__body,
+  .dm-desk--plan .dm-desk__body {
+    max-width: none;
+    font-size: 9.5pt;
+    line-height: 1.35;
+    color: #000;
+  }
+
+  .dm-desk--plan .prose p,
+  .dm-desk--plan .prose ul,
+  .dm-desk--plan .prose ol {
+    margin: 0 0 0.45rem;
+  }
+
+  .dm-desk--plan .prose h1,
+  .dm-desk--plan .prose h2,
+  .dm-desk--plan .prose h3,
+  .dm-desk--plan .prose h4 {
+    color: #000;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    margin: 0.85rem 0 0.35rem;
+    line-height: 1.2;
+  }
+
+  .dm-desk--plan .prose h1 {
+    font-size: 13pt;
+  }
+
+  .dm-desk--plan .prose h2 {
+    font-size: 11.5pt;
+    border-bottom: 0.75pt solid #000;
+    padding-bottom: 0.15rem;
+  }
+
+  .dm-desk--plan .prose h3 {
+    font-size: 10.5pt;
+  }
+
+  .dm-desk--plan .prose h4 {
+    font-size: 10pt;
+  }
+
+  .dm-desk--plan .prose hr {
+    border: none;
+    border-top: 0.75pt solid #000;
+    margin: 0.6rem 0;
+  }
+
+  .dm-desk--plan .prose blockquote {
+    margin: 0.4rem 0 0.55rem;
+    padding: 0.35rem 0.55rem;
+    border: 1pt solid #000;
+    border-left-width: 3pt;
+    background: transparent;
+    color: #000;
+    font-style: italic;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .dm-desk--plan .prose strong {
+    color: #000;
+    font-weight: 700;
+  }
+
+  /* Tables — practical encounter / tracker sheets */
+  .dm-desk--plan .prose table,
+  .dm-desk--plan .dm-encounter-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 8.5pt;
+    line-height: 1.25;
+    margin: 0.35rem 0 0.65rem;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .dm-desk--plan .prose th,
+  .dm-desk--plan .prose td {
+    border: 1pt solid #000;
+    padding: 0.28rem 0.35rem;
+    vertical-align: top;
+    color: #000;
+    background: transparent !important;
+  }
+
+  .dm-desk--plan .prose th {
+    font-weight: 700;
+    text-align: left;
+    background: #eee !important;
+  }
+
+  .dm-desk--plan .prose td:empty {
+    min-height: 1.4rem;
+    min-width: 3.5rem;
+  }
+
+  /* HP tick boxes — PDF-style empty squares (≈7–8pt), one per HP, wrap rows */
+  .dm-desk--plan .dm-hp-tracker {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: center;
+    column-gap: 1.5pt;
+    row-gap: 2pt;
+    margin-top: 0.2rem;
+    max-width: none;
+    width: 100%;
+  }
+
+  .dm-desk--plan .dm-hp-tracker__box {
+    display: inline-block;
+    width: 8pt;
+    height: 8pt;
+    border: 0.9pt solid #000;
+    background: #fff !important;
+    flex: 0 0 auto;
+    box-sizing: border-box;
+    border-radius: 0;
+  }
+
+  .dm-desk--plan .dm-hp-cell {
+    min-width: 12rem;
+    max-width: none;
+    width: 40%;
+  }
+
+  .dm-desk--plan .dm-hp-tracker__label {
+    display: none;
+  }
+
+  /* Encounter boards: keep creature + HP trackers readable */
+  .dm-desk--plan .dm-encounter-table td.dm-hp-cell {
+    font-weight: 700;
+  }
+
+  .dm-desk--plan .prose h2 + table,
+  .dm-desk--plan .prose h3 + table,
+  .dm-desk--plan .prose h3 + p,
+  .dm-desk--plan .prose h3 + blockquote {
+    page-break-before: avoid;
+    break-before: avoid-page;
+  }
+
+  /* Links as short labels — no giant URLs appended */
+  .dm-desk--plan .prose a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .dm-desk--plan .prose a[href]::after {
+    content: none !important;
+  }
+
+  /* Maps — usable width, not multi-page posters */
+  .dm-desk--plan .dm-thumb-wrap {
+    display: inline-block;
+    margin: 0.25rem 0.4rem 0.25rem 0;
+    cursor: default;
+  }
+
+  .dm-desk--plan .dm-desk__body img.dm-thumb,
+  .dm-desk--plan .dm-thumb,
+  .dm-desk--plan .prose img {
+    display: block;
+    max-width: 100% !important;
+    max-height: 9cm !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain;
+    border: 1pt solid #000;
+    filter: none !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .dm-desk--plan .dm-media-link {
+    display: inline-block;
+    margin: 0.25rem 0.5rem 0.35rem 0;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .dm-desk--plan .dm-media-link__name {
+    font-size: 8pt;
+    color: #000;
+  }
+
+  .dm-desk--plan .prose code {
+    font-size: 8pt;
+    color: #000;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+}

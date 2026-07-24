@@ -23,6 +23,7 @@ const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
     <meta name="site-edition" content={SITE_EDITION} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{fullTitle}</title>
+    <slot name="head" />
   </head>
   <body>
     <div class="site-shell">

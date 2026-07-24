@@ -1,0 +1,55 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import {
+  formatLibrarySessionLabel,
+  getPublishedLibrarySessions,
+} from '../../../lib/library';
+import { SITE_TITLE } from '../../../lib/site';
+
+const sessions = await getPublishedLibrarySessions();
+const description = `Session notes for ${SITE_TITLE} — what happened at the table.`;
+---
+
+<DmShell title="Session notes" description={description} current="notes">
+  <header class="table-desk__header">
+    <p class="table-desk__eyebrow">DM · Session notes</p>
+    <h1 class="page-title">Session notes</h1>
+    <p class="table-desk__lede">
+      What happened at the table — campaign log for authoring chapters. Not modules. Not session
+      plans.
+    </p>
+  </header>
+
+  {
+    sessions.length === 0 ? (
+      <p>
+        No session notes yet. Add <code>what-happened.md</code> under{' '}
+        <code>publish/source/sessions/session-XX/</code>.
+      </p>
+    ) : (
+      <ul class="table-desk__list">
+        {sessions.map((session) => (
+          <li class="table-desk__item">
+            <a href={`/dm/notes/${session.slug}/`}>
+              <span class="table-desk__meta">
+                <span class="table-desk__session">
+                  {formatLibrarySessionLabel(session.data.session)}
+                </span>
+              </span>
+              <span class="table-desk__title">{session.data.title}</span>
+              {session.data.summary && (
+                <span class="table-desk__summary">{session.data.summary}</span>
+              )}
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="table-desk__footer-nav">
+    <a href="/dm/">← DM hub</a>
+    ·
+    <a href="/dm/plans/">Session plans</a>
+  </p>
+</DmShell>
