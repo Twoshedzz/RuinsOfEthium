@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { cp, mkdir, readFile, readdir, stat, writeFile } from 'node:fs/promises';
+import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -64,6 +64,11 @@ const CYOA_ORDER = {
 };
 
 async function ensureDir(dir) {
+  await mkdir(dir, { recursive: true });
+}
+
+async function cleanDir(dir) {
+  await rm(dir, { recursive: true, force: true });
   await mkdir(dir, { recursive: true });
 }
 
@@ -426,7 +431,7 @@ async function writeLibraryMarkdown(targetPath, raw, defaults, fromDir) {
 
 async function syncMarkdownCollection(sourceDir, targetDir, label) {
   await ensureDir(sourceDir);
-  await ensureDir(targetDir);
+  await cleanDir(targetDir);
 
   const entries = await readdir(sourceDir, { withFileTypes: true });
   let copied = 0;
@@ -451,7 +456,7 @@ async function syncMarkdownCollection(sourceDir, targetDir, label) {
 
 async function syncLibraryFlatCollection(sourceDir, targetDir, label, fromDir, orderMap = {}) {
   await ensureDir(sourceDir);
-  await ensureDir(targetDir);
+  await cleanDir(targetDir);
 
   const entries = await readdir(sourceDir, { withFileTypes: true });
   let copied = 0;
@@ -486,7 +491,7 @@ async function syncLibraryFlatCollection(sourceDir, targetDir, label, fromDir, o
 
 async function syncLibrarySessions() {
   await ensureDir(sessionSources);
-  await ensureDir(librarySessionTargets);
+  await cleanDir(librarySessionTargets);
 
   const entries = await readdir(sessionSources, { withFileTypes: true });
   let copied = 0;
@@ -530,7 +535,7 @@ async function syncChapters() {
 
 async function syncTableNotes() {
   await ensureDir(tableSources);
-  await ensureDir(tableTargets);
+  await cleanDir(tableTargets);
 
   const entries = await readdir(tableSources, { withFileTypes: true });
   let copied = 0;
@@ -583,7 +588,7 @@ async function syncLibraryCharacters() {
 
 async function syncCyoaPages() {
   await ensureDir(cyoaSources);
-  await ensureDir(cyoaTargets);
+  await cleanDir(cyoaTargets);
 
   const entries = await readdir(cyoaSources, { withFileTypes: true });
   let copied = 0;
@@ -658,11 +663,13 @@ async function syncAssetTree(sourceDir, targetDir, allowedExtensions, label, rel
 }
 
 async function syncIllustrations() {
+  await cleanDir(illustrationTargets);
   return syncAssetTree(illustrationSources, illustrationTargets, imageExtensions, 'image');
 }
 
 /** PDFs and other printable assets under table-assets/ (not maps/). */
 async function syncTableAssetFiles() {
+  await cleanDir(dmAssetTargets);
   return syncAssetTree(tableAssetSources, dmAssetTargets, tableAssetExtensions, 'dm-asset');
 }
 
