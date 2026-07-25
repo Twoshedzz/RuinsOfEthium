@@ -15,9 +15,9 @@ Derek looked at the far end of the room, where tons of shattered granite blocked
 
 "No," Garnel agreed cheerfully, flicking a scrap of parchment. "Someone wanted to make sure whatever lay beyond stayed put. Or perhaps they were trying to keep something out."
 
-Behind them, Nibbles was poking at the remains of the old undead adventurers they had defeated on the spiral stairs. He stopped beside one skeletal figure clad in stiff, peat-stained leather armour that smelled strongly of damp compost and wet ditch-water.
+Behind them, propped up against a stone pillar where Nibbles and Derek had dragged him down from the stairs, sat the stiff zombie they had hauled along. He was clad in ancient, peat-stained leather armour that smelled strongly of damp compost and wet ditch-water.
 
-"This one is remarkably intact," Nibbles said, nudging a muddy boot with his toe. "Frightful dress sense, but sturdy bones. We ought to call him Poopy Joe. He looks like he fell backward into a farmer's muck-heap and stayed there for fifty years."
+"He's still remarkably intact," Nibbles said, nudging a muddy boot with his toe. "Frightful dress sense, but sturdy bones. I'm calling him Poopy Joe. He looks like he fell backward into a farmer's muck-heap fifty years ago and never got around to getting out."
 
 Dave looked up from his spellbook, eyebrows raised. "You're giving names to the undead now?"
 

@@ -87,11 +87,13 @@ He wiped his blade and fished the glinting object from the muck: a hand axe, fin
 
 "Ethium work," Derek said, turning it over. "The rune's there. The magic isn't — not yet."
 
-"Still shiny," Nibbles said, tucking it into his belt.
+"Still shiny," Nibbles said, tucking it into his belt. He paused, eyeing the third fallen figure lying stiff in the muck. "And we're keeping him."
 
-"Worth it?" Thorn asked.
+Derek stared at him. "He's a zombie, Nibbles. And he smells of rotten peat."
 
-"...Mostly," Nibbles said.
+"He has sturdy boots," Nibbles declared, grabbing the figure under the arms. "And I refuse to leave good leather behind. Help me haul him."
+
+Derek groaned, but grabbed the feet. "If he bites me, I am healing him last."
 
 ---
 
