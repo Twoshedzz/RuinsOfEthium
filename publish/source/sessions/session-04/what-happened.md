@@ -1,86 +1,43 @@
 # Sessions 4+ — What happened (east of the pool → Assembly Hall)
 
-**Source:** migrated from module / session-plan play status (pool east path, Session 4 duergar pack). Expand with fresh table bullets after the next game.  
-**Chapter:** 6+ — East of the pool (draft: [`../../chapter-drafts/06-east-of-the-pool.md`](../../chapter-drafts/06-east-of-the-pool.md))  
-**Status:** Played through **Assembly Hall / Grey Burrower mid-fight**. Next table sheet: [`../../../table/05-after-grey-burrower.md`](../../../table/05-after-grey-burrower.md)
-
-Prior arc (manor → road → tower / pool): [`../session-03/what-happened.md`](../session-03/what-happened.md).
+**Source:** Table play notes from the Ethium pool, eastern collapse, Lake Cavern, Duergar Outpost, Ethium Viewing Dais, and Assembly Hall.  
+**Chapters:** Chapter 6 (*East of the Pool*) & Chapter 7 (*The Ethium Dais and the Burrower*)  
+**Status:** Played through Assembly Hall, Grey Burrower eruption, and Duergar city gates closing.
 
 ---
 
-## Summary
+## Complete Table Summary
 
-- Party rested at the activated **healing pool**; **Garnel** stayed researching there while the others pressed on
-- Chose **deeper Ethium** (east cave-in) over the **Kruthik lair** side option (Garnel’s crystal rumour — tease only so far)
-- Dug / opened the eastern collapse; reached the **lake cavern** and fought the **Otyugh**
-- Pushed into **worked stone** toward a **duergar-held district** (old dwarven halls)
-- Fought through **outpost rooms** (duergar + quaggoth slaves); continued to the **Assembly Hall**
-- Mid-fight: **Grey Burrower** erupted; session paused with the worm already in play and the fight unfinished
-- Surviving duergar path still points to sealing the **great doors** (not yet resolved at table)
+### 1. Night at the Pool & "Poopy Joe"
+- Party rested at the activated **healing pool**. **Garnel** gave excited explanations of how the ancient pool magic works.
+- The party cleansed one of the zombies killed in the tower (nicknamed **Poopy Joe** due to his ancient peat-stained leather armour smelling like compost). Lowering him into the healing pool cleansed his form and restored him into a slow, polite zombie assistant to help **Garnel** clean the chamber!
+- During the night, the party set watches around the pool. **Hammers** ambushed them. The **Cloaked Watcher** was spotted fleeing up the stairs across the traps, and the party dispatched the remaining thugs.
 
----
+### 2. The 2-Day Dig & Hall of Statues
+- **Garnel** teased a side option about **crystals** in a **Kruthik lair**, but the party chose **deeper Ethium** (the eastern cave-in).
+- Digging took two full days of dwarven stonecraft and strength. Smallest of all, **Garnel** squirmed through the first gap.
+- **The Border Hall**: They discovered ancient halls lined with statues — Ethium citizens at the near end, dwarven lords at the far end, and animated warrior guards in between marking the old border.
+- **Statue Battle**: The warrior statues animated! Non-magical weapons bounced off them until the party realized **Ethium crystals** on the walls were powering the guardians. They knocked the crystals loose, deactivating the statues, and collected the stones.
 
-## Scene by scene
+### 3. Lake Cavern & Otyugh Ambush
+- **The Chasm**: A collapsed stone bridge forced the party to climb down a steep cliff into a murky cavern.
+- **Troglodyte Chute**: A foul side cave filled with rotten carcasses — a chute where **Troglodytes** throw rubbish to keep the monster fed and away from their lair.
+- **Telepathic Trap**: **Dave** heard a voice in his mind from the murky lake: *"Please help me, I am trapped..."* (the **Otyugh's** telepathy lure).
+- **The Fight**: The **Otyugh** erupted from the sludge! **Nibbles** was caught in a tentacle and bitten. **Derek** and **Dave** scrambled down the ropes; **Thorn** landed heavy blows while **Dave** blasted it with fire.
+- **Loot**: Old adventurer gear, a **healing potion**, and gold coins recovered from the muck.
 
-### Digging east / first passages
+### 4. Duergar Outpost & The Ethium Viewing Dais
+- Ascending the far cliff, the party entered old dwarven halls occupied by **Duergar** and **Quaggoth slaves**.
+- **Crossroads Ambush**: **Duergar** used invisibility to surprise the party and **Enlarge** to deal heavy damage. **Nibbles** rushed in, taking heavy hits. **Derek** kept everyone healed while **Dave** cast **Flaming Sphere** and **Thorn** held the line.
+- **The Ethium Viewing Dais**: An ancient stone table with a relic slot. Inserting objects caused a crystal sphere to emerge, displaying text:
+  `ready, accessing [ Memory ], memory updating`
+  - **Ethium Axe**: Showed ancient busy dwarven/Ethium forges $\rightarrow$ shifted to modern dark view of cages, crates, and dark dwarves riding giant spiders.
+  - **Royal Stone**: Showed the ancient Ethium Royal Castle $\rightarrow$ shifted to present view of ruins overrun by **Goblins**, **Ogres**, and **Hobgoblins**.
+  - **Pool Water**: Showed an ill citizen lowered into the pool $\rightarrow$ shifted to live view of **Garnel** and **Poopy Joe** tidying the pool chamber!
 
-- East of the pool: dig through the cave-in toward chambers mentioned in the wizard’s notes
-- Worked Ethium stone continues; air / draft changes as they go deeper
-- **Kruthik lair** remains a named option they have **not** visited
-
-### Lake cavern — Otyugh
-
-- Collapsed cavern / black lake (foul terrain)
-- **Otyugh** fought and beaten (≈75 HP table numbers from the troglodyte tracker / pool bridge)
-- Beyond: foul tunnel (troglodyte route — not taken yet) and worked passage (duergar)
-
-### Duergar outpost rooms
-
-- Worked stone; dwarven symbols; blue mineral veins
-- Duergar guards + quaggoth slaves defending the approach
-- Party advanced from the **right-hand tunnel** on the duergar route map toward the halls
-
-### Assembly Hall — Grey Burrower (in progress)
-
-- Grand hall fight: captain, soldiers, crossbows, chained quaggoths
-- **Grey Burrower** entered mid-fight (predator from grey tunnels — not miners)
-- **Session ended mid-combat** with the Burrower already on the board — resume from [`../../../table/05-after-grey-burrower.md`](../../../table/05-after-grey-burrower.md)
-
-### Viewing Dais
-
-- Module / pack includes the **Ethium Viewing Dais** (stone + relic → Memory Retrieved → glitch → Memory Updated)
-- Confirm at table whether a full dais vision already happened; if not, it remains available in aftermath / return
-
----
-
-## Combat (memorable)
-
-- Otyugh in the lake cavern — filthy, territorial
-- Outpost rooms → Assembly Hall three-way chaos (party · duergar · Burrower)
-- Cliffhanger: Grey Burrower mid-fight
-
-## Loot & discoveries
-
-- *(Fill from table — captain pouch / keys / relics if awarded; don’t double-award vs Session 5 sheet)*
-- Signature dais relics if used: Explorer’s Compass · Ethium Smith’s Hammer · Child’s Drawing · Pool node (can show Garnel) — see module / loot notes
-
-## NPC / ally status
-
-- **Garnel Stoneblender** — at the Ethium pool researching (unless already moved)
-
-## Decisions
-
-- East dig / deeper Ethium instead of Kruthik side delve
-- Pressed into duergar district rather than turning back to Fallcrest (so far)
-
-## Loose ends for next time
-
-- Finish Assembly Hall fight; let survivors seal great doors if that beats plays out
-- Party choice after doors: troglodytes · Fallcrest (waterfall ambush contingency) · dig/stakeout · fetch Garnel · chase grey tunnels
-- Viewing Dais if not yet fully used
-- Kruthik lair still open as a later side option
-
-## Module / map refs
-
-- [`../../world/modules/ethium-pool.md`](../../world/modules/ethium-pool.md) · [`../../world/modules/duergar-outpost.md`](../../world/modules/duergar-outpost.md) · [`../../world/modules/kruthik-lair.md`](../../world/modules/kruthik-lair.md)
-- Maps: beyond-the-pool · duergar-route-sm · ethium-pool-dungeon
+### 5. Assembly Hall Battle & The Grey Burrower
+- The party rested, then sent **Peggy** the familiar ahead to scout. **Duergar** and **Quaggoths** were waiting in ambush.
+- **Great Battle**: **Quaggoths** charged while four **Duergar** enlarged themselves. **Nibbles** (now 3rd level) unleashed **Thunderwave** and **Dragonborn Fire Breath**, but took brutal claw damage. **Derek** summoned a **Spiritual Weapon** and **Loki** joined the fray.
+- **The Grey Burrower**: The ground shook violently as a colossal blind worm — the **Grey Burrower** — erupted through the stone wall, biting everything that moved!
+- **Outcome**: The Burrower swallowed a **Quaggoth** and bit **Nibbles** and **Dave**. **Thorn** and **Dave's Flaming Sphere** brought down the **Duergar Captain**.
+- **City Gates**: The last surviving **Duergar** fled down the corridor with the worm in pursuit. **Nibbles** peeked around the corner to see spider-mounted **Duergar** cavalry dispatch the worm, just as the massive iron city gates slammed shut with a heavy clank!

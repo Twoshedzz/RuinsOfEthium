@@ -1,0 +1,97 @@
+---
+title: "The Ethium Dais and the Burrower"
+chapter: 7
+summary: "Beyond the drowned cavern, the companions navigate Duergar ambushes and discover the ancient Ethium Viewing Dais. But as they push into the grand Assembly Hall, a terrifying predator from the deep turns a fierce battle into total chaos."
+coverIllustration: "/illustrations/scenes/ch04-dragon-overhead.png"
+published: true
+---
+
+The stone stairs leading up the eastern cliff were steep, slick with spray from the cavern waterfall, and worn smooth by centuries of dark dwarven boots.
+
+At the top, the air changed. The wet stench of the Otyugh's lake fell away, replaced by the sharp, bitter smell of coal smoke, hot iron, and beast fur. The corridor ahead was cut from dark dwarven granite, its archways low and angular.
+
+"Duergar territory," Derek murmured, holding up a hand. "Stay close."
+
+They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and smudged with soot. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
+
+Out of thin air, four squat, grey-skinned dwarves wearing spiked iron mail materialized, their eyes glowing like dull embers. Before Thorn could raise his shield, the Duergar let out guttural guttural shouts and began to swell in size — their bodies expanding until they towered eight feet tall, their heavy iron hammers doubling in weight.
+
+"Enlarge magic!" Dave shouted. "Watch the flanks!"
+
+Behind the giant Duergar, two wild, shaggy beasts with long claws — Quaggoth slaves — lunged from the shadows with deafening howls.
+
+"Why is it always the big ones?" Nibbles groaned, diving forward as an oversized iron hammer shattered the stone flag where he had stood a second before. He tumbled behind a pillar, drew a deep breath, and let fly a blast of roaring flame from his dragonborn throat, catching the nearest Quaggoth square in the chest.
+
+"Dave, clear the corridor!" Thorn grunted, holding off two giant Duergar with his shield while his battleaxe rang off their heavy mail.
+
+Dave wove his hands through the air, chanting words of power. A globe of roaring, orange fire — a **Flaming Sphere** — burst into existence behind the Duergar line, rolling forward and scorching their legs. Derek slammed his mace into the stone, calling forth a glowing spectral hammer — a **Spiritual Weapon** — that hovered over the fight, striking the Duergar captain with divine force.
+
+With Thorn holding the front, Dave's rolling sphere controlling the corridor, and Derek healing Nibbles's claw wounds, the companions slowly turned the tide. The last giant Duergar collapsed back into his normal size with a heavy groan, and the crossroad fell silent.
+
+---
+
+Past the shrine, the hallway opened into a circular chamber built from polished pale stone that stood out sharply against the rough dwarven tunnels around it.
+
+In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. Its surface was carved with intricate interlocking grooves, and at its center was a deep, stone-carved relic slot.
+
+"An ancient scrying table," Dave gasped, running his fingers over the smooth marble. "My notes mentioned these! They were built to monitor the city."
+
+Nibbles stepped up to the dais and carefully placed the ancient Ethium hand-axe they had recovered from the tower stairs into the central slot.
+
+The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table. Glowing runes flared along its rim:
+
+`ready, accessing [ Memory ], memory updating`
+
+The sphere flickered to life, filling the room with a brilliant three-dimensional vision.
+
+First, they saw ancient Ethium as it had been three hundred years ago — a bustling dwarven and Ethium forge, bright with roaring fires and loud with the cheerful clink of hammers, where elves and dwarves crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant, hairy spiders through the shadows.
+
+Dave picked up a smooth blue stone from his pouch and set it on the rim. The vision glitched again: they saw the towering spires of the Ethium Royal Castle in its ancient glory, then watched it dissolve into its current state — overrun by Goblins, Ogres, and Hobgoblins patrolling the broken battlements.
+
+"Fascinating..." Garnel's voice seemed to echo in Dave's mind.
+
+Finally, Dave dipped his hand into his canteen and sprinkled a drop of the activated pool water onto the stone. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
+
+In the glowing pool chamber miles behind them, Garnel Stoneblender was busily sweeping up charcoal dust, while Poopy Joe — dressed in a clean leather apron — was clumsily carrying a stack of old books, trying very hard not to drop them.
+
+Nibbles burst out laughing. "It's a live mirror! Look at Joe holding the books!"
+
+"The city is connected," Derek said, his voice solemn. "Every node talks to the central pool."
+
+---
+
+After resting near the dais, the companions pushed deeper toward the grand **Assembly Hall**. 
+
+Dave summoned his familiar — a small owl named **Peggy** — and sent her gliding quietly through the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+
+"They know we're coming," Dave whispered, opening his eyes. "They're dug in."
+
+"We can't go back," Thorn said quietly. "We push through."
+
+The companions charged into the Assembly Hall. The Duergar captain roared an order, and the four guards enlarged themselves once more while releasing the chained Quaggoths. A Duergar crossbowman on a high balcony loosed a heavy iron bolt that grazed Thorn's helm.
+
+"Nibbles, move!" Derek shouted.
+
+Nibbles, now wielding new magical tricks, sprinted straight into the center of the hall. He slammed his hands together, releasing a deafening **Thunderwave** that shattered the wooden barricades and sent two Quaggoths stumbling back. But as he tried to leap clear, a Quaggoth's heavy claws raked across his back, bringing him down to one knee.
+
+"Nibbles!" Dave yelled, directing his Flaming Sphere onto the balcony to incinerate the crossbowman.
+
+Suddenly, the stone floor buckled.
+
+A sound like grinding mountains echoed beneath their feet. Dust rained down from the high ceiling, and heavy granite flags exploded upward in a shower of rock. Out of the broken floor erupted the **Grey Burrower** — a colossal, blind worm forty feet long, its round mouth lined with hundreds of razor-sharp, concentric teeth.
+
+"Worm!" Derek screamed, pulling Nibbles back just as the monster's jaws slammed shut on the flagstone where the rogue had lain.
+
+The Burrower attacked blindly, striking anything that moved. With a single terrifying snap, it swallowed one of the enlarged Quaggoths whole, then thrashing its tail across the hall, smashing two Duergar into the pillars.
+
+Chaos engulfed the Assembly Hall. Derek’s Spiritual Weapon struck the monster's side while Thorn and Dave's Flaming Sphere brought down the Duergar captain. Dave fell as a stray tail-swipe clipped his chest, but Derek rushed to his side, uttering a prayer of healing just in time.
+
+The last surviving Duergar guard broke rank, throwing down his shield and sprinting madly down the long corridor toward the distant city gates. The giant Grey Burrower let out a terrifying roar, turned, and surged down the tunnel after him, its massive body scraping the stone walls.
+
+Thorn, Derek, Dave, and Nibbles scrambled to the archway, peeking cautiously around the corner.
+
+Far down the long stone avenue, the escaping Duergar was met by a patrol of Duergar cavalry mounted on giant, wall-crawling spiders. The dark dwarves raised long iron lances, swarming the Grey Burrower and driving the colossal worm back into the earth with disciplined, lethal precision.
+
+Before the companions could make another move, a heavy metallic grinding echoed down the hall. Great iron cogs turned, chains rattled, and with a deafening *BOOM* that shook the foundation of the mountain, the massive iron gates of Ethium slammed shut, sealing the lower city.
+
+Nibbles slumped against the wall, catching his breath. "Well," he muttered, wiping soot from his forehead. "At least the worm is gone."
