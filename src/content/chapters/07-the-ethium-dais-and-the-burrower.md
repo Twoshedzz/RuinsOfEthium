@@ -2,7 +2,6 @@
 title: "The Ethium Dais and the Burrower"
 chapter: 7
 summary: "Beyond the drowned cavern, the companions navigate Duergar ambushes and discover the ancient Ethium Viewing Dais. But as they push into the grand Assembly Hall, a terrifying predator from the deep turns a fierce battle into total chaos."
-coverIllustration: "/illustrations/scenes/ch04-dragon-overhead.png"
 published: true
 ---
 

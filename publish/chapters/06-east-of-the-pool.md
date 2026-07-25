@@ -2,7 +2,6 @@
 title: "East of the Pool"
 chapter: 6
 summary: "Attacked by night raiding Hammers under the ruined tower, the companions cleanse an unusual new ally in the magic pool before embarking on a grueling two-day dig. Beyond animated stone guardians, they confront a telepathic monster lurking in a drowned cavern."
-coverIllustration: "/illustrations/scenes/ch05-ethium-pool-chamber.png"
 published: true
 ---
 
