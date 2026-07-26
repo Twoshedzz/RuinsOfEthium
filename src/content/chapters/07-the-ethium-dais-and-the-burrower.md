@@ -21,9 +21,9 @@ With the divine blessing humming through his veins, Nibbles wiped his bruised ha
 
 Hammering an iron piton deep into a fissure in the rock, Nibbles secured a thick hempen rope and tossed it down the cliff. One by one, Thorn, Derek, Dave, and Loki hauled themselves up the sheer drop into the high passage.
 
-At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the dry scent of ancient stone, faint coal smoke, and old iron. The corridor ahead displayed grand ancient dwarven architecture — massive granite arches and finely dressed masonry from Ethium's golden age, though centuries of occupation had smudged the walls with soot and crude iron spikes had been driven into the fine stonework.
+At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the dry scent of ancient stone, faint coal smoke, and old iron. The corridor ahead displayed grand ancient dwarven architecture — massive granite arches and finely dressed masonry from Ethium's golden age, though centuries of neglect had smudged the fine relief carvings with soot.
 
-"Classic dwarven work," Derek murmured, running his gloved hand along a pillar as he held up a hand. "Built over a thousand years ago... but someone has taken over these halls in the centuries since. Stay close."
+"Grand dwarven stonework," Derek murmured, running his hand reverently along the chiselled granite of a pillar. He paused, his beard twitching as he sniffed the still air. "Built over a thousand years ago... but my kin are long gone from these halls. Dwarves would never leave a bridge fallen in ruins below, nor let this stone lie unkept. Be on your guard — whatever dwells here now, it isn't dwarf."
 
 They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and animal bones. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
 
