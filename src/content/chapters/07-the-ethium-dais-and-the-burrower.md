@@ -105,7 +105,7 @@ The companions stood near the chamber exit, debating their next move.
 
 Agreeing to press forward with extreme caution, they moved quietly down the long hallway until the passage reached a sharp corner that turned up a flight of wide stone stairs leading toward a larger, open chamber above. 
 
-Staying low in the shadow of the corner, Dave summoned his familiar — a small pseudodragon named **Peggy** — and sent her gliding silently up the stairwell into the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive, high-ceilinged hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+Staying low in the shadow of the corner, Dave sent **Peggy** — his pseudodragon familiar, who was perched lightly on his shoulder — gliding silently up the stairwell into the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive, high-ceilinged hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
 
 "They know we're coming," Dave whispered, opening his eyes. "They're dug in at the top of the stairs."
 
