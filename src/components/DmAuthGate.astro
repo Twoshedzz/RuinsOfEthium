@@ -1,0 +1,453 @@
+---
+/**
+ * DmAuthGate.astro
+ * 
+ * Parchment-styled D&D DM Vault Lock Screen.
+ * Requires BOTH a valid Email Address and Passkey to prevent unauthorized key sharing.
+ */
+import { SITE_TITLE } from '../lib/site';
+---
+
+<div class="dm-gate-wrapper" data-dm-gate>
+  <!-- Locked Vault Gate Interface -->
+  <div class="dm-gate-overlay" data-gate-locked>
+    <div class="dm-gate-card">
+      <div class="dm-gate-header">
+        <div class="dm-gate-icon" aria-hidden="true">🗝️</div>
+        <h1 class="dm-gate-title">The Dungeon Master's Vault</h1>
+        <p class="dm-gate-subtitle">
+          Protected DM Tools, Replayable Campaign Modules, Prep Packs & World Reference
+        </p>
+      </div>
+
+      <!-- Tab Buttons -->
+      <div class="dm-gate-tabs" role="tablist">
+        <button
+          type="button"
+          class="dm-gate-tab dm-gate-tab--active"
+          data-tab-target="login"
+          role="tab"
+          aria-selected="true"
+        >
+          DM Sign In
+        </button>
+        <button
+          type="button"
+          class="dm-gate-tab"
+          data-tab-target="purchase"
+          role="tab"
+          aria-selected="false"
+        >
+          Get DM Access
+        </button>
+      </div>
+
+      <!-- Tab 1: Email + Passkey Login Form -->
+      <div class="dm-gate-panel" data-tab-panel="login">
+        <form class="dm-gate-form" data-login-form>
+          <div class="dm-gate-field">
+            <label for="dm-email-input" class="dm-gate-label">
+              Your Registered Email Address
+            </label>
+            <input
+              type="email"
+              id="dm-email-input"
+              class="dm-gate-input"
+              placeholder="e.g. dm@yourdomain.com"
+              required
+              autocomplete="email"
+            />
+          </div>
+
+          <div class="dm-gate-field">
+            <label for="dm-passkey-input" class="dm-gate-label">
+              Master Passkey or Customer Access Token
+            </label>
+            <input
+              type="password"
+              id="dm-passkey-input"
+              class="dm-gate-input"
+              placeholder="Enter your passkey..."
+              required
+              autocomplete="current-password"
+            />
+          </div>
+
+          <div class="dm-gate-checkbox-wrap">
+            <label class="dm-gate-checkbox-label">
+              <input type="checkbox" id="dm-remember-me" checked />
+              Remember this device & email
+            </label>
+          </div>
+
+          <div class="dm-gate-error" data-error-msg style="display: none;">
+            Invalid email address or passkey. Access requires both your registered email and a valid DM passkey.
+          </div>
+
+          <button type="submit" class="dm-gate-submit-btn">
+            Unlock DM Vault ✦
+          </button>
+        </form>
+
+        <p class="dm-gate-hint">
+          <strong>Owner / Author Access:</strong> Enter your email address + Passkey 0.
+        </p>
+      </div>
+
+      <!-- Tab 2: Commercial Teaser & Purchase Link -->
+      <div class="dm-gate-panel" data-tab-panel="purchase" style="display: none;">
+        <div class="dm-sales-teaser">
+          <h3>Unlock the Complete {SITE_TITLE} DM Suite</h3>
+          <p class="dm-sales-intro">
+            Get instant, lifetime access tied to your email address — including all 8 replayable D&D adventure modules, high-res maps, stat blocks, and interactive table tools.
+          </p>
+
+          <ul class="dm-sales-features">
+            <li><strong>8 Replayable Campaign Modules</strong> (Read-alouds, DCs, loot tables)</li>
+            <li><strong>Full High-Res Dungeon & Overland Maps</strong> (Gridless & player versions)</li>
+            <li><strong>Interactive Stat Trackers & Soundboard</strong></li>
+            <li><strong>Complete World Lore & NPC Rosters</strong></li>
+          </ul>
+
+          <div class="dm-sales-cta">
+            <a
+              href="https://buy.stripe.com/your-payment-link-placeholder"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="dm-sales-buy-btn"
+              data-stripe-link
+            >
+              Purchase DM Access — Lifetime Pass
+            </a>
+            <p class="dm-sales-note">
+              An access passkey tied to your payment email will be sent immediately upon purchase.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Unlocked Protected Content -->
+  <div class="dm-gate-content" data-gate-unlocked style="display: none;">
+    <slot />
+  </div>
+</div>
+
+<script>
+  import { isDmUnlocked, unlockDmVault, getStripePaymentLink, isValidEmail, getStoredUserEmail } from '../lib/dm-auth';
+
+  const wrapper = document.querySelector('[data-dm-gate]');
+
+  if (wrapper instanceof HTMLElement) {
+    const lockedOverlay = wrapper.querySelector('[data-gate-locked]');
+    const unlockedContent = wrapper.querySelector('[data-gate-unlocked]');
+    const loginForm = wrapper.querySelector('[data-login-form]');
+    const emailInput = wrapper.querySelector('#dm-email-input');
+    const passkeyInput = wrapper.querySelector('#dm-passkey-input');
+    const rememberCheckbox = wrapper.querySelector('#dm-remember-me');
+    const errorMsg = wrapper.querySelector('[data-error-msg]');
+    const stripeLinkBtn = wrapper.querySelector('[data-stripe-link]');
+
+    // Pre-fill stored email if available
+    const existingEmail = getStoredUserEmail();
+    if (existingEmail && emailInput instanceof HTMLInputElement) {
+      emailInput.value = existingEmail;
+    }
+
+    // Update Stripe payment link URL from auth config
+    if (stripeLinkBtn instanceof HTMLAnchorElement) {
+      stripeLinkBtn.href = getStripePaymentLink();
+    }
+
+    // Check initial unlock status
+    if (isDmUnlocked()) {
+      if (lockedOverlay instanceof HTMLElement) lockedOverlay.style.display = 'none';
+      if (unlockedContent instanceof HTMLElement) unlockedContent.style.display = 'block';
+    } else {
+      if (lockedOverlay instanceof HTMLElement) lockedOverlay.style.display = 'flex';
+      if (unlockedContent instanceof HTMLElement) unlockedContent.style.display = 'none';
+    }
+
+    // Handle Tab switching
+    const tabBtns = wrapper.querySelectorAll('[data-tab-target]');
+    const panels = wrapper.querySelectorAll('[data-tab-panel]');
+
+    tabBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const target = btn.getAttribute('data-tab-target');
+
+        tabBtns.forEach((b) => {
+          b.classList.remove('dm-gate-tab--active');
+          b.setAttribute('aria-selected', 'false');
+        });
+
+        btn.classList.add('dm-gate-tab--active');
+        btn.setAttribute('aria-selected', 'true');
+
+        panels.forEach((panel) => {
+          if (panel instanceof HTMLElement) {
+            const panelName = panel.getAttribute('data-tab-panel');
+            panel.style.display = panelName === target ? 'block' : 'none';
+          }
+        });
+      });
+    });
+
+    // Handle Login Form submission
+    if (loginForm instanceof HTMLFormElement) {
+      loginForm.addEventListener('submit', (event) => {
+        event.preventDefault();
+        if (!(emailInput instanceof HTMLInputElement) || !(passkeyInput instanceof HTMLInputElement)) return;
+
+        const emailVal = emailInput.value.trim();
+        const passVal = passkeyInput.value.trim();
+        const remember = rememberCheckbox instanceof HTMLInputElement ? rememberCheckbox.checked : true;
+
+        if (!isValidEmail(emailVal)) {
+          if (errorMsg instanceof HTMLElement) {
+            errorMsg.style.display = 'block';
+            errorMsg.innerText = 'Please enter a valid email address.';
+          }
+          return;
+        }
+
+        if (unlockDmVault(emailVal, passVal, remember)) {
+          if (errorMsg instanceof HTMLElement) errorMsg.style.display = 'none';
+          if (lockedOverlay instanceof HTMLElement) lockedOverlay.style.display = 'none';
+          if (unlockedContent instanceof HTMLElement) unlockedContent.style.display = 'block';
+        } else {
+          if (errorMsg instanceof HTMLElement) {
+            errorMsg.style.display = 'block';
+            errorMsg.innerText = 'Invalid email address or passkey. Access requires both your registered email and a valid DM passkey.';
+          }
+        }
+      });
+    }
+  }
+</script>
+
+<style>
+  .dm-gate-wrapper {
+    position: relative;
+    width: 100%;
+    min-height: calc(100vh - 12rem);
+  }
+
+  .dm-gate-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 1.5rem;
+    min-height: 65vh;
+  }
+
+  .dm-gate-card {
+    width: 100%;
+    max-width: 34rem;
+    background: var(--paper-light, #fbf7ee);
+    border: 2px solid var(--ink, #1f1b18);
+    border-radius: 12px;
+    padding: 2.25rem 2rem;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+  }
+
+  .dm-gate-header {
+    text-align: center;
+    margin-bottom: 1.75rem;
+  }
+
+  .dm-gate-icon {
+    font-size: 2.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .dm-gate-title {
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 1.85rem;
+    color: var(--ink, #1f1b18);
+    margin: 0 0 0.5rem 0;
+  }
+
+  .dm-gate-subtitle {
+    font-size: 0.95rem;
+    color: var(--ink-muted, #5a544c);
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  .dm-gate-tabs {
+    display: flex;
+    gap: 0.5rem;
+    background: var(--paper-edge, #e8dfcf);
+    padding: 0.35rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+  }
+
+  .dm-gate-tab {
+    flex: 1;
+    padding: 0.6rem 0.75rem;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 0.95rem;
+    color: var(--ink-muted, #5a544c);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .dm-gate-tab--active {
+    background: var(--paper, #f4eee1);
+    color: var(--ink, #1f1b18);
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  }
+
+  .dm-gate-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+
+  .dm-gate-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .dm-gate-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--ink, #1f1b18);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .dm-gate-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: var(--paper, #f4eee1);
+    border: 1px solid var(--ink-muted, #8c8273);
+    border-radius: 6px;
+    font-size: 1.05rem;
+    font-family: var(--font-sans, system-ui, sans-serif);
+    color: var(--ink, #1f1b18);
+    box-sizing: border-box;
+  }
+
+  .dm-gate-input:focus {
+    outline: none;
+    border-color: var(--ink, #1f1b18);
+    box-shadow: 0 0 0 3px rgba(31, 27, 24, 0.15);
+  }
+
+  .dm-gate-checkbox-wrap {
+    font-size: 0.9rem;
+    color: var(--ink-muted, #5a544c);
+  }
+
+  .dm-gate-checkbox-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+  }
+
+  .dm-gate-error {
+    padding: 0.65rem 0.85rem;
+    background: #fde8e8;
+    border: 1px solid #e05252;
+    border-radius: 6px;
+    color: #9b1c1c;
+    font-size: 0.85rem;
+  }
+
+  .dm-gate-submit-btn {
+    width: 100%;
+    padding: 0.85rem 1.25rem;
+    background: var(--ink, #1f1b18);
+    color: var(--paper-light, #fbf7ee);
+    border: none;
+    border-radius: 6px;
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+
+  .dm-gate-submit-btn:hover {
+    background: #3d3530;
+  }
+
+  .dm-gate-hint {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px dashed var(--paper-edge, #e8dfcf);
+    font-size: 0.85rem;
+    color: var(--ink-muted, #5a544c);
+    text-align: center;
+  }
+
+  /* Sales Teaser Styling */
+  .dm-sales-teaser h3 {
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 1.35rem;
+    margin: 0 0 0.5rem 0;
+    color: var(--ink, #1f1b18);
+  }
+
+  .dm-sales-intro {
+    font-size: 0.95rem;
+    color: var(--ink-muted, #5a544c);
+    margin-bottom: 1.25rem;
+    line-height: 1.45;
+  }
+
+  .dm-sales-features {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    font-size: 0.9rem;
+    color: var(--ink, #1f1b18);
+  }
+
+  .dm-sales-features li::before {
+    content: "✦ ";
+    color: #8c8273;
+  }
+
+  .dm-sales-cta {
+    text-align: center;
+  }
+
+  .dm-sales-buy-btn {
+    display: block;
+    width: 100%;
+    padding: 0.9rem 1.25rem;
+    background: #8b0000;
+    color: #ffffff;
+    border-radius: 6px;
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-decoration: none;
+    box-sizing: border-box;
+    transition: background 0.15s ease;
+  }
+
+  .dm-sales-buy-btn:hover {
+    background: #a50000;
+  }
+
+  .dm-sales-note {
+    font-size: 0.8rem;
+    color: var(--ink-muted, #5a544c);
+    margin-top: 0.65rem;
+  }
+</style>
