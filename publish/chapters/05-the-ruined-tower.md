@@ -83,19 +83,21 @@ A hand shot from the rubble and seized his wrist. Another followed, and a whole 
 
 The fight in the alcove was close and foul, the zombies slow but relentless, the stink of them worse than their claws. Thorn cracked one apart with his axe. Derek shattered another's skull. Nibbles, freed at last, darted behind the axe-bearer and knocked its legs out, leaving it propped stiffly against the wall, mouth agape and eyes staring with a strangely sad, pathetic expression.
 
-Nibbles pried the glinting weapon from its fingers: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
+Thorn pried the glinting weapon from its fingers: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
 
-"Ethium work," Derek said, turning it over. "The rune is carved, but the magic is dormant."
+"Ethium work," Derek said, examining the head. "The rune is carved, but the magic is dormant."
 
-"Still shiny," Nibbles said, tucking it into his belt. He unhooked the tarnished copper necklace from the slumped figure's throat, examined it, then fastened it back around the creature's neck. He poked one of its sturdy leather boots.
+"Still a fine edge," Thorn said, testing the balance with a nod of approval and slinging it through his weapon belt.
 
-"We're keeping him," Nibbles declared.
+Nibbles watched Thorn claim the axe with a pout, then looked back down at the slumped, defeated figure. He unhooked the tarnished copper necklace from its throat, examined it, then fastened it right back around the creature's neck. He poked one of its sturdy leather boots.
+
+"If Thorn gets the axe, we're keeping him," Nibbles declared.
 
 Derek stared at him in utter disbelief. "He's a zombie, Nibbles."
 
-"He has a very sad face," Nibbles said defensively. "And excellent boots! Besides, everyone else has a companion. Thorn has Loki. Dave gets Peggy. Derek summons glowing hammers. I want a pet."
+"He has a very sad face," Nibbles said defensively. "And excellent boots! Besides, Thorn gets a shiny new axe *and* has Loki. Dave gets Peggy. Derek summons glowing hammers. I got no loot and I want a companion."
 
-"He is not a pet, he's a corpse," Dave said, backing away with a hand clamped over his snout. "And he smells like a clogged pigsty."
+"He is not loot, he's a corpse," Dave said, backing away with a hand clamped over his snout. "And he smells like a clogged pigsty."
 
 "He smells of pure poop," Derek agreed, nostrils flaring. "Absolute manure."
 

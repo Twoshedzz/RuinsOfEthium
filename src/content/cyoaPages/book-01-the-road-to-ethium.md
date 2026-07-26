@@ -543,7 +543,7 @@ A hand shoots from the muck. Zombies — old adventurers who never left.
 
 ## 90
 
-Nibbles claims a finely made **battleaxe** etched with an Ethium rune. The metal is sound; the magic sleeps.
+Thorn claims a finely made **battleaxe** etched with an Ethium rune. The metal is sound; the magic sleeps.
 
 **Gain:** rune battleaxe (dormant)
 
