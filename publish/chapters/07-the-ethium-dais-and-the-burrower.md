@@ -47,9 +47,13 @@ Past the shrine, the hallway opened into a circular chamber built from polished 
 
 In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. Its surface was carved with intricate interlocking grooves, and at its center was a deep, stone-carved relic slot.
 
-"An ancient scrying table," Dave gasped, running his fingers over the smooth marble. "My notes mentioned these! They were built to monitor the city."
+The companions gathered around the table, examining the strange runes and empty slot.
 
-Nibbles stepped up to the dais and carefully placed the ancient Ethium hand-axe they had recovered from the tower stairs into the central slot.
+"What do you make of it?" Thorn asked, leaning over the smooth marble. "Some kind of altar?"
+
+"No," Dave said, tracing the glowing grooves with a finger. "Look at the stone cutting — it's an ancient Ethium mechanism. But it needs something to activate it..."
+
+Curious, Nibbles unclasped his belt pouch and pulled out the ancient Ethium hand-axe they had recovered from the ruined tower. Stepping up to the dais, he carefully lined up the stone blade and pushed it into the central relic slot.
 
 The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table as glowing runes flared along its rim. As it locked into place, a calm, resonant voice echoed softly inside Nibbles' mind:
 
