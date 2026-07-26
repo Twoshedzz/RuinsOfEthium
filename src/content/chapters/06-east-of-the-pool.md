@@ -83,6 +83,10 @@ Nibbles ducked under a swinging stone axe, stabbing uselessly at a statue's leg.
 
 Dave ducked behind a pillar, his eyes scanning the gallery wall. "The stones in the sockets! They're powering them! We need to pry them out — but don't break them! We need those stones intact!"
 
+![Thorn braces behind his shield against an animated stone guardian while Nibbles climbs towards an Ethium Stone and the rest of the party fights among the statues](/illustrations/scenes/ch06-animated-statues-battle.png)
+
+*Three ancient border guardians step down from their pedestals — and the party discovers what powers them.*
+
 Derek raised his mace. "Thorn, hold the line!"
 
 While Thorn and Loki drew the guardians' fury, Nibbles scrambled up the nearest pedestal. Dodging a stone elbow, he jammed his dagger tip under the first Ethium Stone, popping it loose. He lunged sideways as it fell, catching the glowing stone cleanly in both hands before it could shatter on the floor. The statue looming over Thorn went instantly stiff, its eye-light dying as it froze into an inert monument.

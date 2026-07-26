@@ -21,11 +21,11 @@ With the divine blessing humming through his veins, Nibbles wiped his bruised ha
 
 Hammering an iron piton deep into a fissure in the rock, Nibbles secured a thick hempen rope and tossed it down the cliff. One by one, Thorn, Derek, Dave, and Loki hauled themselves up the sheer drop into the high passage.
 
-At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the bitter smell of coal smoke, hot iron, and beast fur. The corridor ahead was cut from dark dwarven granite, its archways low and angular.
+At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the dry scent of ancient stone, faint coal smoke, and old iron. The corridor ahead displayed grand ancient dwarven architecture — massive granite arches and finely dressed masonry from Ethium's golden age, though centuries of occupation had smudged the walls with soot and crude iron spikes had been driven into the fine stonework.
 
-"Duergar territory," Derek murmured, holding up a hand. "Stay close."
+"Classic dwarven work," Derek murmured, running his gloved hand along a pillar as he held up a hand. "Built three hundred years ago... but someone has taken over these halls in the centuries since. Stay close."
 
-They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and smudged with soot. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
+They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and animal bones. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
 
 Out of thin air, four squat, grey-skinned dwarves wearing spiked iron mail materialized, their eyes glowing like dull embers. Before Thorn could raise his shield, the Duergar let out guttural guttural shouts and began to swell in size — their bodies expanding until they towered eight feet tall, their heavy iron hammers doubling in weight.
 
