@@ -27,7 +27,7 @@ At the top, the air changed sharply. The damp stench of the subterranean lake fe
 
 They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and animal bones. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
 
-Out of thin air, four squat, grey-skinned dwarves wearing spiked iron mail materialized, their eyes glowing like dull embers. Before Thorn could raise his shield, the Duergar let out guttural guttural shouts and began to swell in size — their bodies expanding until they towered eight feet tall, their heavy iron hammers doubling in weight.
+Out of thin air, four squat, grey-skinned dwarves wearing spiked iron mail materialized, their eyes glowing like dull embers. Before Thorn could raise his shield, the Duergar let out harsh, guttural shouts and began to swell in size — their bodies expanding until they towered eight feet tall, their heavy iron hammers doubling in weight.
 
 "Enlarge magic!" Dave shouted. "Watch the flanks!"
 
