@@ -15,7 +15,7 @@ Unless explicitly instructed otherwise by the user, **all scene illustrations MU
 | **Thorn** | **Half-Orc / Male Warrior** | Short dark undercut hairstyle, rugged face, pale/purple-tinted skin, fur mantle over leather/chainmail armor, holding a single-headed battleaxe in one hand AND a round shield on his other arm. |
 | **Nibbles** | **Red Dragonborn / Kobold Rogue** | Small red scales, horns (with a small pouch tied to one horn), bright green eyes, grinning maw, dark hooded cloak, studded leather gear, holding glowing daggers. |
 | **Loki** | **Hunting Dog Companion** | Sturdy wolfhound / hunting dog with a brave, alert posture. |
-| **Garnel** | **Gnome Ally & Researcher** | Short, scruffy-looking young adult gnome, wild mop of bright red hair sticking up in all directions, round spectacles, eyes darting nervously, carrying charcoal notebooks, brass lenses, and tinkering measuring devices. |
+| **Garnel** | **Gnome Ally & Researcher** | Short, scruffy-looking young adult gnome, wild mop of bright red hair sticking up in all directions, round spectacles, eyes darting nervously, carrying leather parchment folders, inkpot & quill, fine charcoal sketching pencils, brass lenses, and tinkering measuring devices. |
 
 ---
 

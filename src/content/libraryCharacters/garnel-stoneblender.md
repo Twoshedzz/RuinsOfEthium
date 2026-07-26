@@ -11,8 +11,8 @@ Gnome ally. Young adult gnome illusionist & Ethium researcher. Rescued in the ru
 ## Visual Description & Character Traits
 
 - **Appearance**: Young adult gnome — short, slightly scruffy-looking, with a wild mop of bright red hair sticking up in all directions, wearing round spectacles and ink-stained clothing.
-- **Behavior & Habits**: His eyes are constantly darting around with bright wonder and nervous energy. He is always frantically writing notes in his charcoal notebooks, books, and loose parchment scraps.
-- **Tools & Equipment**: Carries tinkering gnome devices — small brass lenses, ticking copper callipers, scribing styluses, and dials used to measure magical currents and Ethium stone resonance.
+- **Behavior & Habits**: His eyes are constantly darting around with bright wonder and nervous energy. He writes with an inkpot and quill in leather-bound folders of parchment sheets and loose paper, carrying fine charcoal pencils for sketching floor runes and diagrams.
+- **Tools & Equipment**: Carries tinkering gnome devices — small brass lenses, ticking copper callipers, inkpots, quills, fine charcoal sketching pencils, and dials used to measure magical currents and Ethium stone resonance.
 - **Narrative Rule**: In story text, Garnel is never named until he introduces himself (`"I'm Garnel... Garnel Stoneblender"`).
 
 ## Backstory (prep notes)

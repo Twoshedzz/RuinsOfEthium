@@ -111,7 +111,7 @@ Thorn gently pushed the heavy stone portal ajar, peering through the gap.
 
 The doorway opened into a broad chamber walled in pale stone, every block hand-carved with runes — lines, curves and old Ethium symbols crawling up the walls and across the floor, dormant and colourless. Papers, books and copied diagrams lay scattered everywhere, kicked aside and trampled alongside brass lenses, ticking copper callipers and little gnome tinkering devices meant for measuring magical currents.
 
-A large orc in battered armour loomed over a young adult gnome kneeling on the stone floor — short and scruffy-looking, with a wild mop of bright red hair sticking up in all directions. His eyes darted nervously behind round spectacles between the runes on the floor and a charcoal notebook he was frantically scribbling in, a stylus clutched in his trembling hand. Two Hammer thugs flanked the far wall.
+A large orc in battered armour loomed over a young adult gnome kneeling on the stone floor — short and scruffy-looking, with a wild mop of bright red hair sticking up in all directions. His eyes darted nervously behind round spectacles between the runes on the floor and a leather-bound folder of parchment sheets he was frantically writing in, an ink-dipped quill clutched in his trembling hand and a fine charcoal pencil for sketching tucked behind one ear. Two Hammer thugs flanked the far wall.
 
 ![View from the chamber doorway: a broad, square, rune-carved room with double doors ajar to the left, a large brutish orc towering with a raised fist over the wild-red-haired gnome, who crouches scribbling notes among scattered papers and tinkering instruments, while two Hammer thugs in leather armour lounge against the wall](/illustrations/scenes/ch05-garnel-rune-chamber.png)
 
@@ -123,7 +123,7 @@ The orc raised a meaty fist.
 
 "Now," Thorn said, and charged.
 
-The orc jerked round with a roar, plainly startled — it had been bullying the young gnome, not watching the stair door. The thugs scrambled for weapons they had barely time to raise. The red-haired gnome threw himself flat behind a fallen pillar, clutching his notebook and brass measuring lenses, muttering that he'd said this might awaken something, oh dear, oh dear. Then an orc backhand nearly caught Derek, and something snapped in the little fellow's terror.
+The orc jerked round with a roar, plainly startled — it had been bullying the young gnome, not watching the stair door. The thugs scrambled for weapons they had barely time to raise. The red-haired gnome threw himself flat behind a fallen pillar, clutching his leather folder and brass measuring lenses, muttering that he'd said this might awaken something, oh dear, oh dear. Then an orc backhand nearly caught Derek, and something snapped in the little fellow's terror.
 
 "Look out!" he squeaked — and suddenly there were two Derek's, one stepping left, one right, both confusing the thug who'd been about to swing.
 
