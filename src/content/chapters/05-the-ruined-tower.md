@@ -109,19 +109,21 @@ They propped Poopy Joe upright in the corner of the landing for safekeeping, the
 
 Thorn gently pushed the heavy stone portal ajar, peering through the gap.
 
-The doorway opened into a broad chamber walled in pale stone, every block hand-carved with runes — lines, curves and old Ethium symbols crawling up the walls and across the floor, dormant and colourless. Papers, books and copied diagrams lay scattered everywhere, kicked aside and trampled: Garnel's notes, his grandmother's scraps, charcoal sketches of the floor. A large orc in battered armour loomed over the kneeling gnome, one meaty hand twisted in his collar. Two Hammer thugs flanked the far wall. The gnome's eyes were wide behind round spectacles, a stylus still clutched in one shaking hand as he tried to read the lines at his feet.
+The doorway opened into a broad chamber walled in pale stone, every block hand-carved with runes — lines, curves and old Ethium symbols crawling up the walls and across the floor, dormant and colourless. Papers, books and copied diagrams lay scattered everywhere, kicked aside and trampled alongside brass lenses, ticking copper callipers and little gnome tinkering devices meant for measuring magical currents.
 
-![View from the chamber doorway: a broad, square, rune-carved room with double doors ajar to the left, a large brutish orc towering with a raised fist over Garnel the wild-haired gnome, who crouches scribbling notes among scattered papers, while two Hammer thugs in leather armour lounge against the wall](/illustrations/scenes/ch05-garnel-rune-chamber.png)
+A large orc in battered armour loomed over a young adult gnome kneeling on the stone floor — short and scruffy-looking, with a wild mop of bright red hair sticking up in all directions. His eyes darted nervously behind round spectacles between the runes on the floor and a charcoal notebook he was frantically scribbling in, a stylus clutched in his trembling hand. Two Hammer thugs flanked the far wall.
+
+![View from the chamber doorway: a broad, square, rune-carved room with double doors ajar to the left, a large brutish orc towering with a raised fist over the wild-red-haired gnome, who crouches scribbling notes among scattered papers and tinkering instruments, while two Hammer thugs in leather armour lounge against the wall](/illustrations/scenes/ch05-garnel-rune-chamber.png)
 
 "Read it again," the orc snarled.
 
-"I did read it again — the angle is wrong, the light is wrong, you are standing on the wrong part of the floor —"
+"I did read it again — the angle is wrong, the light is wrong, your shadow is blocking the copper dial —"
 
-The orc raised a fist.
+The orc raised a meaty fist.
 
 "Now," Thorn said, and charged.
 
-The orc jerked round with a roar, plainly startled — it had been bullying the gnome, not watching the stair. The thugs scrambled for weapons they had barely time to raise. The gnome threw himself flat behind a fallen pillar, muttering that he'd said this might awaken something, oh dear, oh dear. Then an orc backhand nearly caught Derek, and something snapped in the little fellow's terror.
+The orc jerked round with a roar, plainly startled — it had been bullying the young gnome, not watching the stair door. The thugs scrambled for weapons they had barely time to raise. The red-haired gnome threw himself flat behind a fallen pillar, clutching his notebook and brass measuring lenses, muttering that he'd said this might awaken something, oh dear, oh dear. Then an orc backhand nearly caught Derek, and something snapped in the little fellow's terror.
 
 "Look out!" he squeaked — and suddenly there were two Derek's, one stepping left, one right, both confusing the thug who'd been about to swing.
 
@@ -129,13 +131,13 @@ The orc jerked round with a roar, plainly startled — it had been bullying the 
 
 "I know! I'm sorry! I'm still sorry!"
 
-The gnome scrambled up from behind the pillar, spectacles flashing, and thrust out both hands. A firebolt cracked across the chamber and struck the nearest Hammer thug in the chest. The man yelped and dropped his club. Garnel fired again — less steady, but the second bolt scorched the orc's shoulder and made it roar with pain and fury.
+The young gnome scrambled up from behind the pillar, spectacles flashing, and thrust out both hands. A firebolt cracked across the chamber and struck the nearest Hammer thug in the chest. The man yelped and dropped his club. The red-haired gnome fired again — less steady, but the second bolt scorched the orc's shoulder and made it roar with pain and fury.
 
-Thorn drove the orc back with heavy blows. Nibbles appeared behind the thug Garnel had burned and did what he did best. Dave sent a sleepy spell into the other thug's face — not in the instructions, but effective. Loki seized the orc's leg and hung on like a dog who'd found something worth keeping.
+Thorn drove the orc back with heavy blows. Nibbles appeared behind the thug the gnome had burned and did what he did best. Dave sent a sleepy spell into the other thug's face — not in the instructions, but effective. Loki seized the orc's leg and hung on like a dog who'd found something worth keeping.
 
-When the fight ended, the orc lay unconscious, the thugs groaned, and the gnome sat on the floor, spectacles askew, breathing as though he'd run the whole climb himself.
+When the fight ended, the orc lay unconscious, the thugs groaned, and the red-haired gnome sat on the floor among his scattered books and measuring tools, spectacles askew, breathing as though he'd run the whole climb himself.
 
-"I'm Garnel," he said eventually. "Garnel Stoneblender. Thank you. I think. Are you real? Both of you?" He pointed at Derek.
+"I'm Garnel," he said eventually, wiping ink from his fingers. "Garnel Stoneblender. Thank you. I think. Are you real? Both of you?" He pointed at Derek.
 
 "One of me is," Derek said.
 
