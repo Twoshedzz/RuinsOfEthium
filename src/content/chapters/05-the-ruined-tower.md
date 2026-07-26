@@ -5,13 +5,11 @@ summary: "On the road to the ruined tower — a grisly dragon's leavings, then a
 published: true
 ---
 
-The ruined tower appeared before midday — a broken spire of ancient Ethium stonework on a low ridge west of the great hill. Its upper floors were long gone, shattered into a crown of jagged stone, but the base remained stubbornly upright. Pale ashlar blocks, near-white and smooth as dressed marble, were band-carved with faded dwarven runes along the lower courses, catching the sun in thin geometric grooves. At the front, the grand arched portal that had once formed the tower’s main gateway lay completely choked — the great keystone cracked through, the arch collapsed under an avalanche of heavy masonry and iron-hard mortar, leaving only a narrow breach near the buttress where a camp was tucked.
-
-The smell reached them before they could see the camp — wrong for the high plateau, sharp and sour. Loki's ears flattened; Nibbles covered his nose.
+The smell reached them before they saw anything on the ridge — wrong for the high plateau, sharp and sour. Loki's ears flattened; Nibbles covered his nose.
 
 "That's not mushrooms," he said.
 
-They found the source off the path: half a goblin, torn clean through the middle, lying in the grass as though dropped from a great height. No tracks led to or from it.
+They found the source just off the path: half a goblin, torn clean through the middle, lying in the grass as though dropped from a great height. No tracks led to or from it.
 
 Dave looked up at the empty sky, where yesterday a black dragon had circled and something had fallen.
 
@@ -19,7 +17,9 @@ Dave looked up at the empty sky, where yesterday a black dragon had circled and 
 
 "I don't think we're the biggest thing up here," Dave said.
 
-Thorn checked his axe and led them on.
+Thorn checked his axe and led them over the rise.
+
+Beyond the ridge, the ruined tower appeared before midday — a broken spire of ancient Ethium stonework on a low crest west of the great hill. Its upper floors were long gone, shattered into a crown of jagged stone, but the base remained stubbornly upright. Pale ashlar blocks, near-white and smooth as dressed marble, were band-carved with faded dwarven runes along the lower courses, catching the sun in thin geometric grooves. At the front, the grand arched portal that had once formed the tower’s main gateway lay completely choked — the great keystone cracked through, the arch collapsed under an avalanche of heavy masonry and iron-hard mortar, leaving only a narrow breach near the buttress where a camp was tucked.
 
 ---
 
