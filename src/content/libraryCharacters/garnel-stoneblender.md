@@ -1,12 +1,19 @@
 ---
 title: "Garnel Stoneblender"
 order: 14
-summary: "Gnome ally. Illusion magic; Ethium lore. Rescued in the ruined tower (Session 3+)."
+summary: "Gnome ally. Young adult gnome illusionist & Ethium researcher. Rescued in the ruined tower (Session 3+)."
 published: true
 ---
 # Garnel Stoneblender
 
-Gnome ally. Illusion magic; Ethium lore. Rescued in the ruined tower (Session 3+).
+Gnome ally. Young adult gnome illusionist & Ethium researcher. Rescued in the ruined tower (Session 3+).
+
+## Visual Description & Character Traits
+
+- **Appearance**: Young adult gnome — short, slightly scruffy-looking, with a wild mop of bright red hair sticking up in all directions, wearing round spectacles and ink-stained clothing.
+- **Behavior & Habits**: His eyes are constantly darting around with bright wonder and nervous energy. He is always frantically writing notes in his charcoal notebooks, books, and loose parchment scraps.
+- **Tools & Equipment**: Carries tinkering gnome devices — small brass lenses, ticking copper callipers, scribing styluses, and dials used to measure magical currents and Ethium stone resonance.
+- **Narrative Rule**: In story text, Garnel is never named until he introduces himself (`"I'm Garnel... Garnel Stoneblender"`).
 
 ## Backstory (prep notes)
 
@@ -18,7 +25,7 @@ Gnome ally. Illusion magic; Ethium lore. Rescued in the ruined tower (Session 3+
 
 ## At the table
 
-- Found in the tower dungeon: Hammers + orc brute forcing him to read wall runes; helps the party when attacked (may cower at first in combat)
+- Found in the tower dungeon: Hammers + orc brute forcing him to read wall runes with his tinkering measuring tools; helps the party when attacked (may cower at first in combat)
 - Helped configure the **healing pool** with Ethium stones (water from a source elsewhere)
 - Thinks the pool has healing properties; research on the well needs a couple of days
 - Later: may stay researching at the pool, or tip the party to a **Kruthik** nest with crystals (rumour overheard from Hammer / Gang captors)

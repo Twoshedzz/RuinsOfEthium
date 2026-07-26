@@ -7,7 +7,7 @@ published: true
 
 The pool chamber was quiet in the hours after the fight with the Hammer thugs, save for the gentle lapping of water against pale stone. The pool lit the ancient hall from below in soft, undulating ripples of turquoise and silver, casting long shadows across carved runes that had not seen light in three centuries.
 
-Garnel Stoneblender sat cross-legged by the water's edge with his grandmother Mala’s leather journal open on his knees. Charcoal dust smudged his nose, and his wild grey hair stuck out in three distinct directions, but behind his round spectacles, his eyes reflected bright wonder.
+Garnel Stoneblender sat cross-legged by the water's edge with his grandmother Mala’s leather journal open on his knees, surrounded by his ticking copper callipers and brass measuring lenses. Charcoal dust smudged his nose, and his wild mop of bright red hair stuck out in all directions, but behind his round spectacles, his eyes darted with bright wonder.
 
 "The magic isn't gone," Garnel whispered, not looking up as Derek walked over. "It was only sleeping. The reservoir draws from deep veins beneath the plateau, but the ancient conduits flow east. There are more chambers beyond the fallen wall — sockets, altars, whole galleries."
 
