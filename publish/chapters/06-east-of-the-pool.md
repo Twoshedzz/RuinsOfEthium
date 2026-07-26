@@ -119,11 +119,15 @@ Before Dave could step back, the dark water exploded upwards. A colossal, rubber
 
 "Otyugh!" Derek roared, drawing his mace.
 
+"Form up! Guard the mage!" Thorn barked, shield coming up as he charged across the slick rocks. "Derek, flank left! Dave, kill it with fire — keep it off the edge!"
+
 The creature’s central maw opened — a gaping nightmare lined with three rows of yellow teeth. It dragged Nibbles toward its mouth, biting deep into his shoulder armour.
 
 "Get off me, you oversized turnip!" Nibbles screamed, flailing frantically with his dagger.
 
-Thorn scrambled over the slick rocks, his battleaxe coming down with two-handed force across the base of the left tentacle. The beast let out a wet, gurgling screech of pain, dropping Nibbles into the black mud.
+Thorn reached the monster first, his battleaxe coming down with two-handed force across the base of the left tentacle. The beast let out a wet, gurgling screech of pain, dropping Nibbles into the black mud.
+
+"Fall back, Nibbles!" Thorn commanded, stepping squarely between the thrashing beast and the rogue. "Dave, NOW!"
 
 Dave shook off the mental haze, raising his staff. "Burn!" A sphere of crackling flame erupted over the creature's back, filling the cavern with the smell of scorched sludge. Derek rushed into the shallows, his mace glowing with divine light as he struck the monster's flank.
 
