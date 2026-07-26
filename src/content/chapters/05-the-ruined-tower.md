@@ -177,17 +177,17 @@ The room was wide and pale, floored in smooth Ethium stone. At its centre the fl
 
 On the eastern wall, a corridor that must once have led deeper into the ruins had collapsed. Rubble filled the opening to the ceiling — a cave-in of pale blocks and dark earth, sealed tight. Thorn could not tell how far the passage had run before it fell, or what lay beyond.
 
-Beside the nearest pillar the wizard had made himself a table from a fallen slab and broken crates. On it lay a crumbling book, scattered tools, loose notes covered in cramped script — and the fourth Ethium Stone, taken from its pillar and set among his papers as though he had been studying it. The figure in rotted robes centuries out of fashion sat behind it, head bowed, perfectly still — not a recent prisoner of the Hammers, but something that had waited here since long before Garnel's grandmother was born.
+Beside the nearest pillar stood a makeshift table built from a fallen slab and broken crates. On it lay a crumbling leather book, scattered iron callipers, and loose notes covered in cramped script — alongside the fourth Ethium Stone, taken from its pillar and set among the papers as though someone had been studying it. A silent figure in rotted robes centuries out of fashion sat behind the table, head bowed, perfectly still — not a recent prisoner of the Hammers, but something that had waited here since long before Garnel's grandmother was born.
 
 ![Torchlit view from the chamber doorway: four tall pillars frame a sunken pool at the centre, an undead wizard sits at a makeshift table in the back-left corner, zombie guards wait in wall alcoves, Ethium runes catch the light, and the corridor to the right lies collapsed under rubble](/illustrations/scenes/ch05-ethium-pool-chamber.png)
 
 *The pool chamber — pale pillars, a sunken pool, and something in the far corner that had waited a very long time.*
 
-Garnel stopped in the doorway, eyes wide behind his spectacles. "That's... that's not in Grandmother's notes. Don't touch anything — don't wake him!"
+Garnel stopped in the doorway, eyes wide behind his spectacles. "That's... that's not in Grandmother's notes. Don't touch anything — don't wake it!"
 
 The figure lifted its head.
 
-The face beneath the hood was withered and wrong — a man dead for hundreds of years, eyes lit by the same pale fire the zombies had carried. Ethium energy crawled along his skin like veins of cold light. In life he had been a wizard of Ethium who tried to force the pool's magic to his will. The magic had corrupted him instead, and death had not finished the work.
+The face beneath the hood was withered and wrong — a man dead for hundreds of years, eyes lit by the same pale fire the zombies had carried. Ethium energy crawled along his skin like veins of cold light. In life he had been an ancient scholar of Ethium who tried to force the pool's magic to his will. The magic had corrupted him instead, and death had not finished the work.
 
 "You," the thing said, in a voice like stone grinding on stone, dry with centuries. "More thieves."
 
