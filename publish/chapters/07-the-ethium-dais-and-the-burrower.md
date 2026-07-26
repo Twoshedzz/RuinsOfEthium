@@ -45,7 +45,7 @@ With Thorn holding the front, Dave's rolling sphere controlling the corridor, an
 
 Past the shrine, the hallway opened into a circular chamber built from polished pale stone that stood out sharply against the rough dwarven tunnels around it.
 
-In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. Intricate interlocking grooves carved its surface, leading to an obvious circular slot cut into the stone, beside a shallow, stone-carved tray designed to receive an item.
+In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. In the very center of the table was a large circular opening surrounded by interlocking grooves, with an obvious stone receptacle slot at its rim and a shallow, stone-carved tray beside it.
 
 The companions gathered around the table, examining the strange runes and layout.
 
@@ -55,7 +55,7 @@ The companions gathered around the table, examining the strange runes and layout
 
 Dave reached into his pouch, pulled out a smooth blue stone, and pressed it firmly into the circular slot on the table.
 
-The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
+The dais hummed. From the circle in the centre of the table, a crystal viewing sphere — perfectly clear and six feet across — slowly rose upward into the air as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
 
 *system active... awaiting item...*
 
