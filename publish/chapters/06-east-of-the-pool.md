@@ -35,7 +35,7 @@ It was during Dave's watch, near three in the morning, that Loki’s ears flatte
 
 "Thorn," Dave whispered, touching the fighter's shoulder.
 
-Dark figures slipped silently down the winding stone stairs — remaining Hammer thugs from the camp above, seeking revenge under cover of night. At their head moved a tall, thin figure wrapped in a dark, trailing cloak that seemed to swallow the lantern light.
+Dark figures slipped silently down the winding stone stairs — not just survivors from the tower camp above, but fresh Hammer thugs and archers reinforced by other squads across the plateau, seeking revenge under cover of night. It was clear the Night Hammers had established a far wider foothold on Ethium than anyone had guessed. At their head moved a tall, thin figure wrapped in a dark, trailing cloak that seemed to swallow the lantern light.
 
 "Hammers!" Thorn shouted, shield coming up just as an iron arrow ricocheted off his shoulder plate with a loud *ping*.
 
