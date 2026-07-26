@@ -557,12 +557,17 @@ a:hover {
   max-width: var(--measure);
 }
 
+.illustration-plate--map img,
 .illustration-plate--map .image-lightbox__trigger img {
   max-width: 100%;
   padding: 0;
-  border: none;
+  border: 1px solid var(--paper-edge);
   outline: none;
   margin: 0 auto;
+  filter: none;
+  mix-blend-mode: normal;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
 }
 
 .image-lightbox {
