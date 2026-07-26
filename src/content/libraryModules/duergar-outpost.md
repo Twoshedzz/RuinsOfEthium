@@ -38,6 +38,8 @@ Map orientation (`duergar-route-sm` / Druegar_sm): approach from **right-hand tu
 
 Collapsed cavern / black lake after grand halls. **Otyugh** (≈75 HP for level 2 in pool module; tracker HP 75). Beyond: foul tunnel (troglodytes) and worked passage (duergar).
 
+> **DM Note — Abyssal Cavern Verticality (50-Foot Drop)**: Flat 2D maps (like `beyond-the-pool.png`) cannot easily convey the vertical elevation of this cavern. The corridor precipice sits **50 feet above the cavern floor**, requiring ropes and a DC 10 Athletics check to abseil down into the Otyugh lake basin.
+
 ### 2 — Outpost rooms
 
 Worked stone; dwarven symbols; blue mineral veins. Duergar + quaggoth slaves defending approach. One guard may flee/warn the hall.
