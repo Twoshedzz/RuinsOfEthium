@@ -113,9 +113,9 @@ Dave took a step toward the edge of the black lake, his torch casting long, oran
 
 Dave blinked, taking another step closer to the water's edge. "Someone's down there... trapped in the water..."
 
-"Dave, stop!" Derek barked, grabbing his arm and yanking him back. "It's a lure!"
+"Dave, wait!" Derek warned, reaching out to grab his shoulder. "Don't go near the edge!"
 
-Before Dave could pull back further, the dark water exploded upwards. A colossal, rubbery body five feet across erupted from the sludge, supported by three thick, stumpy legs. Two massive, muscular tentacles crowned with spiked suckers lashed out, catching Nibbles around the waist and hauling him off his feet with a terrified yelp.
+Before Dave could step back, the dark water exploded upwards. A colossal, rubbery body five feet across erupted from the sludge, supported by three thick, stumpy legs. Two massive, muscular tentacles crowned with spiked suckers lashed out, catching Nibbles around the waist and hauling him off his feet with a terrified yelp.
 
 "Otyugh!" Derek roared, drawing his mace.
 
