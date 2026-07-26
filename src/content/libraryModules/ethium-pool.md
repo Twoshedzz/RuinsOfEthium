@@ -1,110 +1,127 @@
 ---
-title: "Ethium pool (tower + dungeon + pool)"
+title: "Ethium Pool (Tower, Dungeon & Pool Hub)"
 order: 4
-summary: "Ruined tower, Hammer camp, Garnel rescue, undead wizard, healing pool hub."
+summary: "Ruined tower surface camp, subterranean Ethium dungeon, Garnel rescue, undead wizard boss, and Healing Pool hub."
 published: true
 ---
 
-# Module — Ethium pool (tower + dungeon + pool)
+# Module — Ethium Pool (Tower, Dungeon & Pool Hub)
 
-**Canonical PDFs & Guides:** [Full Ethium Session Module (PDF)](/dm/pdfs/ethium_full_session_module_v2.pdf) · [Ethium Language & Ritual Sheet (PDF)](/dm/pdfs/ethium_language_sheet.pdf) · [Session 3 Stat Blocks (PDF)](/dm/pdfs/session3_stat_blocks_landscape_a4.pdf)
+**Status:** Ready to run. Central hub module of the plateau featuring exploration, combat, puzzle-socketing, and resting mechanics.
 
-**Next Module (East Path):** [Duergar Outpost Module](/dm/modules/duergar-outpost/)
+**Canonical PDFs & Guides:**
+- [Full Ethium Session Module (PDF)](/dm/pdfs/ethium_full_session_module_v2.pdf)
+- [Ethium Language & Ritual Sheet (PDF)](/dm/pdfs/ethium_language_sheet.pdf)
+- [Session 3 Stat Blocks (PDF)](/dm/pdfs/session3_stat_blocks_landscape_a4.pdf)
 
----
-
-## Overview
-
-Ruined tower on the Ethium plateau — Hammer surface camp, spiral stairs into Ethium stonework, alcove undead, Garnel’s captivity chamber, maul trap, then the **pool chamber**. Undead wizard (corrupted investigator) + zombies; on death the wizard can explode with Ethium energy. Garnel can help configure **Ethium stones** so the **healing pool** activates (water from a source elsewhere).
-
-The pool is a rest point, not a neutral one: it heals, reacts to stones, attracts danger, and hints Ethium is changing. Stonework around the basin is deliberate — part of an older system, not a natural spring.
-
-**Healing (Prep):** once per rest, each PC regains **1d6 HP**. Drinking / lingering may cause whispers, dream-flashes, or a corruption mark.
-
-**Combat Pulses** (initiative count 0): (1) all within 10 ft heal 1d4 · (2) one random creature advantage on next roll · (3) one random creature 1d6 force · (4) 1 HP Ethium wisp appears; bursts for 1d4 if struck/touched.
+**Prior Module:** [Journey to Ethium Module](/dm/modules/journey-to-ethium/) · **Next Module (East Path):** [Duergar Outpost Module](/dm/modules/duergar-outpost/)
 
 ---
 
-## Areas (Suggested Run Order)
+## Overview & Dungeon Background
 
-### 1 — Tower Surface (Hammer Camp)
+Marking the entry to subterranean Ethium stands the **Ruined Tower** — a ancient stone spire whose upper levels have fallen, leaving a surface courtyard occupied by Hammer bandits. Beneath the tower lies a complex of pale, carved Ethium stonework housing ancient chambers, armories, and the central **Healing Pool Vault**.
 
-Bandits until defeated; **Hammer pendants** confirm. Snipers in trees during the fight. Climbing gear loot (rope, pitons, grappling hook). Spiral stairs descend into pale Ethium stone.
-
-### 2 — Ethium Tunnels
-
-Well-dressed stone, ornate subtle carvings; dark and damp.
-
-### 3 — Alcove (Old Adventurers)
-
-Grimy corner; sludge and debris from looters decades ago. Investigating a metal glint awakens **three zombies** (old dead adventurers).
-
-### 4 — Garnel’s Captivity Room
-
-Orc brute + Hammers forcing captive gnome **Garnel Stoneblender** to read wall runes. If rescued, he may aid (illusion / fire bolt) after the first round.
-
-### 5 — Maul Trap
-
-Collapsed staircase: **swinging maul** over a plank across a chasm. Possible outcome: the party notices and avoids it.
-
-### 6 — Healing Pool Chamber (Boss)
-
-Dead wizard at a desk, corrupted by Ethium investigation → **undead**. Fight with wizard + zombies; wizard **explodes** with Ethium energy on death. Garnel can configure the pool with stones found.
-
-### Hub Options After Activation
-
-Rest · return stones to Tobbs · dig east cave-in · follow Garnel to [Kruthik Lair Module](/dm/modules/kruthik-lair/) · optional **night ambush** at the pool (Hammers + Silent Knives + cloaked observer).
+The **Healing Pool** is an ancient magical basin constructed over a subterranean conduit. When configured with glowing **Ethium Stones**, the basin fills with sparkling azure water that cures wounds, restores strength, and reacts to spellcasting.
 
 ---
 
-## Encounters & Stats
+## Key Areas & Read-Aloud Descriptions
 
-### Tower Camp — Hammers
+### 1 — Ruined Tower Surface (Bandit Camp)
 
-| Creature | AC | HP | Attack | Notes |
-|----------|----|----|--------|-------|
-| Gang Thug | 12 | 11 | Club +3, 1d6+1 | Reckless |
-| Gang Leader | 14 | 18 | Sword +4, 1d8+2 | Can grant one ally advantage |
-| Silent Knife | 14 | 9 | Dagger +5, 1d4+3 | Advantage from hiding |
+Overgrown stone courtyard surrounded by crumbling masonry walls.
 
-### Alcove Zombies
+> **Read Aloud:** *Shattered granite blocks and overgrown weeds surround the base of an ancient stone tower. Canvas tents and campfires clutter the courtyard. Up in the treeline, bandit snipers crouch with crossbows ready. At the center of the ruins, a spiral stone staircase descends into subterranean darkness.*
 
-3 zombie adventurers. Standard zombie stats.
+- **Encounter**: 3 Hammer Thugs + 1 Gang Leader + 2 Tree Snipers (Silent Knives).
+- **Loot Cache**: Bandit supply chest containing climbing gear (100 ft hempen rope, 10 pitons, grappling hook, 2 iron hammers).
 
-### Garnel Rescue
+### 2 — Pale Ethium Descent & Tunnels
 
-Orc brute + 2 Hammer thugs. Hard. Garnel aids after round 1.
+Descending the spiral stair, the rough granite gives way to smooth, pale stone.
 
-### Pool Boss — Undead Wizard + Zombies
+> **Read Aloud:** *The rough granite of the surface disappears, replaced by polished slabs of pale, luminescent stone carved with intricate geometric patterns. Faint blue veins pulse deep within the walls, radiating soft light and cold air.*
 
-Undead Ethium wizard + 2 zombies; wizard explodes on death.
+### 3 — Adventurers' Alcove
 
-### Optional — Night Ambush at Pool
+A muddy side chamber cluttered with ancient rubble and broken gear.
 
-From Session 4 DM pack:
+> **Read Aloud:** *Sludge and broken stonework fill a dark alcove. Under a layer of mud, a metallic glint reflects torchlight. As you step forward, three mud-caked corpses in rusted armor rise stiffness from the debris, their milky eyes fixing upon you.*
 
-**Enemies:** 2 Hammer Bruisers, 2 Silent Knives, cloaked observer.
+- **Trigger**: Searching the metallic glint awakens **3 Zombies** (dead looters from decades past).
 
-| Role | Behaviour |
-|------|-----------|
-| Hammers | Loud, frontal; shove/grapple; may be Ethium-sick (blue veins) |
-| Silent Knives | Flank, steal stones, disengage; unstable alliance |
-| Cloaked Observer | Watches; escapes when two enemies fall, a PC approaches, or he is hit |
+### 4 — Garnel's Captivity Chamber
 
-### Digging East — Echo Guardians & Otyugh (Bridge to Duergar)
+A carved stone chamber illuminated by glowing wall runes.
 
-> **DM Secret — Cause of the Eastern Cave-In**: While Garnel and the party initially suspect someone deliberately collapsed the eastern archway to seal the passage, the collapse actually occurred naturally over centuries due to rampant **subterranean burrowing creatures** (kruthiks / Grey Burrowers) tunnelling through the surrounding rock.
+> **Read Aloud:** *In a side chamber, a hulking Orc Brute grips a terrified gnome scholar by his tunic, shoving his face toward glowing wall inscriptions. Two Hammer thugs stand watch with drawn swords. The gnome cries out, "I tell you, the runes require three stones to open the main conduit!"*
+
+- **Encounter**: 1 Orc Brute + 2 Hammer Thugs.
+- **Rescuing Garnel**: Gnome scholar [Garnel Stoneblender](/dm/world/characters/garnel-stoneblender/) thanks the party. On Round 2 of any subsequent fight, Garnel aids by casting *Fire Bolt* (+4 to hit, 1d10 fire) or *Minor Illusion*.
+
+### 5 — Swinging Maul Trap
+
+A collapsed stone bridge spanning a 20-foot-deep pit.
+
+> **Read Aloud:** *The stone corridor ends at a 15-foot chasm where the floor has caved in. A narrow wooden plank spans the gap. High in the shadowed ceiling above the midpoint, a massive spiked iron pendulum hangs motionless.*
+
+- **Perception / Trap Check (DC 12)**: Spots the pressure plate under the plank that releases a swinging iron maul (2d10 bludgeoning + DC 12 DEX save to avoid being knocked into the 20-ft pit for 2d6 fall damage).
+
+### 6 — The Healing Pool Vault (Boss Lair)
+
+A grand domed chamber with a glowing azure stone basin at its center.
+
+> **Read Aloud:** *Glowing azure light fills a grand domed vault. At its center lies a circular basin carved from translucent pale stone, currently bone dry. Slumped at a stone desk near the pool sits a dead scholar in rotted robes, his flesh corrupted into blue-veined undead tissue. As you enter, his head snaps toward you, eyes glowing with brilliant blue flame!*
+
+- **Encounter**: **Corrupted Ethium Wizard** + 2 Vault Zombies.
+- **Boss Death Explosion**: When the Corrupted Wizard reaches 0 HP, his body erupts in an **Ethium Energy Burst** dealing 2d6 force damage to all creatures within 10 ft (DC 12 DEX save for half).
+
+---
+
+## Healing Pool Mechanics & Ritual
+
+### Rest & Healing Rules
+- **Short / Long Rest**: Once activated with Ethium Stones, resting at the pool allows each creature to regain **1d6 HP** (or spend Hit Dice with maximum healing).
+- **Subtle Corruption Warning**: Drinking deeply or lingering at the pool may trigger vivid dream-flashes of ancient Ethium or glowing blue veins on the skin.
+
+### Combat Pulses (Initiative Count 0)
+During combat inside the pool chamber, the basin pulses with magical energy on Initiative Count 0 (roll 1d4):
+1. **Healing Wave**: All creatures within 10 ft of the pool regain **1d4 HP**.
+2. **Arcane Surge**: One random creature gains **Advantage** on its next attack roll or saving throw.
+3. **Force Discharge**: One random creature takes **1d6 Force damage** (DC 11 DEX save negates).
+4. **Wisp Spawn**: A 1 HP glowing Ethium Wisp appears; if touched or struck, it bursts dealing 1d4 radiant damage.
+
+### Stone Socketing Ritual
+Garnel explains that inserting 3 Ethium Stones into the basin sockets unlocks the water conduits.
+
+---
+
+## Encounters & Creature Stats
+
+### Surface & Tunnels
+
+| Creature | AC | HP | Attacks & Traits |
+|----------|----|----|------------------|
+| **Hammer Thug** (×5) | 12 | 11 | Club +3 (1d6+1), Shortbow +3 (1d6+1). *Reckless*. |
+| **Gang Leader** | 14 | 18 | Longsword +4 (1d8+2). *Ally Advantage*. |
+| **Silent Knife** (×2) | 14 | 9 | Dagger +5 (1d4+3). *Sneak Attack* (+1d6 damage from hiding). |
+
+### Dungeon & Boss
+
+| Creature | AC | HP | Attacks & Traits |
+|----------|----|----|------------------|
+| **Alcove Zombie** (×5) | 8 | 22 | Slam +3 (1d6+1). *Undead Fortitude* (DC 5 + damage taken CON save to stay at 1 HP). |
+| **Orc Brute** | 13 | 30 | Greataxe +5 (1d12+3). *Aggressive* (move full speed toward enemy as Bonus Action). |
+| **Corrupted Ethium Wizard** | 12 | 28 | Ray of Frost +4 (1d8 cold), Magic Missile (3 × 1d4+1 force). **Death Burst**: 2d6 force in 10 ft. |
+
+---
+
+## Digging East — The Collapsed Passage (Bridge to Duergar)
+
+> **DM Secret — Cause of the Eastern Cave-In**: While Garnel suspects someone deliberately collapsed the eastern archway, examination (**DC 12 Nature / Investigation**) reveals clawed burrowing marks from subterranean **Kruthiks and Grey Burrowers** that undermined the granite supports over centuries.
 > 
-> **Investigation Check (DC 12)** while excavating or examining the rubble reveals clawed, creature-carved side-tunnels through the shattered granite.
-> 
-> **DM Note — Abyssal Cavern Verticality (50-Foot Drop)**: The corridor precipice sits **50 feet above the cavern floor**, requiring ropes and a DC 10 Athletics check to abseil down into the Otyugh lake basin.
-
-| Encounter | Notes |
-|-----------|--------|
-| Echo Guardians ×3 | Slow statues; disrupt pulsing veins DC 12/13; treasure 1–2 Ethium stones |
-| Otyugh | Reduced ≈ **75 HP** for level 2; lake cavern terrain |
-
-Otyugh stats: **AC 14 · HP 75 · Bite +6 (2d8+3), Tentacle +6 · Grapple DC 13 · Foul Sludge Spray 1/enc**. Full east path: [Duergar Outpost Module](/dm/modules/duergar-outpost/).
+> **DM Note — Abyssal Cavern 50-Foot Drop**: The corridor beyond the cave-in opens into an immense abyssal cavern precipice **50 feet above** the Otyugh lake basin floor, requiring ropes and a DC 10 Athletics check to abseil down.
 
 ---
 
@@ -116,18 +133,16 @@ Otyugh stats: **AC 14 · HP 75 · Bite +6 (2d8+3), Tentacle +6 · Grapple DC 13 
 | Hand-Drawn Pool Map | ![ethium-pool-handdrawn.jpg](/dm/maps/ethium-pool-handdrawn.jpg) |
 | Beyond the Pool Cavern Map | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) |
 | Ruined Tower Surface Map | ![ruined-tower.jpg](/dm/maps/ruined-tower.jpg) |
-| Ethium Plateau Overview Map | ![ethium-plateau.jpg](/dm/maps/ethium-plateau.jpg) |
+| Ethium Plateau Map | ![ethium-plateau.jpg](/dm/maps/ethium-plateau.jpg) |
 
 ---
 
 ## Key NPCs
 
-| NPC Profile | Role |
-|-------------|------|
-| [Garnel Stoneblender Profile](/dm/world/characters/garnel-stoneblender/) | Captive gnome scholar; pool expert |
-| Hammer Thugs / Snipers | Surface camp guards |
-| Undead Ethium Wizard | Pool boss |
-| Cloaked Observer | Optional night ambush spy |
+| NPC Profile | Role & Personality |
+|-------------|--------------------|
+| [Garnel Stoneblender Profile](/dm/world/characters/garnel-stoneblender/) | Captive gnome scholar rescued in Area 4; pool expert and ally. |
+| **Corrupted Ethium Wizard** | Former investigator turned undead guardian of the pool desk. |
 
 ---
 
@@ -137,7 +152,6 @@ Otyugh stats: **AC 14 · HP 75 · Bite +6 (2d8+3), Tentacle +6 · Grapple DC 13 
 |----------|----------------|
 | Session Log | [Session 3 Play Log (Part 5)](/dm/notes/session-03/) |
 | Session Plan | [Ethium Pool Session Plan](../../session-plans/session-plan-ethium-pool-module.md) |
-| Chapter Outline | [East of the Pool Chapter Outline](../../chapter-drafts/06-east-of-the-pool.md) |
 | Novel Chapter | [Chapter 5: The Ruined Tower](../../../chapters/05-the-ruined-tower.md) |
-| Place Lore | [Ethium Region Lore](../places/ethium.md) · [Healing Pool Ritual Lore](../places/healing-pool-ritual.md) |
 | Related Modules | [Kruthik Lair Module](/dm/modules/kruthik-lair/) · [Duergar Outpost Module](/dm/modules/duergar-outpost/) · [Journey to Ethium Module](/dm/modules/journey-to-ethium/) |
+| Place Lore | [Ethium Region Lore](../places/ethium.md) · [Healing Pool Ritual Lore](../places/healing-pool-ritual.md) |

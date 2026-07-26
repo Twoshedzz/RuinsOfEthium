@@ -43,6 +43,10 @@ The chamber erupted into noise. Derek was on his feet in an instant, mace drawn,
 
 Through the chaos, Thorn saw the cloaked figure pause at the edge of the stairwell. Cold, calculating eyes gleamed beneath a deep hood. The stranger spared one long look at the glowing pool, turned on his heel, and melted back up the dark spiral stairs.
 
+![The mysterious cloaked watcher hides beside the spiral stair and studies the glowing Ethium pool while Hammer thugs fight in the distant chamber](/illustrations/scenes/ch06-cloaked-watcher-escape.png)
+
+*While the Hammers fight, their cloaked leader watches the pool — then slips back into the dark.*
+
 "Stop him!" Derek yelled, striking down a thug who lunged toward Garnel.
 
 Thorn bounded across the room, but the remaining Hammers threw themselves into the bottleneck to cover their leader's retreat. By the time Thorn and Derek cut their way through and reached the landing, the cloaked watcher was gone into the dark of the plateau, leaving only cold night wind howling through the tower ruins above.
