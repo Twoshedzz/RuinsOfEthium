@@ -85,7 +85,7 @@ The fight in the alcove was close and foul, the zombies slow but relentless, the
 
 He wiped his blade and fished the glinting object from the muck: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
 
-"Ethium work," Derek said, turning it over. "The rune's there. The magic isn't — not yet."
+"Ethium work," Derek said, turning it over. "The rune is carved, but the magic is dormant."
 
 "Still shiny," Nibbles said, tucking it into his belt. He paused, eyeing the third fallen figure lying stiff in the muck. "And we're keeping him."
 
