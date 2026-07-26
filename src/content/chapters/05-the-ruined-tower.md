@@ -145,7 +145,7 @@ When the fight ended, the orc lay unconscious, the thugs groaned, and the red-ha
 
 "What's below?" Thorn asked.
 
-"The pool chamber." Garnel swallowed. "Grandmother wrote about it — older than the Hammers, older than Fallcrest. There's a wizard down there. Or there was." He pushed his spectacles up with a trembling finger. "He died centuries ago, but the magic kept him. He tried to bend Ethium to his will. It bent him instead."
+"The pool chamber." Garnel swallowed. "Grandmother wrote about it — an ancient Ethium pool older than the Hammers, older than Fallcrest. She called it a sacred place of restoration, but the Hammers were too terrified to go down there. They said something unnatural was waiting."
 
 ---
 
@@ -183,7 +183,7 @@ Beside the nearest pillar the wizard had made himself a table from a fallen slab
 
 *The pool chamber — pale pillars, a sunken pool, and something in the far corner that had waited a very long time.*
 
-Garnel stopped in the doorway. "Don't touch anything. Don't wake him — he's been down here since before my grandmother's grandmother. Don't —"
+Garnel stopped in the doorway, eyes wide behind his spectacles. "That's... that's not in Grandmother's notes. Don't touch anything — don't wake him!"
 
 The figure lifted its head.
 
@@ -225,11 +225,15 @@ Derek tested the water with his fingers, sitting on the top step of the sunken p
 
 "Once a day, I think — bathe properly, and it mends what the road has done."
 
-Garnel gathered the wizard's surviving notes from the table and read by the pool's light, lips moving. His spectacles slid down his nose.
+Garnel gathered the wizard's surviving notes from the table and read by the pool's light, lips moving as his spectacles slid down his nose.
 
-"Well?" Nibbles said.
+"It's all here," Garnel whispered, wiping charcoal dust from his face. "He was an ancient wizard from centuries ago — long before the Ethium Stones started to wake again. He was experimenting on the pool's magic, trying to force it to his will. He captured wandering adventurers and used them as test subjects..."
 
-"He knew there was more." Garnel held up a sketch — a corridor running east from the pool, marked with small circles Garnel recognised at once as stone sockets. "Chambers beyond the collapse. More stones, he thought — or places built to hold them. He never got through." He looked towards the rubble heaped against the eastern wall. "Neither did anyone else, by the look of it."
+Nibbles glanced toward the upper stair. "The alcove zombies. Including Poopy Joe."
+
+"Yes," Garnel nodded grimly. "The wizard's dark experiments corrupted the pool's waters and turned his captives into undead. Eventually the corruption took him too, binding his corpse here. The pool water was tainted by his dark magic until we set the fourth stone and cleansed it."
+
+He turned the parchment sheet over to a charcoal sketch. "And he knew there was more. Look at this..." Garnel held up the sketch — a corridor running east from the pool, marked with small circles Garnel recognised at once as stone sockets. "Chambers beyond the collapse. More stones, he thought — or places built to hold them. He never got through." He looked towards the rubble heaped against the eastern wall. "Neither did anyone else, by the look of it."
 
 Thorn studied the cave-in. Pale blocks and earth filled the opening completely, but the shape of a passage was still visible beneath the fall — buried, not gone.
 

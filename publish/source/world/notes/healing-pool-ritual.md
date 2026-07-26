@@ -1,5 +1,8 @@
 # Healing pool — ritual levels (filed from inbox)
 
+> [!NOTE]
+> **DM Secret / History**: The pool water was originally tainted centuries ago by the ancient wizard's dark experiments (using captured adventurers as test subjects, creating the alcove zombies including Poopy Joe). The wizard himself was corrupted long before the Ethium Stones started to reawaken. Restoring the 4th Ethium Stone cleansed the water's corruption and restored its sacred healing magic.
+
 *Source: `inbox/Gaming/Ruins of Ethium/Nerd Herd/Healing pool.md` — mechanical notes for the Ethium pool. Do not invent beyond this.*
 
 ## Mage’s book (Kevarch)
