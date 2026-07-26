@@ -141,6 +141,10 @@ Before the companions could make another move, a heavy metallic grinding echoed 
 
 Nibbles slumped against the wall, catching his breath. "Well," he muttered, wiping soot from his forehead. "At least the worm is gone."
 
+Before retreating, Nibbles quickly searched the fallen Duergar captain near the shattered barricades. From the captain's belt, he unhooked a heavy pouch containing gold coins, a polished platinum ring, an iron Duergar emblem token, and a heavy ring holding **four iron keys** — stamped with dwarven runes for side doors, supply stores, and slave pens.
+
+"Four keys," Nibbles murmured, pocketing the ring. "Might come in handy if we ever need to unlock the side chambers."
+
 ---
 
 With the lower city sealed tight and the Duergar patrols on high alert, the companions fell back through the statues and the excavated tunnel to regroup at the healing pool.
