@@ -77,23 +77,31 @@ Nibbles saw something glint in the muck — as he always did — and was reachin
 
 "Shiny," Nibbles said.
 
-A hand shot from the rubble and seized his wrist. Another followed, and a whole body dragged itself upright — skeletal, clad in tatters of old leather armour, eyes burning with a pale light that had nothing to do with living thought. Two more rose beside it.
+A hand shot from the rubble and seized his wrist. Another followed, and a whole body dragged itself upright — a forlorn figure in tatters of old leather, slumped awkwardly in the alcove corner as though sitting on an invisible bucket. A tarnished copper necklace glinted at its throat, and in its stiff grip it held a fine steel axe. Two more shambling forms rose beside it, eyes burning with a pale, unliving light.
 
 "Adventurers," Derek said grimly. "Old ones."
 
-The fight in the alcove was close and foul, the zombies slow but relentless, the stink of them worse than their claws. Thorn cracked one apart with his axe. Derek shattered another's skull. Nibbles, freed at last, stabbed the third until it stopped moving.
+The fight in the alcove was close and foul, the zombies slow but relentless, the stink of them worse than their claws. Thorn cracked one apart with his axe. Derek shattered another's skull. Nibbles, freed at last, darted behind the axe-bearer and knocked its legs out, leaving it propped stiffly against the wall, mouth agape and eyes staring with a strangely sad, pathetic expression.
 
-He wiped his blade and fished the glinting object from the muck: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
+Nibbles pried the glinting weapon from its fingers: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
 
 "Ethium work," Derek said, turning it over. "The rune is carved, but the magic is dormant."
 
-"Still shiny," Nibbles said, tucking it into his belt. He paused, eyeing the third fallen figure lying stiff in the muck. "And we're keeping him."
+"Still shiny," Nibbles said, tucking it into his belt. He unhooked the tarnished copper necklace from the slumped figure's throat, examined it, then fastened it back around the creature's neck. He poked one of its sturdy leather boots.
 
-Derek stared at him. "He's a zombie, Nibbles. And he smells of rotten peat."
+"We're keeping him," Nibbles declared.
 
-"He has sturdy boots," Nibbles declared, grabbing the figure under the arms. "And I refuse to leave good leather behind. Help me haul him."
+Derek stared at him in utter disbelief. "He's a zombie, Nibbles."
 
-Derek groaned, but grabbed the feet. "If he bites me, I am healing him last."
+"He has a very sad face," Nibbles said defensively. "And excellent boots! Besides, everyone else has a companion. Thorn has Loki. Dave gets Peggy. Derek summons glowing hammers. I want a pet."
+
+"He is not a pet, he's a corpse," Dave said, backing away with a hand clamped over his snout. "And he smells like a clogged pigsty."
+
+"He smells of pure poop," Derek agreed, nostrils flaring. "Absolute manure."
+
+"His name is Joe," Nibbles said stubbornly, grabbing the slumped figure under the arms. "Poopy Joe. And he's coming with us. Help me haul him down."
+
+Derek groaned, rubbing his forehead in despair, but grabbed the stiff leather boots. "If Poopy Joe tries to bite anyone, I am healing him last."
 
 ---
 
