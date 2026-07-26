@@ -53,7 +53,13 @@ The next morning, the companions gathered by the eastern cave-in armed with heav
 
 "The wizard's notes are clear," Garnel said, adjusting his spectacles as he handed over a rough sketch of the wall. "The central conduits run through this wall. But it will take hard work. I'll stay here by the pool to study the notes and monitor the stone resonance."
 
-It took two full days of hard, backbreaking labour. Thorn and Derek levered massive granite blocks aside while Dave and Nibbles cleared the heavy gravel and hauled away baskets of rubble. By the second afternoon, a narrow gap opened near the ceiling. Nibbles squirmed through first, his voice echoing back through the stone.
+It took two full days of hard, backbreaking labour. Thorn and Derek levered massive granite blocks aside while Dave and Nibbles cleared the heavy gravel and hauled away baskets of rubble. By the second afternoon, a narrow gap opened near the ceiling, barely wide enough for a small bird.
+
+Dave nudged Peggy from his shoulder. The owl familiar fluttered up, squeezed through the dusty gap, and glided into the dark beyond. For a moment there was only silence — then a soft, satisfied hoot echoed back through the stone.
+
+"Peggy says it's clear," Dave reported, closing his eyes to share her vision. "Smooth walls, tall arches. Safe to cross."
+
+Nibbles squirmed through next, his boots disappearing into the dark.
 
 "It opens up!" Nibbles called out. "Smooth walls! Ethium work!"
 
