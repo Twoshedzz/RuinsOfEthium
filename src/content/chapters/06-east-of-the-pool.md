@@ -27,6 +27,10 @@ Garnel looked over his spectacles, eyes twinkling. "The pool’s waters carry re
 
 Thorn watched dubiously as Derek and Nibbles hoisted the peat-caked figure and eased it into the luminous water. For a moment, nothing happened. Then a soft, musical hum resonated through the chamber. The water bubbled, dark silt lifting away like black smoke, revealing clean grey leather underneath. The skeletal joints settled into place, and with a slow, mechanical creak, Poopy Joe sat up in the shallows, blinked his empty eye sockets politely, and stood up to await instructions.
 
+![Poopy Joe rises from the luminous Ethium pool as Derek, Nibbles, Thorn, Dave, Garnel and Loki watch in surprise](/illustrations/scenes/ch06-poopy-joe-healing-pool.png)
+
+*Poopy Joe emerges from the healing pool — cleaner, steadier, and unexpectedly polite.*
+
 "See?" Nibbles beamed, wiping his hands on his tunic. "Our very own butler. He can carry the heavy ropes."
 
 Poopy Joe stood quietly by the pool, bowed slightly, and picked up Garnel's inkpot with surprising delicacy.

@@ -5,7 +5,7 @@ summary: "On the road to the ruined tower — a grisly dragon's leavings, then a
 published: true
 ---
 
-The ruined tower appeared before midday — a broken spire of Ethium stonework on a low ridge west of the great hill, upper floors gone, base still stubbornly upright, pale blocks near-white and smooth as marble.
+The ruined tower appeared before midday — a broken spire of ancient Ethium stonework on a low ridge west of the great hill. Its upper floors were long gone, shattered into a crown of jagged stone, but the base remained stubbornly upright. Pale ashlar blocks, near-white and smooth as dressed marble, were band-carved with faded dwarven runes along the lower courses, catching the sun in thin geometric grooves. At the front, the grand arched portal that had once formed the tower’s main gateway lay completely choked — the great keystone cracked through, the arch collapsed under an avalanche of heavy masonry and iron-hard mortar, leaving only a narrow breach near the buttress where a camp was tucked.
 
 The smell reached them before they could see the camp — wrong for the high plateau, sharp and sour. Loki's ears flattened; Nibbles covered his nose.
 
@@ -49,17 +49,17 @@ Nibbles threw his dagger; it missed by inches. The hooded man glanced back — c
 
 Thorn was faster, catching the man at the threshold and driving him into the stone with his shield. Derek was on him in a heartbeat, wrenching his arms behind his back while Loki barked in his face.
 
-The remaining fighters were Hammers in all but name — heavy boots, brutal swings, no discipline. One archer fell from a tree when Dave's potato struck his branch; another surrendered when Loki appeared below and barked up with such conviction he climbed down, hands raised.
+The remaining fighters were Hammers in all but name — heavy boots, brutal swings, no discipline. The archers in the branches broke when Dave's magic struck their roost; those on the ground were swiftly disarmed and driven back against the stone wall by Thorn's axe and Loki's fierce lunges.
 
-When the last thug dropped his weapon, the camp went quiet.
+Within minutes, the fight was over. Dispatched as a threat, the surviving thugs were bound securely with their own camp rope against the fallen buttress, their weapons confiscated and hurled far down the rocky ravine so none could raise an alarm or follow from behind.
 
-Derek rolled one over and tugged open his collar: a small iron hammer on a leather cord.
+Derek rolled the hooded leader over and tugged open his collar: a small iron hammer on a leather cord.
 
 "Hammers," he said.
 
 "Bandits with jewellery," Nibbles said, retrieving his dagger. "How disappointing. I was hoping for treasure."
 
-Thorn searched the tents more carefully than the fight deserved: coiled rope, iron pitons, leather harnesses, a grappling hook. Crude climbing kit, but sound — they packed what would fit.
+Thorn searched the tents while Derek finished knotting the last prisoner fast: coiled rope, iron pitons, leather harnesses, a grappling hook. Crude climbing kit, but sound — they packed what would fit.
 
 At the tower door, stone steps descended into darkness. From far below came muffled voices — a deep growl, then a frightened reply. The camp fight had been loud, but the stone had swallowed most of it; whoever waited in the depths had no idea anyone else had reached the tower.
 
