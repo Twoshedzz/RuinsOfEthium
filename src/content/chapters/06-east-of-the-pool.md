@@ -105,7 +105,7 @@ The cavern floor was a nightmare of shattered rubble, slick stalagmites, and a s
 
 "Phew!" Nibbles gagged, holding his sleeve over his nose. "What in the seven hells is that smell?"
 
-"Foul refuse," Derek said grimly, inspecting the pile of rotting bones beneath the cave mouth. "Looks like whatever lives up in those upper tunnels uses this ledge as a dumping ground — throwing their waste down here to keep whatever lurks in the water fed and occupied."
+"Foul refuse," Derek said grimly, inspecting the pile of rotting bones beneath the cave mouth. "Looks like whatever lives up in those upper tunnels uses this cavern as a dumping ground."
 
 Dave took a step toward the edge of the black lake, his torch casting long, orange flickers across the water. Suddenly, a soft, sorrowful voice echoed inside his mind — clear, pathetic, and desperate.
 
