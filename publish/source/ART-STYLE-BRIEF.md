@@ -1,6 +1,6 @@
 # Art Style Brief & Canonical Depiction Rules — The Ruins of Ethium
 
-This document defines the visual style standards, canonical character visual rules, and AI image generation briefs for *The Ruins of Ethium*.
+This document defines the visual style standards, canonical character visual rules, monster reference designs, and AI image generation briefs for *The Ruins of Ethium*.
 
 ---
 
@@ -18,7 +18,19 @@ Unless explicitly instructed otherwise by the user, **all scene illustrations MU
 
 ---
 
-## 2. Chapter Art Brief (Internal Book Plates)
+## 2. Canonical Monster Reference Designs
+
+Canonical monster art references are stored in `publish/illustrations/monsters/`:
+
+| Monster | Reference File | Visual Features & Anatomical Rules |
+| :--- | :--- | :--- |
+| **Quaggoth** | `publish/illustrations/monsters/quaggoth.jpg` | Hunched bipedal/knuckle-walking yeti-gorilla beast, shaggy fur, long ape arms with sharp claws, broad flat ape face, pointed ears, small chin beard, sharp fangs in a wide grinning mouth. *NEVER depict as a wolf or canine.* |
+| **Duergar** | `publish/illustrations/monsters/druegar.jpg`, `druegar 2.webp` | Dark grey/ash-skinned dark dwarves, wild white/pale beard, glowing pale eyes, spiked iron pauldrons, bone-reinforced heavy shields, and spiked warhammers. |
+| **Goblin** | `publish/illustrations/monsters/goblin.png` | Lean, wiry green-skinned goblins with large pointed ears, sharp teeth, crude leather/scale armor, and jagged iron weapons. |
+
+---
+
+## 3. Chapter Art Brief (Internal Book Plates)
 
 **Reference Folder:** `publish/source/inbox/illustration style/chapter art/`  
 *(Key reference examples: `fighting-fantasy-russ-nicholson.jpg`, `titanruss.png`, `Fighting-Fantasy-10.jpg`)*
@@ -38,7 +50,7 @@ Unless explicitly instructed otherwise by the user, **all scene illustrations MU
 
 ---
 
-## 3. Cover Art Brief (Full-Color Art)
+## 4. Cover Art Brief (Full-Color Art)
 
 **Reference Folder:** `publish/source/inbox/illustration style/cover art/`  
 *(Key reference examples: `cover1.jpg`, `Warlock_25th.jpg`, `DandD-Cover-Crop.webp`)*
@@ -50,7 +62,7 @@ Unless explicitly instructed otherwise by the user, **all scene illustrations MU
 
 ---
 
-## 4. Master Image Generator Prompts
+## 5. Master AI Generator Prompts
 
 ### Chapter Art Master Prompt (Black & White Pen-and-Ink)
 ```text
