@@ -11,5 +11,8 @@ export default defineConfig({
     '/library/places': '/dm/world',
     '/library/characters': '/dm/world',
     '/library/sessions': '/dm/notes',
+    // CYOA rebranded → Solo Play (DM Vault)
+    '/cyoa': '/dm/solo',
+    '/cyoa/[slug]': '/dm/solo/[slug]',
   },
 });

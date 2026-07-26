@@ -1,0 +1,99 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import DmBodyEnhance from '../../../components/DmBodyEnhance.astro';
+import { getPublishedCyoaPages } from '../../../lib/cyoa';
+import { SITE_TITLE } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const pages = await getPublishedCyoaPages();
+  return pages.map((page) => ({
+    params: { slug: page.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await page.render();
+const description =
+  page.data.summary ?? `${page.data.title} — Solo Play module for ${SITE_TITLE}.`;
+
+// Determine if this is a playable book or a meta/reference doc
+const META_SLUGS = new Set(['readme', 'format', 'flow', 'encounters']);
+const isBook = !META_SLUGS.has(page.slug);
+---
+
+<DmShell title={page.data.title} description={description} current="solo">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">
+        DM Vault · Solo Play · {isBook ? 'Adventure Book' : 'Reference'}
+      </p>
+      <h1 class="page-title">{page.data.title}</h1>
+      {page.data.summary && <p class="table-desk__lede">{page.data.summary}</p>}
+      {isBook && (
+        <p class="solo-book-hint">
+          📖 Start at passage <strong>1</strong>. Roll dice. Make choices. Track your character's state.
+        </p>
+      )}
+    </header>
+
+    <div class="prose table-desk__body dm-desk__body solo-reader">
+      <Content />
+    </div>
+
+    <p class="table-desk__footer-nav">
+      <a href="/dm/solo/">← Solo Play index</a>
+      ·
+      <a href="/dm/">DM Hub</a>
+    </p>
+  </article>
+  <DmBodyEnhance />
+</DmShell>
+
+<style>
+  /* ── Solo reader: visual distinction from standard DM prose ── */
+  .solo-reader {
+    max-width: 70ch;
+  }
+
+  /* Each numbered passage gets a subtle separator treatment */
+  .solo-reader :global(h2) {
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: var(--ink-dark, #2c2820);
+    border-left: 3px solid #8b6914;
+    padding-left: 0.65rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  /* Choice lines (italicised "If you..." lines) */
+  .solo-reader :global(em) {
+    color: #5a3e00;
+    font-style: italic;
+  }
+
+  /* Combat blocks: bold label + encounter id */
+  .solo-reader :global(strong:first-child) {
+    color: #8b0000;
+  }
+
+  /* Horizontal rules between passages */
+  .solo-reader :global(hr) {
+    border: none;
+    border-top: 1px dashed var(--paper-edge, #e8dfcf);
+    margin: 1.75rem 0;
+  }
+
+  .solo-book-hint {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.4rem 0.9rem;
+    background: rgba(139, 105, 20, 0.08);
+    border: 1px solid rgba(139, 105, 20, 0.3);
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #5a3e00;
+  }
+</style>

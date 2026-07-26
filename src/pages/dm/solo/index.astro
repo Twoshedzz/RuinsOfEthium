@@ -1,0 +1,99 @@
+---
+import DmShell from '../../../components/DmShell.astro';
+import { getPublishedCyoaPages } from '../../../lib/cyoa';
+
+const pages = await getPublishedCyoaPages();
+
+const META_SLUGS = new Set(['readme', 'format', 'flow', 'encounters']);
+const books = pages.filter((p) => !META_SLUGS.has(p.slug));
+const meta  = pages.filter((p) =>  META_SLUGS.has(p.slug));
+
+const metaLabels: Record<string, string> = {
+  readme:     'Overview & scope',
+  format:     'Passage markup & engine notes',
+  flow:       'Choice flow diagrams (Mermaid)',
+  encounters: 'Combat encounter stubs',
+};
+---
+
+<DmShell title="Solo Play" description="Solo D&D adventure modules for The Ruins of Ethium." current="solo">
+  <article>
+    <header class="table-desk__header">
+      <p class="table-desk__eyebrow">DM Vault · Solo Play</p>
+      <h1 class="page-title">⚔️ Solo Play Modules</h1>
+      <p class="table-desk__lede">
+        Single-player D&amp;D adventures set in the Ruins of Ethium. Bring your own character, follow the
+        branching passages, roll your own dice. No DM required.
+      </p>
+      <p class="solo-status-badge">🚧 In Development — content is being expanded</p>
+    </header>
+
+    {books.length > 0 && (
+      <section class="solo-section">
+        <h2 class="solo-section__heading">Adventure Books</h2>
+        <ul class="library-hub">
+          {books.map((page) => (
+            <li>
+              <a href={`/dm/solo/${page.slug}/`}>
+                <span class="library-hub__label">{page.data.title}</span>
+                <span class="library-hub__count">Book · Solo</span>
+                <span class="library-hub__blurb">
+                  {page.data.summary ?? 'A branching solo adventure module.'}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {meta.length > 0 && (
+      <section class="solo-section solo-section--meta">
+        <h2 class="solo-section__heading">Design &amp; Format References</h2>
+        <ul class="library-hub library-hub--compact">
+          {meta.map((page) => (
+            <li>
+              <a href={`/dm/solo/${page.slug}/`}>
+                <span class="library-hub__label">{page.data.title}</span>
+                <span class="library-hub__blurb">
+                  {metaLabels[page.slug] ?? page.data.summary ?? ''}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {pages.length === 0 && (
+      <p>No solo modules found. Add markdown files under <code>publish/source/cyoa/</code>.</p>
+    )}
+  </article>
+</DmShell>
+
+<style>
+  .solo-status-badge {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.3rem 0.75rem;
+    background: rgba(139, 100, 0, 0.12);
+    border: 1px solid rgba(139, 100, 0, 0.35);
+    border-radius: 4px;
+    font-size: 0.85rem;
+    color: #7a5a00;
+    font-style: italic;
+  }
+  .solo-section { margin-top: 2.5rem; }
+  .solo-section__heading {
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 1.05rem;
+    color: var(--ink-muted, #5a544c);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--paper-edge, #e8dfcf);
+  }
+  .solo-section--meta { margin-top: 2rem; opacity: 0.75; }
+  .library-hub--compact li a { padding: 0.5rem 0.75rem; }
+</style>
