@@ -79,7 +79,7 @@ First, they saw ancient Ethium as it had been over a thousand years ago — a bu
 
 Curious, Dave lifted the battleaxe from the tray and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
 
-In the glowing pool chamber miles behind them, Garnel Stoneblender was busily sweeping up charcoal dust, while Poopy Joe — dressed in a clean leather apron — was clumsily carrying a stack of old books, trying very hard not to drop them.
+In the glowing pool chamber barely half a mile behind them, Garnel Stoneblender was busily sweeping up charcoal dust, while Poopy Joe — dressed in a clean leather apron — was clumsily carrying a stack of old books, trying very hard not to drop them.
 
 Nibbles burst out laughing. "It's a live mirror! Look at Joe holding the books!"
 
