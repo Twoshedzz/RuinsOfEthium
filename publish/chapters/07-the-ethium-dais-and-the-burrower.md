@@ -23,7 +23,7 @@ Hammering an iron piton deep into a fissure in the rock, Nibbles secured a thick
 
 At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the dry scent of ancient stone, faint coal smoke, and old iron. The corridor ahead displayed grand ancient dwarven architecture — massive granite arches and finely dressed masonry from Ethium's golden age, though centuries of occupation had smudged the walls with soot and crude iron spikes had been driven into the fine stonework.
 
-"Classic dwarven work," Derek murmured, running his gloved hand along a pillar as he held up a hand. "Built three hundred years ago... but someone has taken over these halls in the centuries since. Stay close."
+"Classic dwarven work," Derek murmured, running his gloved hand along a pillar as he held up a hand. "Built over a thousand years ago... but someone has taken over these halls in the centuries since. Stay close."
 
 They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and animal bones. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
 
@@ -57,7 +57,7 @@ The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slo
 
 Nibbles gasped, clutching his temples, as the sphere flickered to life and filled the room with a brilliant three-dimensional vision.
 
-First, they saw ancient Ethium as it had been three hundred years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
+First, they saw ancient Ethium as it had been over a thousand years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
 
 Dave picked up a smooth blue stone from his pouch and set it on the rim. The vision glitched again: they saw the towering spires of the Ethium Royal Castle in its ancient glory, then watched it dissolve into its current state — overrun by Goblins, Ogres, and Hobgoblins patrolling the broken battlements.
 
