@@ -97,7 +97,7 @@ One by one, the three stone guardians fell silent until the gallery was still ag
 
 Beyond the Hall of Statues, the corridor ended abruptly at a terrifying precipice.
 
-The ancient Ethium bridge that once spanned the vast underground abyss had collapsed long ago, its broken stone spans hanging over empty air. The two-dimensional maps of Ethium could never convey the soaring, dizzying scale of this subterranean hall — a sheer 50-foot vertical drop from the ledge straight down to the dark cavern floor below. High up on the opposite cliff face, seventy feet across the gap and fifty feet above the floor, a narrow archway marked where the corridor continued into the deep.
+The ancient Ethium bridge that once spanned the vast underground abyss had collapsed long ago, its broken stone spans hanging over empty air. The cavern opened up into a dizzying subterranean vault — a sheer 50-foot vertical drop from the corridor ledge straight down into the pitch-black lake basin below. High up on the opposite cliff face, seventy feet across the gap and fifty feet above the dark floor, a narrow archway marked where the corridor continued into the deep.
 
 Thorn anchored two heavy ropes to a sturdy stone pillar, and the party abseiled down the sheer 50-foot cliff face into the damp, echoing shadows.
 
