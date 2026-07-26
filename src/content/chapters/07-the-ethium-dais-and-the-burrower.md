@@ -87,6 +87,12 @@ A sudden, heavy silence fell over the steps as Dave's eyes widened in realizatio
 
 Thorn gritted his teeth, his grip tightening on his shield. "The Duergar. They are in the forge right now."
 
+"It's an ancient Ethium network," Derek said, placing a palm against the stone table. "The table accesses any site where active Ethium stones or nodes remain... but I can feel it. Most of the network is broken and dark."
+
+Curious to test the network further, Dave pulled out another stone — one of the carved stones recovered from the old manor castle back near Fallcrest — and pressed it into the table slot.
+
+The sphere recalibrated with a deep hum. First, it projected a splendid vision of the past: ancient Ethium royalty in grand, shimmering robes holding court within a soaring, immaculate castle. But with a static pulse, the image updated to the present: the same castle halls, now ruined and crudely cobbled back together with timber barricades, crawling with goblins, massive ogres, and a ruthless hobgoblin king barking orders from a stolen throne.
+
 ---
 
 After resting near the dais, the companions pushed deeper toward the grand **Assembly Hall**. 
