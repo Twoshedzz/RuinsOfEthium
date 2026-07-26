@@ -51,7 +51,7 @@ Thorn was faster, catching the man at the threshold and driving him into the sto
 
 The remaining fighters were Hammers in all but name — heavy boots, brutal swings, no discipline. The archers in the branches broke when Dave's magic struck their roost; those on the ground were swiftly disarmed and driven back against the stone wall by Thorn's axe and Loki's fierce lunges.
 
-Within minutes, the fight was over. Dispatched as a threat, the surviving thugs were bound securely with their own camp rope against the fallen buttress, their weapons confiscated and hurled far down the rocky ravine so none could raise an alarm or follow from behind.
+Within minutes, the fight was over. Dispatched as a threat, the surviving thugs were bound securely with their own camp rope against the fallen buttress, their weapons confiscated and hurled far down the steep slope of the ridge so none could raise an alarm or follow from behind.
 
 Derek rolled the hooded leader over and tugged open his collar: a small iron hammer on a leather cord.
 
