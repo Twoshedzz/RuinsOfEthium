@@ -1,13 +1,27 @@
 ---
 title: "The Ethium Dais and the Burrower"
 chapter: 7
-summary: "Beyond the drowned cavern, the companions navigate Duergar ambushes and discover the ancient Ethium Viewing Dais. But as they push into the grand Assembly Hall, a terrifying predator from the deep turns a fierce battle into total chaos."
+summary: "Faced with a dizzying fifty-foot vertical cliff, the companions must scale the cavern wall to reach the upper archway. Beyond, they navigate Duergar ambushes and discover the ancient Ethium Viewing Dais before a colossal predator from the deep turns the grand Assembly Hall into total chaos."
 published: true
 ---
 
-The stone stairs leading up the eastern cliff were steep, slick with spray from the cavern waterfall, and worn smooth by centuries of dark dwarven boots.
+Before them stood the sheer fifty-foot rock face leading up to the narrow archway high on the cliff wall. With the Otyugh slain in the dark lake below, Garnel Stoneblender shook his head, looking up at the soaring drop and the grim dwarven tunnels beyond. 
 
-At the top, the air changed. The wet stench of the Otyugh's lake fell away, replaced by the sharp, bitter smell of coal smoke, hot iron, and beast fur. The corridor ahead was cut from dark dwarven granite, its archways low and angular.
+"I've seen enough monster jaws for one lifetime," Garnel confessed, clutching his leather notebook tight. "The ancient Ethium conduits back at the pool need studying — I'll head back there to work in safety."
+
+The companions agreed. With Garnel heading back to the pool chamber, Nibbles stepped forward, slinging his climbing gear over his shoulder. "Fifty feet? Easy," he grunted, wedging his toes into a slick granite crease.
+
+He made it twenty feet up before disaster struck. A wet shelf of stone crumbled beneath his boots. Nibbles yelled as he plummeted backward, crashing hard onto the rocky cavern floor with a breath-knocking thud.
+
+"Hold still, Nibbles!" Derek barked, rushing to his side. The dwarf cleric laid a heavy hand on the rogue's shoulder, chanting a low prayer to the Sun Father. A warm, golden radiance enveloped Nibbles — Derek's *Guidance* spell — clearing the fog from his mind and imbuing his limbs with steady strength.
+
+"Try again," Derek urged. "The Sun Father guides your footing."
+
+With the divine blessing humming through his veins, Nibbles wiped his bruised hands and sprang back onto the cliff. His fingers found unseen handholds in the rock face with uncanny precision. In minutes, he pulled himself over the lip of the high archway fifty feet above. 
+
+Hammering an iron piton deep into a fissure in the rock, Nibbles secured a thick hempen rope and tossed it down the cliff. One by one, Thorn, Derek, Dave, and Loki hauled themselves up the sheer drop into the high passage.
+
+At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the bitter smell of coal smoke, hot iron, and beast fur. The corridor ahead was cut from dark dwarven granite, its archways low and angular.
 
 "Duergar territory," Derek murmured, holding up a hand. "Stay close."
 
