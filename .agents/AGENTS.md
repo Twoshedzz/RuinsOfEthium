@@ -45,6 +45,10 @@ When drafting or editing novel chapters (`publish/chapters/`):
 - Adventure modules in `publish/source/world/modules/` (`/dm/modules/`) must remain **replayable and party-agnostic**.
 - Never paste specific party play-by-play ("Thorn cast Fireball") into modules. Store party outcomes in `publish/source/sessions/` instead.
 
+### Dramatis Personae Maintenance Rule (`/about/`)
+- Whenever new characters, allies, or major antagonists are introduced into the story or world (`publish/source/characters/` or novel chapters), **evaluate whether they should be added to the public Dramatis Personae** on the About page (`src/pages/about.astro`).
+- Group characters logically (*The Heroes*, *Friends*, *Enemies*) and write concise, kid-friendly descriptions matching the Fighting Fantasy novel tone.
+
 ---
 
 ## 5. Illustration & Artwork Guidelines

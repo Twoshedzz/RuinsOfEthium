@@ -129,6 +129,10 @@ A sound like grinding mountains echoed beneath their feet. Dust rained down from
 
 The Burrower attacked blindly, striking anything that moved. With a single terrifying snap, it swallowed one of the enlarged Quaggoths whole, then thrashing its tail across the hall, smashing two Duergar into the pillars.
 
+![The colossal blind Grey Burrower erupts through the Assembly Hall floor and swallows an enlarged Quaggoth as the party and Duergar scatter through the shattered hall](/illustrations/scenes/ch07-grey-burrower-assembly-hall-v2.png)
+
+*The Grey Burrower tears through the Assembly Hall — swallowing anything that moves.*
+
 Chaos engulfed the Assembly Hall. Derek’s Spiritual Weapon struck the monster's side while Thorn and Dave's Flaming Sphere brought down the Duergar captain. Dave fell as a stray tail-swipe clipped his chest, but Derek rushed to his side, uttering a prayer of healing just in time.
 
 The last surviving Duergar guard broke rank, throwing down his shield and sprinting madly down the long corridor toward the distant city gates. The giant Grey Burrower let out a terrifying roar, turned, and surged down the tunnel after him, its massive body scraping the stone walls.
