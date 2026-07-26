@@ -70,4 +70,4 @@ When drafting or editing novel chapters (`publish/chapters/`):
 - Publish Sync: `npm run publish`
 - Production Build: `npm run build`
 - Audio TTS Generator: `npm run audio` (Requires user confirmation due to OpenAI API costs)
-- **Auto Git Push Authorized**: Automatically run `git commit` and `git push origin main` whenever completing verified builds without needing to ask for confirmation.
+- **Full Terminal Command Pre-Authorization**: The user has explicitly authorized running all terminal build, sync, test, and git commands directly without asking for confirmation. Automatically run verification builds and `git commit` / `git push origin main` upon completing work.
