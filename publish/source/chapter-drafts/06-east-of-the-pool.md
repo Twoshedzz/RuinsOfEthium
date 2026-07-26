@@ -14,7 +14,7 @@
 - **Garnel** is with them; Mala’s lore partly proven.
 - Wizard’s notes: chambers **east** beyond the collapse (more sockets / stones).
 - Plan: dig in the morning.
-- **Rune hand axe** still dormant (“later”).
+- **Rune battleaxe** still dormant (“later”).
 - Pool water comes from an unseen source (hint only — don’t solve).
 
 ---

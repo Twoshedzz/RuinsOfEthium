@@ -83,7 +83,7 @@ A hand shot from the rubble and seized his wrist. Another followed, and a whole 
 
 The fight in the alcove was close and foul, the zombies slow but relentless, the stink of them worse than their claws. Thorn cracked one apart with his axe. Derek shattered another's skull. Nibbles, freed at last, stabbed the third until it stopped moving.
 
-He wiped his blade and fished the glinting object from the muck: a hand axe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
+He wiped his blade and fished the glinting object from the muck: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
 
 "Ethium work," Derek said, turning it over. "The rune's there. The magic isn't — not yet."
 
