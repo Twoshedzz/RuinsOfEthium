@@ -1,6 +1,6 @@
 ---
 title: "Duergar outpost (+ Grey Burrower)"
-summary: "East of the pool — lake cavern, duergar district, Viewing Dais, Assembly Hall, Grey Burrower."
+summary: "East of the pool — lake cavern, duergar district, Viewing Table, Assembly Hall, Grey Burrower."
 order: 6
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 | [`Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf`](../../../table-assets/pdfs/Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf) | Full read-aloud, stats, relics, rhythm → `/dm/pdfs/…` |
 | [`Duergar_Combat_Tracker_v2.pdf`](../../../table-assets/pdfs/Duergar_Combat_Tracker_v2.pdf) | Compact HP tracks |
 | [`Troglodyte_Combat_Tracker_v2.pdf`](../../../table-assets/pdfs/Troglodyte_Combat_Tracker_v2.pdf) | Otyugh + troglodyte route |
-| [`ethium_language_sheet.pdf`](../../../table-assets/pdfs/ethium_language_sheet.pdf) | Dais / activation words |
+| [`ethium_language_sheet.pdf`](../../../table-assets/pdfs/ethium_language_sheet.pdf) | Viewing table / activation words |
 
 **Example live session plan:** [`../../../table/05-after-grey-burrower.md`](../../../table/05-after-grey-burrower.md) → `/dm/plans/05-after-grey-burrower/`
 
@@ -24,11 +24,11 @@ published: true
 
 ## Overview
 
-East of the Ethium pool: dig / lake cavern → worked stone → **duergar-held district** of ancient Ethium (old dwarven halls). Viewing Dais lore set-piece, Assembly Hall tactical fight, **Grey Burrower** mid-fight chaos, duergar retreat behind **great doors**.
+East of the Ethium pool: dig / lake cavern → worked stone → **duergar-held district** of ancient Ethium (old dwarven halls). Viewing Table lore set-piece, Assembly Hall tactical fight, **Grey Burrower** mid-fight chaos, duergar retreat behind **great doors**.
 
-**Big ideas:** Ethium was once alive; duergar occupy a dwarven district; dais = Ethium Stone (power) + relic (memory node); Memory Retrieved → glitch → Memory Updated; Garnel can remain safe at the pool; grey tunnels = predator, not miners.
+**Big ideas:** Ethium was once alive; duergar occupy a dwarven district; viewing table = Ethium Stone (power) + relic (memory node); Memory Retrieved → glitch → Memory Updated; Garnel can remain safe at the pool; grey tunnels = predator, not miners.
 
-Map orientation (`duergar-route-sm` / Druegar_sm): approach from **right-hand tunnel**; grey passages = burrower; **Assembly Hall** left; **Viewing Dais** upper-right; **great doors** south → duergar city.
+Map orientation (`duergar-route-sm` / Druegar_sm): approach from **right-hand tunnel**; grey passages = burrower; **Assembly Hall** left; **Viewing Table** upper-right; **great doors** south → duergar city.
 
 ---
 
@@ -44,9 +44,9 @@ Collapsed cavern / black lake after grand halls. **Otyugh** (≈75 HP for level 
 
 Worked stone; dwarven symbols; blue mineral veins. Duergar + quaggoth slaves defending approach. One guard may flee/warn the hall.
 
-### 3 — Ethium Viewing Dais
+### 3 — Ethium Viewing Table
 
-Circular dais, two hollows. Stone → power / sphere (not portable). Relic → memory node. Always: **Memory Retrieved** → glitch → **Memory Updated**.
+Circular table, two hollows. Stone → power / sphere (not portable). Relic → memory node. Always: **Memory Retrieved** → glitch → **Memory Updated**.
 
 Relics: Explorer’s Compass · Ethium Smith’s Hammer · Child’s Drawing · Pool node (can show Garnel) · Unknown/Deep silhouette.
 

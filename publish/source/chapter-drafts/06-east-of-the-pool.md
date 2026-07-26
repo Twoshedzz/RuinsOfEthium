@@ -82,7 +82,7 @@ Use as a scene spine. Add *Table notes* in one or two lines each. Strike beats y
 
 ### 8 — Edge of someone else’s domain
 
-- Beat: First sign of **duergar** occupation (marks, lanterns, distant voices, quaggoth smell) — **do not** resolve Viewing Dais / Assembly Hall yet unless you want Ch. 6 longer.
+- Beat: First sign of **duergar** occupation (marks, lanterns, distant voices, quaggoth smell) — **do not** resolve Viewing Table / Assembly Hall yet unless you want Ch. 6 longer.
 - Table notes:
 
 
@@ -161,7 +161,7 @@ Move forward this chapter (hint only unless you mark “resolve”):
 **Must-not:**
 
 - Full Kruthik queen / egg chamber clear (save for later chapter)
-- Solving Viewing Dais + Assembly Hall + Grey Burrower all in one go (unless you expand the draft)
+- Solving Viewing Table + Assembly Hall + Grey Burrower all in one go (unless you expand the draft)
 - Naming the demon / mountain water secret
 
 ---

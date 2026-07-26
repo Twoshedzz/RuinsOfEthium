@@ -173,7 +173,7 @@ If they take this kit, journeys back toward the pool / waterfall climb are still
 
 | Item | What it does |
 |------|----------------|
-| **Explorer's Compass** | Blue crystal needle → nearest **Ethium Stone**; unlocks Explorer's Guild memory at the dais |
+| **Explorer's Compass** | Blue crystal needle → nearest **Ethium Stone**; unlocks Explorer's Guild memory at the viewing table |
 | **Ethium Smith's Hammer** | Masterwork craft tool; Great Forge memory; later repairs / dwarven trust |
 | **Child's Drawing** | No gold value; dwarf family + dog + blue crystal; quiet Family Home memory |
 
@@ -185,7 +185,7 @@ If they take this kit, journeys back toward the pool / waterfall climb are still
 
 **Hall flavour:** harnesses, fungal food, lizard/spider bedding, spider carcasses, defaced dwarven carvings, mining carts, weapon racks.
 
-### Ethium Viewing Dais (if time — upper-right on map)
+### Ethium Viewing Table (if time — upper-right on map)
 
 Two sockets: Ethium Stone (power / sphere, **not portable**) + relic (memory node). Always: **Memory Retrieved** → glitch → **Memory Updated**.
 
@@ -352,7 +352,7 @@ Tobbs leads them **beneath the tower** (Nimozaran never showed this to outsiders
 >
 > Tobbs grins, tired and proud. *"See? Stones for the journey. The big one stays here so home can be found. The little one learns the way."*
 
-- If they have the **Explorer’s Compass**: needle may twitch toward the Anchor / nearest Ethium Stone — same relic idea as the dais, not a new system.
+- If they have the **Explorer’s Compass**: needle may twitch toward the Anchor / nearest Ethium Stone — same relic idea as the viewing table, not a new system.
 - Optional language flavour only if someone asks how binding works: *Kaelith Vorn* (sheet) — bind / link. No new teleport word.
 
 If the clock is gone: plant “Tobbs has something under the tower to show you — tomorrow” and stop.
@@ -389,7 +389,7 @@ Copy into [session-05](/dm/notes/session-05/) when played:
 
 - Who lived / fled / got eaten by the worm
 - Whether Deep Gate sealed; whether Marshal / spider was seen
-- Which relics / climbing gear found / dais visions seen
+- Which relics / climbing gear found / viewing table visions seen
 - Whether Garnel’s camp was seen; rest taken?
 - Trogs: skipped / skirmish / deeper?
 - Waterfall: ogre dead / fled / who retreated
@@ -408,7 +408,7 @@ Copy into [session-05](/dm/notes/session-05/) when played:
 | [Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf](/dm/pdfs/Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf) | Assembly Hall + waterfall stats / read-alouds |
 | [Duergar_Combat_Tracker_v2.pdf](/dm/pdfs/Duergar_Combat_Tracker_v2.pdf) · [Troglodyte_Combat_Tracker_v2.pdf](/dm/pdfs/Troglodyte_Combat_Tracker_v2.pdf) | Compact HP tracks |
 | [troglodyte-caves](/dm/modules/troglodyte-caves/) | Replayable troglodyte module |
-| [duergar-outpost](/dm/modules/duergar-outpost/) | Outpost / Burrower / dais building block |
+| [duergar-outpost](/dm/modules/duergar-outpost/) | Outpost / Burrower / viewing table building block |
 | `duergar-loot-notes.md` | Captain/slave loot already partly claimed |
 | `troglodyte-treasure.md` | Trog loot list |
 | `MAP-CATALOG.md` | Full map catalog |

@@ -18,7 +18,7 @@ Party has beaten the **Otyugh** in the collapsed lake cavern and pushed into wor
 ## Session goals
 
 1. Finish the outpost fight
-2. Discover the **Ethium Viewing Dais**
+2. Discover the **Ethium Viewing Table**
 3. Run **Assembly Hall** combat
 4. Unleash the **Grey Burrower** mid-fight
 5. Duergar retreat behind great doors
@@ -40,7 +40,7 @@ Party has beaten the **Otyugh** in the collapsed lake cavern and pushed into wor
 
 - Ethium was once alive and beautiful
 - Duergar occupy an ancient dwarven district beneath Ethium
-- **Viewing Dais:** two sockets — Ethium Stone (power) + relic (location/memory node)
+- **Viewing Table:** two sockets — Ethium Stone (power) + relic (location/memory node)
 - Visions: **Memory Retrieved** (past) → glitch → **Memory Updated** (present ruin)
 - **Garnel** safe at Ethium Pool researching while party explores
 - Grey natural tunnels = **Grey Burrower** predator, not miners
@@ -49,7 +49,7 @@ Party has beaten the **Otyugh** in the collapsed lake cavern and pushed into wor
 
 ## Map orientation (Druegar_sm)
 
-Party approaches from **right-hand tunnel**. Grey passages = burrower routes. **Assembly Hall** left. **Viewing Dais** upper-right. **Great doors** south → duergar city district.
+Party approaches from **right-hand tunnel**. Grey passages = burrower routes. **Assembly Hall** left. **Viewing Table** upper-right. **Great doors** south → duergar city district.
 
 ---
 
@@ -64,9 +64,9 @@ Read aloud: worked stone replaces rough cave; duergar shout; fight not over.
 
 ---
 
-## Ethium Viewing Dais (lore set piece)
+## Ethium Viewing Table (lore set piece)
 
-Circular dais, two hollows. Stone in socket 1 → blue light, crystal pillars, **sphere rises** (not portable).
+Circular table, two hollows. Stone in socket 1 → blue light, crystal pillars, **sphere rises** (not portable).
 
 **Memory sequence:** Power → Relic placed → Memory Retrieved → Glitch → Memory Updated
 
@@ -105,4 +105,4 @@ Combat-heavy, cinematic, kid-friendly. Reward clever use of terrain, relics, Eth
 | `Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf` | Full read-aloud, stats, relic table |
 | `ethium_full_session_module_v2.pdf` | Pool hub, Kruthik lair, night ambush at pool |
 | `Troglodyte_Combat_Tracker_v2.pdf` | If party chooses troglodyte route |
-| `ethium_language_sheet.pdf` | Activation words at dais / pool |
+| `ethium_language_sheet.pdf` | Activation words at viewing table / pool |

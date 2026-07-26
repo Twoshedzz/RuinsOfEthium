@@ -2,13 +2,13 @@
 title: "Sessions 4+ — What happened (east of the pool → Assembly Hall)"
 session: 4
 order: 4
-summary: "Source: Table play notes from the Ethium pool, eastern collapse, Lake Cavern, Duergar Outpost, Ethium Viewing Dais, and Assembly Hall. Chapters: Chapter 6 (*…"
+summary: "Source: Table play notes from the Ethium pool, eastern collapse, Lake Cavern, Duergar Outpost, Ethium Viewing Table, and Assembly Hall. Chapters: Chapter 6 (…"
 published: true
 ---
 # Sessions 4+ — What happened (east of the pool → Assembly Hall)
 
-**Source:** Table play notes from the Ethium pool, eastern collapse, Lake Cavern, Duergar Outpost, Ethium Viewing Dais, and Assembly Hall.  
-**Chapters:** Chapter 6 (*East of the Pool*) & Chapter 7 (*The Ethium Dais and the Burrower*)  
+**Source:** Table play notes from the Ethium pool, eastern collapse, Lake Cavern, Duergar Outpost, Ethium Viewing Table, and Assembly Hall.  
+**Chapters:** Chapter 6 (*East of the Pool*) & Chapter 7 (*The Ethium Viewing Table and the Burrower*)  
 **Status:** Played through Assembly Hall, Grey Burrower eruption, and Duergar city gates closing.
 
 ---
@@ -33,10 +33,10 @@ published: true
 - **The Fight**: The **Otyugh** erupted from the sludge! **Nibbles** was caught in a tentacle and bitten. **Derek** and **Dave** scrambled down the ropes; **Thorn** landed heavy blows while **Dave** blasted it with fire.
 - **Loot**: Old adventurer gear, a **healing potion**, and gold coins recovered from the muck.
 
-### 4. Duergar Outpost & The Ethium Viewing Dais
+### 4. Duergar Outpost & The Ethium Viewing Table
 - Ascending the far cliff, the party entered old dwarven halls occupied by **Duergar** and **Quaggoth slaves**.
 - **Crossroads Ambush**: **Duergar** used invisibility to surprise the party and **Enlarge** to deal heavy damage. **Nibbles** rushed in, taking heavy hits. **Derek** kept everyone healed while **Dave** cast **Flaming Sphere** and **Thorn** held the line.
-- **The Ethium Viewing Dais**: An ancient stone table with a relic slot. Inserting objects caused a crystal sphere to emerge, displaying text:
+- **The Ethium Viewing Table**: An ancient stone table with a relic slot. Inserting objects caused a crystal sphere to emerge, displaying text:
   `ready, accessing [ Memory ], memory updating`
   - **Ethium Axe**: Showed ancient busy dwarven/Ethium forges $\rightarrow$ shifted to modern dark view of cages, crates, and dark dwarves riding giant spiders.
   - **Royal Stone**: Showed the ancient Ethium Royal Castle $\rightarrow$ shifted to present view of ruins overrun by **Goblins**, **Ogres**, and **Hobgoblins**.
