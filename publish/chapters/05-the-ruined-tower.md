@@ -135,7 +135,7 @@ The young gnome scrambled up from behind the pillar, spectacles flashing, and th
 
 Thorn drove the orc back with heavy blows. Nibbles appeared behind the thug the gnome had burned and did what he did best. Dave sent a sleep spell straight into the other thug's face — simple, but remarkably effective. Loki seized the orc's leg and hung on like a dog who'd found something worth keeping.
 
-When the fight ended, the orc lay unconscious, the thugs groaned, and the red-haired gnome sat on the floor among his scattered books and measuring tools, spectacles askew, breathing as though he'd run the whole climb himself.
+When the fight ended, the orc lay unconscious, the thugs groaned, and the red-haired gnome sat slumped on the stone floor among his scattered parchment sheets and brass dials, spectacles askew, panting as though he had just sprinted for his life.
 
 "I'm Garnel," he said eventually, wiping ink from his fingers. "Garnel Stoneblender. Thank you. I think. Are you real? Both of you?" He pointed at Derek.
 
