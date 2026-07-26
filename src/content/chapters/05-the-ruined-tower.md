@@ -105,9 +105,9 @@ Derek stared at him in utter disbelief. "He's a zombie, Nibbles."
 
 Derek groaned, rubbing his forehead in despair, but grabbed the stiff leather boots. "If Poopy Joe tries to bite anyone, I am healing him last."
 
-They propped Poopy Joe upright in the corner of the landing for safekeeping, then crept down a second winding flight of stone stairs. The steps descended deep beneath the tower's foundations, ending at a heavy, iron-bound oak doorway set into the solid rock. The depth of the descent and the thick timber door had muffled all noise from above; inside, the occupiers remained completely unaware of the fight on the landing.
+They propped Poopy Joe upright in the corner of the landing for safekeeping, then crept down a second winding flight of stone stairs. The steps descended deep beneath the tower's foundations, ending at a massive Ethium stone doorway set into the solid rock. Engineered with extraordinary precision, the thick stone slabs turned on masterfully crafted counterweight hinges, gliding silently despite their massive weight. The depth of the descent and the solid stone door had muffled all noise from above; inside, the occupiers remained completely unaware of the fight on the landing.
 
-Thorn gently pressed the heavy door ajar, peering through the gap.
+Thorn gently pushed the heavy stone portal ajar, peering through the gap.
 
 The doorway opened into a broad chamber walled in pale stone, every block hand-carved with runes — lines, curves and old Ethium symbols crawling up the walls and across the floor, dormant and colourless. Papers, books and copied diagrams lay scattered everywhere, kicked aside and trampled: Garnel's notes, his grandmother's scraps, charcoal sketches of the floor. A large orc in battered armour loomed over the kneeling gnome, one meaty hand twisted in his collar. Two Hammer thugs flanked the far wall. The gnome's eyes were wide behind round spectacles, a stylus still clutched in one shaking hand as he tried to read the lines at his feet.
 
