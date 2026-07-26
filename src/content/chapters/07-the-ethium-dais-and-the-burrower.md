@@ -45,29 +45,39 @@ With Thorn holding the front, Dave's rolling sphere controlling the corridor, an
 
 Past the shrine, the hallway opened into a circular chamber built from polished pale stone that stood out sharply against the rough dwarven tunnels around it.
 
-In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. Its surface was carved with intricate interlocking grooves, and at its center was a deep, stone-carved relic slot.
+In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. Intricate interlocking grooves carved its surface, leading to an obvious circular slot cut into the stone, beside a shallow, stone-carved tray designed to receive an item.
 
-The companions gathered around the table, examining the strange runes and empty slot.
+The companions gathered around the table, examining the strange runes and layout.
 
 "What do you make of it?" Thorn asked, leaning over the smooth marble. "Some kind of altar?"
 
-"No," Dave said, tracing the glowing grooves with a finger. "Look at the stone cutting — it's an ancient Ethium mechanism. But it needs something to activate it..."
+"Look at the stone cutting," Dave said, tracing the grooves with a finger. "It's an ancient Ethium mechanism, but it's dormant."
 
-Curious, Nibbles unclasped his belt pouch and pulled out the ancient Ethium hand-axe they had recovered from the ruined tower. Stepping up to the dais, he carefully lined up the stone blade and pushed it into the central relic slot.
+Dave reached into his pouch, pulled out a smooth blue stone, and pressed it firmly into the circular slot on the table.
 
-The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table as glowing runes flared along its rim. As it locked into place, a calm, resonant voice echoed softly inside Nibbles' mind:
+The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
 
-*ready... accessing [ Memory ]... memory updating...*
+*system active... awaiting item...*
 
-Nibbles gasped, clutching his temples, as the sphere flickered to life and filled the room with a brilliant three-dimensional vision.
+"It's active!" Dave gasped, clutching his forehead. "It wants an item."
+
+Nibbles stepped forward first, pulling a copper tavern token from his pocket and placing it on the shallow stone tray. Nothing happened. The sphere remained blank and dormant.
+
+"Try a dagger," Thorn suggested. Nibbles placed his iron dagger on the tray. Again, the sphere showed nothing.
+
+"It must need something connected to Ethium," Dave realized.
+
+Nibbles unclasped his belt pouch and carefully placed the ancient Ethium hand-axe they had recovered from the ruined tower onto the tray.
+
+The moment the stone blade touched the tray, glowing runes along the grooves flared bright azure. The voice echoed telepathically once more:
+
+*accessing [ Memory ]... memory updating...*
+
+The crystal sphere flickered to life, filling the room with a brilliant three-dimensional vision.
 
 First, they saw ancient Ethium as it had been over a thousand years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
 
-Dave picked up a smooth blue stone from his pouch and set it on the rim. The vision glitched again: they saw the towering spires of the Ethium Royal Castle in its ancient glory, then watched it dissolve into its current state — overrun by Goblins, Ogres, and Hobgoblins patrolling the broken battlements.
-
-"Fascinating..." Dave whispered in awe.
-
-Finally, Dave dipped his hand into his canteen and sprinkled a drop of the activated pool water onto the stone. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
+Curious, Dave removed the hand-axe and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
 
 In the glowing pool chamber miles behind them, Garnel Stoneblender was busily sweeping up charcoal dust, while Poopy Joe — dressed in a clean leather apron — was clumsily carrying a stack of old books, trying very hard not to drop them.
 
