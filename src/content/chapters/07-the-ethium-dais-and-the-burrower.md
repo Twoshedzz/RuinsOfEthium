@@ -67,7 +67,7 @@ Nibbles stepped forward first, pulling a copper tavern token from his pocket and
 
 "It must need something connected to Ethium," Dave realized.
 
-Thorn unslung the ancient battleaxe they had recovered from the ruined tower — its heavy metal head engraved with glowing Ethium runes — and carefully laid it across the tray.
+Thorn unslung the ancient battleaxe they had recovered earlier from the zombie mess beneath the ruined tower — its heavy metal head engraved with glowing Ethium runes — and carefully laid it across the tray.
 
 The moment the metal axe head touched the tray, glowing runes along the grooves flared bright azure. The voice echoed telepathically once more:
 
