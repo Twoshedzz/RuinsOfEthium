@@ -133,7 +133,7 @@ The orc jerked round with a roar, plainly startled — it had been bullying the 
 
 The young gnome scrambled up from behind the pillar, spectacles flashing, and thrust out both hands. A firebolt cracked across the chamber and struck the nearest Hammer thug in the chest. The man yelped and dropped his club. The red-haired gnome fired again — less steady, but the second bolt scorched the orc's shoulder and made it roar with pain and fury.
 
-Thorn drove the orc back with heavy blows. Nibbles appeared behind the thug the gnome had burned and did what he did best. Dave sent a sleepy spell into the other thug's face — not in the instructions, but effective. Loki seized the orc's leg and hung on like a dog who'd found something worth keeping.
+Thorn drove the orc back with heavy blows. Nibbles appeared behind the thug the gnome had burned and did what he did best. Dave sent a sleep spell straight into the other thug's face — simple, but remarkably effective. Loki seized the orc's leg and hung on like a dog who'd found something worth keeping.
 
 When the fight ended, the orc lay unconscious, the thugs groaned, and the red-haired gnome sat on the floor among his scattered books and measuring tools, spectacles askew, breathing as though he'd run the whole climb himself.
 
