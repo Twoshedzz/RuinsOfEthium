@@ -47,7 +47,21 @@ When drafting or editing novel chapters (`publish/chapters/`):
 
 ---
 
-## 5. Local Development & Build Commands
+## 5. Illustration & Artwork Guidelines
+- **Mandatory Party Depiction Rule**: Unless explicitly specified otherwise by the user, all scene illustrations MUST accurately depict the four core party members based on their canonical portraits in `publish/illustrations/portraits/`:
+  - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, wizard robes, wooden staff with glowing green orb). NEVER depict Dave as a human wizard.
+  - **Derek**: Bald dwarf cleric (completely bald head, round wire-rimmed spectacles, braided red beard, plate armour, holding a warhammer AND a radiant sun-emblem heater shield).
+  - **Thorn**: Goliath/warrior male (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, holding a single-headed battleaxe in one hand AND a round shield on the other arm).
+  - **Nibbles**: Small red dragonborn / kobold rogue (red scales, horns with small pouch, dark hooded cloak, holding daggers).
+  - **Loki**: Wolfhound / hunting dog companion.
+- **Art Style Brief**:
+  - **Style**: Pure 100% monochrome black-and-white pen-and-ink line drawing matching `ch01-goblin-boss-fight.png` (classic 1980s Fighting Fantasy adventure book style by Russ Nicholson / Gary Chalk).
+  - **Strict Constraints**: NO color highlights, NO parchment background overlays, NO artificial border frames, NO cave stalactites in carved dwarven halls.
+  - **Monster Anatomy Accuracy**: Quaggoths are bipedal ape-like / yeti-like gorilla monsters covered in shaggy white/grey fur with sharp claws and ape faces — NEVER wolves or canines.
+
+---
+
+## 6. Local Development & Build Commands
 - Dev Server: `npm run dev`
 - Publish Sync: `npm run publish`
 - Production Build: `npm run build`
