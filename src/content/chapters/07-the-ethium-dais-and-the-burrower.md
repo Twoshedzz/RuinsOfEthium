@@ -93,13 +93,21 @@ Curious to test the network further, Dave pulled out another stone — one of th
 
 The sphere recalibrated with a deep hum. First, it projected a splendid vision of the past: ancient Ethium nobility in grand, shimmering robes holding court within a soaring, immaculate manor house. But with a static pulse, the image updated to the present: the same manor halls, now ruined and crudely cobbled back together with timber barricades, crawling with goblins, massive ogres, and a ruthless hobgoblin king barking orders from a stolen throne.
 
+Before leaving the Viewing Table, Dave pulled out his leather journal and charcoal stick, meticulously sketching the mechanism's layout — the stone slot, the item tray, the rising sphere, and its live network feedback — recording every detail to share with Garnel when they returned to the pool.
+
 ---
 
-After taking a brief moment to catch their breath near the steps, the companions moved cautiously down the corridor, eager to find out just how many Duergar were lurking nearby. 
+The companions stood near the chamber exit, debating their next move.
 
-Dave summoned his familiar — a small pseudodragon named **Peggy** — and sent her gliding quietly through the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive, high-ceilinged hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+"We know Duergar are in the forge ahead, riding giant spiders," Derek warned softly, adjusting his shield strap. "Should we turn back and regroup with Garnel, or push on?"
 
-"They know we're coming," Dave whispered, opening his eyes. "They're dug in."
+"We've come this far," Thorn grunted, resting his battleaxe on his shoulder. "If we fall back now, they might reinforce the tunnels. We need to see what's further down the corridor and gauge how many Duergar are nearby."
+
+Agreeing to press forward with extreme caution, they moved quietly down the long hallway until the passage reached a sharp corner that turned up a flight of wide stone stairs leading toward a larger, open chamber above. 
+
+Staying low in the shadow of the corner, Dave summoned his familiar — a small pseudodragon named **Peggy** — and sent her gliding silently up the stairwell into the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive, high-ceilinged hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+
+"They know we're coming," Dave whispered, opening his eyes. "They're dug in at the top of the stairs."
 
 "We can't go back," Thorn said quietly. "We push through."
 
