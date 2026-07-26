@@ -570,6 +570,12 @@ a:hover {
   border-radius: 4px;
 }
 
+.illustration-plate--map .illustration-plate__caption {
+  margin: 0.85rem auto 1.5rem;
+  max-width: var(--measure);
+  font-size: 0.95rem;
+}
+
 .image-lightbox {
   margin: 0;
 }
