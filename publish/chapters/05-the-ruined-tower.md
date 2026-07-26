@@ -231,7 +231,7 @@ Garnel gathered the wizard's surviving notes from the table and read by the pool
 
 Nibbles glanced toward the upper stair. "The alcove zombies. Including Poopy Joe."
 
-"Yes," Garnel nodded grimly. "The wizard's dark experiments corrupted the pool's waters and turned his captives into undead. Eventually the corruption took him too, binding his corpse here. The pool water was tainted by his dark magic until we set the fourth stone and cleansed it."
+Garnel paused, raised a single eyebrow over his spectacles, and stared at the rogue for a long moment. "Er... yes. Quite. In any case, the wizard's dark experiments corrupted the pool's waters and turned his captives into undead. Eventually the corruption took him too, binding his corpse here. The pool water was tainted by his dark magic until we set the fourth stone and cleansed it."
 
 He turned the parchment sheet over to a charcoal sketch. "And he knew there was more. Look at this..." Garnel held up the sketch — a corridor running east from the pool, marked with small circles Garnel recognised at once as stone sockets. "Chambers beyond the collapse. More stones, he thought — or places built to hold them. He never got through." He looked towards the rubble heaped against the eastern wall. "Neither did anyone else, by the look of it."
 
