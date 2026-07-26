@@ -29,7 +29,7 @@ They reached a wide four-way intersection between an old well room and a ruined 
 
 Out of thin air, four squat, grey-skinned dwarves wearing spiked iron mail materialized, their eyes glowing like dull embers. Before Thorn could raise his shield, the Duergar let out harsh, guttural shouts and began to swell in size — their bodies expanding until they towered eight feet tall, their heavy iron hammers doubling in weight.
 
-"Enlarge magic!" Dave shouted. "Watch the flanks!"
+"Form up! Group together!" Thorn shouted, raising his battleaxe and shield.
 
 Behind the giant Duergar, two wild, shaggy beasts with long claws — Quaggoth slaves — lunged from the shadows with deafening howls.
 
