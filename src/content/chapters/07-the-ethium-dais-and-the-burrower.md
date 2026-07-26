@@ -137,7 +137,7 @@ Thorn, Derek, Dave, and Nibbles scrambled to the archway, peeking cautiously aro
 
 Far down the long stone avenue, the escaping Duergar was met by a patrol of Duergar cavalry mounted on giant, wall-crawling spiders. The dark dwarves raised long iron lances, swarming the Grey Burrower and driving the colossal worm back into the earth with disciplined, lethal precision.
 
-Before the companions could make another move, a heavy metallic grinding echoed down the hall. Great iron cogs turned, chains rattled, and with a deafening *BOOM* that shook the foundation of the mountain, the massive iron gates of Ethium slammed shut, sealing the lower city.
+Before the companions could make another move, a heavy metallic grinding echoed down the hall. Great dwarven cogs turned, ancient chains rattled, and with a deafening *BOOM* that shook the foundation of the mountain, the massive dwarven gates of Ethium slammed shut, sealing the lower city.
 
 Nibbles slumped against the wall, catching his breath. "Well," he muttered, wiping soot from his forehead. "At least the worm is gone."
 
