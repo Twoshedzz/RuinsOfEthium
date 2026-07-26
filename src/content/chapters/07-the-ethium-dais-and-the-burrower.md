@@ -95,9 +95,9 @@ The sphere recalibrated with a deep hum. First, it projected a splendid vision o
 
 ---
 
-After resting near the dais, the companions pushed deeper toward the grand **Assembly Hall**. 
+After taking a brief moment to catch their breath near the steps, the companions moved cautiously down the corridor, eager to find out just how many Duergar were lurking nearby. 
 
-Dave summoned his familiar — a small pseudodragon named **Peggy** — and sent her gliding quietly through the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+Dave summoned his familiar — a small pseudodragon named **Peggy** — and sent her gliding quietly through the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive, high-ceilinged hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
 
 "They know we're coming," Dave whispered, opening his eyes. "They're dug in."
 
