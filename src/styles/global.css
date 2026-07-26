@@ -659,6 +659,7 @@ a:hover {
 #chapter-image-dialog .image-lightbox__full,
 [data-image-lightbox] .image-lightbox__full {
   filter: grayscale(100%) contrast(1.12);
+  mix-blend-mode: multiply;
 }
 
 .image-lightbox__title {
