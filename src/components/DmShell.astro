@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from './SiteHeader.astro';
 import DmNav from './DmNav.astro';
+import DmAuthGate from './DmAuthGate.astro';
 import { SITE_TITLE } from '../lib/site';
 
 interface Props {
@@ -22,19 +23,21 @@ const isPlan = variant === 'plan';
   <SiteHeader slot="header" />
 
   <div class:list={['container', wide && 'container--wide', 'dm-desk', isPlan && 'dm-desk--plan']}>
-    <p class="dm-desk__banner" role="note">
-      <strong>DM tools</strong> — not the novel.
-      <a href="/chapters/">Chapters</a>
-    </p>
-
-    <DmNav current={current} />
-
-    {isPlan && (
-      <p class="dm-plan-print-masthead">
-        {SITE_TITLE} · Session plan
+    <DmAuthGate>
+      <p class="dm-desk__banner" role="note">
+        <strong>DM Vault & Campaign Tools</strong> — Protected area.
+        <a href="/chapters/">Novel Chapters</a>
       </p>
-    )}
 
-    <slot />
+      <DmNav current={current} />
+
+      {isPlan && (
+        <p class="dm-plan-print-masthead">
+          {SITE_TITLE} · Session plan
+        </p>
+      )}
+
+      <slot />
+    </DmAuthGate>
   </div>
 </BaseLayout>

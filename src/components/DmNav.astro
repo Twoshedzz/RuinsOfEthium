@@ -15,7 +15,7 @@ const items = [
 ---
 
 <nav class="dm-nav" aria-label="DM tools">
-  <a class="dm-nav__brand" href="/dm/">DM</a>
+  <a class="dm-nav__brand" href="/dm/">DM Vault</a>
   <ul class="dm-nav__list">
     {
       items.map((item) => (
@@ -30,5 +30,45 @@ const items = [
         </li>
       ))
     }
+    <li class="dm-nav__lock-item">
+      <button type="button" class="dm-nav__lock-btn" data-lock-vault title="Lock DM Vault & Sign Out">
+        🔒 Lock Vault
+      </button>
+    </li>
   </ul>
 </nav>
+
+<script>
+  import { lockDmVault } from '../lib/dm-auth';
+
+  const lockBtn = document.querySelector('[data-lock-vault]');
+  if (lockBtn instanceof HTMLButtonElement) {
+    lockBtn.addEventListener('click', () => {
+      lockDmVault();
+    });
+  }
+</script>
+
+<style>
+  .dm-nav__lock-item {
+    margin-left: auto;
+  }
+
+  .dm-nav__lock-btn {
+    background: transparent;
+    border: 1px solid var(--paper-edge, #e8dfcf);
+    border-radius: 4px;
+    padding: 0.25rem 0.65rem;
+    font-family: var(--font-display, Georgia, serif);
+    font-size: 0.85rem;
+    color: var(--ink-muted, #5a544c);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .dm-nav__lock-btn:hover {
+    background: #8b0000;
+    color: #ffffff;
+    border-color: #8b0000;
+  }
+</style>
