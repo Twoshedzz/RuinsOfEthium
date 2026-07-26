@@ -51,7 +51,7 @@ Thorn bounded across the room, but the remaining Hammers threw themselves into t
 
 The next morning, the companions gathered by the eastern cave-in armed with heavy iron pitons, picks, and crowbars taken from the Hammer camp.
 
-"The wizard's notes are clear," Garnel said, adjusting his spectacles as he handed over a rough sketch of the wall. "The central conduits run through this wall. But it will take hard work. I'll stay here by the pool to study the notes and monitor the stone resonance."
+"The wizard's notes are clear," Garnel said, adjusting his spectacles as he handed over a rough sketch of the wall. "The central conduits run through this wall. We must see what lies beyond."
 
 It took two full days of hard, backbreaking labour. Thorn and Derek levered massive granite blocks aside while Dave and Nibbles cleared the heavy gravel and hauled away baskets of rubble. By the second afternoon, a narrow gap opened near the ceiling, barely wide enough for a small bird.
 
@@ -59,7 +59,7 @@ Dave nudged Peggy from his shoulder. The pseudodragon familiar unfurled her leat
 
 "Peggy says it's clear," Dave reported, closing his eyes to share her vision. "Smooth walls, tall arches. Safe to cross."
 
-Nibbles squirmed through next, his boots disappearing into the dark.
+Nibbles squirmed through next, followed by Dave, Derek, Thorn, and a wide-eyed Garnel clutching his parchment folders tightly.
 
 "It opens up!" Nibbles called out. "Smooth walls! Ethium work!"
 
@@ -73,7 +73,7 @@ As Thorn stepped onto the central flagstone, a loud mechanical click boomed thro
 
 The three warrior statues with stones in their sockets turned their heads in unison. Their stone eyes flared with pale light as they stepped off their pedestals with a thunderous *thud* that shook dust from the ceiling.
 
-"Guards!" Derek warned, drawing his weapon. "Border sentries!"
+"Guards!" Derek warned, drawing his weapon as Garnel squeaked and ducked behind him. "Border sentries!"
 
 Thorn met the lead statue head-on, his battleaxe striking its stone arm with a sharp *rang* — but the iron blade left only a faint scratch. The guardian swung its heavy halberd in a broad arc, battering Thorn back against the wall.
 
@@ -99,7 +99,11 @@ Beyond the Hall of Statues, the corridor ended abruptly at a terrifying precipic
 
 The ancient Ethium bridge that once spanned the vast underground abyss had collapsed long ago, its broken stone spans hanging over empty air. The cavern opened up into a dizzying subterranean vault — a sheer 50-foot vertical drop from the corridor ledge straight down into the pitch-black lake basin below. High up on the opposite cliff face, seventy feet across the gap and fifty feet above the dark floor, a narrow archway marked where the corridor continued into the deep.
 
-Thorn anchored two heavy ropes to a sturdy stone pillar, and the party abseiled down the sheer 50-foot cliff face into the damp, echoing shadows.
+Thorn anchored two heavy ropes to a sturdy stone pillar. But Garnel took one look over the edge, went pale, and backed away clutching his notes.
+
+"I... I shall stay up here at the ledge," Garnel stammered nervously, peering down the 50-foot drop. "I can guard the ropes and watch your descent!"
+
+Thorn nodded, and the four companions abseiled down the sheer cliff face into the damp, echoing shadows below.
 
 The cavern floor was a nightmare of shattered rubble, slick stalagmites, and a slow-moving, pitch-black lake fed by a trickle of water from the ceiling. Near the base of the western cliff was a foul, stench-choked cave mouth heaped with rotting carcasses and decaying rubbish.
 
@@ -119,6 +123,10 @@ Before Dave could step back, the dark water exploded upwards. A colossal, rubber
 
 "Otyugh!" Derek roared, drawing his mace.
 
+![An Otyugh erupts from the black cavern lake and seizes Nibbles around the waist as Thorn, Derek, Dave and Loki rush to help beneath the collapsed Ethium bridge](/illustrations/scenes/ch06-otyugh-lake-eruption.png)
+
+*The black lake erupts — and Nibbles is dragged towards the Otyugh's maw.*
+
 "Form up!" Thorn barked, charging across the slick rocks with shield raised. "Derek, flank left! Dave, hit it with fire!"
 
 The creature’s central maw opened — a gaping nightmare lined with three rows of yellow teeth. It dragged Nibbles toward its mouth, biting deep into his shoulder armour.
@@ -129,7 +137,11 @@ Thorn closed in fast, keeping his shield raised to deflect the creature's second
 
 "Fall back, Nibbles!" Thorn commanded, stepping squarely between the thrashing monster and the rogue before its free tentacle could snare him in turn. "Dave, NOW!"
 
-Dave shook off the mental haze, raising his staff. "Burn!" A sphere of crackling flame erupted over the creature's back, filling the cavern with the smell of scorched sludge. Derek rushed into the shallows, his mace glowing with divine light as he struck the monster's flank.
+Dave raised his staff, hurling a bolt of fire, while from fifty feet above, a second streak of bright orange flame shot down from the cliff top! Garnel was leaning frantically over the ledge, peering through his spectacles and firing Fire Bolts down into the lake basin!
+
+"Take that, you foul beast!" Garnel squeaked from high above.
+
+The combined spellfire erupted over the creature's rubbery back, filling the cavern with the smell of scorched sludge. Derek rushed into the shallows, his mace glowing with divine light as he struck the monster's flank.
 
 The Otyugh thrashed wildly, sending black water splashing thirty feet into the air, before collapsing back into the lake with a heavy, gurgling splash.
 
@@ -137,7 +149,13 @@ Silence returned to the cavern, save for the sound of Nibbles coughing up mud.
 
 "Is everyone alive?" Thorn asked, pulling Nibbles out of the shallows.
 
-"Barely," Nibbles wheezed, rubbing his bruised ribs. "I tasted that thing. It tastes like rotten cabbage and regret."
+"Barely," Nibbles wheezed, rubbing his bruised ribs. "I tasted that thing. It tastes like rotten cabbage and regret. Nice shooting from up there, Garnel!"
+
+Once the party climbed back up the ropes to the corridor ledge, Garnel wiped sweat from his brow, still trembling slightly as he looked back toward the abyssal drop.
+
+"That... that was far too close," Garnel admitted, adjusting his spectacles with shaky fingers. "Steep drops, animated sentries, giant lake monsters... I think everything further on is a bit too scary for me. If it's all the same to you, I shall return to the pool chamber. I can study the dead wizard's notes in peace, clean up the chamber, and monitor the stone resonance while you explore ahead."
+
+"A sound plan," Derek agreed with a warm nod. "The pool is safe now, and we'll know where to find you."
 
 Searching the muck near the troglodyte chute, Derek spotted a rusted iron chest wedged between two rocks — the remains of some long-forgotten adventuring party. Inside, protected by oiled leather, they found a pouch of silver coins and a small glass vial filled with glowing red liquid.
 
