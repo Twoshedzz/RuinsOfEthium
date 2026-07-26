@@ -217,7 +217,7 @@ Blue light ran through the carved channels in the pale stone. All four stones an
 
 Garnel spoke two words Thorn had heard once before in a Fallcrest tavern — careful, reverent, slightly mispronounced. "Vaelum Thrae."
 
-The water answered, warmth rolling out across the chamber. The bruises on Thorn's arms ached less; Dave felt the tiredness of three days' climbing ease from his bones. Even Loki, unhurt, sighed and lay down with his tongue out.
+The water answered, warmth rolling out across the chamber. The bruises on Thorn's arms ached less; Dave felt the tiredness of three days' fighting and travelling ease from his bones. Even Loki, unhurt, sighed and lay down with his tongue out.
 
 "The pool works," Garnel whispered. "She was right. Mala was right about all of it."
 
