@@ -1,9 +1,10 @@
 ---
-title: "Gang of Four"
-summary: "Four thieves’ guilds allied as one. Unstable relationship, maintained about four years."
+title: "Untitled"
+summary: "> [!IMPORTANT] > DM Secret: The Gang of Four was secretly commissioned by agents of the Axirian Empire (a powerful foreign empire to the south/east) to inves…"
 published: true
 ---
-# Gang of Four
+> [!IMPORTANT]
+> **DM Secret**: The Gang of Four was secretly commissioned by agents of the **Axirian Empire** (a powerful foreign empire to the south/east) to investigate, locate, and seize Ethium stones and ancient technology across Almenor!
 
 Four thieves’ guilds allied as one. Unstable relationship, maintained about **four years**.
 

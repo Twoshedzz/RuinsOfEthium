@@ -82,9 +82,9 @@ Mountain **water feeding Ethium has changed**. A **great demon** is coming to th
 | Name | Notes | Topic file |
 |------|-------|------------|
 | The Hammers | Local thugs; hammer pendants; manor + tower cells | [`world/notes/hammers.md`](world/notes/hammers.md) |
-| Gang of Four | Valnarans, Silent Knives, Brotherhood, Hammers — allied in Sunfall | [`world/notes/gang-of-four.md`](world/notes/gang-of-four.md) |
+| Gang of Four | Allied thieves' guilds in Sunfall — **DM Secret**: secretly commissioned by the **Axirian Empire** to seize Ethium secrets | [`world/notes/gang-of-four.md`](world/notes/gang-of-four.md) |
 | Valnaran family | Tiefling racketeers; **Maelis Varn**, Third Hand | see Maelis |
-| Axirian agents | Hired gangs to investigate Ethium (from prep notes) | [`world/notes/plot-hooks-session-era.md`](world/notes/plot-hooks-session-era.md) |
+| Axirian Empire agents | Foreign imperial mages who commissioned the Gang of Four to hunt Ethium | [`world/notes/plot-hooks-session-era.md`](world/notes/plot-hooks-session-era.md) |
 | Fallcrest town guard | Sergeant Murgaddin | see Murgaddin |
 
 ## Key NPCs

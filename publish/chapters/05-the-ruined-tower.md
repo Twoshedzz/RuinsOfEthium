@@ -141,7 +141,7 @@ When the fight ended, the orc lay unconscious, the thugs groaned, and the red-ha
 
 "One of me is," Derek said.
 
-"The Hammers took me in Sunfall," Garnel said, the words tumbling out as though he'd been waiting days to say them to someone not threatening to hit him. "They stole my grandmother's book — Mala Stoneblender, who researched the Ethium Stones before anyone thought they were waking — and dragged me up here to document this room. Every rune on the wall. Every line on the floor." He looked at the papers strewn across the stone. "That's as far as they've gone. They're too afraid of what's below."
+"The Hammers took me in Sunfall," Garnel said, the words tumbling out as though he'd been waiting days to say them to someone not threatening to hit him. "They found my grandmother's book — Mala Stoneblender, who researched the Ethium Stones before anyone thought they were waking — and pressganged me to unlock everything she knew about Ethium. They brought me up here to map these ruins, starting with this chamber. Every rune on the wall, every line on the floor." He looked at his scattered parchment sheets. "This room is as far as they've forced me to work. They're too afraid of what's below."
 
 "What's below?" Thorn asked.
 
