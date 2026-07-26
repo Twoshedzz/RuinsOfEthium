@@ -75,15 +75,17 @@ The moment the metal axe head touched the tray, glowing runes along the grooves 
 
 The crystal sphere flickered to life, filling the room with a brilliant three-dimensional vision.
 
-First, they saw ancient Ethium as it had been over a thousand years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
+First, they saw ancient Ethium as it had been over a thousand years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to a gloomy, shadow-draped vision of the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the gloom.
 
-Curious, Dave lifted the battleaxe from the tray and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
+Curious, Dave lifted the battleaxe from the tray and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more, displaying a brief historical memory of an ancient Ethium citizen being lowered gently into the healing pool before settling into a crystal-clear, moving image:
 
-In the glowing pool chamber barely half a mile behind them, Garnel Stoneblender was busily sweeping up charcoal dust, while Poopy Joe — dressed in a clean leather apron — was clumsily carrying a stack of old books, trying very hard not to drop them.
+In the glowing pool chamber barely half a mile behind them, Garnel Stoneblender was kneeling near the stone conduits, carefully tracing ancient rune carvings with a charcoal pencil, while Poopy Joe lay unmoving and resting comfortably beside the water.
 
-Nibbles burst out laughing. "It's a live mirror! Look at Joe holding the books!"
+"Wait," Derek murmured, stepping closer to the sphere. "Look at Garnel... he's moving. That isn't an ancient memory. That's Garnel right now!"
 
-"The city is connected," Derek said, his voice solemn. "Every node talks to the central pool."
+A sudden, heavy silence fell over the steps as Dave's eyes widened in realization. "If the pool water shows what is happening *live*... then the forge vision wasn't an ancient recording either."
+
+Thorn gritted his teeth, his grip tightening on his shield. "The Duergar. They are in the forge right now."
 
 ---
 
