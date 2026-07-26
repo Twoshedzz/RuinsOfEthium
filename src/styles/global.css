@@ -503,7 +503,7 @@ a:hover {
 
 /* Illustration plates — Fighting Fantasy B&W; chapters + novel plates only */
 .chapter-body img,
-.illustration-plate img {
+.illustration-plate:not(.illustration-plate--map) img {
   display: block;
   width: 100%;
   max-width: 26rem;
@@ -662,9 +662,18 @@ a:hover {
 
 /* Enlarged chapter / novel plates keep the engraved B&W treatment */
 #chapter-image-dialog .image-lightbox__full,
-[data-image-lightbox] .image-lightbox__full {
+.chapter-body .image-lightbox__full {
   filter: grayscale(100%) contrast(1.12);
   mix-blend-mode: multiply;
+}
+
+/* Maps in modals and galleries are ALWAYS full color — no monochrome filters */
+.illustration-plate--map img,
+.illustration-plate--map .image-lightbox__full,
+[data-image-lightbox] .illustration-plate--map .image-lightbox__full,
+#dm-image-dialog .image-lightbox__full {
+  filter: none !important;
+  mix-blend-mode: normal !important;
 }
 
 .image-lightbox__title {
