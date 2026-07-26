@@ -38,11 +38,11 @@ In the centre of the room stood the **Ethium Viewing Dais** — a massive, round
 
 Nibbles stepped up to the dais and carefully placed the ancient Ethium hand-axe they had recovered from the tower stairs into the central slot.
 
-The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table. Glowing runes flared along its rim:
+The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slowly from the center of the marble table as glowing runes flared along its rim. As it locked into place, a calm, resonant voice echoed softly inside Nibbles' mind:
 
-`ready, accessing [ Memory ], memory updating`
+*ready... accessing [ Memory ]... memory updating...*
 
-The sphere flickered to life, filling the room with a brilliant three-dimensional vision.
+Nibbles gasped, clutching his temples, as the sphere flickered to life and filled the room with a brilliant three-dimensional vision.
 
 First, they saw ancient Ethium as it had been three hundred years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
 
