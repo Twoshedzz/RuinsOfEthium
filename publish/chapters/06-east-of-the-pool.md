@@ -125,7 +125,7 @@ The creature’s central maw opened — a gaping nightmare lined with three rows
 
 "Get off me, you oversized turnip!" Nibbles screamed, flailing frantically with his dagger.
 
-Thorn closed in fast, keeping his guard tight to avoid the creature's second lashing tentacle. Swaying under a crushing sweep, he drove his battleaxe down with two-handed force across the tentacle holding Nibbles. The blade bit deep into the rubbery hide. The beast let out a wet, gurgling screech of pain, releasing Nibbles into the black mud.
+Thorn closed in fast, keeping his shield raised to deflect the creature's second lashing tentacle. Swaying under a crushing sweep, he swung his battleaxe in a powerful one-handed chop across the tentacle holding Nibbles. The blade bit deep into the rubbery hide. The beast let out a wet, gurgling screech of pain, releasing Nibbles into the black mud.
 
 "Fall back, Nibbles!" Thorn commanded, stepping squarely between the thrashing monster and the rogue before its free tentacle could snare him in turn. "Dave, NOW!"
 
