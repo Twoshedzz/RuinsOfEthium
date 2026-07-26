@@ -55,7 +55,7 @@ The next morning, the companions gathered by the eastern cave-in armed with heav
 
 It took two full days of hard, backbreaking labour. Thorn and Derek levered massive granite blocks aside while Dave and Nibbles cleared the heavy gravel and hauled away baskets of rubble. By the second afternoon, a narrow gap opened near the ceiling, barely wide enough for a small bird.
 
-Dave nudged Peggy from his shoulder. The owl familiar fluttered up, squeezed through the dusty gap, and glided into the dark beyond. For a moment there was only silence — then a soft, satisfied hoot echoed back through the stone.
+Dave nudged Peggy from his shoulder. The pseudodragon familiar unfurled her leathery wings, squeezed through the dusty gap, and glided into the dark beyond. For a moment there was only silence — then a soft, satisfied chirp echoed back through the stone.
 
 "Peggy says it's clear," Dave reported, closing his eyes to share her vision. "Smooth walls, tall arches. Safe to cross."
 

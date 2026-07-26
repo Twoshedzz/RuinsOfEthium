@@ -62,7 +62,7 @@ Nibbles burst out laughing. "It's a live mirror! Look at Joe holding the books!"
 
 After resting near the dais, the companions pushed deeper toward the grand **Assembly Hall**. 
 
-Dave summoned his familiar — a small owl named **Peggy** — and sent her gliding quietly through the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+Dave summoned his familiar — a small pseudodragon named **Peggy** — and sent her gliding quietly through the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
 
 "They know we're coming," Dave whispered, opening his eyes. "They're dug in."
 

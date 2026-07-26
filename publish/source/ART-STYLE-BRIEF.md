@@ -11,6 +11,7 @@ Unless explicitly instructed otherwise by the user, **all scene illustrations MU
 | Character | Species / Archetype | Key Visual Features & Equipment |
 | :--- | :--- | :--- |
 | **Dave** | **Golden Dragonborn Wizard** | Golden scales, dragon head, horns, snout, long wizard robes, leather spellbook, wooden staff tipped with a glowing green orb. *NEVER depict Dave as a human wizard.* |
+| **Peggy** | **Pseudodragon Familiar** | Tiny coppery/gold pseudodragon, house-cat-sized, leathery dragon wings, long barbed tail, bright eyes, perches on Dave's shoulder or rests in a pocket dimension. *NEVER depict Peggy as an owl.* |
 | **Derek** | **Dwarf Cleric** | Completely **bald head**, round wire-rimmed spectacles, long braided red beard, heavy plate armour, holding a warhammer AND a radiant sun-emblem heater shield. |
 | **Thorn** | **Half-Orc / Male Warrior** | Short dark undercut hairstyle, rugged face, pale/purple-tinted skin, fur mantle over leather/chainmail armor, holding a single-headed battleaxe in one hand AND a round shield on his other arm. |
 | **Nibbles** | **Red Dragonborn / Kobold Rogue** | Small red scales, horns (with a small pouch tied to one horn), bright green eyes, grinning maw, dark hooded cloak, studded leather gear, holding glowing daggers. |
