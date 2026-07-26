@@ -55,7 +55,7 @@ The companions climbed the steps and gathered around the table, examining the st
 
 Dave reached into his pouch, pulled out a smooth blue stone, and pressed it firmly into the circular slot on the table surface.
 
-The table hummed with deep resonance. From the circle in the centre of the table surface, a crystal viewing sphere — perfectly clear and six feet across — slowly rose upward into the air as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
+The table hummed with deep resonance. From the circle in the centre of the table surface, a crystal viewing sphere — perfectly clear and two feet in diameter — slowly rose upward into the air as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
 
 *system active... awaiting item...*
 
