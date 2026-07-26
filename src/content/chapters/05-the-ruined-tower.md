@@ -243,9 +243,9 @@ Thorn studied the cave-in. Pale blocks and earth filled the opening completely, 
 
 "Not tonight," Derek said. "Tonight we rest. Tomorrow we see what's on the other side of that rubble."
 
-Nobody argued. They had rope from the camp above, axes, and a healing pool at their backs. That was enough to start with in the morning.
+Nobody argued. They had food rations and rope looted from the camp above, weapons, and a healing pool at their backs. That was enough to start with in the morning.
 
-Nibbles drew the rune-marked axe from his belt and held it out. Garnel took it carefully, tracing the etched lines with one finger.
+Thorn unslung the rune-marked battleaxe from his belt and held it out. Garnel took it carefully, tracing the etched lines with one finger.
 
 "Grandmother wrote about blades like this," he said. "The rune is cut into the steel, but the magic sleeps until you wake it with Ethium — a stone, a socket, the right words. We'll work out how."
 
