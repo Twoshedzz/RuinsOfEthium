@@ -44,11 +44,11 @@ The dais hummed. A crystal sphere, perfectly clear and six feet across, rose slo
 
 The sphere flickered to life, filling the room with a brilliant three-dimensional vision.
 
-First, they saw ancient Ethium as it had been three hundred years ago — a bustling dwarven and Ethium forge, bright with roaring fires and loud with the cheerful clink of hammers, where elves and dwarves crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant, hairy spiders through the shadows.
+First, they saw ancient Ethium as it had been three hundred years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
 
 Dave picked up a smooth blue stone from his pouch and set it on the rim. The vision glitched again: they saw the towering spires of the Ethium Royal Castle in its ancient glory, then watched it dissolve into its current state — overrun by Goblins, Ogres, and Hobgoblins patrolling the broken battlements.
 
-"Fascinating..." Garnel's voice seemed to echo in Dave's mind.
+"Fascinating..." Dave whispered in awe.
 
 Finally, Dave dipped his hand into his canteen and sprinkled a drop of the activated pool water onto the stone. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
 
