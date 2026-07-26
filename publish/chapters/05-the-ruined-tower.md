@@ -19,7 +19,7 @@ Dave looked up at the empty sky, where yesterday a black dragon had circled and 
 
 Thorn checked his axe and led them over the rise.
 
-Beyond the ridge, the ruined tower appeared before midday — a broken spire of ancient Ethium stonework on a low crest west of the great hill. Its upper floors were long gone, shattered into a crown of jagged stone, but the base remained stubbornly upright. Pale ashlar blocks, near-white and smooth as dressed marble, were hand-carved with faded dwarven runes along the lower courses, catching the sun in thin geometric grooves. At the front, the grand arched portal that had once formed the tower’s main gateway lay completely choked — the great keystone cracked through, the arch collapsed under an avalanche of heavy masonry and iron-hard mortar, leaving only a narrow breach near the buttress where a camp was tucked.
+Beyond the ridge, the ruined tower appeared before midday — a broken spire of ancient Ethium stonework on a low crest west of the great hill. Its upper floors were long gone, shattered into a crown of jagged stone, but the base remained stubbornly upright. Pale ashlar blocks, near-white and smooth as dressed marble, were hand-carved with faded Ethium runes along the lower courses, catching the sun in thin geometric grooves. At the front, the grand arched portal that had once formed the tower’s main gateway lay completely choked — the great keystone cracked through, the arch collapsed under an avalanche of heavy masonry and iron-hard mortar, leaving only a narrow breach near the buttress where a camp was tucked.
 
 ---
 
