@@ -111,13 +111,15 @@ Staying low in the shadow of the corner, Dave sent **Peggy** — his pseudodrago
 
 "We can't go back," Thorn said quietly. "We push through."
 
-The companions charged into the Assembly Hall. The Duergar captain roared an order, and the four guards enlarged themselves once more while releasing the chained Quaggoths. A Duergar crossbowman on a high balcony loosed a heavy iron bolt that grazed Thorn's helm.
+The companions charged up the stairs into the grand hall. The Duergar captain roared an order, and the guards enlarged themselves once more while releasing the chained Quaggoths. Along the side wall, a Duergar crossbowman stepped out from behind a pillar, trying to flank the party as they came in, raising his heavy crossbow to loose an iron bolt that grazed Thorn's helm.
 
-"Nibbles, move!" Derek shouted.
+"Flanker on the left! Rush him!" Thorn shouted, leading the charge to overwhelm the crossbowman before he could reload. 
 
-Nibbles, now wielding new magical tricks, sprinted straight into the center of the hall. He slammed his hands together, releasing a deafening **Thunderwave** that shattered the wooden barricades and sent two Quaggoths stumbling back. But as he tried to leap clear, a Quaggoth's heavy claws raked across his back, bringing him down to one knee.
+"Nibbles, move!" Derek yelled.
 
-"Nibbles!" Dave yelled, directing his Flaming Sphere onto the balcony to incinerate the crossbowman.
+Nibbles sprinted into position and slammed his hands together, releasing a deafening **Thunderwave** that shattered the wooden barricades and sent two Quaggoths stumbling back. But as he tried to leap clear, a Quaggoth's heavy claws raked across his back, bringing him down to one knee.
+
+"Nibbles!" Dave yelled, directing his rolling Flaming Sphere to cut off the flanking Duergar while Derek rushed to support the rogue.
 
 Suddenly, the stone floor buckled.
 
