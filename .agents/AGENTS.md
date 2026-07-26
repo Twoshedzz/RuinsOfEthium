@@ -51,7 +51,7 @@ When drafting or editing novel chapters (`publish/chapters/`):
 - **Mandatory Party Depiction Rule**: Unless explicitly specified otherwise by the user, all scene illustrations MUST accurately depict the four core party members based on their canonical portraits in `publish/illustrations/portraits/`:
   - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, wizard robes, wooden staff with glowing green orb). NEVER depict Dave as a human wizard.
   - **Derek**: Bald dwarf cleric (completely bald head, round wire-rimmed spectacles, braided red beard, plate armour, holding a warhammer AND a radiant sun-emblem heater shield).
-  - **Thorn**: Goliath/warrior male (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, holding a single-headed battleaxe in one hand AND a round shield on the other arm).
+  - **Thorn**: Half-Orc male warrior (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, holding a single-headed battleaxe in one hand AND a round shield on the other arm).
   - **Nibbles**: Small red dragonborn / kobold rogue (red scales, horns with small pouch, dark hooded cloak, holding daggers).
   - **Loki**: Wolfhound / hunting dog companion.
 - **Art Style Brief**:
