@@ -67,7 +67,7 @@ Nibbles stepped forward first, pulling a copper tavern token from his pocket and
 
 "It must need something connected to Ethium," Dave realized.
 
-Nibbles unclasped his belt pouch and carefully placed the ancient Ethium hand-axe they had recovered from the ruined tower onto the tray.
+Thorn unslung the ancient Ethium stone battleaxe they had recovered from the ruined tower and carefully laid it across the tray.
 
 The moment the stone blade touched the tray, glowing runes along the grooves flared bright azure. The voice echoed telepathically once more:
 
@@ -77,7 +77,7 @@ The crystal sphere flickered to life, filling the room with a brilliant three-di
 
 First, they saw ancient Ethium as it had been over a thousand years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to the dark present: the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the shadows.
 
-Curious, Dave removed the hand-axe and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
+Curious, Dave lifted the battleaxe from the tray and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more. They saw an ancient, frail Ethium citizen being lowered gently into the glowing blue pool. Then the vision turned clear and live:
 
 In the glowing pool chamber miles behind them, Garnel Stoneblender was busily sweeping up charcoal dust, while Poopy Joe — dressed in a clean leather apron — was clumsily carrying a stack of old books, trying very hard not to drop them.
 
