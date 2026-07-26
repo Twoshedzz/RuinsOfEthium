@@ -102,10 +102,6 @@ With the lower city sealed tight and the Duergar patrols on high alert, the comp
 
 As they stepped back into the warm, blue-lit pool chamber, Garnel looked up from his papers with a broad, triumphant grin. Standing beside him was the peat-stained zombie they had left propped against the pillar — now thoroughly cleansed by the pool's waters, grey leather gleaming, standing upright and bowing politely while holding Garnel's inkpot with delicate precision.
 
-![Poopy Joe rises from the luminous Ethium pool as Derek, Nibbles, Thorn, Dave, Garnel and Loki watch in surprise](/illustrations/scenes/ch06-poopy-joe-healing-pool.png)
-
-*Poopy Joe emerges from the healing pool — clean, steady, and unexpectedly polite.*
-
 "You're back!" Garnel beamed, gesturing with his quill. "And look! The Ethium resonance from the pool cleansed the old decay. I managed to align the ancient conduits and get him moving!"
 
 Nibbles stared, his jaw dropping before a wide grin spread across his face. "Poopy Joe! You're walking!"
