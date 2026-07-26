@@ -160,10 +160,10 @@ A high-ceilinged grand dwarven hall converted into a Duergar military outpost wi
 
 | Asset Name | View Link |
 |------------|-----------|
-| Duergar Outpost Route Map | [Duergar Route Map (Mobile view)](../maps/duergar-route-sm.png) |
-| Beyond the Pool Cavern Map | [Beyond the Pool Cavern Map](../maps/beyond-the-pool.png) |
-| Troglodyte Route Map | [Troglodyte Route Map](../maps/troglodyte-route.png) |
-| Explorer's Compass Item Card | [Explorer's Compass Item Card](../../../illustrations/items/item-card-explorers-compass.png) |
+| Duergar Outpost Route Map | [Duergar Route Map](/dm/maps/duergar-route-sm.png) |
+| Beyond the Pool Cavern Map | [Beyond the Pool Cavern Map](/dm/maps/beyond-the-pool.png) |
+| Troglodyte Route Map | [Troglodyte Route Map](/dm/maps/troglodyte-route.png) |
+| Explorer's Compass Item Card | [Explorer's Compass Item Card](/illustrations/items/item-card-explorers-compass.png) |
 
 ---
 

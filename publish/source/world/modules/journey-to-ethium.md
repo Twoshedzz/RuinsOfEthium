@@ -107,9 +107,9 @@ If the party backtracks along the waterfall later in the campaign:
 
 | Asset Name | View Link |
 |------------|-----------|
-| Fallcrest to Ethium Map | [Fallcrest to Ethium Map](../maps/fallcrest-to-ethium.png) |
-| Waterfall Climb Map | [Waterfall Climb Map](../maps/waterfall-climb.jpg) |
-| Ethium Plateau Map | [Ethium Plateau Map](../maps/ethium-plateau.jpg) |
+| Fallcrest to Ethium Map | [Fallcrest to Ethium Map](/dm/maps/fallcrest-to-ethium.png) |
+| Waterfall Climb Map | [Waterfall Climb Map](/dm/maps/waterfall-climb.jpg) |
+| Ethium Plateau Map | [Ethium Plateau Map](/dm/maps/ethium-plateau.jpg) |
 
 ---
 

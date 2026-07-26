@@ -129,11 +129,11 @@ Garnel explains that inserting 3 Ethium Stones into the basin sockets unlocks th
 
 | Asset Name | View Link |
 |------------|-----------|
-| Ethium Pool Dungeon Map | [Ethium Pool Dungeon Map](../maps/ethium-pool-dungeon.png) |
-| Hand-Drawn Pool Map | [Hand-Drawn Pool Map](../maps/ethium-pool-handdrawn.jpg) |
-| Beyond the Pool Cavern Map | [Beyond the Pool Cavern Map](../maps/beyond-the-pool.png) |
-| Ruined Tower Surface Map | [Ruined Tower Surface Map](../maps/ruined-tower.jpg) |
-| Ethium Plateau Map | [Ethium Plateau Map](../maps/ethium-plateau.jpg) |
+| Ethium Pool Dungeon Map | [Ethium Pool Dungeon Map](/dm/maps/ethium-pool-dungeon.png) |
+| Hand-Drawn Pool Map | [Hand-Drawn Pool Map](/dm/maps/ethium-pool-handdrawn.jpg) |
+| Beyond the Pool Cavern Map | [Beyond the Pool Cavern Map](/dm/maps/beyond-the-pool.png) |
+| Ruined Tower Surface Map | [Ruined Tower Surface Map](/dm/maps/ruined-tower.jpg) |
+| Ethium Plateau Map | [Ethium Plateau Map](/dm/maps/ethium-plateau.jpg) |
 
 ---
 

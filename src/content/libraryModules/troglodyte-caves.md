@@ -107,6 +107,16 @@ A dry alcove hidden behind Chief Grash's bone throne (DC 11 Investigation to spo
 
 ---
 
+## Maps & Visual Assets
+
+| Asset Name | View Link |
+|------------|-----------|
+| Troglodyte Route Map | ![troglodyte-route.png](/dm/maps/troglodyte-route.png) |
+| Beyond the Pool Cavern Map | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) |
+| Duergar Route Map | ![duergar-route-sm.png](/dm/maps/duergar-route-sm.png) |
+
+---
+
 ## Related Documentation & Links
 
 | Category | Reference Link |
@@ -114,4 +124,3 @@ A dry alcove hidden behind Chief Grash's bone throne (DC 11 Investigation to spo
 | Live Session Plan | [After Grey Burrower (Session 5 Plan)](../../../dm/plans/05-after-grey-burrower.md) |
 | Prior Modules | [Duergar Outpost Module](/dm/modules/duergar-outpost/) · [Ethium Pool Hub Module](/dm/modules/ethium-pool/) |
 | Place Lore | [Ethium Underground City Lore](../places/ethium.md) |
-| Maps | ![troglodyte-route.png](/dm/maps/troglodyte-route.png) |

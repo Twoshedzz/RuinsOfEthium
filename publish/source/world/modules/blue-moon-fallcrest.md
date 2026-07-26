@@ -109,9 +109,9 @@ The tavern doors slam open as armed thugs in leather vests enter.
 
 | Asset Name | View Link |
 |------------|-----------|
-| Fallcrest Town Map | [Fallcrest Town Map](../maps/fallcrest-town.png) |
-| Blue Moon Tavern Interior | [Inn & Tavern Interior Map](../maps/inn-tavern-interior.png) |
-| Ethium Plateau Map | [Ethium Plateau Map](../maps/ethium-plateau.jpg) |
+| Fallcrest Town Map | [Fallcrest Town Map](/dm/maps/fallcrest-town.png) |
+| Blue Moon Tavern Interior | [Inn & Tavern Interior Map](/dm/maps/inn-tavern-interior.png) |
+| Ethium Plateau Map | [Ethium Plateau Map](/dm/maps/ethium-plateau.jpg) |
 
 ---
 

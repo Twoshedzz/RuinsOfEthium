@@ -110,6 +110,16 @@ A colossal chamber lit by glowing Ethium crystal clusters embedded in the rock.
 
 ---
 
+## Maps & Visual Assets
+
+| Asset Name | View Link |
+|------------|-----------|
+| Tower C / Krutick Lair Map | ![tower-c-krutick-lair.jpg](/dm/maps/tower-c-krutick-lair.jpg) |
+| Ethium Pool Dungeon Map | ![ethium-pool-dungeon.png](/dm/maps/ethium-pool-dungeon.png) |
+| Beyond the Pool Cavern Map | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) |
+
+---
+
 ## Related Documentation & Links
 
 | Category | Reference Link |
@@ -117,4 +127,3 @@ A colossal chamber lit by glowing Ethium crystal clusters embedded in the rock.
 | Session Plan | [Ethium Pool Session Plan](../../session-plans/session-plan-ethium-pool-module.md) |
 | Session Logs | [Session 3 Play Log](/dm/notes/session-03/) · [Session 4 Play Log](/dm/notes/session-04/) |
 | Related Module | [Ethium Pool Hub Module](/dm/modules/ethium-pool/) |
-| Maps | ![tower-c-krutick-lair.jpg](/dm/maps/tower-c-krutick-lair.jpg) |

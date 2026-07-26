@@ -23,6 +23,23 @@
     return parts[parts.length - 1] || url;
   }
 
+  function normalizeHref(href) {
+    if (!href) return href;
+    let clean = href.trim();
+    if (/^(?:https?:|\/\/|data:)/i.test(clean)) return clean;
+
+    // Normalize relative map image paths to /dm/maps/ or /illustrations/
+    const mapMatch = clean.match(/(?:^|\/|\.\.\/)maps\/([^/]+\.(?:png|jpe?g|webp|svg))$/i);
+    if (mapMatch) {
+      return `/dm/maps/${mapMatch[1]}`;
+    }
+    const illMatch = clean.match(/(?:^|\/|\.\.\/)illustrations\/([^/]+\.(?:png|jpe?g|webp|svg))$/i);
+    if (illMatch) {
+      return `/illustrations/${illMatch[1]}`;
+    }
+    return clean;
+  }
+
   function looksLikePathText(text) {
     return /[/\\]/.test(text) || /^publish\//.test(text) || /^\/(?:dm|table|library)\//.test(text) || /\.(?:md|pdf|png|jpe?g|webp|svg)$/i.test(text);
   }
@@ -178,6 +195,10 @@
     root.querySelectorAll('img').forEach((img) => {
       if (!(img instanceof HTMLImageElement)) return;
       if (img.closest('[data-image-lightbox]') || img.dataset.enhanced === 'true') return;
+
+      const normSrc = normalizeHref(img.getAttribute('src') || '');
+      if (normSrc) img.src = normSrc;
+
       img.dataset.enhanced = 'true';
       img.classList.add('dm-thumb');
 
@@ -200,7 +221,13 @@
     root.querySelectorAll('a[href]').forEach((anchor) => {
       if (!(anchor instanceof HTMLAnchorElement)) return;
       if (anchor.dataset.enhanced === 'true') return;
-      const href = anchor.getAttribute('href') || '';
+      let href = anchor.getAttribute('href') || '';
+      const norm = normalizeHref(href);
+      if (norm !== href) {
+        anchor.setAttribute('href', norm);
+        href = norm;
+      }
+
       if (!IMAGE_EXT.test(href)) {
         const text = anchor.textContent?.trim() || '';
         if (looksLikePathText(text)) {
@@ -212,7 +239,11 @@
       if (anchor.querySelector('img')) return;
 
       anchor.dataset.enhanced = 'true';
-      const file = basename(href);
+      const rawText = anchor.textContent?.trim() || '';
+      const humanTitle = (rawText && !looksLikePathText(rawText))
+        ? rawText
+        : toHumanTitle(rawText, href);
+
       const wrap = document.createElement('span');
       wrap.className = 'dm-media-link';
 
@@ -221,11 +252,11 @@
       trigger.className = 'image-lightbox__trigger dm-thumb-wrap';
       trigger.setAttribute('aria-haspopup', 'dialog');
       trigger.setAttribute('aria-controls', dialog.id);
-      trigger.setAttribute('aria-label', `Enlarge: ${file}`);
+      trigger.setAttribute('aria-label', `Enlarge: ${humanTitle}`);
 
       const img = document.createElement('img');
       img.src = href;
-      img.alt = file;
+      img.alt = humanTitle;
       img.className = 'dm-thumb';
       img.loading = 'lazy';
       trigger.appendChild(img);
@@ -233,13 +264,13 @@
       const caption = document.createElement('a');
       caption.href = href;
       caption.className = 'dm-media-link__name';
-      caption.textContent = file;
+      caption.textContent = humanTitle;
       caption.target = '_blank';
       caption.rel = 'noopener';
 
       trigger.addEventListener('click', (event) => {
         event.preventDefault();
-        openLightbox(href, file);
+        openLightbox(href, humanTitle);
       });
 
       wrap.appendChild(trigger);

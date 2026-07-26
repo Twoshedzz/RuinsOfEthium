@@ -131,10 +131,10 @@ A large subterranean chamber lit by smoky torches and filled with stolen crates.
 
 | Asset Name | View Link |
 |------------|-----------|
-| Session 1 One-Pager Map | [Session 1 One-Pager Map](../maps/session-01-one-pager.png) |
-| Goblin Cave Map | [Goblin Cave Map](../maps/goblin-cave.png) |
-| Goblin Cave (Alternate Layout) | [Goblin Cave Alt Layout](../maps/goblin-cave-alt.jpeg) |
-| First Loot Handout | [Session 1 Loot Handout](../../../illustrations/items/loot-session-01.png) |
+| Session 1 One-Pager Map | [Session 1 One-Pager Map](/dm/maps/session-01-one-pager.png) |
+| Goblin Cave Map | [Goblin Cave Map](/dm/maps/goblin-cave.png) |
+| Goblin Cave (Alternate Layout) | [Goblin Cave Alt Layout](/dm/maps/goblin-cave-alt.jpeg) |
+| First Loot Handout | [Session 1 Loot Handout](/illustrations/items/loot-session-01.png) |
 
 ---
 
