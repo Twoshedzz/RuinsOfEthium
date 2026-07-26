@@ -1,7 +1,7 @@
 ---
-title: "The Ethium Dais and the Burrower"
+title: "The Ethium Viewing Table and the Burrower"
 chapter: 7
-summary: "Faced with a dizzying fifty-foot vertical cliff, the companions must scale the cavern wall to reach the upper archway. Beyond, they navigate Duergar ambushes and discover the ancient Ethium Viewing Dais before a colossal predator from the deep turns the grand Assembly Hall into total chaos."
+summary: "Faced with a dizzying fifty-foot vertical cliff, the companions must scale the cavern wall to reach the upper archway. Beyond, they navigate Duergar ambushes and discover the ancient Ethium Viewing Table before a colossal predator from the deep turns the grand Assembly Hall into total chaos."
 published: true
 ---
 
@@ -45,17 +45,17 @@ With Thorn holding the front, Dave's rolling sphere controlling the corridor, an
 
 Past the shrine, the hallway opened into a circular chamber built from polished pale stone that stood out sharply against the rough dwarven tunnels around it.
 
-In the centre of the room stood the **Ethium Viewing Dais** — a massive, round table cut from a single block of translucent blue marble. In the very center of the table was a large circular opening surrounded by interlocking grooves, with an obvious stone receptacle slot at its rim and a shallow, stone-carved tray beside it.
+In the centre of the room, set atop a couple of raised stone steps, stood the **Ethium Viewing Table** — a massive, round table cut from solid black Ethium stone. At table height, the smooth dark surface featured a large circular opening at its center surrounded by interlocking grooves, with an obvious stone receptacle slot at its rim and a shallow, stone-carved tray beside it.
 
-The companions gathered around the table, examining the strange runes and layout.
+The companions climbed the steps and gathered around the table, examining the strange runes and layout.
 
-"What do you make of it?" Thorn asked, leaning over the smooth marble. "Some kind of altar?"
+"What do you make of it?" Thorn asked, leaning over the smooth black marble. "Some kind of altar?"
 
 "Look at the stone cutting," Dave said, tracing the grooves with a finger. "It's an ancient Ethium mechanism, but it's dormant."
 
-Dave reached into his pouch, pulled out a smooth blue stone, and pressed it firmly into the circular slot on the table.
+Dave reached into his pouch, pulled out a smooth blue stone, and pressed it firmly into the circular slot on the table surface.
 
-The dais hummed. From the circle in the centre of the table, a crystal viewing sphere — perfectly clear and six feet across — slowly rose upward into the air as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
+The table hummed with deep resonance. From the circle in the centre of the table surface, a crystal viewing sphere — perfectly clear and six feet across — slowly rose upward into the air as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
 
 *system active... awaiting item...*
 
