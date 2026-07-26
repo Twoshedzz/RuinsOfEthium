@@ -23,17 +23,9 @@ Dave looked up from his spellbook, eyebrows raised. "You're giving names to the 
 
 "He has character," Nibbles insisted, crossing his arms. "And he's not doing anything else."
 
-Garnel looked over his spectacles, eyes twinkling. "The pool’s waters carry restoration, not necromancy. If we lower his remains into the basin, the ancient Ethium enchantment will cleanse the decay."
+Garnel looked over his spectacles, eyes twinkling as he examined the stiff zombie. "The pool’s waters carry restoration, but Ethium magic is complex. If we can understand how the ancient wizard bound him, perhaps the pool's energy can cleanse the decay and restore his motion... but it will take time and careful study of Grandmother's notes."
 
-Thorn watched dubiously as Derek and Nibbles hoisted the peat-caked figure and eased it into the luminous water. For a moment, nothing happened. Then a soft, musical hum resonated through the chamber. The water bubbled, dark silt lifting away like black smoke, revealing clean grey leather underneath. The skeletal joints settled into place, and with a slow, mechanical creak, Poopy Joe sat up in the shallows, blinked his empty eye sockets politely, and stood up to await instructions.
-
-![Poopy Joe rises from the luminous Ethium pool as Derek, Nibbles, Thorn, Dave, Garnel and Loki watch in surprise](/illustrations/scenes/ch06-poopy-joe-healing-pool.png)
-
-*Poopy Joe emerges from the healing pool — cleaner, steadier, and unexpectedly polite.*
-
-"See?" Nibbles beamed, wiping his hands on his tunic. "Our very own butler. He can carry the heavy ropes."
-
-Poopy Joe stood quietly by the pool, bowed slightly, and picked up Garnel's inkpot with surprising delicacy.
+"Take your time," Nibbles said, leaning Poopy Joe securely against the stone pillar. "Just don't let him wander off."
 
 ---
 
@@ -45,7 +37,7 @@ It was during Dave's watch, near three in the morning, that Loki’s ears flatte
 
 Dark figures slipped silently down the winding stone stairs — remaining Hammer thugs from the camp above, seeking revenge under cover of night. At their head moved a tall, thin figure wrapped in a dark, trailing cloak that seemed to swallow the lantern light.
 
-"Hammers!" Thorn shouted, shield coming up just as an iron arrow ricocheled off his shoulder plate with a loud *ping*.
+"Hammers!" Thorn shouted, shield coming up just as an iron arrow ricocheted off his shoulder plate with a loud *ping*.
 
 The chamber erupted into noise. Derek was on his feet in an instant, mace drawn, while Loki charged the lead archer with a fierce bark. Dave raised his staff, hurling a bolt of crackling orange fire across the water that caught two thugs in the doorway. 
 
@@ -59,11 +51,11 @@ Thorn bounded across the room, but the remaining Hammers threw themselves into t
 
 The next morning, the companions gathered by the eastern cave-in armed with heavy iron pitons, picks, and crowbars taken from the Hammer camp.
 
-"The wizard's notes are clear," Garnel said, adjusting his spectacles as Poopy Joe held his notebook open. "The central conduits run through this wall. But it will take work."
+"The wizard's notes are clear," Garnel said, adjusting his spectacles as he handed over a rough sketch of the wall. "The central conduits run through this wall. But it will take hard work. I'll stay here by the pool to study the notes and monitor the stone resonance."
 
-It took two full days of hard, backbreaking labour. Thorn and Derek levered massive granite blocks aside while Dave and Nibbles cleared the heavy gravel, with Poopy Joe dutifully hauling away basket after basket of rubble. Being the smallest, Garnel squirmed through the first narrow gap near the ceiling on the second afternoon, his excited shouts echoing back through the stone.
+It took two full days of hard, backbreaking labour. Thorn and Derek levered massive granite blocks aside while Dave and Nibbles cleared the heavy gravel and hauled away baskets of rubble. By the second afternoon, a narrow gap opened near the ceiling. Nibbles squirmed through first, his voice echoing back through the stone.
 
-"It opens up!" Garnel called out. "Smooth walls! Ethium work!"
+"It opens up!" Nibbles called out. "Smooth walls! Ethium work!"
 
 Beyond the collapse lay a grand Ethium corridor, its pale marble blocks smooth and perfectly joined. Fifty yards down, the hallway expanded into a high, vaulted gallery lined with ancient statues.
 

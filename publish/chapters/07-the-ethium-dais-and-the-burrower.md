@@ -97,3 +97,21 @@ Far down the long stone avenue, the escaping Duergar was met by a patrol of Duer
 Before the companions could make another move, a heavy metallic grinding echoed down the hall. Great iron cogs turned, chains rattled, and with a deafening *BOOM* that shook the foundation of the mountain, the massive iron gates of Ethium slammed shut, sealing the lower city.
 
 Nibbles slumped against the wall, catching his breath. "Well," he muttered, wiping soot from his forehead. "At least the worm is gone."
+
+---
+
+With the lower city sealed tight and the Duergar patrols on high alert, the companions fell back through the statues and the excavated tunnel to regroup at the healing pool.
+
+As they stepped back into the warm, blue-lit pool chamber, Garnel looked up from his papers with a broad, triumphant grin. Standing beside him was the peat-stained zombie they had left propped against the pillar — now thoroughly cleansed by the pool's waters, grey leather gleaming, standing upright and bowing politely while holding Garnel's inkpot with delicate precision.
+
+![Poopy Joe rises from the luminous Ethium pool as Derek, Nibbles, Thorn, Dave, Garnel and Loki watch in surprise](/illustrations/scenes/ch06-poopy-joe-healing-pool.png)
+
+*Poopy Joe emerges from the healing pool — clean, steady, and unexpectedly polite.*
+
+"You're back!" Garnel beamed, gesturing with his quill. "And look! The Ethium resonance from the pool cleansed the old decay. I managed to align the ancient conduits and get him moving!"
+
+Nibbles stared, his jaw dropping before a wide grin spread across his face. "Poopy Joe! You're walking!"
+
+Poopy Joe blinked his empty eye sockets, took a slow, creaking step forward, and held out Garnel's leather folder to Dave with surprising grace.
+
+"See?" Nibbles beamed, nudging Derek with an elbow. "Our very own butler."
