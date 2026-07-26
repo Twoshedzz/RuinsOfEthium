@@ -141,9 +141,17 @@ Before the companions could make another move, a heavy metallic grinding echoed 
 
 Nibbles slumped against the wall, catching his breath. "Well," he muttered, wiping soot from his forehead. "At least the worm is gone."
 
-Before retreating, Nibbles quickly searched the fallen Duergar captain and their supply crates near the shattered barricades. From the captain's belt, he unhooked a heavy pouch containing gold coins, a polished platinum ring, an iron Duergar emblem token, and a heavy ring holding **four iron keys** — stamped with dwarven runes for side doors, supply stores, and slave pens. Stacked beside the barricade crates, they also recovered coiled rope ladders and extra climbing gear — a welcome find that would make traversing the cavern lake and scaling the cliff face considerably safer in future journeys.
+Before retreating, the companions searched the fallen Duergar captain and the supply crates near the shattered barricades. 
 
-"Four keys and proper rope ladders," Nibbles murmured, slinging the gear over his shoulder. "That'll make getting up and down the cliff a whole lot easier."
+Tucked into an inner pocket of the captain's tunic, Dave discovered a small brass casing. He popped the latch, revealing a campaign-defining relic — the **Explorer's Compass**. Instead of pointing north, its delicate, glowing blue crystal needle spun smoothly before locking firmly onto the resonance of the nearest Ethium Stone. 
+
+From the captain's belt, Nibbles unhooked a heavy pouch containing gold coins, a polished platinum ring, an iron Duergar emblem token, an old dwarven key fragment, written orders in Dwarvish, and a heavy ring holding **four iron keys** — stamped with dwarven runes for side doors, supply stores, and slave pens.
+
+Near the barricade crates, Thorn recovered a perfectly preserved **Ethium Smith's Hammer**, its masterwork head bearing ancient guild marks that could aid in repairing, reforging, or understanding Ethium metalwork in the future. Tucked beneath the hammer, Derek found a fragile piece of parchment — a child's drawing depicting a happy dwarf family, a hunting dog, a small stone house, and a glowing blue crystal. Though it held no gold value, a quiet, emotional hush fell over the dwarf cleric as he gently smoothed the fragile paper and tucked it safely inside his tunic.
+
+Finally, they gathered the coiled rope ladders and extra climbing gear stacked beside the crates — a welcome find that would make traversing the cavern lake and scaling the fifty-foot cliff face considerably safer for future journeys.
+
+"Four keys, proper rope ladders, and an Ethium compass," Nibbles whispered, slinging the gear over his shoulder. "We're leaving with far more than we came with."
 
 ---
 
