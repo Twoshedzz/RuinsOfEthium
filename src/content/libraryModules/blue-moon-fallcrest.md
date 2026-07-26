@@ -9,9 +9,9 @@ published: true
 
 **Status:** Ready to run. Social / town block before the manor.
 
-**Canonical PDFs / plans:** [`session-plan-02-fallcrest-blue-moon.md`](../../session-plans/session-plan-02-fallcrest-blue-moon.md) · Hammer numbers: [`session3_stat_blocks_landscape_a4.pdf`](/dm/pdfs/session3_stat_blocks_landscape_a4.pdf)
+**Canonical Plan & Stats:** [Session Plan 2: Fallcrest & Blue Moon](../../session-plans/session-plan-02-fallcrest-blue-moon.md) · [Session 3 Stat Blocks (PDF)](/dm/pdfs/session3_stat_blocks_landscape_a4.pdf)
 
-**Prior module (road + cave):** [`road-to-fallcrest.md`](/dm/modules/road-to-fallcrest/) — North Road ambush and Mara rescue. Town content only here.
+**Prior Module:** [Road to Fallcrest Module](/dm/modules/road-to-fallcrest/) — North Road ambush and Mara rescue. Town content only here.
 
 ---
 
@@ -23,7 +23,7 @@ Arrival in Fallcrest, town errands, Blue Moon feast, Tobbs’s Ethium briefing, 
 
 ## Areas
 
-### 1 — Knight’s Gate / town
+### 1 — Knight’s Gate / Town
 
 Guards stop newcomers; **Mara** can vouch if she was rescued on the North Road. Hightown / Lowtown; Nentir Inn; errands (axe commission, Naerumar’s Imports, poison buy attempt, stables). A PC may meet **Sergeant Murgaddin**.
 
@@ -31,21 +31,19 @@ Guards stop newcomers; **Mara** can vouch if she was rescued on the North Road. 
 
 Feast with Mara; **homunculus** on roof; **Tobbs** arrives with Ethium map / **Aethra Lumis** stone demo; asks the party to retrieve stones. **Hammers** crash the briefing — map grab, not murder. Gang of Four can be named in the aftermath.
 
-### 3 — Aftermath choice
+### 3 — Aftermath Choice
 
-If the party reaches the end of this block: deal with the gang hideout (**old manor**) or press on to Ethium. Both are valid paths.
+If the party reaches the end of this block: deal with the gang hideout ([Old Manor Module](/dm/modules/old-manor/)) or press on to Ethium. Both are valid paths.
 
 ---
 
-## Encounters & stats
+## Encounters & Stats
 
-Road / cave goblins → [`road-to-fallcrest.md`](/dm/modules/road-to-fallcrest/).
+Road / cave goblins → [Road to Fallcrest Module](/dm/modules/road-to-fallcrest/).
 
-### Blue Moon brawl
+### Blue Moon Brawl
 
 3–4 Hammer Thugs (fists/clubs/tankards), 1 Hammer Bruiser (focuses map carrier), knockouts not kills; retreat when guards arrive.
-
-CYOA `blue-moon-brawl`: 4–6 Hammer thugs — Medium; non-lethal preferred.
 
 | Creature | AC | HP | Attack | Notes |
 |----------|----|----|--------|-------|
@@ -54,35 +52,35 @@ CYOA `blue-moon-brawl`: 4–6 Hammer thugs — Medium; non-lethal preferred.
 
 ---
 
-## Maps
+## Maps & Visual Assets
 
-| Asset | Canonical | Table URL |
-|-------|-----------|-----------|
-| Fallcrest town | ![fallcrest-town.png](/dm/maps/fallcrest-town.png) | `fallcrest-town.png` |
-| Tavern interior (Blue Moon–style) | ![inn-tavern-interior.png](/dm/maps/inn-tavern-interior.png) | `inn-tavern-interior.png` |
-| Ethium map (shown in briefing) | ![ethium-plateau.jpg](/dm/maps/ethium-plateau.jpg) | `ethium-plateau.jpg` |
+| Asset Name | View Link |
+|------------|-----------|
+| Fallcrest Town Map | ![fallcrest-town.png](/dm/maps/fallcrest-town.png) |
+| Inn & Tavern Interior Map | ![inn-tavern-interior.png](/dm/maps/inn-tavern-interior.png) |
+| Ethium Plateau Map | ![ethium-plateau.jpg](/dm/maps/ethium-plateau.jpg) |
 
 ---
 
 ## Key NPCs
 
-| Who | File |
-|-----|------|
-| Mara | [mara](/dm/world/characters/mara/) |
-| Tobbs | [tobbs](/dm/world/characters/tobbs/) |
-| Nimozaran | [nimozaran](/dm/world/characters/nimozaran/) (tower; not at tavern) |
-| Murgaddin | [murgaddin](/dm/world/characters/murgaddin/) |
-| Hammers | [hammers](/dm/world/places/hammers/) |
+| NPC Profile | Role |
+|-------------|------|
+| [Mara Profile](/dm/world/characters/mara/) | Courier rescued on the road |
+| [Tobbs Profile](/dm/world/characters/tobbs/) | Ethium scholar & questgiver |
+| [Nimozaran Profile](/dm/world/characters/nimozaran/) | High Wizard of Fallcrest (in tower) |
+| [Murgaddin Profile](/dm/world/characters/murgaddin/) | Guard Captain at Knight's Gate |
+| [The Hammers Faction](../places/hammers.md) | Local street gang / criminal faction |
 
 ---
 
-## Links
+## Related Documentation & Links
 
-| Kind | Where |
-|------|--------|
-| Session notes (this table’s history) | [session-02](/dm/notes/session-02/) |
-| Novel | Ch. 2 under [chapters](../../../chapters/) |
-| Gazetteer | [fallcrest](/dm/world/places/fallcrest/) |
-| Prior (road) | [`road-to-fallcrest.md`](/dm/modules/road-to-fallcrest/) |
-| Next combat | [`old-manor.md`](/dm/modules/old-manor/) |
-| Factions | [gang-of-four](/dm/world/places/gang-of-four/) |
+| Category | Reference Link |
+|----------|----------------|
+| Session Log | [Session 2 Play Log](/dm/notes/session-02/) |
+| Novel Chapter | [Chapter 2: The Blue Moon Alehouse](../../../chapters/02-the-blue-moon-alehouse.md) |
+| Town Lore | [Fallcrest Town Lore](../places/fallcrest.md) |
+| Prior Module | [Road to Fallcrest Module](/dm/modules/road-to-fallcrest/) |
+| Next Module | [Old Manor Module](/dm/modules/old-manor/) |
+| Gang Faction | [Gang of Four Faction Lore](../places/gang-of-four.md) |

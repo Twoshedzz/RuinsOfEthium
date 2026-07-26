@@ -24,7 +24,16 @@
   }
 
   function looksLikePathText(text) {
-    return /[/\\]/.test(text) || /^publish\//.test(text) || /^\/(?:dm|table|library)\//.test(text);
+    return /[/\\]/.test(text) || /^publish\//.test(text) || /^\/(?:dm|table|library)\//.test(text) || /\.(?:md|pdf|png|jpe?g|webp|svg)$/i.test(text);
+  }
+
+  function toHumanTitle(text, href) {
+    let name = (text || href || '').trim();
+    name = name.replace(/^(\.\.\/)+/, '').replace(/^publish\/source\/(world\/)?/, '').replace(/^\/(dm|table|library)\//, '');
+    name = basename(name);
+    name = name.replace(/\.(md|pdf|png|jpe?g|webp|svg)$/i, '');
+    name = name.replace(/[-_]+/g, ' ');
+    return name.replace(/\b\w/g, (c) => c.toUpperCase());
   }
 
   /**
@@ -194,11 +203,8 @@
       const href = anchor.getAttribute('href') || '';
       if (!IMAGE_EXT.test(href)) {
         const text = anchor.textContent?.trim() || '';
-        if (href.includes('/dm/') && looksLikePathText(text)) {
-          const file = basename(href);
-          if (file && text !== file) {
-            anchor.textContent = file;
-          }
+        if (looksLikePathText(text)) {
+          anchor.textContent = toHumanTitle(text, href);
         }
         return;
       }

@@ -9,16 +9,16 @@ published: true
 
 **Status:** Ready to run. Replayable and party-agnostic. Use a live table sheet / session plan to track specific party decisions and HP state.
 
-**Canonical PDFs:**
+**Canonical PDFs & Handouts:**
 
-| File | Use |
-|------|-----|
-| [`Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf`](/dm/pdfs/Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf) | Full read-aloud, stats, relics, rhythm  |
-| [`Duergar_Combat_Tracker_v2.pdf`](/dm/pdfs/Duergar_Combat_Tracker_v2.pdf) | Compact HP tracks |
-| [`Troglodyte_Combat_Tracker_v2.pdf`](/dm/pdfs/Troglodyte_Combat_Tracker_v2.pdf) | Otyugh + troglodyte route |
-| [`ethium_language_sheet.pdf`](/dm/pdfs/ethium_language_sheet.pdf) | Viewing table / activation words |
+| Resource | Purpose |
+|----------|---------|
+| [Session 4 DM Pack (PDF)](/dm/pdfs/Ruins_of_Ethium_Session4_DM_Pack_FULL.pdf) | Full read-aloud text, encounter stats, relics, and pacing notes |
+| [Duergar Combat Tracker (PDF)](/dm/pdfs/Duergar_Combat_Tracker_v2.pdf) | Compact HP tracking sheet |
+| [Troglodyte Combat Tracker (PDF)](/dm/pdfs/Troglodyte_Combat_Tracker_v2.pdf) | Otyugh and troglodyte HP tracking sheet |
+| [Ethium Language Sheet (PDF)](/dm/pdfs/ethium_language_sheet.pdf) | Viewing table activation words and rune translations |
 
-**Example live session plan:** [05-after-grey-burrower.md](../../../dm/plans/05-after-grey-burrower.md) 
+**Live Session Plan:** [After Grey Burrower (Session 5 Plan)](../../../dm/plans/05-after-grey-burrower.md)
 
 ---
 
@@ -156,26 +156,26 @@ A high-ceilinged grand dwarven hall converted into a Duergar military outpost wi
 
 ---
 
-## Maps & Assets
+## Maps & Visual Assets
 
-| Asset | File Path | Table / DM URL |
-|-------|-----------|----------------|
-| Duergar Route (Phone) | ![duergar-route-sm.png](/dm/maps/duergar-route-sm.png) | `duergar-route-sm.png` |
-| Beyond the Pool | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) | `beyond-the-pool.png` |
-| Troglodyte Route | ![troglodyte-route.png](/dm/maps/troglodyte-route.png) | `troglodyte-route.png` |
-| Explorer's Compass Item Card | ![item-card-explorers-compass.png](/illustrations/items/item-card-explorers-compass.png) | `item-card-explorers-compass.png` |
+| Asset Name | View Link |
+|------------|-----------|
+| Duergar Outpost Route Map | ![duergar-route-sm.png](/dm/maps/duergar-route-sm.png) |
+| Beyond the Pool Cavern Map | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) |
+| Troglodyte Route Map | ![troglodyte-route.png](/dm/maps/troglodyte-route.png) |
+| Explorer's Compass Item Card | ![item-card-explorers-compass.png](/illustrations/items/item-card-explorers-compass.png) |
 
 ---
 
-## Related Documentation & Links
+## Related DM Documentation & Links
 
-| Kind | Target |
-|------|--------|
-| Live Session Plan | [05-after-grey-burrower.md](../../../dm/plans/05-after-grey-burrower.md) |
-| Session Plans | [session-plan-04-duergar-outpost.md](../../session-plans/session-plan-04-duergar-outpost.md) |
-| Session Notes | [session-04](/dm/notes/session-04/) |
-| Novel Chapter | [07-the-ethium-dais-and-the-burrower.md](../../chapters/07-the-ethium-dais-and-the-burrower.md) |
-| Previous Module | [`ethium-pool.md`](/dm/modules/ethium-pool/) |
-| Side Modules | [`kruthik-lair.md`](/dm/modules/kruthik-lair/) · [`troglodyte-caves.md`](/dm/modules/troglodyte-caves/) |
-| Place Lore | [ethium.md](../places/ethium.md) |
-| Character Lore | [garnel-stoneblender.md](../characters/garnel-stoneblender.md) |
+| Category | Reference Link |
+|----------|----------------|
+| Live Table Plan | [After Grey Burrower (Session 5 Live Plan)](../../../dm/plans/05-after-grey-burrower.md) |
+| Session Plan | [Session Plan 4: Duergar Outpost](../../session-plans/session-plan-04-duergar-outpost.md) |
+| Session Log | [Session 4 Table Play Log](/dm/notes/session-04/) |
+| Novel Chapter | [Chapter 7: The Ethium Viewing Table and the Burrower](../../chapters/07-the-ethium-dais-and-the-burrower.md) |
+| Previous Module | [Ethium Pool Hub Module](/dm/modules/ethium-pool/) |
+| Side Modules | [Kruthik Lair Module](/dm/modules/kruthik-lair/) · [Troglodyte Caves Module](/dm/modules/troglodyte-caves/) |
+| Place Lore | [Ethium Underground City Lore](../places/ethium.md) |
+| Character Lore | [Garnel Stoneblender Profile](../characters/garnel-stoneblender.md) |

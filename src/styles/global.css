@@ -1081,3 +1081,121 @@ a:hover {
   letter-spacing: 0.06em;
 }
 
+/* ==========================================================================
+   Modern D&D Module Styling (Replayable DM Modules & DM Desk)
+   ========================================================================== */
+
+/* DM Module Read-Aloud Boxed Text (Read Aloud prompts for players) */
+.dm-desk__body blockquote {
+  position: relative;
+  margin: 1.5rem 0;
+  padding: 1rem 1.35rem 1rem 1.5rem;
+  background: #f7f2e4;
+  border: 1px solid #d4c5a9;
+  border-left: 5px solid #8b2626;
+  border-radius: 2px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04), inset 0 0 12px rgba(139, 38, 38, 0.02);
+  color: #2b2419;
+  font-family: var(--font-body);
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+.dm-desk__body blockquote p {
+  margin: 0 0 0.75rem;
+}
+
+.dm-desk__body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* DM Note Callouts (Golden/Amber D&D DM Note Box) */
+.dm-desk__body blockquote:has(strong:first-child:contains("DM Note")),
+.dm-desk__body blockquote p:first-child strong:first-child:is(:contains("DM Note"), :contains("DM Note —")) {
+  border-left-color: #c98a1e;
+  background: #fdf8eb;
+  border-color: #e6d3a8;
+}
+
+/* Modern D&D Module Section Headings */
+.dm-desk__body h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: #1c2c24;
+  margin: 2.25rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #8b2626;
+  letter-spacing: 0.02em;
+}
+
+.dm-desk__body h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: #2a3c32;
+  margin: 1.75rem 0 0.75rem;
+  border-bottom: 1px solid #c4d4c8;
+  padding-bottom: 0.25rem;
+}
+
+.dm-desk__body h4 {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: #3b4d43;
+  margin: 1.25rem 0 0.5rem;
+}
+
+/* Modern D&D Module Tables & Stat Blocks */
+.dm-desk__body table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid #b2c2b6;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+
+.dm-desk__body th {
+  background: #2b3a32;
+  color: #f4eeda;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-align: left;
+  padding: 0.55rem 0.85rem;
+  border-bottom: 2px solid #1c2621;
+}
+
+.dm-desk__body th a {
+  color: #f4eeda;
+  text-decoration: underline;
+}
+
+.dm-desk__body td {
+  padding: 0.5rem 0.85rem;
+  border-bottom: 1px solid #cbd6ce;
+  vertical-align: top;
+}
+
+.dm-desk__body tr:nth-child(even) td {
+  background: rgba(43, 58, 50, 0.045);
+}
+
+.dm-desk__body tr:hover td {
+  background: rgba(43, 58, 50, 0.08);
+}
+
+/* Clean up link styling in DM modules */
+.dm-desk__body a {
+  color: #1e5238;
+  font-weight: 500;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+.dm-desk__body a:hover {
+  color: #8b2626;
+  text-decoration-thickness: 2px;
+}
+
