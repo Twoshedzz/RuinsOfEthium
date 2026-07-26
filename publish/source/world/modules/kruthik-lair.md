@@ -21,6 +21,9 @@ Tight **3-room mini-dungeon** with an Aliens feel: skittering, eggs, walls and c
 
 **General Kruthik behaviour (PDF):** climb, burrow, attack in pairs, pack tactics, retreat through small tunnels; drawn to stones and nest around them.
 
+> [!NOTE]
+> **DM Secret — Plateau Tunneling**: The rampant tunneling of kruthiks and Grey Burrowers across the plateau is the actual cause of the eastern pool collapse (DC 12 check to spot clawed side-tunnels while digging).
+
 ---
 
 ## Areas

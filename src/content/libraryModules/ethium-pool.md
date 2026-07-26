@@ -109,6 +109,11 @@ From pool module PDF / [`session-plan-ethium-pool-module.md`](../../session-plan
 
 ### Digging east — Echo Guardians & Otyugh (bridge to duergar)
 
+> [!IMPORTANT]
+> **DM Secret — Cause of the Eastern Cave-In**: While Garnel and the party initially suspect someone deliberately collapsed the eastern archway to seal the passage, the collapse actually occurred naturally over centuries due to rampant **subterranean burrowing creatures** (kruthiks / Grey Burrowers) tunnelling through the surrounding rock and undermining the stone support.
+> 
+> **Investigation Check (DC 12 Nature / Survival / Investigation)** while excavating or examining the rubble reveals clawed, creature-carved side-tunnels through the shattered granite.
+
 | Encounter | Notes |
 |-----------|--------|
 | Echo Guardians ×3 | Slow statues; disrupt pulsing veins DC 12/13; treasure 1–2 Ethium stones |
