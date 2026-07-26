@@ -65,31 +65,33 @@ Nibbles squirmed through next, his boots disappearing into the dark.
 
 Beyond the collapse lay a grand Ethium corridor, its pale marble blocks smooth and perfectly joined. Fifty yards down, the hallway expanded into a high, vaulted gallery lined with ancient statues.
 
-At the near end stood carved figures of Ethium citizens in long, flowing robes. At the far end stood stoic dwarf lords carved from dark granite. But lined between them along the walls were eight towering warrior statues carved from pale, veined stone, each holding a massive stone halberd.
+At the near end stood carved figures of Ethium citizens in long, flowing robes. At the far end stood stoic dwarf lords carved from dark granite. Lined between them along the walls were eight towering warrior statues carved from pale, veined stone, each holding a massive halberd. 
+
+Many of the carved wall sockets above their heads stood dark and empty, their stones lost or looted centuries ago. But above three of the pedestals, pale blue Ethium Stones pulsed with dormant light.
 
 As Thorn stepped onto the central flagstone, a loud mechanical click boomed through the hall.
 
-The eight warrior statues turned their heads in unison. Their stone eyes flared with pale blue light.
+The three warrior statues with stones in their sockets turned their heads in unison. Their stone eyes flared with pale light as they stepped off their pedestals with a thunderous *thud* that shook dust from the ceiling.
 
 "Guards!" Derek warned, drawing his weapon. "Border sentries!"
 
-The nearest statue stepped off its pedestal with a thunderous *thud* that shook the dust from the ceiling. Thorn met it head-on, his battleaxe striking its arm with a sharp *rang* — but the iron blade left only a faint scratch on the stone. The statue swung its halberd in a broad arc, battering Thorn back against the wall.
+Thorn met the lead statue head-on, his battleaxe striking its stone arm with a sharp *rang* — but the iron blade left only a faint scratch. The guardian swung its heavy halberd in a broad arc, battering Thorn back against the wall.
 
 "Iron won't bite them!" Thorn grunted, barely catching the next crushing blow on his shield.
 
 Nibbles ducked under a swinging stone axe, stabbing uselessly at a statue's leg. "It's like trying to fight a mountain!"
 
-Dave ducked behind a pillar, his eyes scanning the gallery. High above each statue pedestal, small blue crystals were embedded in carved stone sockets, pulsing with the same blue light that burned in the statues' eyes.
-
-"The wall crystals!" Dave shouted, pointing upward. "They're powering them! Knock out the stones!"
+Dave ducked behind a pillar, his eyes scanning the gallery wall. "The stones in the sockets! They're powering them! We need to pry them out — but don't break them! We need those stones intact!"
 
 Derek raised his mace. "Thorn, hold the line!"
 
-While Thorn and Loki drew the statues' fury, Derek smashed his mace into the nearest wall socket. The crystal shattered with a glass-like chime, and the statue looming over Thorn instantly went stiff, its eye-light dying as it collapsed into an inert heap of stone.
+While Thorn and Loki drew the guardians' fury, Nibbles scrambled up the nearest pedestal. Dodging a stone elbow, he jammed his dagger tip under the first Ethium Stone, popping it loose. He lunged sideways as it fell, catching the glowing stone cleanly in both hands before it could shatter on the floor. The statue looming over Thorn went instantly stiff, its eye-light dying as it froze into an inert monument.
 
-Working quickly, Dave blasted a second socket with a Fire Bolt while Nibbles used his dagger to pry two more crystals free. One by one, the stone guardians fell silent until the gallery was still again.
+Working quickly, Derek used his mace handle to lever out the second stone, catching it in his heavy mail gauntlet. Dave cast a spell of kinetic force to pop the third stone free, guiding it safely through the air into his waiting palms. 
 
-"Not bad," Nibbles said, pocketing three glowing Ethium stones from the wall sockets. "Heavy, but definitely shiny."
+One by one, the three stone guardians fell silent until the gallery was still again.
+
+"Not bad," Nibbles said, holding up the unmarred stone with a grin. "Tricky catch, but definitely shiny."
 
 ---
 
