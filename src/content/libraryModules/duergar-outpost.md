@@ -7,7 +7,7 @@ published: true
 
 # Module — Duergar outpost (+ Grey Burrower / Assembly Hall)
 
-**Status:** Ready to run. Use a **session plan** / live table sheet to track mid-fight resumes for a specific table.
+**Status:** Ready to run. Replayable and party-agnostic. Use a live table sheet / session plan to track specific party decisions and HP state.
 
 **Canonical PDFs:**
 
@@ -24,151 +24,158 @@ published: true
 
 ## Overview
 
-East of the Ethium pool: dig / lake cavern → worked stone → **duergar-held district** of ancient Ethium (old dwarven halls). Viewing Table lore set-piece, Assembly Hall tactical fight, **Grey Burrower** mid-fight chaos, duergar retreat behind **great doors**.
+East of the Ethium pool: dig / lake cavern → worked stone → **duergar-held district** of ancient Ethium (old dwarven halls). Features the **Ethium Viewing Table** lore set-piece, Assembly Hall tactical battle, **Grey Burrower** mid-fight chaos, and the duergar retreat behind the **massive dwarven gates**.
 
-**Big ideas:** Ethium was once alive; duergar occupy a dwarven district; viewing table = Ethium Stone (power) + relic (memory node); Memory Retrieved → glitch → Memory Updated; Garnel can remain safe at the pool; grey tunnels = predator, not miners.
+**Big ideas:**
+- **Ethium Was Alive**: Ancient Ethium technology operated via an interconnected stone network.
+- **Duergar Occupation**: Duergar and Quaggoth slaves occupy ancient dwarven halls.
+- **Viewing Table Mechanics**: Ethium Stone (power socket) + Relic (location/memory node) → `Memory Retrieved` (past vision) → glitch → `Memory Updated` (present live status).
+- **Garnel's Safe Haven**: Garnel Stoneblender can remain safe back at the Ethium pool researching ancient conduits.
+- **The Grey Burrower**: A colossal blind subterranean predator, not a trained miner monster.
 
-Map orientation (`duergar-route-sm` / Druegar_sm): approach from **right-hand tunnel**; grey passages = burrower; **Assembly Hall** left; **Viewing Table** upper-right; **great doors** south → duergar city.
+**Map orientation (`duergar-route-sm` / Druegar_sm):** Approach from right-hand tunnel; grey passages = burrower routes; Assembly Hall left; Viewing Table upper-right; massive dwarven gates south → duergar city.
 
 ---
 
-## Areas
+## Key Areas & Read-Aloud Descriptions
 
-### 1 — Lake cavern
+### 1 — Lake Cavern & 50-Foot Cliff Face
 
-Collapsed cavern / black lake after grand halls. **Otyugh** (≈75 HP for level 2 in pool module; tracker HP 75). Beyond: foul tunnel (troglodytes) and worked passage (duergar).
+Collapsed subterranean lake cavern after the Hall of Statues.
 
-> **DM Note — Abyssal Cavern Verticality (50-Foot Drop)**: Flat 2D maps (like `beyond-the-pool.png`) cannot easily convey the vertical elevation of this cavern. The corridor precipice sits **50 feet above the cavern floor**, requiring ropes and a DC 10 Athletics check to abseil down into the Otyugh lake basin.
+> **Read Aloud:** *The rough cavern ceiling opens into a vast underground vault filled with black, stagnant water. High above, a narrow archway pierces the cliff wall. The smell of damp moss gives way to dry stone, faint coal smoke, and old iron.*
 
-### 2 — Outpost rooms
+> **DM Note — Abyssal Cavern Verticality (50-Foot Drop)**: The corridor archway sits **50 feet above the cavern floor**. Climbing down into the Otyugh lake basin or scaling up to the upper archway requires ropes and a DC 10 Athletics check.
 
-Worked stone; dwarven symbols; blue mineral veins. Duergar + quaggoth slaves defending approach. One guard may flee/warn the hall.
+### 2 — Outpost Crossroads
 
-### 3 — Ethium Viewing Table
+Worked dwarven masonry with defaced relief carvings and exposed blue mineral veins.
 
-Circular table, two hollows. Stone → power / sphere (not portable). Relic → memory node. Always: **Memory Retrieved** → glitch → **Memory Updated**.
+> **Read Aloud:** *Square-cut granite blocks replace rough cave walls. Crude iron spikes and gnawed animal bones litter the flagstones. Shadows stretch between massive square pillars.*
 
-Relics: Explorer’s Compass · Ethium Smith’s Hammer · Child’s Drawing · Pool node (can show Garnel) · Unknown/Deep silhouette.
+- **Encounter**: 2 Duergar Guards and 2 Quaggoth Slaves.
+- **Tactics**: Duergar use Invisibility to set up ambushes, then use *Enlarge* (1/day) to swell to 8 feet tall. One guard may attempt to flee down the hall to warn the Assembly Hall.
+
+### 3 — Ethium Viewing Table Chamber
+
+Square room of polished pale stone standing out sharply against rough dwarven tunnels.
+
+> **Read Aloud:** *Atop raised stone steps stands a rectangular table cut from a single block of pale Ethium stone. At its center lies a two-foot circular opening surrounded by interlocking grooves, with a stone socket at its rim and a shallow carved tray beside it.*
+
+- **Activation**: Pressing an Ethium Stone into the socket powers the table. A crystal sphere rises from the central opening and prompts: `ready, accessing [ Memory ], memory updating`.
+- **Relic Memory Sequence**:
+  - Placing an item on the tray projects a 3D vision in the sphere: **Memory Retrieved** (ancient past) → static glitch → **Memory Updated** (live present view).
+
+| Relic | Past Memory | Present Live Status |
+|-------|-------------|---------------------|
+| **Explorer's Compass** | Ancient Explorer's Guild hall in bustling Ethium | Same hall converted into Duergar outpost barracks |
+| **Ethium Smith's Hammer** | Great Forge ringing with dwarven crafters | Forge overrun by Duergar with iron cages and slave pens |
+| **Child's Drawing** | Dwarf family with a dog inside a stone home | Ruined family cottage now quiet and broken |
+| **Ethium Battleaxe / Weapon** | Busy ancient Ethium forge and armory | Dark Duergar garrison riding giant subterranean spiders |
+| **Healing Pool Water** | Citizen lowered into blue healing pool | Live view of Garnel Stoneblender & Poopy Joe at the pool |
+| **Old Manor Stone** | Ethium royalty holding court in a castle | Manor ruins occupied by Goblins, Ogres, and Hobgoblin King |
 
 ### 4 — Assembly Hall
 
-Grand hall defaced with duergar marks; barracks / armoury / mining feel. Captain, soldiers, crossbows, chained quaggoths. Grey Burrower erupts mid-fight (~round 5 in pack). Survivors seal great doors.
+A high-ceilinged grand dwarven hall converted into a Duergar military outpost with mining carts, barricades, and weapon racks.
 
-### 5 — Choices after doors
+> **Read Aloud:** *Soaring stone pillars support a vaulted ceiling high in the darkness. Fortified wooden barricades block the central avenue, behind which stand heavy Duergar guards and chained, snarling Quaggoths. At the far southern end, two colossal dwarven gates seal off the lower city.*
 
-Troglodytes · Fallcrest (waterfall ambush) · dig/stakeout at sealed city · fetch Garnel · chase grey tunnels. Capture the choice in a **session plan** for next time.
+- **Garrison**: Duergar Captain, 3 Duergar Soldiers, 2 Crossbow Duergar (flanking behind pillars), 2 Quaggoth Slaves.
+- **Mid-Fight Event — Grey Burrower Eruption (~Round 4-5)**:
+  - The floor shakes violently as a 40-foot blind worm erupts through the stone flags.
+  - Neutral predator: attacks Duergar and intruders alike, swallowing a creature whole or slamming its tail.
+- **Resolution & City Gates**:
+  - When the Captain falls or the Burrower causes chaos, surviving Duergar retreat toward the south.
+  - Spider-mounted Duergar cavalry emerge beyond the gate to drive off/dispatch the worm, and the massive dwarven gates slam shut with a deafening *BOOM*.
 
 ---
 
-## Encounters & stats
+## Encounters & Creature Stats
 
-Prefer **Session 4 DM pack** numbers for Assembly Hall / outpost (fuller). Tracker sheet is a shorter alternate — use one source per fight.
+### Outpost Rooms (DM Pack)
 
-### Otyugh (lake — Troglodyte tracker)
-
-| | |
-|--|--|
-| **AC** 14 | **HP** 75 |
-| Bite +6 (2d8+3) · Tentacle +6 | Grapple DC 13 · Telepathy · Foul Sludge Spray 1/enc |
-
-### Outpost rooms (DM pack)
-
-| Creature | AC | HP | Attacks / traits |
+| Creature | AC | HP | Attacks & Traits |
 |----------|----|----|------------------|
-| Duergar Guard ×2 | 16 | 26 | War Pick +5, 1d8+3 · Javelin +5, 1d6+3 · Enlarge 1/day (+1d4, Large) · Invisibility 1/day |
-| Quaggoth Slave ×2 | 13 | 45 | Multiattack 2 Claws +6, 2d4+4 each · climb 30 · Wounded Fury (adv. melee ≤ half HP) |
+| **Duergar Guard** (×2) | 16 | 26 | War Pick +5 (1d8+3), Javelin +5 (1d6+3). *Enlarge* 1/day (+1d4, Large), *Invisibility* 1/day. |
+| **Quaggoth Slave** (×2) | 13 | 45 | Multiattack: 2 Claws +6 (2d4+4). Climb 30 ft. *Wounded Fury* (adv. on melee attacks when HP ≤ 22). |
 
-### Assembly Hall (DM pack)
+### Assembly Hall (DM Pack)
 
-| Creature | AC | HP | Role / attacks |
+| Creature | AC | HP | Role & Attacks |
 |----------|----|----|----------------|
-| Duergar Captain | 16 | 45 | War Pick +5, 1d8+3 (+1d4 if Enlarged) · Enlarge/Invis · optional Command ally · retreats if badly losing |
-| Duergar Soldier ×3 | 16 | 26 | Same pick/javelin as Guard · formation · one may run to doors |
-| Crossbow Duergar ×2 | 16 | 22 | Heavy Crossbow +4, 1d10+2 · Dagger +4, 1d4+2 · cover |
-| Quaggoth Slave ×2 | 13 | 45 | As above |
+| **Duergar Captain** | 16 | 45 | War Pick +5 (1d8+3; +1d4 enlarged). *Enlarge*, *Invisibility*, optional *Command Ally*. |
+| **Duergar Soldier** (×3) | 16 | 26 | War Pick +5 (1d8+3), Javelin +5. Formation tactics. |
+| **Crossbow Duergar** (×2) | 16 | 22 | Heavy Crossbow +4 (1d10+2), Dagger +4 (1d4+2). Takes cover behind pillars. |
+| **Quaggoth Slave** (×2) | 13 | 45 | Multiattack: 2 Claws +6 (2d4+4). *Wounded Fury*. |
 
-### Grey Burrower (DM pack)
+### Grey Burrower (DM Pack)
 
-| | |
-|--|--|
-| **AC** 15 | **HP** 68 |
-| Speed 30 ft, burrow 30 ft | Tremorsense (ground) |
-| **Multiattack** | Bite +6 (2d10+4, Grapple escape DC 13) · Tail Slam +6 (2d8+4, DC 13 STR or Prone) |
-| **Burrow** | Skip attacks → vanish → erupt within 30 ft next round |
-| **Tunnel Collapse** | On emerge: within 10 ft DC 12 DEX or 1d6 bludgeoning; difficult terrain |
+| Trait | Value |
+|-------|-------|
+| **AC** | 15 |
+| **HP** | 68 |
+| **Speed** | 30 ft, burrow 30 ft (Tremorsense 60 ft) |
+| **Multiattack** | Bite +6 (2d10+4, Grapple escape DC 13) + Tail Slam +6 (2d8+4, DC 13 STR or Prone) |
+| **Burrow** | Vanish into stone → erupt within 30 ft on next turn |
+| **Tunnel Collapse** | On emerge: creatures within 10 ft must make DC 12 DEX save or take 1d6 bludgeoning damage; ground becomes difficult terrain |
 
-Neutral predator — may grab a quaggoth and drag it under. Duergar fear it. Soften by retreat with prey; harden by erupting on casters.
-
-### Tracker-sheet alternate (compact)
+### Tracker-Sheet Alternate (Compact)
 
 | Creature | AC | HP | Attack |
 |----------|----|----|--------|
-| Quaggoth | 13 | 30 | Claw +5 (1d6+3) |
-| Quaggoth Brute | 13 | 45 | 2 Claws +5 (1d6+3) |
-| Duergar Guard | 16 | 20 | War Pick +4 (1d8+2), Javelin +4 |
-| Sergeant Brokk | 16 | 28 | War Pick +4 (1d8+2) |
-| Duergar Captain | 16 | 35 | Multiattack (2 picks) |
-
-### Environmental actions (Assembly Hall)
-
-| Action | Effect |
-|--------|--------|
-| Push mining cart | STR DC 12 → 20 ft; path DEX DC 12 or 1d6 + prone |
-| Collapse rubble | Attack AC 10 / 10 HP or STR DC 13 → difficult terrain / block |
-| Leap onto rubble | DEX DC 12 → high ground; off floor harder for tremorsense 1 round |
-| Lure Burrower | Noise / meat / metal — no check if clever; else DC 12 |
-
-### Troglodyte route (if chosen)
-
-Full replayable module: [`troglodyte-caves.md`](/dm/modules/troglodyte-caves/) → [troglodyte-caves](/dm/modules/troglodyte-caves/). Tracker PDF for HP boxes.
-
-| Creature | AC | HP | Notes |
-|----------|----|----|--------|
-| Carrion Crawler | 13 | 35 | Tentacle +8, Bite +4 (2d4+2); ceiling ambush |
-| Troglodyte | 11 | 13 | +4 (1d6+2); Stench DC 12; Chameleon Skin |
-| Chief Grash | 13 | 35 | Bite/Claw +4; Green Stone Surge below 18 HP |
+| **Quaggoth** | 13 | 30 | Claw +5 (1d6+3) |
+| **Quaggoth Brute** | 13 | 45 | 2 Claws +5 (1d6+3) |
+| **Duergar Guard** | 16 | 20 | War Pick +4 (1d8+2), Javelin +4 |
+| **Sergeant Brokk** | 16 | 28 | War Pick +4 (1d8+2) |
+| **Duergar Captain** | 16 | 35 | Multiattack (2 picks) |
 
 ---
 
-## Maps
+## Environmental & Tactical Actions
 
-| Asset | Canonical | Table URL |
-|-------|-----------|-----------|
-| Duergar route (phone) | ![duergar-route-sm.png](/dm/maps/duergar-route-sm.png) | `duergar-route-sm.png` |
-| Duergar route (full) | `duergar-route.png` (large — phone uses sm) | — |
-| Beyond the pool | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) | `beyond-the-pool.png` |
-| Troglodyte route | ![troglodyte-route.png](/dm/maps/troglodyte-route.png) | `troglodyte-route.png` |
-
----
-
-## Key NPCs
-
-| Who | Role |
-|-----|------|
-| [`garnel-stoneblender.md`](/dm/world/characters/garnel-stoneblender/) | May remain at pool researching |
-| Duergar Captain / garrison | Organised occupation |
-| Grey Burrower | Predator in grey tunnels |
+| Action | Check / DC | Effect |
+|--------|------------|--------|
+| **Push Mining Cart** | STR DC 12 | Moves cart 20 ft; targets in path make DC 12 DEX save or take 1d6 bludgeoning + prone |
+| **Collapse Rubble** | AC 10 (10 HP) / STR DC 13 | Creates difficult terrain; blocks line of sight |
+| **Leap onto High Rubble** | DEX DC 12 | Grants high ground advantage; off-ground position confuses Burrower tremorsense for 1 round |
+| **Lure Burrower** | DC 12 / Clever Distraction | Using loud noise, meat, or metal draws the Burrower's focus to a target area |
 
 ---
 
-## Loot / relics
+## Treasure & Signature Relics
 
-Signature: Explorer’s Compass · Ethium Smith’s Hammer · Child’s Drawing. Optional captain pouch, keys — see [duergar-loot-notes.md](../../session-plans/notes/duergar-loot-notes.md). Track awards in the live session plan so you don’t double-award.
+### Signature Relics
+- **Explorer's Compass**: Small brass compass with a glowing blue crystal needle. Points toward the nearest Ethium Stone rather than magnetic north. Unlocks Explorer's Guild memory at an Ethium Viewing Table. (Campaign-defining relic).
+- **Ethium Smith's Hammer**: Perfectly preserved masterwork hammer. Unlocks Great Forge memory. Used for repairing, reforging, or understanding Ethium metalwork.
+- **Child's Drawing**: Fragile parchment depicting a dwarf family, dog, stone home, and glowing blue crystal. Unlocks Family Home memory. Emotional value, no gold value.
 
-| Asset | Canonical | Table / DM URL |
+### Container & Captain Loot
+- **Captain's Pouch**: 25–40 gp, polished platinum ring, Duergar emblem token, old dwarven key fragment, written orders in Dwarvish, and a heavy ring holding **four iron keys** (stamped with dwarven runes for side doors, supply stores, and slave pens).
+- **Climbing Gear Cache**: Coiled hempen rope ladders, iron pitons, and climbing harnesses stacked near supply crates. Makes scaling the 50-foot cavern cliff face and lake wall safer for future travel.
+
+---
+
+## Maps & Assets
+
+| Asset | File Path | Table / DM URL |
 |-------|-----------|----------------|
-| Explorer’s Compass (item card) | ![item-card-explorers-compass.png](/illustrations/items/item-card-explorers-compass.png) | `item-card-explorers-compass.png` |
+| Duergar Route (Phone) | ![duergar-route-sm.png](/dm/maps/duergar-route-sm.png) | `duergar-route-sm.png` |
+| Beyond the Pool | ![beyond-the-pool.png](/dm/maps/beyond-the-pool.png) | `beyond-the-pool.png` |
+| Troglodyte Route | ![troglodyte-route.png](/dm/maps/troglodyte-route.png) | `troglodyte-route.png` |
+| Explorer's Compass Item Card | ![item-card-explorers-compass.png](/illustrations/items/item-card-explorers-compass.png) | `item-card-explorers-compass.png` |
 
 ---
 
-## Links
+## Related Documentation & Links
 
-| Kind | Where |
+| Kind | Target |
 |------|--------|
-| Live session plan | [05-after-grey-burrower.md](../../../dm/plans/05-after-grey-burrower.md) |
-| Session plans | [session-plan-04-duergar-outpost.md](../../session-plans/session-plan-04-duergar-outpost.md) · [session-plan-05-after-grey-burrower.md](../../session-plans/session-plan-05-after-grey-burrower.md) |
-| Session notes | [session-04](/dm/notes/session-04/) |
-| Chapter draft | [06-east-of-the-pool.md](../../chapter-drafts/06-east-of-the-pool.md) |
-| Prior | [`ethium-pool.md`](/dm/modules/ethium-pool/) |
-| Optional side | [`kruthik-lair.md`](/dm/modules/kruthik-lair/) · [`troglodyte-caves.md`](/dm/modules/troglodyte-caves/) |
-| Place | [ethium](/dm/world/places/ethium/) |
+| Live Session Plan | [05-after-grey-burrower.md](../../../dm/plans/05-after-grey-burrower.md) |
+| Session Plans | [session-plan-04-duergar-outpost.md](../../session-plans/session-plan-04-duergar-outpost.md) |
+| Session Notes | [session-04](/dm/notes/session-04/) |
+| Novel Chapter | [07-the-ethium-dais-and-the-burrower.md](../../chapters/07-the-ethium-dais-and-the-burrower.md) |
+| Previous Module | [`ethium-pool.md`](/dm/modules/ethium-pool/) |
+| Side Modules | [`kruthik-lair.md`](/dm/modules/kruthik-lair/) · [`troglodyte-caves.md`](/dm/modules/troglodyte-caves/) |
+| Place Lore | [ethium.md](../places/ethium.md) |
+| Character Lore | [garnel-stoneblender.md](../characters/garnel-stoneblender.md) |
