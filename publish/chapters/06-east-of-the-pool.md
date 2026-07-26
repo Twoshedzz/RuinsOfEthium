@@ -123,6 +123,10 @@ Before Dave could step back, the dark water exploded upwards. A colossal, rubber
 
 "Otyugh!" Derek roared, drawing his mace.
 
+![An Otyugh erupts from the black cavern lake and seizes Nibbles around the waist as Thorn, Derek, Dave and Loki rush to help beneath the collapsed Ethium bridge](/illustrations/scenes/ch06-otyugh-lake-eruption.png)
+
+*The black lake erupts — and Nibbles is dragged towards the Otyugh's maw.*
+
 "Form up!" Thorn barked, charging across the slick rocks with shield raised. "Derek, flank left! Dave, hit it with fire!"
 
 The creature’s central maw opened — a gaping nightmare lined with three rows of yellow teeth. It dragged Nibbles toward its mouth, biting deep into his shoulder armour.

@@ -80,8 +80,6 @@ Suddenly, the stone floor buckled.
 
 A sound like grinding mountains echoed beneath their feet. Dust rained down from the high ceiling, and heavy granite flags exploded upward in a shower of rock. Out of the broken floor erupted the **Grey Burrower** — a colossal, blind worm forty feet long, its round mouth lined with hundreds of razor-sharp, concentric teeth.
 
-![The Grey Burrower erupting through the stone floor of the Assembly Hall, jaws snapping around a Quaggoth while enlarged Duergar and wizard magic fill the air](/illustrations/scenes/ch07-grey-burrower-assembly-hall.png)
-
 "Worm!" Derek screamed, pulling Nibbles back just as the monster's jaws slammed shut on the flagstone where the rogue had lain.
 
 The Burrower attacked blindly, striking anything that moved. With a single terrifying snap, it swallowed one of the enlarged Quaggoths whole, then thrashing its tail across the hall, smashing two Duergar into the pillars.
