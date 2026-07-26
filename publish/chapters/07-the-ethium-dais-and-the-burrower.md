@@ -45,11 +45,11 @@ With Thorn holding the front, Dave's rolling sphere controlling the corridor, an
 
 Past the shrine, the hallway opened into a circular chamber built from polished pale stone that stood out sharply against the rough dwarven tunnels around it.
 
-In the centre of the room, set atop a couple of raised stone steps, stood the **Ethium Viewing Table** — a massive, round table cut from solid black Ethium stone. At table height, the smooth dark surface featured a large circular opening at its center surrounded by interlocking grooves, with an obvious stone receptacle slot at its rim and a shallow, stone-carved tray beside it.
+In the centre of the room, set atop a couple of raised stone steps, stood the **Ethium Viewing Table** — a massive, round table cut from a single block of Ethium stone. At table height, the smooth stone surface featured a large circular opening at its center surrounded by interlocking grooves, with an obvious stone receptacle slot at its rim and a shallow, stone-carved tray beside it.
 
 The companions climbed the steps and gathered around the table, examining the strange runes and layout.
 
-"What do you make of it?" Thorn asked, leaning over the smooth black marble. "Some kind of altar?"
+"What do you make of it?" Thorn asked, leaning over the smooth stone surface. "Some kind of altar?"
 
 "Look at the stone cutting," Dave said, tracing the grooves with a finger. "It's an ancient Ethium mechanism, but it's dormant."
 
