@@ -9,7 +9,8 @@
     "audio": "node scripts/generate-audio.mjs",
     "audio:dry-run": "node scripts/generate-audio.mjs --dry-run",
     "build": "node scripts/sync-publish.mjs && node scripts/write-build-info.mjs && astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "deploy": "git commit --allow-empty -m 'deploy: trigger Netlify production build' && git push origin main"
   },
   "dependencies": {
     "astro": "^5.7.0"

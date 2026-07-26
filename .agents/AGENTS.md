@@ -71,3 +71,17 @@ When drafting or editing novel chapters (`publish/chapters/`):
 - Production Build: `npm run build`
 - Audio TTS Generator: `npm run audio` (Requires user confirmation due to OpenAI API costs)
 - **Full Terminal & Workspace Pre-Authorization**: All workspace file operations (`write_file`, `read_file`) and shell terminal commands (`command(*)`) are fully pre-authorized by user policy to run automatically without prompting. Verification builds, publishing syncs, and git commits/pushes run autonomously upon task completion.
+
+## 7. Git & Netlify Deploy Convention
+
+### Commit-Without-Deploy (Default Workflow)
+- **ALWAYS append `[skip netlify]` to every regular `git commit -m` message** to prevent Netlify from auto-building on each commit and consuming unnecessary build credits.
+- Example: `git commit -am "feat: update chapter 6 prose [skip netlify]"`
+
+### Triggering a Netlify Production Deploy (On Demand)
+- When the user explicitly asks to deploy or publish to the live site, run:
+  ```
+  npm run deploy
+  ```
+  This pushes an empty git commit **without** `[skip netlify]`, which triggers exactly one clean Netlify build.
+- Never trigger deploys implicitly. Only deploy when the user asks.
