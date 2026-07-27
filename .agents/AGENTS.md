@@ -61,16 +61,19 @@ When drafting or editing novel chapters (`publish/chapters/`):
 
 ## 5. Illustration & Artwork Guidelines
 
-- **Mandatory Party Depiction Rule**: Unless explicitly specified otherwise by the user, all scene illustrations MUST accurately depict the four core party members based on their canonical portraits in `publish/illustrations/portraits/`:
-  - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, wizard robes, wooden staff with glowing green orb) and **Peggy** (tiny coppery/gold pseudodragon familiar with leathery wings perching on his shoulder). NEVER depict Dave as a human wizard, and NEVER depict Peggy as an owl.
-  - **Derek**: Bald dwarf cleric (completely bald head, round wire-rimmed spectacles, braided red beard, plate armour, holding a warhammer AND a radiant sun-emblem heater shield).
-  - **Thorn**: Half-Orc male warrior (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, holding a single-headed battleaxe in one hand AND a round shield on the other arm).
-  - **Nibbles**: Small red dragonborn / kobold rogue (red scales, horns with small pouch, dark hooded cloak, holding daggers).
-  - **Loki**: Wolfhound / hunting dog companion.
-- **Art Style Brief**:
-  - **Style**: Pure 100% monochrome black-and-white pen-and-ink line drawing matching `ch01-goblin-boss-fight.png` (classic 1980s Fighting Fantasy adventure book style by Russ Nicholson / Gary Chalk).
-  - **Strict Constraints**: NO color highlights, NO parchment background overlays, NO artificial border frames, NO cave stalactites in carved dwarven halls.
-  - **Monster Anatomy Accuracy**: Quaggoths are bipedal ape-like / yeti-like gorilla monsters covered in shaggy white/grey fur with sharp claws and ape faces — NEVER wolves or canines.
+- **Chapter Image Generation Workflow**: Whenever the user asks for a chapter image prompt or illustration brief:
+  1. Start with the **Base Chapter Art Prompt** from `publish/source/workspace/prompts/ART-STYLE-BRIEF.md` (100% monochrome B&W dip-pen ink, Russ Nicholson style, chiaroscuro shadow blocks, contour hatching, pure white background, negative constraints).
+  2. Append the specific **Scene Description** provided by the user.
+  3. Include canonical character/monster descriptions **ONLY for those specifically requested to appear in the scene** (plus any additional image references provided by the user).
+  4. Always cross-reference the corresponding chapter text in `publish/chapters/` for full scene context, lighting, and environmental details.
+- **Canonical Character & Monster Visual Rules**:
+  - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, wizard robes, wooden staff with glowing green orb) and **Peggy** (tiny coppery pseudodragon familiar). NEVER depict Dave as human, NEVER depict Peggy as an owl.
+  - **Derek**: Dwarf cleric with a completely **BALD head**, round wire-rimmed spectacles, braided red beard, plate armor, holding a warhammer AND radiant sun-emblem heater shield.
+  - **Thorn**: Half-Orc male warrior (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, battleaxe AND round shield with Fallcrest lion emblem).
+  - **Nibbles**: Small red dragonborn / kobold rogue (red scales, dark hooded cloak, short sword + glowing dagger).
+  - **Loki**: Sturdy wolfhound / hunting dog companion.
+  - **Quaggoths**: Bipedal ape-like / yeti gorilla monsters covered in shaggy white/grey fur with sharp claws and flat ape faces — NEVER wolves or canines.
+- **Strict Negative Constraints**: NO color highlights, NO parchment background overlays, NO artificial border frames, NO cave stalactites in carved dwarven halls.
 
 ---
 

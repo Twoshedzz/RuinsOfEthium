@@ -87,8 +87,11 @@ CANONICAL PARTY MEMBER DESCRIPTIONS (include ONLY those requested for the scene)
 - Nibbles: Small red dragonborn/kobold rogue in a dark hooded cloak holding a magical short sword and a glowing dagger.
 - Loki: Sturdy wolfhound / hunting dog companion.
 
+CHAPTER CONTEXT & NARRATIVE:
+Always cross-reference the chapter prose in `publish/chapters/` for the exact scene context, environment, lighting, and character actions.
+
 SCENE DESCRIPTION:
-[Insert specific scene location, characters, and action here]
+[Insert specific scene location, characters, and action derived from the chapter text here]
 ```
 
 ### Cover Art Master Prompt (Full-Color Painting)
