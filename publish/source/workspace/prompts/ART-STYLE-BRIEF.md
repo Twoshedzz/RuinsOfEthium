@@ -60,12 +60,14 @@ Canonical monster art references are stored in `publish/illustrations/monsters/`
 ## 4. Cover Art Brief (Full-Color Art)
 
 **Reference Folder:** `publish/source/workspace/illustration style/cover art/`  
+*(Reference styles: Jeff Easley D&D Red Box cover `DandD-Cover-Crop.webp`, Les Edwards `cover1.jpg`, Chris Achilleos `Warlock_25th.jpg`)*
 
 ### Aesthetic & Technical Guidelines
 
-- **Medium**: Clean, painterly 1980s fantasy oil/acrylic painting style (classic Fighting Fantasy / AD&D 1st Edition cover art by Les Edwards, Chris Achilleos, Ian Miller).
-- **Lighting & Color**: Dramatic high-contrast lighting, warm firelight glows, vibrant gold accents, deep emerald greens, and rich crimson hues.
-- **Usage**: Homepage cover banners, CYOA book covers (`publish/illustrations/cover/`), and publishable module packs.
+- **Medium**: Clean, painterly 1980s fantasy oil and acrylic painting style with bold brushwork and clean form rendering.
+- **Clarity & Separation**: Clear silhouette separation between characters, monsters, and environment. Enemies and goblins MUST have distinct, readable shapes and color contrast — NEVER blending or visually merging into background foliage or dark shadows.
+- **Lighting & Color**: Dramatic high-contrast focal lighting, warm glowing firelight or spell effects, vibrant gold accents, deep emeralds, and warm rich tones.
+- **Usage**: Homepage cover banner, CYOA book covers (`publish/illustrations/cover/`), and publishable module packs.
 
 ---
 
@@ -97,5 +99,16 @@ SCENE DESCRIPTION:
 ### Cover Art Master Prompt (Full-Color Painting)
 
 ```text
-Full-color 1980s Fighting Fantasy gamebook cover art painting in the classic style of Les Edwards and Chris Achilleos. Rich oil/acrylic texture, dramatic cinematic lighting, deep shadows, vibrant golds and crimson highlights. Depicting the adventurer party in a heroic stand against dark forces.
+A clean, painterly full-color 1980s fantasy gamebook cover art oil painting in the iconic style of Jeff Easley (D&D Red Box) and Les Edwards (Forest of Doom). 
+
+STYLE & TECHNIQUE: Bold oil/acrylic brushwork with clean form rendering and distinct, crisp character silhouettes. High contrast color separation — monsters and goblins stand out sharply against the background, with clearly defined shapes and skin tones, NEVER blending or merging visually into background foliage or dark shadows. Dramatic focal lighting, warm glowing magical highlights, deep cast shadows, and rich vibrant gold and crimson tones. 16:9 widescreen or 3:2 aspect ratio.
+
+CANONICAL PARTY MEMBERS IN HEROIC POSES:
+- Thorn: Male Half-Orc warrior with short dark undercut hair, fur mantle over leather armor, raising a single-headed battleaxe and lion-emblem round shield.
+- Dave: Golden Dragonborn wizard in robes raising a wooden staff with a glowing green orb, with tiny pseudodragon Peggy on his shoulder.
+- Derek: Bald dwarf cleric with round wire-rimmed spectacles, braided red beard, plate armor, wielding a warhammer and radiant sun shield.
+- Nibbles: Small red dragonborn rogue in dark hooded cloak holding glowing daggers.
+
+SCENE / ENVIRONMENT:
+Heroic adventure battle scene set at an overgrown ancient stone ruins site in the jungle, with dark forces advancing from the shadows.
 ```
