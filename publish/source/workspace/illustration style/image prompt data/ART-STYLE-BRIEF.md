@@ -104,9 +104,10 @@ A clean, painterly full-color 1980s fantasy gamebook cover art oil painting in t
 STYLE & TECHNIQUE: Bold oil/acrylic brushwork with clean form rendering and distinct, crisp character silhouettes. High contrast color separation — monsters and goblins stand out sharply against the background, with clearly defined shapes and skin tones, NEVER blending or merging visually into background foliage or dark shadows. Dramatic focal lighting, warm glowing magical highlights, deep cast shadows, and rich vibrant gold and crimson tones. 16:9 widescreen or 3:2 aspect ratio.
 
 CANONICAL PARTY MEMBERS IN HEROIC POSES:
-- Thorn: Male Half-Orc warrior with short dark undercut hair, pale blue-grey skin, fur mantle over leather armor, raising a single-headed battleaxe and lion-emblem round shield.
+- Thorn: Male Half-Orc warrior with short dark undercut hair, pale blue-grey skin, fur mantle over leather armor, raising a single-headed battleaxe and round Fallcrest lion-emblem shield.
+- Loki: Sturdy wolfhound / hunting dog companion standing loyally behind Thorn with a brave, alert, growling posture.
 - Dave: Golden Dragonborn wizard in orange/terracotta robes with blue lining raising a wooden staff with a glowing green orb, with tiny pseudodragon Peggy on his shoulder.
-- Derek: Bald dwarf cleric with round wire-rimmed spectacles, braided red beard, plate armor, wielding a warhammer and radiant sun shield.
+- Derek: Bald dwarf cleric with round wire-rimmed spectacles, braided red beard, plate armor, wielding a warhammer and radiant sun kite shield.
 - Nibbles: Small red dragonborn rogue in dark hooded cloak holding glowing daggers.
 
 SCENE / ENVIRONMENT:
