@@ -2,9 +2,7 @@
 
 **Canonical visual reference** for chapter plates, portraits, monsters, and item cards.
 
-When asking Cursor to generate or brief art:
-
-> *"Follow `publish/source/illustration-style.md`, the prompt in `reference/fighting-fantasy/image-recipe.md`, and attach character refs from `reference/character-illustration-refs.md`."*
+When asking to generate or brief art, see the master guidelines in [`ART-STYLE-BRIEF.md`](ART-STYLE-BRIEF.md).
 
 Prose voice remains in [`style-guide.md`](style-guide.md).
 
@@ -12,7 +10,7 @@ Prose voice remains in [`style-guide.md`](style-guide.md).
 
 ## Image recipe (canonical prompt)
 
-Full text: [`reference/fighting-fantasy/image-recipe.md`](reference/fighting-fantasy/image-recipe.md)
+Full text and copy-paste prompts: [`ART-STYLE-BRIEF.md`](ART-STYLE-BRIEF.md)
 
 **Core line** — use this for every generation:
 
@@ -77,25 +75,17 @@ See [`reference/fighting-fantasy/image-recipe.md`](reference/fighting-fantasy/im
 
 ---
 
-## Reference images
-
-Drop Fighting Fantasy scans or favourites into **`publish/source/inbox/`** — ask Cursor to file them in **`reference/fighting-fantasy/`**.
-
 ---
 
 ## Character source images (required)
 
-Any plate with party members or recurring NPCs **must** use the canonical portrait and scene references in [`reference/character-illustration-refs.md`](reference/character-illustration-refs.md).
-
-Attach those files as `reference_image_paths` when generating. Match face, build, and gear from the refs; render as black ink on white.
+Any plate with party members or recurring NPCs **must** follow the canonical character descriptions in [`ART-STYLE-BRIEF.md`](ART-STYLE-BRIEF.md) and match the canonical portraits in `publish/illustrations/portraits/`.
 
 ---
 
 ## Generating new art
 
-**Cursor:** character refs + scene block + image recipe.
-
-**ChatGPT:** same prompt and attach the same reference images; export PNG → run `process-cover-art.py` on the file → `publish/illustrations/` → `npm run publish`.
+**ChatGPT:** Copy the master prompt from [`ART-STYLE-BRIEF.md`](ART-STYLE-BRIEF.md) → add your scene description → export PNG → place in `publish/illustrations/scenes/` → `npm run publish`.
 
 ---
 
