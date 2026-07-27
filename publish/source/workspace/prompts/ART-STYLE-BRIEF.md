@@ -13,7 +13,7 @@ If a scene is instructed to include the party (or specific party members), accur
 | **Dave** | **Golden Dragonborn Wizard** | Golden scales, dragon head, horns, snout, long wizard robes, leather spellbook, wooden staff tipped with a glowing green orb. *NEVER depict Dave as a human wizard.* |
 | **Peggy** | **Pseudodragon Familiar** | Tiny coppery/gold pseudodragon, house-cat-sized, leathery dragon wings, long barbed tail, bright eyes, perches on Dave's shoulder or rests in a pocket dimension. *NEVER depict Peggy as an owl.* |
 | **Derek** | **Dwarf Cleric** | Completely **bald head**, round wire-rimmed spectacles, long braided red beard, heavy plate armour, holding a warhammer AND a radiant sun-emblem heater shield. |
-| **Thorn** | **Half-Orc / Male Warrior** | Short dark undercut hairstyle, rugged face, pale/purple-tinted skin, fur mantle over leather/chainmail armor, holding a single-headed battleaxe in one hand AND a round shield with a fallcrest emblem (A roaring lion) on his other arm.  |
+| **Thorn** | **Half-Orc / Male Warrior** | Short dark undercut hairstyle, rugged face, pale blue-grey skin, fur mantle over leather/chainmail armor, holding a single-headed battleaxe in one hand AND a round shield with a fallcrest emblem (A roaring lion) on his other arm.  |
 | **Nibbles** | **Red Dragonborn / Kobold Rogue** | Small red scales, horns, bright green eyes, grinning maw, dark hooded cloak, studded leather gear, holds a magical short sword and a glowing dagger as his weapons. |
 | **Loki** | **Hunting Dog Companion** | Sturdy wolfhound / hunting dog with a brave, alert posture. |
 | **Garnel** | **Gnome Ally & Researcher** | Short, scruffy-looking young adult gnome, wild mop of bright red hair sticking up in all directions, round spectacles, eyes darting nervously, carrying leather parchment folders, inkpot & quill, fine charcoal sketching pencils, brass lenses, and tinkering measuring devices. |
@@ -83,9 +83,9 @@ ART STYLE & TECHNIQUE: Traditional dip-pen ink artwork on a clean white backgrou
 NEGATIVE CONSTRAINTS: ABSOLUTELY ZERO COLOR, NO greyscale washes, NO parchment paper background, NO decorative border frames, NO cave stalactites in carved dwarven halls. 3:2 landscape aspect ratio.
 
 CANONICAL PARTY MEMBER DESCRIPTIONS (include ONLY those requested for the scene):
-- Dave: Golden Dragonborn wizard with reptilian dragon head, gold scales, horns, wearing long wizard robes and holding a wooden staff with a glowing green orb. Peggy, a tiny coppery pseudodragon familiar with leathery wings, perches on his shoulder.
+- Dave: Golden Dragonborn wizard with reptilian dragon head, gold scales, horns, wearing long orange/terracotta wizard robes with blue lining, and holding a wooden staff with a glowing green orb. Peggy, a tiny coppery pseudodragon familiar with leathery wings, perches on his shoulder.
 - Derek: Noble dwarf cleric with a completely BALD head, round wire-rimmed spectacles, long braided red beard, heavy plate armor, holding a warhammer AND a radiant sun-emblem heater shield.
-- Thorn: Half-Orc male warrior with short dark undercut hair, pale/purple-tinted skin, fur mantle over leather armor, holding a single-headed battleaxe AND a round shield with a Fallcrest lion emblem.
+- Thorn: Half-Orc male warrior with short dark undercut hair, pale blue-grey skin, fur mantle over leather armor, holding a single-headed battleaxe AND a round shield with a Fallcrest lion emblem.
 - Nibbles: Small red dragonborn/kobold rogue in a dark hooded cloak holding a magical short sword and a glowing dagger.
 - Loki: Sturdy wolfhound / hunting dog companion.
 
@@ -104,8 +104,8 @@ A clean, painterly full-color 1980s fantasy gamebook cover art oil painting in t
 STYLE & TECHNIQUE: Bold oil/acrylic brushwork with clean form rendering and distinct, crisp character silhouettes. High contrast color separation — monsters and goblins stand out sharply against the background, with clearly defined shapes and skin tones, NEVER blending or merging visually into background foliage or dark shadows. Dramatic focal lighting, warm glowing magical highlights, deep cast shadows, and rich vibrant gold and crimson tones. 16:9 widescreen or 3:2 aspect ratio.
 
 CANONICAL PARTY MEMBERS IN HEROIC POSES:
-- Thorn: Male Half-Orc warrior with short dark undercut hair, fur mantle over leather armor, raising a single-headed battleaxe and lion-emblem round shield.
-- Dave: Golden Dragonborn wizard in robes raising a wooden staff with a glowing green orb, with tiny pseudodragon Peggy on his shoulder.
+- Thorn: Male Half-Orc warrior with short dark undercut hair, pale blue-grey skin, fur mantle over leather armor, raising a single-headed battleaxe and lion-emblem round shield.
+- Dave: Golden Dragonborn wizard in orange/terracotta robes with blue lining raising a wooden staff with a glowing green orb, with tiny pseudodragon Peggy on his shoulder.
 - Derek: Bald dwarf cleric with round wire-rimmed spectacles, braided red beard, plate armor, wielding a warhammer and radiant sun shield.
 - Nibbles: Small red dragonborn rogue in dark hooded cloak holding glowing daggers.
 

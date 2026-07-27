@@ -67,9 +67,9 @@ When drafting or editing novel chapters (`publish/chapters/`):
   3. Include canonical character/monster descriptions **ONLY for those specifically requested to appear in the scene** (plus any additional image references provided by the user).
   4. Always cross-reference the corresponding chapter text in `publish/chapters/` for full scene context, lighting, and environmental details.
 - **Canonical Character & Monster Visual Rules**:
-  - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, wizard robes, wooden staff with glowing green orb) and **Peggy** (tiny coppery pseudodragon familiar). NEVER depict Dave as human, NEVER depict Peggy as an owl.
+  - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, orange/terracotta wizard robes with blue lining, wooden staff with glowing green orb) and **Peggy** (tiny coppery pseudodragon familiar). NEVER depict Dave as human, NEVER depict Peggy as an owl.
   - **Derek**: Dwarf cleric with a completely **BALD head**, round wire-rimmed spectacles, braided red beard, plate armor, holding a warhammer AND radiant sun-emblem heater shield.
-  - **Thorn**: Half-Orc male warrior (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, battleaxe AND round shield with Fallcrest lion emblem).
+  - **Thorn**: Half-Orc male warrior (short dark undercut hairstyle, pale blue-grey skin, fur mantle over leather armor, battleaxe AND round shield with Fallcrest lion emblem).
   - **Nibbles**: Small red dragonborn / kobold rogue (red scales, dark hooded cloak, short sword + glowing dagger).
   - **Loki**: Sturdy wolfhound / hunting dog companion.
   - **Quaggoths**: Bipedal ape-like / yeti gorilla monsters covered in shaggy white/grey fur with sharp claws and flat ape faces — NEVER wolves or canines.
