@@ -9,7 +9,7 @@ published: true
 > **Willow Starbloom** is Peter's daughter's character — **not in the campaign yet**.
 
 Portraits: [portraits](/illustrations/portraits/)  
-Illustration refs (required for chapter art): [character-illustration-refs.md](../inbox/reference/character-illustration-refs.md)
+Illustration refs (required for chapter art): [ART-STYLE-BRIEF.md](../workspace/prompts/ART-STYLE-BRIEF.md)
 
 ## Dave the Wizard
 

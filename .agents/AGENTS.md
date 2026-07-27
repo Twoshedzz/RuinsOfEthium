@@ -31,7 +31,7 @@
 ### Human Edit Surface (`publish/`)
 - All human content editing happens strictly under the **`publish/`** directory.
 - Never manually edit `src/content/` or `public/dm/` directly, as these are auto-generated during build via `scripts/sync-publish.mjs`.
-- Raw photos of notes, whiteboard snaps, and high-res map scans belong in `publish/source/inbox/` (which is `.gitignore`'d for zero repository bloat).
+- Raw photos of notes, whiteboard snaps, and high-res map scans belong in `publish/source/workspace/` (which is `.gitignore`'d for zero repository bloat).
 
 ### Story Pacing & Prose Style (`publish/source/style-guide.md`)
 When drafting or editing novel chapters (`publish/chapters/`):

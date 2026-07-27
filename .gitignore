@@ -21,7 +21,7 @@ pnpm-debug.log*
 .astro/
 
 # Authoring intake — local only; feed to Cursor, do not commit
-publish/source/inbox/
+publish/source/workspace/
 publish/source/manuscripts/
 publish/source/characters/sheets/
 
