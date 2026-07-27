@@ -52,7 +52,7 @@ When drafting or editing novel chapters (`publish/chapters/`):
 ---
 
 ## 5. Illustration & Artwork Guidelines
-- **Mandatory Party Depiction Rule**: Unless explicitly specified otherwise by the user, all scene illustrations MUST accurately depict the four core party members based on their canonical portraits in `publish/illustrations/portraits/`:
+- **Party Member Depiction Rule**: If a scene is instructed to include the party (or specific party members), accurately depict them using their canonical descriptions below based on their canonical portraits in `publish/illustrations/portraits/`. They do NOT all need to be included by default in every scene.
   - **Dave**: Golden Dragonborn wizard (reptilian dragon head with gold scales, horns, snout, wizard robes, wooden staff with glowing green orb) and **Peggy** (tiny coppery/gold pseudodragon familiar with leathery wings perching on his shoulder). NEVER depict Dave as a human wizard, and NEVER depict Peggy as an owl.
   - **Derek**: Bald dwarf cleric (completely bald head, round wire-rimmed spectacles, braided red beard, plate armour, holding a warhammer AND a radiant sun-emblem heater shield).
   - **Thorn**: Half-Orc male warrior (short dark undercut hairstyle, pale/purple skin, fur mantle over leather armor, holding a single-headed battleaxe in one hand AND a round shield on the other arm).
