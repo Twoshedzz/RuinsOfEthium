@@ -129,7 +129,7 @@ A sound like grinding mountains echoed beneath their feet. Dust rained down from
 
 The Burrower attacked blindly, striking anything that moved. With a single terrifying snap, it swallowed one of the enlarged Quaggoths whole, then thrashing its tail across the hall, smashing two Duergar into the pillars.
 
-![The colossal blind Grey Burrower erupts through the Assembly Hall floor and swallows an enlarged Quaggoth as the party and Duergar scatter through the shattered hall](/illustrations/scenes/ch07-grey-burrower-assembly-hall-v2.png)
+![The colossal blind Grey Burrower erupts through the Assembly Hall floor and swallows an enlarged Quaggoth as the party and Duergar scatter through the shattered hall](/illustrations/scenes/ch07-grey-burrower-assembly-hall.png)
 
 *The Grey Burrower tears through the Assembly Hall — swallowing anything that moves.*
 
