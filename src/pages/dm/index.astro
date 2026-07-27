@@ -7,6 +7,7 @@ import {
   getPublishedLibrarySessions,
 } from '../../lib/library';
 import { getPublishedTableNotes } from '../../lib/table-notes';
+import { regionalMaps, dungeonMaps } from '../../lib/maps';
 import { SITE_TITLE } from '../../lib/site';
 
 const modules = await getPublishedLibraryModules();
@@ -14,8 +15,9 @@ const places = await getPublishedLibraryPlaces();
 const characters = await getPublishedLibraryCharacters();
 const sessions = await getPublishedLibrarySessions();
 const plans = await getPublishedTableNotes();
+const mapsCount = regionalMaps.length + dungeonMaps.length;
 
-const description = `DM tools for ${SITE_TITLE} — world, modules, session plans, and session notes.`;
+const description = `DM tools for ${SITE_TITLE} — world, modules, maps, session plans, and session notes.`;
 ---
 
 <DmShell title="DM" description={description} current="hub">
@@ -23,7 +25,7 @@ const description = `DM tools for ${SITE_TITLE} — world, modules, session plan
     <p class="table-desk__eyebrow">Dungeon master</p>
     <h1 class="page-title">DM hub</h1>
     <p class="table-desk__lede">
-      Bookmark this page. Hidden from the novel nav. World reference, replayable modules, tonight’s
+      Bookmark this page. Hidden from the novel nav. World reference, replayable modules, maps, tonight’s
       session plans, and after-play session notes.
     </p>
   </header>
@@ -41,6 +43,13 @@ const description = `DM tools for ${SITE_TITLE} — world, modules, session plan
         <span class="library-hub__label">Modules</span>
         <span class="library-hub__count">{modules.length}</span>
         <span class="library-hub__blurb">Replayable adventure blocks — run again / publish later</span>
+      </a>
+    </li>
+    <li>
+      <a href="/dm/maps/">
+        <span class="library-hub__label">Cartography & Maps</span>
+        <span class="library-hub__count">{mapsCount}</span>
+        <span class="library-hub__blurb">Regional overland maps and tactical dungeon battle maps</span>
       </a>
     </li>
     <li>

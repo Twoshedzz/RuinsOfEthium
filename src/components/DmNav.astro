@@ -1,6 +1,6 @@
 ---
 interface Props {
-  current: 'hub' | 'world' | 'modules' | 'plans' | 'notes' | 'solo';
+  current: 'hub' | 'world' | 'modules' | 'plans' | 'notes' | 'solo' | 'maps';
 }
 
 const { current } = Astro.props;
@@ -9,6 +9,7 @@ const items = [
   { id: 'hub', href: '/dm/', label: 'Hub' },
   { id: 'world', href: '/dm/world/', label: 'World' },
   { id: 'modules', href: '/dm/modules/', label: 'Modules' },
+  { id: 'maps', href: '/dm/maps/', label: '🗺️ Maps' },
   { id: 'solo', href: '/dm/solo/', label: '⚔️ Solo Play' },
   { id: 'plans', href: '/dm/plans/', label: 'Session plans' },
   { id: 'notes', href: '/dm/notes/', label: 'Session notes' },
