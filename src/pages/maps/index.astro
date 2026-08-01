@@ -1,3 +1,115 @@
 ---
-return Astro.redirect('/dm/maps/', 301);
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MapLightbox from '../../components/MapLightbox.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { regionalMaps } from '../../lib/maps';
+import { SITE_TITLE } from '../../lib/site';
+
+const mapsDescription = `Regional overview cartography and overland maps from the world of ${SITE_TITLE}.`;
 ---
+
+<BaseLayout title="Regional Maps" description={mapsDescription}>
+  <SiteHeader slot="header" />
+
+  <div class="container prose">
+    <header class="maps-page-header">
+      <h1 class="page-title">Regional Cartography & Maps</h1>
+      <p class="maps-page-intro">
+        Full-colour regional cartography and overland maps from the world of {SITE_TITLE} — for travellers and adventurers charting their journey through the realm.
+      </p>
+
+      <div class="maps-dm-notice" role="note">
+        <p>
+          <strong>Looking for Tactical Dungeon Battle Maps?</strong> Secret floor plans, trap layouts, and lair warrens are reserved for Dungeon Masters inside the <a href="/dm/maps/">DM Tools Vault</a>.
+        </p>
+      </div>
+    </header>
+
+    <section class="maps-category-group" id="regional-maps">
+      <div class="maps-category-header">
+        <h2>Overland & Regional Maps</h2>
+        <p>Overview cartography showing realms, town settlements, trade routes, and wilderness tracks.</p>
+      </div>
+
+      {
+        regionalMaps.map((map) => (
+          <article class="map-entry" id={map.slug}>
+            <h3>{map.title}</h3>
+            <p>{map.summary}</p>
+            <MapLightbox
+              slug={map.slug}
+              src={map.image}
+              alt={map.alt}
+              caption={map.title}
+              width={1536}
+              height={1024}
+            />
+          </article>
+        ))
+      }
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .maps-page-header {
+    margin-bottom: 3rem;
+  }
+
+  .maps-page-intro {
+    font-size: 1.1rem;
+    color: var(--ink-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .maps-dm-notice {
+    background: var(--paper-light, #f6f1e8);
+    border: 1px solid var(--paper-edge, #e8dfcf);
+    border-left: 4px solid var(--gold-accent, #c5a059);
+    border-radius: 6px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 2rem;
+  }
+
+  .maps-dm-notice p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--ink, #2b261f);
+  }
+
+  .maps-dm-notice a {
+    color: var(--gold-accent, #9e782f);
+    font-weight: 600;
+    text-decoration: underline;
+  }
+
+  .maps-category-group {
+    margin-top: 2rem;
+    padding-top: 1rem;
+  }
+
+  .maps-category-header {
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 0.75rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .maps-category-header h2 {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    margin: 0 0 0.35rem 0;
+  }
+
+  .maps-category-header p {
+    margin: 0;
+    color: var(--ink-muted);
+    font-style: italic;
+  }
+
+  .map-entry h3 {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+  }
+</style>

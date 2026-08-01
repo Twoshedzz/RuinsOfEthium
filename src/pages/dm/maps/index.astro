@@ -1,40 +1,40 @@
 ---
 import DmShell from '../../../components/DmShell.astro';
 import MapLightbox from '../../../components/MapLightbox.astro';
-import { regionalMaps, dungeonMaps } from '../../../lib/maps';
+import { dungeonMaps, regionalMaps } from '../../../lib/maps';
 import { SITE_TITLE } from '../../../lib/site';
 
-const mapsDescription = `Regional overview maps and tactical dungeon encounter maps from the world of ${SITE_TITLE} — DM reference vault.`;
+const mapsDescription = `Tactical dungeon battle maps, floor plans, and regional cartography from ${SITE_TITLE} — DM reference vault.`;
 ---
 
-<DmShell title="Cartography & Maps" description={mapsDescription} current="maps">
+<DmShell title="DM Tactical Maps" description={mapsDescription} current="maps">
   <div class="prose">
     <header class="maps-page-header">
-      <h1 class="page-title">Cartography & Maps</h1>
+      <h1 class="page-title">DM Tactical & Dungeon Maps</h1>
       <p class="maps-page-intro">
-        Full-colour regional cartography and tactical dungeon encounter maps from the world of {SITE_TITLE} — DM reference and table play.
+        Protected tactical floor plans, lair warrens, subterranean complexes, and battle maps — strictly for Dungeon Master reference and table play.
       </p>
 
-      <nav class="maps-section-nav" aria-label="Map categories">
-        <a href="#regional-maps" class="maps-section-nav__link">
-          <span class="maps-section-nav__title">Regional & Overland Maps</span>
-          <span class="maps-section-nav__count">{regionalMaps.length}</span>
-        </a>
+      <nav class="maps-section-nav" aria-label="DM Map categories">
         <a href="#dungeon-maps" class="maps-section-nav__link">
-          <span class="maps-section-nav__title">Dungeon & Encounter Maps</span>
+          <span class="maps-section-nav__title">⚔️ Dungeon & Encounter Maps</span>
           <span class="maps-section-nav__count">{dungeonMaps.length}</span>
+        </a>
+        <a href="#regional-maps" class="maps-section-nav__link">
+          <span class="maps-section-nav__title">🗺️ Regional & Overland Maps</span>
+          <span class="maps-section-nav__count">{regionalMaps.length}</span>
         </a>
       </nav>
     </header>
 
-    <section class="maps-category-group" id="regional-maps">
+    <section class="maps-category-group" id="dungeon-maps">
       <div class="maps-category-header">
-        <h2>Regional & Overland Maps</h2>
-        <p>Overview plates showing realms, continents, town settlements, and wilderness travel routes.</p>
+        <h2>⚔️ Dungeon & Encounter Maps (DM Only)</h2>
+        <p>Tactical floor plans, secret trap layouts, lair warrens, and battle maps for running encounters.</p>
       </div>
 
       {
-        regionalMaps.map((map) => (
+        dungeonMaps.map((map) => (
           <article class="map-entry" id={map.slug}>
             <h3>{map.title}</h3>
             <p>{map.summary}</p>
@@ -51,14 +51,14 @@ const mapsDescription = `Regional overview maps and tactical dungeon encounter m
       }
     </section>
 
-    <section class="maps-category-group" id="dungeon-maps">
+    <section class="maps-category-group" id="regional-maps">
       <div class="maps-category-header">
-        <h2>Dungeon & Encounter Maps</h2>
-        <p>Tactical floor plans, lair warrens, subterranean complexes, and battle maps for DM reference.</p>
+        <h2>🗺️ Regional & Overland Reference Maps</h2>
+        <p>Realms overview, settlement layouts, and overland travel routes for DM planning.</p>
       </div>
 
       {
-        dungeonMaps.map((map) => (
+        regionalMaps.map((map) => (
           <article class="map-entry" id={map.slug}>
             <h3>{map.title}</h3>
             <p>{map.summary}</p>
