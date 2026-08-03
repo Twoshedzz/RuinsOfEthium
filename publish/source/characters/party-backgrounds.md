@@ -29,7 +29,7 @@ From a young age, Thorn showed strength, steadiness, and a rare calm in battle. 
 
 Now, Thorn has left the tribe to travel south and seek adventure. He fights not for gold, but for **honour, stories, and proof that he is worthy to be a future champion of his people.**
 
-![Thorn Axehand](/illustrations/portraits/thorn-axehand.png)
+![Thorn Axehand](/illustrations/portraits/thorn-axehand-full.png)
 
 ## Nibbles McPicklepants
 
