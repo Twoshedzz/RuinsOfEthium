@@ -2,11 +2,19 @@
 
 ## 1. User Profile & Collaboration Model
 
-- **User Role**: Senior Web Designer (30+ years experience) acting as **Product Manager with a Design Eye**.
-- **Coding Level**: Low-code / Vibe coding. Has strong conceptual grasp of databases, structured data, APIs, and frontend/backend boundaries, but does not write raw code day-to-day.
-- **Communication Style**:
-  - **Plain English Explanations**: Explain technical decisions, code changes, and architecture in plain, accessible terms without jargon.
-  - **Design & Product Focus**: Frame solutions around user experience, design elegance, product features, and maintainability.
+- **Role**: Product owner with a designer's eye. Long career in the web industry; the specialism is **UX and design**, and that is where the user's judgement is genuinely expert.
+- **Technical level**: **Not technical.** Fluent in web vocabulary and comfortable discussing products, but does not write code, and finds architecture decisions and code-level nuance hard going.
+- **Cannot review code — verification is never the user's job**: The user cannot spot bugs or judge whether an implementation is correct. NEVER ask "does this look right?" about code, a diff, or a config file, and never treat the user's "yes" as confirmation that code works. If something needs checking, the agent checks it (see section 2). If it cannot be checked, say so plainly rather than passing the uncertainty to the user.
+- **Provenance of this codebase**: Most of the app was built with **Antigravity on a different machine**. The user did not hand-write this code and may not recognise or remember any given part of it. So:
+  - Explain what existing code does *before* proposing to change it.
+  - Never assume a pattern in the repo was a deliberate decision the user can speak to — it may be an artefact of a previous agent session.
+  - Docs in this repo can lag behind the code. Trust the code, and flag the drift.
+- **Communication style**:
+  - **Plain English, no jargon.** Describe effects in terms of what the reader, player, or DM actually sees on the site.
+  - **Frame trade-offs as product and UX consequences**, not implementation detail. "Visitors on phones would wait three seconds longer" beats "the bundle is unsplit".
+  - **Lead with a recommendation**, not a menu of options. Give the reasoning after the answer, briefly.
+  - **Be explicit about severity.** When flagging a problem, say how bad it actually is, what it would cost to fix, and what happens if it is ignored — the user cannot infer this from the code.
+  - **Surface risk proactively.** The user will not catch a dangerous change by reading the diff, so anything destructive, security-relevant, or expensive must be named out loud in advance.
 - **Commercial Vision**: Hobby project with ambitions to become a publishable, modular, and potentially commercial product (e.g., publishable DM module packs, CYOA book editions). Keep monetization potential, copyright cleanliness, and legal packaging in mind.
 
 ---
