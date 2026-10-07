@@ -41,9 +41,13 @@
 
 ### Human Edit Surface (`publish/`)
 
-- All human content editing happens strictly under the **`publish/`** directory.
-- Never manually edit `src/content/` or `public/dm/` directly, as these are auto-generated during build via `scripts/sync-publish.mjs`.
-- Raw photos of notes, whiteboard snaps, and high-res map scans belong in `publish/source/inbox/` (which is `.gitignore`'d for zero repository bloat).
+- All editing happens under **`publish/`**. Never hand-edit `src/content/chapters/` or `public/illustrations/` — `scripts/sync-publish.mjs` regenerates them on every dev and build.
+
+### This repo is the novel only
+
+The DM material moved out in October 2026. World notes, replayable modules, tactical maps, PDFs, session plans and play records live in the **private EthiumSource repo**. Nothing in this repo is secret and nothing in it is canon. If a world fact needs changing, change it there and let it flow back into prose here.
+
+Old `/dm/` URLs redirect to the cover.
 
 ### Story Pacing & Prose Style (`publish/source/style-guide.md`)
 
@@ -52,25 +56,22 @@ When drafting or editing novel chapters (`publish/chapters/`):
 - **Tone**: Classic *Fighting Fantasy* novel for 12-year-olds: clear, vivid, warm, never graphic.
 - **Pacing & Rhythm**: Mix paragraph lengths to suit the scene. Slower/longer for travel and lore; faster/sharper for action.
 - **Dialogue**: Sparse and intentional. Use narration to carry the journey.
-- **Humour**: Play table humor straight in-world (understated, funny situations, no forced quips).
+- **Humour**: Play table humour straight in-world (understated, funny situations, no forced quips).
 - **Avoid AI Slop**: Absolutely NO uniform one-sentence paragraph staccato, NO generic AI clichés (*"a testament to"*, *"in the heart of"*, *"as the dust settled"*), and NO dry play-by-play summaries.
-
-### Replayable DM Modules (`publish/source/world/modules/`)
-
-- Adventure modules in `publish/source/world/modules/` (`/dm/modules/`) must remain **replayable and party-agnostic**.
-- Never paste specific party play-by-play ("Thorn cast Fireball") into modules. Store party outcomes in `publish/source/sessions/` instead.
 
 ### Dramatis Personae Maintenance Rule (`/about/`)
 
-- Whenever new characters, allies, or major antagonists are introduced into the story or world (`publish/source/characters/` or novel chapters), **evaluate whether they should be added to the public Dramatis Personae** on the About page (`src/pages/about.astro`).
-- Group characters logically (*The Heroes*, *Friends*, *Enemies*) and write concise, kid-friendly descriptions matching the Fighting Fantasy novel tone.
+- Whenever new characters, allies or major antagonists appear in the chapters, **evaluate whether they should be added to the public Dramatis Personae** on the About page (`src/pages/about.astro`).
+- Group them logically (*The Heroes*, *Friends*, *Enemies*) and write concise, kid-friendly descriptions matching the Fighting Fantasy tone.
 
----
+### Verification
+
+Run **`npm run verify`** before pushing. It builds and then checks committed-ness, broken links and images, secrets, DM-material leakage, asset weight and filenames. A pre-push hook runs it automatically.
 
 ## 5. Illustration & Artwork Guidelines
 
 - **Chapter Image Generation Workflow**: Whenever the user asks for a chapter image prompt or illustration brief:
-  1. Start with the **Base Chapter Art Prompt** from `publish/source/workspace/prompts/ART-STYLE-BRIEF.md` (100% monochrome B&W dip-pen ink, Russ Nicholson style, chiaroscuro shadow blocks, contour hatching, pure white background, negative constraints).
+  1. Start with the **Base Chapter Art Prompt** from the art brief in the EthiumSource repo (`publish/art/image prompt data/ART-STYLE-BRIEF.md`) (100% monochrome B&W dip-pen ink, Russ Nicholson style, chiaroscuro shadow blocks, contour hatching, pure white background, negative constraints).
   2. Append the specific **Scene Description** provided by the user.
   3. Include canonical character/monster descriptions **ONLY for those specifically requested to appear in the scene** (plus any additional image references provided by the user).
   4. Always cross-reference the corresponding chapter text in `publish/chapters/` for full scene context, lighting, and environmental details.

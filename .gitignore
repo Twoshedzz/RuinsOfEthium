@@ -40,6 +40,5 @@ publish/source/workspace/chatgpt-exports/fragments/**
 # build dies on a missing default. (Netlify, Oct 2026.)
 src/content/
 !src/content/config.ts
-public/dm/
 public/illustrations/
 src/lib/build-info.ts

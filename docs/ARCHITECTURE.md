@@ -1,5 +1,12 @@
 # Architecture decisions — The Ruins of Ethium
 
+> **Out of date in one important way.** The DM material left this repo in October 2026
+> and now lives in the private **EthiumSource** repo, along with both tables' session
+> plans and play records. Everything below about `/dm/`, the DM hub, modules, world
+> notes, maps and CYOA describes where those things *used* to be. The novel, its
+> chapters, its plates and the public `/maps/` page are still here and still accurate.
+
+
 Product context: [`PROJECT-BRIEF.md`](PROJECT-BRIEF.md). Operational loop: [`publish/source/WORKFLOW.md`](../publish/source/WORKFLOW.md).
 
 Format: **Decision → Why → Consequences**.

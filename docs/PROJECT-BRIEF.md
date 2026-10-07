@@ -1,5 +1,12 @@
 # Project brief — The Ruins of Ethium
 
+> **Out of date in one important way.** The DM material left this repo in October 2026
+> and now lives in the private **EthiumSource** repo, along with both tables' session
+> plans and play records. Everything below about `/dm/`, the DM hub, modules, world
+> notes, maps and CYOA describes where those things *used* to be. The novel, its
+> chapters, its plates and the public `/maps/` page are still here and still accurate.
+
+
 How this repo came to be, what it is for, and what comes next. For technical choices see [`ARCHITECTURE.md`](ARCHITECTURE.md). Day-to-day loop: [`publish/source/WORKFLOW.md`](../publish/source/WORKFLOW.md).
 
 ---
