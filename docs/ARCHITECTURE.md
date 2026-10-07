@@ -12,7 +12,7 @@ Format: **Decision → Why → Consequences**.
 
 **Why.** No server or CMS to maintain. Markdown is easy to edit in Cursor/git. Netlify rebuilds on push. Fits a family novel + DM reference that is mostly read-only on the web.
 
-**Consequences.** All “apps” (novel, DM hub, CYOA) are static pages. Search/auth/multi-user editing are out of scope. Frontmatter schemas live in `src/content/config.ts`.
+**Consequences.** All “apps” (novel, DM hub) are static pages. Search/auth/multi-user editing are out of scope. Frontmatter schemas live in `src/content/config.ts`.
 
 ---
 
@@ -53,7 +53,7 @@ Sync also rewrites relative `.md` links and legacy `/table/` · `/library/` path
 | **Session notes** | `sessions/` | `/dm/notes/` | What happened → novel |
 | **World** | `world/notes/` · `characters/` | `/dm/world/` | Setting reference |
 | **Raw ChatGPT** | `chatgpt-exports/` | *(not synced)* | Overlapping dumps |
-| **CYOA** | `cyoa/` | `/cyoa/` | Branching game |
+| **CYOA** | `cyoa/` | *(parked — no route)* | Branching game, shelved Oct 2026 |
 
 **Why.** ChatGPT prep and table improvisation blur “canon,” “tonight’s sheet,” and “what we actually did.” Mixing them polluted modules and made chapter drafting harder.
 
@@ -65,13 +65,15 @@ Modules describe rooms, foes, and choices **without** a specific party’s chron
 
 ---
 
-## Hidden hubs: `/dm/` and `/cyoa/`
+## Hidden hub: `/dm/`
 
-**Decision.** DM and CYOA are real routes but **absent from novel navigation**. Shells set `noindex,nofollow`. Aliases: `/dungeonmaster` → `/dm`; Astro + Netlify redirects from legacy `/table/` and `/library/`.
+**Decision.** The DM hub is a real route but **absent from novel navigation**. Its shell sets `noindex,nofollow`. Aliases: `/dungeonmaster` → `/dm`; Astro + Netlify redirects from legacy `/table/` and `/library/`. CYOA was a second hidden hub until it was parked in October 2026; `/cyoa` now redirects to `/dm`.
 
-**Why.** The public face is the story. DM tools and CYOA are for the family/DM via bookmark, not SEO or the chapter list.
+**Why.** The public face is the story. DM tools are for the family and the DM via bookmark, not SEO or the chapter list.
 
-**Consequences.** Share `/dm/` and `/cyoa/` deliberately. Novel chrome stays parchment/story-focused; DM desk uses its own layout (`DmShell`).
+**Consequences.** Share `/dm/` deliberately. Novel chrome stays parchment/story-focused; the DM desk uses its own layout (`DmShell`).
+
+**Limit — hidden is not private.** `noindex` and an absent nav link keep DM pages out of search results and off the novel's front door. They do not stop anyone who has or guesses the URL: a static build serves every DM page in full, and the passkey in `DmAuthGate` is compiled into public JavaScript. Real privacy needs a server-side check — see the roadmap in [`PROJECT-BRIEF.md`](PROJECT-BRIEF.md).
 
 ---
 
@@ -115,7 +117,7 @@ Modules describe rooms, foes, and choices **without** a specific party’s chron
 
 **Why.** Early structure used “table” and “library”; bookmarks and markdown links still exist.
 
-**Consequences.** New links should use `/dm/` and `/cyoa/`. Sync rewrites many in-content paths on publish.
+**Consequences.** New links should use `/dm/`. Sync rewrites many in-content paths on publish.
 
 ---
 

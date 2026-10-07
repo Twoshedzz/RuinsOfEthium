@@ -1100,10 +1100,6 @@ a:hover {
   color: var(--table-next);
 }
 
-.cyoa-desk .dm-nav__brand {
-  letter-spacing: 0.06em;
-}
-
 /* ==========================================================================
    Modern D&D Module Styling (Replayable DM Modules & DM Desk)
    ========================================================================== */

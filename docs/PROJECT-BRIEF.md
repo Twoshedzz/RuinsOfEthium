@@ -16,7 +16,7 @@ This project is the **single home** for:
 - world lore and replayable modules
 - session plans (prep) and session notes (what happened)
 - table printables (maps, PDFs, item cards)
-- a branching CYOA reworking of the same material
+- a branching CYOA reworking of the same material *(parked)*
 
 Edit under `publish/`; Netlify serves the static site.
 
@@ -29,7 +29,7 @@ Edit under `publish/`; Netlify serves the static site.
 3. **Plans vs notes** — Prep (`session-plans/`, live `table/`) was separated from after-play **session notes** (`sessions/`) so modules stay free of “party did…”.
 4. **World modules** — Replayable adventure blocks under `world/modules/` for re-running at the table and possible later publish as a module pack.
 5. **DM hub** — Hidden **`/dm/`** (World, Modules, Session plans, Session notes) plus maps/PDFs — not in the novel nav.
-6. **CYOA** — Branching single-player rework at hidden **`/cyoa/`**, separate from the linear novel.
+6. **CYOA** — Branching single-player rework, briefly rebranded Solo Play inside the DM hub. **Parked October 2026**: source kept in `publish/source/cyoa/`, no routes built.
 7. **Print & handouts** — Session-plan print CSS (HP tick boxes), combat trackers, language sheet, item cards, selective map sync via manifest.
 
 ---
@@ -38,7 +38,7 @@ Edit under `publish/`; Netlify serves the static site.
 
 ### 1. Narrative story
 
-Published chapters in `publish/chapters/` → **`/chapters/`**. Prologue through Chapter 5 are on the site; Chapter 6 exists as a beat-sheet draft. Style guide and campaign bible live under `publish/source/`. Optional OpenAI TTS audio ships as static MP3s.
+Published chapters in `publish/chapters/` → **`/chapters/`**. Prologue through Chapter 7 are written and live. Style guide and campaign bible live under `publish/source/`. Read-aloud narration is **parked** — see the README.
 
 ### 2. DM support
 
@@ -53,9 +53,9 @@ Bookmark **`/dm/`** (also `/dungeonmaster/` → `/dm/`). Four desks:
 
 Assets: `/dm/maps/`, `/dm/pdfs/`. Colour maps in the DM UI; B&W plates stay on the novel.
 
-### 3. CYOA
+### 3. CYOA *(parked)*
 
-Single-player branching rework in `publish/source/cyoa/` → **`/cyoa/`**. Book 1 covers prologue through the pool camp (Thorn’s POV). Hidden and `noindex`, like the DM hub.
+Single-player branching rework in `publish/source/cyoa/`. Book 1 covers prologue through the pool camp (Thorn's POV). **Shelved in October 2026** to keep the focus on the novel and the table. The markdown is untouched and still syncs; only the pages and the nav entry were removed, so it can be switched back on in one commit.
 
 ---
 
@@ -68,25 +68,44 @@ Single-player branching rework in `publish/source/cyoa/` → **`/cyoa/`**. Book 
 | `publish/source/characters/` | PCs & NPCs |
 | `publish/source/sessions/` | Session notes (what happened) |
 | `publish/source/session-plans/` · `publish/table/` | Draft prep · live run sheets |
-| `publish/source/chapter-drafts/` | Beat sheets before prose |
 | `publish/source/chatgpt-exports/` | Raw ChatGPT dumps (not canon) |
-| `publish/source/cyoa/` | CYOA source |
+| `publish/source/cyoa/` | CYOA source *(parked)* |
 | `publish/table-assets/` | PDFs + `table-maps.manifest` |
 
 Sync: `npm run publish` → `scripts/sync-publish.mjs`.
 
 ---
 
-## Next steps
+## Roadmap
 
-Honest backlog from the current repo:
+*Reviewed 7 October 2026. Play paused over the summer — last session notes and chapters date from late July.*
 
-- **Write Chapter 6** from `chapter-drafts/06-east-of-the-pool.md` and session notes; close the lag between play and published prose (bible timeline still lags published Ch. 3–5).
-- **After-play notes** — keep `sessions/session-04/` current; add/finish notes for session 05+ as play continues (`table/05-after-grey-burrower.md` is the live plan).
-- **Enrich modules** — flesh out `world/modules/` (kruthik, troglodyte, duergar, etc.) without pasting party play-by-play.
-- **Keep the campaign bible current** after each session.
-- **Optional later:** package modules for others; expand CYOA beyond Book 1 (east dig, castle hill, dragon, Maelis, Mala’s book, cloaked watcher).
-- **Handouts** — more item cards / print packs as sessions need them.
+### Now — restarting the campaign
+
+- **Session plans for the restart.** The kids' campaign starts again shortly. The next plan picks up from `publish/table/05-after-grey-burrower.md`, which was written but never played. Drafting prep sheets is the active area of support: cold open, encounter stats, choices, printable HP tick-boxes via Cmd+P on `/dm/plans/`.
+- **Backfill the session notes.** `publish/source/sessions/` stops at `session-04`, but Chapters 6 and 7 were written from play that was never written up. Reconstruct notes for those sessions from the chapters and memory before the trail goes cold — they are the record the novel is drafted from, and the gap will only widen once new play starts.
+- **Refresh the campaign bible** (`publish/source/00-campaign-bible.md`) so the restart begins from an accurate world state.
+
+### Next — keep the players out of the DM pages
+
+The DM gate currently hides content with JavaScript only. Every `/dm/` page is still served in full to anyone with the URL, and the passkey is readable in the public JavaScript. Good enough against passing curiosity, useless against a player who looks.
+
+- **Add a server-side check.** A Netlify Edge Function putting a real password on `/dm/*` is the proportionate fix: free on the current plan, works with JavaScript disabled, one shared password to hand out. Roughly half a day including a deploy to verify.
+- Once that exists, the client-side gate can be deleted rather than maintained alongside it.
+
+### Later — content depth
+
+- **Enrich modules** in `world/modules/` (kruthik, troglodyte, duergar) without pasting party play-by-play.
+- **Handouts** — more item cards and print packs as sessions need them.
+- **Package modules for others** once there is enough of them to be worth someone's time.
+
+### Parked
+
+| Area | State | To revive |
+|------|-------|-----------|
+| **Read-aloud audio** | Off; MP3s deleted Oct 2026, prose had moved on | `npm run audio`, then flip the flag — README has the steps |
+| **CYOA / Solo Play** | Routes removed Oct 2026; source intact | Restore the pages and the DM nav entry |
+| **Monetisation** | Not pursued | Revisit only at critical mass of DM content; likely a "buy me a coffee" link or one-off micro-payment, not a subscription |
 
 ---
 

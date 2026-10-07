@@ -11,8 +11,8 @@ export default defineConfig({
     '/library/places': '/dm/world',
     '/library/characters': '/dm/world',
     '/library/sessions': '/dm/notes',
-    // CYOA rebranded → Solo Play (DM Vault)
-    '/cyoa': '/dm/solo',
-    '/cyoa/[slug]': '/dm/solo/[slug]',
+    // CYOA / Solo Play parked (Oct 2026) — content kept in publish/source/cyoa/,
+    // no routes built. Old links fall back to the DM hub.
+    '/cyoa': '/dm',
   },
 });

@@ -11,11 +11,10 @@
 | **Session plans** | `publish/source/session-plans/` · live `publish/table/` | `/dm/plans/` | **Prep for an upcoming session** (Cmd+P printable with HP tick-boxes). |
 | **Session notes** | `publish/source/sessions/` | `/dm/notes/` | **What happened** → novel chapters. |
 | **World** | `publish/source/world/notes/` · `characters/` | `/dm/world/` | Setting reference. |
-| **CYOA** | `publish/source/cyoa/` | `/cyoa/` | Branching game rework (separate). |
+| **CYOA** | `publish/source/cyoa/` | *(parked)* | Branching game rework — shelved Oct 2026, source kept. |
 | **Story** | `publish/chapters/` | `/chapters/` | Published novel. |
 
 **DM hub (bookmark):** **`/dm/`** — also `/dungeonmaster/` → `/dm/`. Hidden from novel nav; `noindex`.  
-**CYOA hub (bookmark):** **`/cyoa/`**. Hidden; `noindex`.
 
 Assets: maps/PDFs sync to **`/dm/maps/`** · **`/dm/pdfs/`** (legacy `/table/maps|pdfs/` redirect).
 
@@ -68,5 +67,5 @@ flowchart TD
 
 - [Prompts cheatsheet](PROMPTS.md) · [Inbox guide](inbox/README.md)
 - [DM hub](/dm/) · [Modules](world/modules/) · [Session plans](session-plans/) · [Session notes](sessions/)
-- [CYOA](cyoa/) → `/cyoa/`
+- [CYOA](cyoa/) → *parked, no route*
 - [Style guide](style-guide.md) · [Campaign bible](00-campaign-bible.md)

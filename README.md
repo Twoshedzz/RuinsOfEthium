@@ -20,7 +20,7 @@ Each chapter is a markdown file. Push to GitHub and Netlify rebuilds automatical
 |------|-----------|------|-------|
 | **Story** | `publish/chapters/` · `publish/illustrations/` | `/chapters/` | Novel — in the main nav |
 | **DM hub** | world · characters · table · sessions | **`/dm/`** | Hidden; `noindex`. Also `/dungeonmaster/` → `/dm/` |
-| **CYOA** | `publish/source/cyoa/` | **`/cyoa/`** | Hidden; `noindex` |
+| **CYOA** | `publish/source/cyoa/` | *(parked — no routes)* | Shelved Oct 2026; source kept |
 
 ### DM hub desks
 
@@ -58,7 +58,7 @@ publish/source/sessions/       # Session notes → /dm/notes/
 publish/source/session-plans/  # Draft prep (promote live sheets to table/)
 publish/table/                 # Live session plans → /dm/plans/
 publish/table-assets/          # PDFs + map manifest → /dm/pdfs|maps/
-publish/source/cyoa/           # CYOA → /cyoa/
+publish/source/cyoa/           # CYOA source (parked — still synced, nothing rendered)
 publish/source/chatgpt-exports/# Raw ChatGPT dumps (not synced to the site)
 publish/source/chapter-drafts/ # Beat sheets before prose
 ```
@@ -103,20 +103,37 @@ See [`publish/README.md`](publish/README.md).
 
 5. `npm run publish` (or `npm run dev` / push — sync runs automatically). Commit and push; Netlify rebuilds.
 
-## Listen aloud (OpenAI voice)
+## Listen aloud (parked)
 
-Chapters can include a **Listen to this chapter** player powered by [OpenAI Text-to-Speech](https://platform.openai.com/docs/guides/text-to-speech). Audio is generated on your machine and committed to the repo — visitors play static MP3 files, so no API key is needed on Netlify.
+Chapters once carried a **Listen to this chapter** player using [OpenAI Text-to-Speech](https://platform.openai.com/docs/guides/text-to-speech). **It is switched off and the generated MP3s have been deleted** (October 2026): the narration only ever covered the prologue through Chapter 5, and the prose has been revised since, so the recordings no longer matched the text.
+
+What remains: the player component, its styling, and `scripts/generate-audio.mjs`. What is gone: `public/audio/` and its manifest.
+
+To bring it back once the prose settles:
 
 1. Copy `.env.example` to `.env` and add your `OPENAI_API_KEY`.
-2. Preview chunking (no API calls): `npm run audio:dry-run`
+2. Preview chunking first, which makes no API calls and costs nothing: `npm run audio:dry-run`
 3. Generate narration: `npm run audio` (all chapters) or `npm run audio -- --slug 00-prologue`
-4. Commit the new files under `public/audio/` and push.
+4. Set `ENABLE_AUDIO_READ_ALOUD = true` in `src/lib/chapter-audio.ts` and restore the manifest import — the comment in that file spells out the three steps.
+5. Commit the new files under `public/audio/` and push.
 
-Defaults: `gpt-4o-mini-tts` with voice `fable`, styled as a warm British fantasy storyteller. Override with `TTS_MODEL`, `TTS_VOICE`, or `TTS_INSTRUCTIONS` in `.env`.
+Defaults are `gpt-4o-mini-tts` with voice `fable`; the deleted recordings used `onyx`, so set `TTS_VOICE=onyx` in `.env` to match the old narrator. Re-running skips chapters whose prose has not changed; `--force` overrides that.
 
-Re-running `npm run audio` skips chapters whose prose has not changed. Use `npm run audio -- --force` to regenerate anyway.
+Rough cost: about **$1–2 one-off** for all chapters, then pennies per new one.
 
-Rough cost: about **$1–2 one-off** for all current chapters, then pennies per new chapter.
+---
+
+## DM Vault access — current state
+
+The `/dm/` pages are hidden from the novel's navigation, marked `noindex` so search engines skip them, and sit behind an email-and-passkey screen (`src/components/DmAuthGate.astro`).
+
+**Be clear about what that screen is.** It hides the page in the browser; it does not protect it. The site is static, so every DM page is built into `dist/` and served to anyone who asks for the URL. The passkey is compiled into the public JavaScript, where it can be read in seconds. It keeps the DM material off the novel's front door and out of search results, which is enough while the audience is the family — but it would not stop a player who went looking.
+
+**The goal is keeping players out, not charging anyone.** Monetisation is a long way off. If the DM material ever reaches enough critical mass to be worth something, the likely shape is a "buy me a coffee" link or a one-off micro-payment — not a subscription, and not soon. The Stripe placeholder in `.env.example` is a leftover of an earlier experiment and is not wired to anything real.
+
+Making the vault genuinely private needs a check that runs on the server rather than in the browser; see the roadmap in [`docs/PROJECT-BRIEF.md`](docs/PROJECT-BRIEF.md).
+
+---
 
 ## Deploy to Netlify
 
@@ -134,8 +151,8 @@ These settings are also defined in [`netlify.toml`](netlify.toml). The canonical
 | Command | Action |
 |---------|--------|
 | `npm run publish` | Sync `publish/` into `src/content` and `public` |
-| `npm run audio` | Generate chapter narration MP3s via OpenAI TTS |
-| `npm run audio:dry-run` | Preview TTS chunking without calling the API |
+| `npm run audio` | Generate chapter narration MP3s via OpenAI TTS *(parked — costs money, ask first)* |
+| `npm run audio:dry-run` | Preview TTS chunking without calling the API *(free)* |
 | `npm run dev` | Sync + start local dev server |
 | `npm run build` | Sync + build static site to `dist/` |
 | `npm run preview` | Preview the production build locally |

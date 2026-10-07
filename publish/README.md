@@ -8,7 +8,7 @@
 | **World** | [`source/world/`](source/world/) · [`source/characters/`](source/characters/) | `/dm/world/` |
 | **Session plans** | [`source/session-plans/`](source/session-plans/) · [`table/`](table/) | `/dm/plans/` |
 | **Session notes** | [`source/sessions/`](source/sessions/) | `/dm/notes/` |
-| **CYOA** | [`source/cyoa/`](source/cyoa/) | **`/cyoa/`** |
+| **CYOA** | [`source/cyoa/`](source/cyoa/) | *(parked — no route)* |
 | **DM assets** | [`table-assets/`](table-assets/) | `/dm/maps/` · `/dm/pdfs/` |
 
 Full loop: [`source/WORKFLOW.md`](source/WORKFLOW.md)
