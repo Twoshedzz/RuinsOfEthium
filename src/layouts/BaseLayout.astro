@@ -1,4 +1,5 @@
 ---
+import Analytics from '../components/Analytics.astro';
 import { SITE_BUILT_AT, SITE_EDITION } from '../lib/build-info';
 import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_TITLE } from '../lib/site';
 
@@ -38,6 +39,7 @@ const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
         </p>
       </footer>
     </div>
+    <Analytics />
   </body>
 </html>
 

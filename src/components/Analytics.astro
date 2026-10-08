@@ -1,0 +1,189 @@
+---
+/**
+ * Google Analytics 4, off by default and asked for politely.
+ *
+ * Nothing here renders unless PUBLIC_GA_ID is set in the environment, so local
+ * dev, a fork and a preview build all stay clean. The ID is not a secret — it is
+ * served to every visitor in the page source, which is how GA works — but it is
+ * an env var so the measurement property can change without a code edit.
+ *
+ * Consent. The site is read in the UK, where analytics cookies need permission
+ * before they are set, not after. So Consent Mode v2 is declared denied *before*
+ * gtag.js loads: GA still records an anonymous, cookieless ping, and only starts
+ * storing anything if the reader says yes. The bar below is how they say it.
+ *
+ * This book is read by children. Advertising signals are denied outright and
+ * never offered — the bar asks about counting readers and nothing else.
+ *
+ * The choice is kept in localStorage, which is per-browser and never reaches
+ * Claude or Pete. Every read and write is wrapped, because a private window
+ * throws rather than returning null.
+ *
+ * Shared in substance with the same file in TuesdayNightArguing. The two sites
+ * have no shared package on purpose; a change here is worth making there.
+ */
+const gaId = import.meta.env.PUBLIC_GA_ID;
+---
+
+{
+  gaId && (
+    <>
+      <script is:inline define:vars={{ gaId }}>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          window.dataLayer.push(arguments);
+        }
+        window.gtag = gtag;
+
+        // Denied until asked. This has to run before gtag.js.
+        gtag('consent', 'default', {
+          ad_storage: 'denied',
+          ad_user_data: 'denied',
+          ad_personalization: 'denied',
+          analytics_storage: 'denied',
+          wait_for_update: 500,
+        });
+
+        var consent = null;
+        try {
+          consent = window.localStorage.getItem('roe-analytics');
+        } catch (e) {
+          /* private window, blocked storage — treat as undecided */
+        }
+
+        if (consent === 'granted') {
+          gtag('consent', 'update', { analytics_storage: 'granted' });
+        }
+
+        gtag('js', new Date());
+        gtag('config', gaId, { anonymize_ip: true });
+
+        window.__roeConsent = consent;
+      </script>
+      <script
+        is:inline
+        async
+        src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+      />
+
+      <div class="consent" id="consent" hidden>
+        <p class="consent__text">
+          This site counts its readers with Google Analytics. May it set a cookie to do
+          that? Saying no is fine — the book works either way.
+        </p>
+        <div class="consent__buttons">
+          <button type="button" class="consent__no" id="consent-no">No thanks</button>
+          <button type="button" class="consent__yes" id="consent-yes">Allow</button>
+        </div>
+      </div>
+
+      <script is:inline>
+        (function () {
+          var bar = document.getElementById('consent');
+          if (!bar) return;
+
+          if (window.__roeConsent !== 'granted' && window.__roeConsent !== 'denied') {
+            bar.hidden = false;
+          }
+
+          function decide(answer) {
+            try {
+              window.localStorage.setItem('roe-analytics', answer);
+            } catch (e) {
+              /* nothing to do — the choice holds for this page only */
+            }
+            if (answer === 'granted' && window.gtag) {
+              window.gtag('consent', 'update', { analytics_storage: 'granted' });
+            }
+            bar.hidden = true;
+          }
+
+          document.getElementById('consent-yes').addEventListener('click', function () {
+            decide('granted');
+          });
+          document.getElementById('consent-no').addEventListener('click', function () {
+            decide('denied');
+          });
+        })();
+      </script>
+
+      <style>
+        .consent {
+          position: fixed;
+          left: 50%;
+          bottom: 1rem;
+          transform: translateX(-50%);
+          z-index: 50;
+          width: min(32rem, calc(100% - 2rem));
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 0.75rem 1rem;
+          padding: 0.9rem 1rem;
+          background: var(--paper-shadow, #e8dfc8);
+          border: 1px solid var(--paper-edge, #c9b896);
+          box-shadow: 0 6px 24px rgb(26 26 26 / 0.18);
+          font-family: var(--font-body, Georgia, serif);
+          font-size: 0.92rem;
+          line-height: 1.5;
+          color: var(--ink, #1a1a1a);
+        }
+
+        .consent__text {
+          flex: 1 1 16rem;
+          min-width: 0;
+          margin: 0;
+        }
+
+        .consent__buttons {
+          display: flex;
+          gap: 0.5rem;
+          margin-left: auto;
+        }
+
+        .consent button {
+          appearance: none;
+          font-family: var(--font-body, Georgia, serif);
+          font-size: 0.92rem;
+          padding: 0.4rem 0.95rem;
+          border-radius: 2px;
+          cursor: pointer;
+          white-space: nowrap;
+        }
+
+        .consent__yes {
+          border: 1px solid var(--accent, #2c2416);
+          background: var(--accent, #2c2416);
+          color: var(--paper, #f4eeda);
+        }
+
+        .consent__no {
+          border: 1px solid var(--paper-edge, #c9b896);
+          background: transparent;
+          color: var(--ink-muted, #4a4438);
+        }
+
+        .consent__yes:hover,
+        .consent__no:hover {
+          filter: brightness(1.1);
+        }
+
+        @media (max-width: 30rem) {
+          .consent__buttons {
+            margin-left: 0;
+            width: 100%;
+          }
+          .consent button {
+            flex: 1;
+          }
+        }
+
+        @media print {
+          .consent {
+            display: none;
+          }
+        }
+      </style>
+    </>
+  )
+}
