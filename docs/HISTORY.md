@@ -96,6 +96,35 @@ referring to a town that had been promoted but not published.
 
 ---
 
+## October 2026 — the second book gets written, and counted
+
+Three things landed in one day.
+
+**The editor went live for its real audience.** Identity, invite-only, and Git
+Gateway: a save made in a browser by someone who has never seen a repository becomes
+a commit. Watching it being used immediately found three faults that no amount of
+local testing had — a reserved field name that meant *no chapter could ever be saved*,
+a split that worked but was invisible until the page reloaded, and a refusal to save
+the empty block that a split creates on purpose. Decap's "Publish" button, which
+means save, is now labelled Save, because the word collided with the field that
+decides whether readers can see the page.
+
+**Book one was drafted from the notebook.** Twenty-one chapters, one per beat of the
+beat sheet, so any chapter traces back to its notebook pages. Written as Noct's
+telling only: the interruptions from the real table are the co-author's memory, and
+inventing them would put fabrication into a book that carries his name. The one
+invention that had been live — a surname for Noct — was replaced the moment his
+player supplied the real one.
+
+**Both public books got analytics.** GA4 with Consent Mode v2 declared denied before
+Google's script loads, and a bar in each book's own type asking the reader. The first
+version shipped with a bug worth remembering: the dismiss worked in the sense that
+the element's `hidden` property became true, and did nothing on screen, because
+`[hidden]` and the component's own `display: flex` have equal specificity. The test
+had asserted the property rather than the rendering.
+
+---
+
 ## October 2026 — splitting a block from inside the editor
 
 Interrupting a paragraph already written meant cutting its second half out by hand,

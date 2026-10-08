@@ -85,7 +85,7 @@ Sync: `npm run publish` → `scripts/sync-publish.mjs`.
 
 ## Roadmap
 
-*Reviewed 8 October 2026. Only outstanding work is listed here — what has already been
+*Reviewed 8 October 2026, evening. Only outstanding work is listed here — what has already been
 built is in [`HISTORY.md`](HISTORY.md).*
 
 ### Now — restarting the kids' campaign
@@ -103,21 +103,22 @@ built is in [`HISTORY.md`](HISTORY.md).*
 
 ### Now — Tuesday Night Arguing
 
-- **Draft Arc 1.** Chapter 9 on that site is a Claude-written design sample and must be
-  replaced with the real thing.
-- **Finish the editor.** The co-author can write blocks; two things remain — see
-  *The editor* below.
+Book one is drafted and live: 21 chapters, one per beat. What it needs next is not
+more drafting.
+
+- **Send the co-author in.** The editor works end to end. He needs an invite, the
+  guide at `/admin/guide.html`, and the chapters to edit.
+- **The room thread is missing on purpose.** Every chapter is Noct's telling only;
+  the interruptions are his memory and inventing them would be fabrication under his
+  name. Adding them is the job *Split here* was built for.
+- **A credit line on the site**, now the campaign is credited as source material
+  rather than renamed. The About page is the obvious home.
 - **Pages 88–100 of the notebook** need re-transcribing. The October photographs do not
   cover them, and they hold the end of book one: the homecoming, Elturel falling and
-  the Olana duel.
-- **Settle credit and consent** with the co-author before anything is published. His
-  notebook is the source for the whole book, and the second thread puts him on the page
-  as himself. Far easier to agree now than once there is something with value attached.
-
-### Next — the editor
-
-- **A one-page guide** for someone who has never seen a CMS, and a test invite to a
-  throwaway address to walk the whole path before the real one goes out.
+  the Olana duel. Chapters 20 and 21 are drafted from the damaged section and are the
+  weakest in the book.
+- **Settle credit and consent** with the co-author. More pressing than it was: his
+  record is now a public website.
 
 ### Later — content depth
 
