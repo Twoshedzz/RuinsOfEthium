@@ -159,14 +159,14 @@ Silence returned to the cavern, save for the sound of Nibbles coughing up mud.
 
 "Barely," Nibbles wheezed, rubbing his bruised ribs. "I tasted that thing. It tastes like rotten cabbage and regret. Nice shooting from up there, Garnel!"
 
-Once the party climbed back up the ropes to the corridor ledge, Garnel wiped sweat from his brow, still trembling slightly as he looked back toward the abyssal drop.
+High above on the corridor ledge, Garnel wiped sweat from his brow, still trembling slightly as he peered down into the abyssal drop.
 
-"That... that was far too close," Garnel admitted, adjusting his spectacles with shaky fingers. "Steep drops, animated sentries, giant lake monsters... I think everything further on is a bit too scary for me. If it's all the same to you, I shall return to the pool chamber. I can study the dead wizard's notes in peace, clean up the chamber, and monitor the stone resonance while you explore ahead."
+"That... that was far too close," he called down, adjusting his spectacles with shaky fingers. "Steep drops, animated sentries, giant lake monsters... I think everything further on is a bit too scary for me. If it's all the same to you, I shall go back to the pool chamber. I can study the dead wizard's notes in peace — and see whether the pool's waters can do anything for Poopy Joe while you explore ahead."
 
-"A sound plan," Derek agreed with a warm nod. "The pool is safe now, and we'll know where to find you."
+"A sound plan," Derek called back with a warm nod. "The pool is safe now, and we'll know where to find you."
 
 Searching the muck near the troglodyte chute, Derek spotted a rusted iron chest wedged between two rocks — the remains of some long-forgotten adventuring party. Inside, protected by oiled leather, they found a pouch of silver coins and a small glass vial filled with glowing red liquid.
 
 "A healing potion," Derek said, handing it to Thorn. "We've earned it."
 
-They turned toward the eastern cliff, where a steep stone stair cut into the rock face led up toward the high corridor — and the dark, unknown halls of the Duergar.
+They turned toward the eastern cliff, where the high archway led on toward the dark, unknown halls of the Duergar.

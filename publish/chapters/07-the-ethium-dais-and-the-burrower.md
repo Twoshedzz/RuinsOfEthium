@@ -5,11 +5,7 @@ summary: "Faced with a dizzying fifty-foot vertical cliff, the companions must s
 published: true
 ---
 
-Before them stood the sheer fifty-foot rock face leading up to the narrow archway high on the cliff wall. With the Otyugh slain in the dark lake below, Garnel Stoneblender shook his head, looking up at the soaring drop and the grim dwarven tunnels beyond. 
-
-"I've seen enough monster jaws for one lifetime," Garnel confessed, clutching his leather notebook tight. "The ancient Ethium conduits back at the pool need studying — I'll head back there to work in safety."
-
-The companions agreed. With Garnel heading back to the pool chamber, Nibbles stepped forward, slinging his climbing gear over his shoulder. "Fifty feet? Easy," he grunted, wedging his toes into a slick granite crease.
+Before them stood the sheer fifty-foot rock face leading up to the narrow archway high on the cliff wall. The Otyugh lay slain in the black lake behind them, and Garnel was already on his way back to the pool chamber. Nibbles stepped forward, slinging his climbing gear over his shoulder. "Fifty feet? Easy," he grunted, wedging his toes into a slick granite crease.
 
 He made it twenty feet up before disaster struck. A wet shelf of stone crumbled beneath his boots. Nibbles yelled as he plummeted backward, crashing hard onto the rocky cavern floor with a breath-knocking thud.
 
@@ -79,7 +75,7 @@ First, they saw ancient Ethium as it had been over a thousand years ago — a bu
 
 Curious, Dave lifted the battleaxe from the tray and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more, displaying a brief historical memory of an ancient Ethium citizen being lowered gently into the healing pool before settling into a crystal-clear, moving image:
 
-In the glowing pool chamber barely half a mile behind them, Garnel Stoneblender was kneeling near the stone conduits, carefully tracing ancient rune carvings with a charcoal pencil, while Poopy Joe lay unmoving and resting comfortably beside the water.
+In the glowing pool chamber barely half a mile behind them, Garnel Stoneblender was kneeling beside Poopy Joe at the water's edge, the zombie laid out on the warm stone while Garnel traced ancient rune carvings along the conduits with a charcoal pencil, glancing from his notes to Joe and back again.
 
 "Wait," Derek murmured, stepping closer to the sphere. "Look at Garnel... he's moving. That isn't an ancient memory. That's Garnel right now!"
 
