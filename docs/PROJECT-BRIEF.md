@@ -117,8 +117,8 @@ more drafting.
   cover them, and they hold the end of book one: the homecoming, Elturel falling and
   the Olana duel. Chapters 20 and 21 are drafted from the damaged section and are the
   weakest in the book.
-- **Settle credit and consent** with the co-author. More pressing than it was: his
-  record is now a public website.
+- ~~Settle credit and consent~~ — done. He supplied the notebooks for this purpose.
+  What remains is only how he is credited on the page, which is his to word.
 
 ### Later — content depth
 
