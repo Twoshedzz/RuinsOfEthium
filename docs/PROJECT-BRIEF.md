@@ -85,39 +85,80 @@ Sync: `npm run publish` → `scripts/sync-publish.mjs`.
 
 ## Roadmap
 
-*Reviewed 7 October 2026. Play paused over the summer — last session notes and chapters date from late July.*
+*Reviewed 8 October 2026. Only outstanding work is listed here — what has already been
+built is in [`HISTORY.md`](HISTORY.md).*
 
-### Now — restarting the campaign
+### Now — restarting the kids' campaign
 
-- **Session plans for the restart.** The kids' campaign starts again shortly. The next plan picks up from `publish/table/05-after-grey-burrower.md`, which was written but never played. Drafting prep sheets is the active area of support: cold open, encounter stats, choices, printable HP tick-boxes via Cmd+P on `/dm/plans/`.
-- **Backfill the session notes.** `publish/source/sessions/` stops at `session-04`, but Chapters 6 and 7 were written from play that was never written up. Reconstruct notes for those sessions from the chapters and memory before the trail goes cold — they are the record the novel is drafted from, and the gap will only widen once new play starts.
-- **Refresh the campaign bible** (`publish/source/00-campaign-bible.md`) so the restart begins from an accurate world state.
+- **Session plans for the restart.** The next plan picks up from
+  `plotlines/kids/plans/05-after-grey-burrower.md` in Ethium Source, which was written
+  but never played. Drafting prep sheets is the active area of support: cold open,
+  encounter stats, choices, printable HP tick-boxes via Cmd+P.
+- **Backfill the session notes.** `plotlines/kids/sessions/` stops at session 04, but
+  Chapters 6 and 7 were written from play that was never written up. Reconstruct them
+  from the chapters and memory before the trail goes cold — they are the record the
+  novel is drafted from, and the gap widens once new play starts. One dead link on the
+  Ethium Source site points at exactly this gap.
+- **Refresh the campaign bible** so the restart begins from an accurate world state.
 
-### Next — keep the players out of the DM pages
+### Now — Tuesday Night Arguing
 
-The DM gate currently hides content with JavaScript only. Every `/dm/` page is still served in full to anyone with the URL, and the passkey is readable in the public JavaScript. Good enough against passing curiosity, useless against a player who looks.
+- **Draft Arc 1.** Chapter 9 on that site is a Claude-written design sample and must be
+  replaced with the real thing.
+- **Finish the editor.** The co-author can write blocks; two things remain — see
+  *The editor* below.
+- **Pages 88–100 of the notebook** need re-transcribing. The October photographs do not
+  cover them, and they hold the end of book one: the homecoming, Elturel falling and
+  the Olana duel.
+- **Settle credit and consent** with the co-author before anything is published. His
+  notebook is the source for the whole book, and the second thread puts him on the page
+  as himself. Far easier to agree now than once there is something with value attached.
 
-- **Add a server-side check.** A Netlify Edge Function putting a real password on `/dm/*` is the proportionate fix: free on the current plan, works with JavaScript disabled, one shared password to hand out. Roughly half a day including a deploy to verify.
-- Once that exists, the client-side gate can be deleted rather than maintained alongside it.
+### Next — the editor
+
+- **Insert a block mid-chapter.** Decap's list widget can only add at the end, so
+  interrupting an existing block means splitting it by hand. Design and cost are in the
+  session plan; the short version is a *Split here* toolbar button plus a `preSave`
+  transform.
+- **A one-page guide** for someone who has never seen a CMS, and a test invite to a
+  throwaway address to walk the whole path before the real one goes out.
 
 ### Later — content depth
 
-- **Enrich modules** in `world/modules/` (kruthik, troglodyte, duergar) without pasting party play-by-play.
+- **Enrich modules** in `world/modules/` (kruthik, troglodyte, duergar) without pasting
+  party play-by-play.
 - **Handouts** — more item cards and print packs as sessions need them.
-- **Package modules for others** once there is enough of them to be worth someone's time.
+- **Package modules for others** once there are enough to be worth someone's time.
+- **About page to markdown.** The Dramatis Personae is hand-written inside
+  `src/pages/about.astro`, so keeping it current means editing an `.astro` file. Behind
+  a one-file collection it becomes markdown — and Tuesday Night Arguing's About page
+  becomes something that can be filled in without Claude.
+
+### Known limits, accepted deliberately
+
+- **The private fragments are still in public git history.** Deleting them removed them
+  from the working tree, not from older commits. The only complete fixes are making the
+  repo private or rewriting history and force-pushing.
+- **The two novel apps will drift.** A fix to the chapter reader has to be applied
+  twice. The shared surface is small — six components, two layouts, ~710 lines of CSS —
+  and a note in each README is the chosen mitigation, not a shared package.
+- **~52MB of shared art exists in two repos.** Ethium Source is the direction of truth;
+  each novel keeps its own copies with a provenance note. No sync tooling was built,
+  because it would be tooling nobody could debug.
 
 ### Parked
 
 | Area | State | To revive |
 |------|-------|-----------|
 | **Read-aloud audio** | Off; MP3s deleted Oct 2026, prose had moved on | `npm run audio`, then flip the flag — README has the steps |
-| **CYOA / Solo Play** | Routes removed Oct 2026; source intact | Restore the pages and the DM nav entry |
+| **CYOA / Solo Play** | Routes removed Oct 2026; source intact in Ethium Source | Restore the pages and the nav entry |
 | **Monetisation** | Not pursued | Revisit only at critical mass of DM content; likely a "buy me a coffee" link or one-off micro-payment, not a subscription |
 
 ---
 
 ## Related
 
+- [`HISTORY.md`](HISTORY.md) — what was built, in what order, and why
 - [`ARCHITECTURE.md`](ARCHITECTURE.md) — decisions and consequences
 - [`../README.md`](../README.md) — local dev, deploy, add a chapter
 - [`../publish/source/WORKFLOW.md`](../publish/source/WORKFLOW.md) — before / during / after loop

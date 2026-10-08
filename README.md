@@ -80,6 +80,13 @@ Actions runs it again from a clean clone.
 **Append `[skip netlify]` to every commit message.** Build credits cost money. Deploy
 only when you mean to.
 
+## How it got here
+
+[`docs/HISTORY.md`](docs/HISTORY.md) is the development record: what was built, in what
+order, and why. It covers all three apps, because most of the large changes were one
+change made three times. What is still *to* do is in
+[`docs/PROJECT-BRIEF.md`](docs/PROJECT-BRIEF.md#roadmap).
+
 ## Shared with the other book
 
 This app shares its layout and components with Tuesday Night Arguing — same chapter
