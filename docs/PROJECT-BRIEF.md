@@ -116,10 +116,6 @@ built is in [`HISTORY.md`](HISTORY.md).*
 
 ### Next — the editor
 
-- **Insert a block mid-chapter.** Decap's list widget can only add at the end, so
-  interrupting an existing block means splitting it by hand. Design and cost are in the
-  session plan; the short version is a *Split here* toolbar button plus a `preSave`
-  transform.
 - **A one-page guide** for someone who has never seen a CMS, and a test invite to a
   throwaway address to walk the whole path before the real one goes out.
 

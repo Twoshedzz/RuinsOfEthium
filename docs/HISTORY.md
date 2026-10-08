@@ -96,6 +96,25 @@ referring to a town that had been promoted but not published.
 
 ---
 
+## October 2026 — splitting a block from inside the editor
+
+Interrupting a paragraph already written meant cutting its second half out by hand,
+adding a block at the bottom of the chapter and dragging it up — Decap's list widget
+can only add at the end. Now the prose toolbar has **Split here**: it asks what goes
+in the gap, drops a marker at the cursor, and a `preSave` listener splits the block
+and inserts the empty new one between the halves on the way to the commit. The marker
+never reaches the repository.
+
+Building it uncovered why the editor had never worked. Every save failed with
+*"Failed to persist entry: TypeError"*, and it was nothing to do with the new feature:
+**Decap reserves the field name `body`.** It pulls `data.body` out as the file's
+markdown body and hands it to the frontmatter serialiser, which throws when given a
+list. The chapter's block list was called `body`. Renaming it to `blocks` is what made
+saving work at all — and the only reason it went unnoticed is that nobody had yet
+saved a chapter through `/admin` rather than by hand.
+
+---
+
 ## October 2026 — co-authoring without git
 
 The second book has two authors, and one of them should never see a repository, a
