@@ -22,7 +22,9 @@
  * Shared in substance with the same file in TuesdayNightArguing. The two sites
  * have no shared package on purpose; a change here is worth making there.
  */
-const gaId = import.meta.env.PUBLIC_GA_ID;
+import { GA_MEASUREMENT_ID } from '../lib/site';
+
+const gaId = import.meta.env.PUBLIC_GA_ID || GA_MEASUREMENT_ID;
 ---
 
 {
