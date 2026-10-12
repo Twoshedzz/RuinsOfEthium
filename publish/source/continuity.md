@@ -36,11 +36,12 @@ The single reference for facts that must stay the same across chapters. The **co
 | **The goblin boss and Ratbag** | Boss wore a red curtain as a cloak. Ratbag: giant rat, killed by Loki (ch. 1) |
 | **The Hammers** | Street gang with iron hammer pendants. Part of the **Gang of Four** (four criminal guilds united in **Sunfall**). Hideout in the old manor cellars (ch. 3) |
 | **Rulden** | Hedge-mage at the manor (ch. 3); green bolts; his letter is from Maelis Varn |
-| **Maelis Varn** | "Third Hand of the Valnaran family". Wrote the Rulden letter. The well-dressed **tiefling woman** who visited Tobbs (ch. 9) |
+| **Maelis Varn** | "Third Hand of the Valnaran family". Wrote the Rulden letter. Not yet met |
+| **The tiefling woman** | Well dressed, polite, cold-eyed. Visited the tower asking about the map, Ethium and the stones, two days after Nimozaran vanished (ch. 9). Identity unknown to the party |
 | **The cloaked watcher** | Seen at the burial mounds (ch. 4) and leading the night raid on the pool (ch. 6). Unidentified |
 | **Brakk** | Hammer boss at the cart ambush (ch. 9) |
 | **Men in grey** | Silent and professional, not Hammers (ch. 9). One escaped |
-| **Kassander Vey** | Axirian, of the red-and-gold ship **The Amber Heron**. Calls himself a lantern-glass merchant; is a **wizard**. Shaved head, single braid, lacquered red-and-gold coat, tattooed lines on his hands, a fixed faint smile. **Knows the heroes' names.** His **homunculus** is the "statue" from the Blue Moon roof (ch. 2), and comes to a click of his fingers. Refuses to tell its name (ch. 9) |
+| **Kassander Vey** | Axirian, of the red-and-gold ship **The Amber Heron**. Calls himself a lantern-glass merchant; is a **wizard**. Shaved head, lacquered red-and-gold coat, tattooed lines on his hands, a fixed faint smile. **Knows the heroes' names.** His **homunculus** is the "statue" from the Blue Moon roof (ch. 2), and comes to a click of his fingers. Refuses to tell its name (ch. 9) |
 | **Duergar** | Grey dwarves who turn invisible and grow giant; ride giant spiders; hold the halls beyond the lake; sealed the great gates (ch. 7) |
 | **Quaggoths** | White-furred, ape-like slave brutes with flat faces (never wolves) |
 | **The Grey Burrower** | Blind worm, about 40 ft long, rings of teeth (ch. 7). Swallowed a quaggoth; driven off by spider cavalry |
@@ -62,6 +63,8 @@ The single reference for facts that must stay the same across chapters. The **co
 - **The healing pool**: heals once a day; four stones in four pillars.
 - **The teleport circle** in Nimozaran's study: one glowing rune for Fallcrest, one **dark, unreadable rune** where Nimozaran went. The jump burned a piece of **Axirian blue glass**, which cracked; following him needs a fresh piece. The party stole a blue lantern from an Amber Heron porter (ch. 9).
 - **Spells that don't work**: *Sleep* does nothing to the undead (ch. 3).
+
+**Secrets stay out of this sheet.** It lives in the public novel repo. Anything the players haven't learned at the table (who people really are, what's behind things) belongs in EthiumSource, never here.
 
 ## Running jokes (keep them running)
 
