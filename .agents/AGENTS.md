@@ -64,6 +64,13 @@ When drafting or editing novel chapters (`publish/chapters/`):
 - Whenever new characters, allies or major antagonists appear in the chapters, **evaluate whether they should be added to the public Dramatis Personae** on the About page (`src/pages/about.astro`).
 - Group them logically (*The Heroes*, *Friends*, *Enemies*) and write concise, kid-friendly descriptions matching the Fighting Fantasy tone.
 
+### Continuity checks
+
+The facts that must stay consistent live in **`publish/source/continuity.md`**. Update it whenever a chapter establishes something new. The **continuity editor** agent (`.claude/agents/continuity-editor.md`) checks chapters against it and against the table's session notes in EthiumSource. It reports only; Pete decides what to fix.
+
+- **On request** ("check continuity"): run it over the whole book.
+- **Before every novel deploy:** if any chapter changed since the last deploy (`git diff --name-only <last deploy commit> -- publish/chapters`), run it over just those chapters plus the chapter either side. Report anything **Serious** to Pete before deploying; don't deploy over it without his say-so.
+
 ### Verification
 
 Run **`npm run verify`** before pushing. It builds and then checks committed-ness, broken links and images, secrets, DM-material leakage, asset weight and filenames. A pre-push hook runs it automatically.
