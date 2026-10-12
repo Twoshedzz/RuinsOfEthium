@@ -1,168 +1,244 @@
 ---
 title: "The Ethium Viewing Table and the Burrower"
 chapter: 7
-summary: "Faced with a dizzying fifty-foot vertical cliff, the companions must scale the cavern wall to reach the upper archway. Beyond, they navigate Duergar ambushes and discover the ancient Ethium Viewing Table before a colossal predator from the deep turns the grand Assembly Hall into total chaos."
+summary: "Faced with a dizzying fifty-foot cliff, the companions climb to the upper archway. Beyond, they survive a duergar ambush and discover the ancient Ethium Viewing Table, before a colossal predator from the deep turns the grand Assembly Hall into total chaos."
 published: true
 ---
 
-Before them stood the sheer fifty-foot rock face leading up to the narrow archway high on the cliff wall. The Otyugh lay slain in the black lake behind them, and Garnel was already on his way back to the pool chamber. Nibbles stepped forward, slinging his climbing gear over his shoulder. "Fifty feet? Easy," he grunted, wedging his toes into a slick granite crease.
+Before them stood the sheer fifty-foot rock face leading up to the narrow archway high in the cliff. The otyugh lay dead in the black lake behind them, and Garnel was already on his way back to the pool. Nibbles stepped forward and slung the climbing gear over his shoulder.
 
-He made it twenty feet up before disaster struck. A wet shelf of stone crumbled beneath his boots. Nibbles yelled as he plummeted backward, crashing hard onto the rocky cavern floor with a breath-knocking thud.
+"Fifty feet?" he said. "Easy. I'll have a rope down in two minutes. And if anyone wants to pay me for the service, I'm open to offers."
 
-"Hold still, Nibbles!" Derek barked, rushing to his side. The dwarf cleric laid a heavy hand on the rogue's shoulder, chanting a low prayer to the Sun Father. A warm, golden radiance enveloped Nibbles — Derek's *Guidance* spell — clearing the fog from his mind and imbuing his limbs with steady strength.
+He made it twenty feet up before disaster struck. A wet shelf of rock crumbled away beneath his boots, and Nibbles fell backwards with a yell and landed hard on the cavern floor with a thud that knocked all the breath out of him.
 
-"Try again," Derek urged. "The Sun Father guides your footing."
+"Of course," said Derek, to nobody in particular. "Of *course*." He hurried to Nibbles' side and laid a heavy hand on his shoulder, murmuring a low prayer to the Sun Father. A warm golden glow spread over the rogue: Derek's *Guidance*, clearing the fog from his head and steadying his limbs.
 
-With the divine blessing humming through his veins, Nibbles wiped his bruised hands and sprang back onto the cliff. His fingers found unseen handholds in the rock face with uncanny precision. In minutes, he pulled himself over the lip of the high archway fifty feet above. 
+"Try again," said Derek. "The Sun Father guides your footing."
 
-Hammering an iron piton deep into a fissure in the rock, Nibbles secured a thick hempen rope and tossed it down the cliff. One by one, Thorn, Derek, Dave, and Loki hauled themselves up the sheer drop into the high passage.
+"Does the Sun Father want paying?"
 
-At the top, the air changed sharply. The damp stench of the subterranean lake fell away, replaced by the dry scent of ancient stone, faint coal smoke, and old iron. The corridor ahead displayed grand ancient dwarven architecture — massive granite arches and finely dressed masonry from Ethium's golden age, though centuries of neglect had smudged the fine relief carvings with soot.
+"The Sun Father," said Derek, "would like you to stop falling off things."
 
-"Grand dwarven stonework," Derek murmured, running his hand reverently along the chiselled granite of a pillar. He paused, his beard twitching as he sniffed the still air. "Built over a thousand years ago... but my kin are long gone from these halls. Dwarves would never leave a bridge fallen in ruins below, nor let this stone lie unkept. Be on your guard — whatever dwells here now, it isn't dwarf."
+With the blessing humming through him, Nibbles wiped his scraped hands and sprang back onto the cliff. This time his claws found handholds as if he could see them glowing. In a few minutes he hauled himself over the lip of the archway fifty feet above, hammered an iron piton deep into a crack, tied off a thick rope and threw it down. One by one, Thorn, Derek, Dave and a very indignant Loki were hauled up into the high passage.
 
-They reached a wide four-way intersection between an old well room and a ruined shrine. The flags underfoot were littered with crude iron spikes and animal bones. Suddenly, Loki let out a sharp bark as the air itself seemed to shimmer.
+At the top, the air changed. The damp stink of the lake fell away, and in its place came the dry smell of old stone, faint coal smoke and iron. The corridor ahead was grand dwarven work: massive granite arches and beautifully dressed masonry from Ethium's golden age, though centuries of neglect had smudged the fine carvings with soot.
 
-Out of thin air, four squat, grey-skinned dwarves wearing spiked iron mail materialized, their eyes glowing like dull embers. Before Thorn could raise his shield, the Duergar let out harsh, guttural shouts and began to swell in size — their bodies expanding until they towered eight feet tall, their heavy iron hammers doubling in weight.
+"Dwarven stonework," murmured Derek, running his hand reverently along a pillar. His beard twitched as he sniffed the air. "Over a thousand years old. But my people are long gone from these halls." He frowned. "No dwarf would ever leave a bridge fallen in ruins like that, nor let this stone go uncared for. Be on your guard. Whatever lives here now, it isn't dwarf."
 
-"Form up! Group together!" Thorn shouted, raising his battleaxe and shield.
+"How do you know?" whispered Dave.
 
-Behind the giant Duergar, two wild, shaggy beasts with long claws — Quaggoth slaves — lunged from the shadows with deafening howls.
+"Because the floor," said Derek, with deep disapproval, "hasn't been swept in a hundred years."
 
-"Why is it always the big ones?" Nibbles groaned, diving forward as an oversized iron hammer shattered the stone flag where he had stood a second before. He tumbled behind a pillar, drew a deep breath, and let fly a blast of roaring flame from his dragonborn throat, catching the nearest Quaggoth square in the chest.
+---
 
-"Dave, clear the corridor!" Thorn grunted, holding off two giant Duergar with his shield while his battleaxe rang off their heavy mail.
+They reached a wide crossroads between an old well room and a ruined shrine. The flagstones were littered with crude iron spikes and gnawed animal bones. Then Loki gave a sharp bark, and the air itself seemed to shimmer.
 
-Dave wove his hands through the air, chanting words of power. A globe of roaring, orange fire — a **Flaming Sphere** — burst into existence behind the Duergar line, rolling forward and scorching their legs. Derek slammed his mace into the stone, calling forth a glowing spectral hammer — a **Spiritual Weapon** — that hovered over the fight, striking the Duergar captain with divine force.
+Out of nothing, four squat grey-skinned dwarves in spiked iron mail appeared, their eyes glowing like dull embers. Before Thorn could even raise his shield, the duergar let out harsh, guttural shouts and began to *grow*: their bodies swelling until they towered eight feet tall, their iron war picks doubling in size in their fists.
 
-With Thorn holding the front, Dave's rolling sphere controlling the corridor, and Derek healing Nibbles's claw wounds, the companions slowly turned the tide. The last giant Duergar collapsed back into his normal size with a heavy groan, and the crossroad fell silent.
+"Group up! Stay together!" shouted Thorn, raising his axe and shield.
+
+And behind the giant duergar, two wild, shaggy beasts burst out of the shadows: huge, ape-like brutes covered in white fur, with long claws and flat, snarling faces. Quaggoths. They wore iron collars. Slaves.
+
+"Why," groaned Nibbles, diving sideways as an enormous iron pick smashed into the flagstone where he'd been standing, "is it *always* the big ones?" He rolled behind a pillar, took a deep breath, and breathed out a roaring blast of dragon fire that caught the nearest quaggoth full in the chest.
+
+"Dave, clear the corridor!" grunted Thorn, holding off two giant duergar with his shield while his axe rang off their mail.
+
+Dave wove his claws through the air, chanting. A globe of roaring orange fire, a *Flaming Sphere*, burst into being behind the duergar line and went rolling forward, scorching their legs. Dave steered it with great concentration and his tongue sticking out. "Left," he muttered. "Left. Your *other* left." Derek slammed the head of his weapon against the stone and called down a *Spiritual Weapon*: a glowing spectral hammer that hung in the air above the fight and struck the duergar leader again and again with holy force.
+
+With Thorn holding the front, Dave's sphere rolling up and down the corridor and Derek healing the claw wounds on Nibbles, because of course it was Nibbles, the companions slowly turned the fight. The last giant duergar shrank back down to normal size with a heavy groan and fell, and the crossroads went quiet.
+
+"Everyone all right?" asked Thorn.
+
+"No," said Nibbles.
+
+"Everyone except Nibbles?"
+
+"Yes," said everyone else.
 
 ---
 
 Past the shrine, the hallway opened into a square chamber built from polished pale stone that stood out sharply against the rough dwarven tunnels around it.
 
-In the centre of the room, set atop a couple of raised stone steps, stood the **Ethium Viewing Table** — a massive, rectangular table cut from a single block of Ethium stone. At table height, the smooth stone surface featured a large circular opening at its center surrounded by interlocking grooves, with an obvious stone receptacle slot at its rim and a shallow, stone-carved tray beside it.
+In the middle of the room, on a couple of raised stone steps, stood the **Ethium Viewing Table**: a huge, rectangular table cut from a single block of Ethium stone. Its smooth top had a large circular opening at the centre ringed by interlocking grooves, with a stone socket at its rim and a shallow carved tray beside it.
 
-The companions climbed the steps and gathered around the table, examining the strange runes and layout.
+They climbed the steps and gathered round.
 
-"What do you make of it?" Thorn asked, leaning over the smooth stone surface. "Some kind of altar?"
+"What do you make of it?" asked Thorn, leaning over the smooth stone. "Some kind of altar?"
 
-"Look at the stone cutting," Dave said, tracing the grooves with a finger. "It's an ancient Ethium mechanism, but it's dormant."
+"It's a machine," said Dave, tracing the grooves with one claw, and for a moment he did not sound seven at all. "It's an Ethium machine. It's just asleep."
 
-Dave reached into his pouch, pulled out a smooth blue stone, and pressed it firmly into the circular slot on the table surface.
+He reached into his pouch, pulled out a smooth blue Ethium Stone, and pressed it firmly into the socket in the table's rim.
 
-The table hummed with deep resonance. From the circle in the centre of the table surface, a crystal viewing sphere — perfectly clear and two feet in diameter — slowly rose upward into the air as glowing runes flared along its rim. A calm, resonant voice echoed inside Dave's mind:
+The table hummed with a deep, rising note. From the circle in the middle, a perfectly clear crystal sphere two feet across slowly rose up into the air, and glowing runes flared along its rim. A calm, gentle voice spoke inside Dave's head:
 
 *system active... awaiting item...*
 
-"It's active!" Dave gasped, clutching his forehead. "It wants an item."
+"It's *working*!" gasped Dave, clutching his forehead. "It talks! It wants an item!"
 
-Nibbles stepped forward first, pulling a copper tavern token from his pocket and placing it on the shallow stone tray. Nothing happened. The sphere remained blank and dormant.
+Nibbles stepped up first and put a copper tavern token on the tray. Nothing happened. The sphere stayed blank.
 
-"Try a dagger," Thorn suggested. Nibbles placed his iron dagger on the tray. Again, the sphere showed nothing.
+"Try a dagger," suggested Thorn. Nibbles put his iron dagger on the tray. Again, nothing.
 
-"It must need something connected to Ethium," Dave realized.
+"Try your *button*," said Dave.
 
-Thorn unslung the ancient battleaxe they had recovered earlier from the zombie mess beneath the ruined tower — its heavy metal head engraved with glowing Ethium runes — and carefully laid it across the tray.
+Nibbles put the brass button, the one with the anchor on it, carefully on the tray. Everyone waited. Nothing happened. Nibbles took it back, looking quietly hurt on its behalf.
 
-The moment the metal axe head touched the tray, glowing runes along the grooves flared bright azure. The voice echoed telepathically once more:
+"It must need something connected to Ethium," said Dave slowly.
+
+Thorn unslung the ancient battleaxe they had taken from the alcove beneath the ruined tower, its heavy head engraved with Ethium runes, and laid it carefully across the tray.
+
+The moment the metal touched the stone, the runes along the grooves blazed bright blue. The voice spoke again:
 
 *accessing [ Memory ]... memory updating...*
 
-The crystal sphere flickered to life, filling the room with a brilliant three-dimensional vision.
+The crystal sphere flickered to life and filled the room with a brilliant three-dimensional picture.
 
-First, they saw ancient Ethium as it had been over a thousand years ago — a bustling dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and ancient Ethium artisans crafted magic side by side. Then, with a static glitch, the image shifted to a gloomy, shadow-draped vision of the same forge, now dim and ruined, filled with iron cages, crates, and dark Duergar riding giant spiders through the gloom.
+First they saw ancient Ethium as it had been more than a thousand years ago: a great dwarven forge, bright with roaring fires and loud with the cheerful clink of hammers, where dwarves and Ethium craftsmen worked side by side. Then, with a static *glitch*, the picture shifted to a gloomy, shadowy view of the same forge, now dim and ruined, filled with iron cages and crates, and grim duergar riding giant spiders through the dark.
 
-Curious, Dave lifted the battleaxe from the tray and sprinkled a drop of the activated pool water from his canteen onto the tray. The sphere flickered once more, displaying a brief historical memory of an ancient Ethium citizen being lowered gently into the healing pool before settling into a crystal-clear, moving image:
+"Ooh," said Dave. "Spiders. Big ones."
 
-In the glowing pool chamber barely half a mile behind them, Garnel Stoneblender was kneeling beside Poopy Joe at the water's edge, the zombie laid out on the warm stone while Garnel traced ancient rune carvings along the conduits with a charcoal pencil, glancing from his notes to Joe and back again.
+"Old memories," said Thorn, a little uncertainly.
 
-"Wait," Derek murmured, stepping closer to the sphere. "Look at Garnel... he's moving. That isn't an ancient memory. That's Garnel right now!"
+Dave was already rummaging in his pack. He lifted the axe off the tray and sprinkled a few drops of water from his canteen onto the stone in its place: water he had filled, without telling anyone, from the healing pool. "Just to see," he explained.
 
-A sudden, heavy silence fell over the steps as Dave's eyes widened in realization. "If the pool water shows what is happening *live*... then the forge vision wasn't an ancient recording either."
+The sphere flickered again. It showed a brief, gentle memory of a citizen of ancient Ethium being lowered carefully into the glowing pool. Then it glitched, and settled into a clear, moving picture.
 
-Thorn gritted his teeth, his grip tightening on his shield. "The Duergar. They are in the forge right now."
+It was the pool chamber, barely half a mile behind them. And there was Garnel Stoneblender, kneeling beside Poopy Joe at the water's edge, the zombie laid out on the warm stone, while Garnel traced the old runes along the channels with a charcoal pencil, glancing from his notes to Joe and back again, his tongue poking out of the corner of his mouth.
 
-"It's an ancient Ethium network," Derek said, placing a palm against the stone table. "The table accesses any site where active Ethium stones or nodes remain... but I can feel it. Most of the network is broken and dark."
+"Wait," said Derek slowly, leaning closer. "Look at Garnel. He's *moving*." He looked round at the others. "That's not an old memory. That's Garnel. *Right now*."
 
-Curious to test the network further, Dave pulled out another stone — one of the carved stones recovered from the Old Manor back near Fallcrest — and pressed it into the table slot.
+A heavy silence fell over the steps. Dave's eyes went wide as the realisation landed.
 
-The sphere recalibrated with a deep hum. First, it projected a splendid vision of the past: ancient Ethium nobility in grand, shimmering robes holding court within a soaring, immaculate manor house. But with a static pulse, the image updated to the present: the same manor halls, now ruined and crudely cobbled back together with timber barricades, crawling with goblins, massive ogres, and a ruthless hobgoblin king barking orders from a stolen throne.
+"If the pool shows what's happening *now*," he said, "then the forge wasn't an old memory either."
 
-Before leaving the Viewing Table, Dave pulled out his leather journal and charcoal stick, meticulously sketching the mechanism's layout — the stone slot, the item tray, the rising sphere, and its live network feedback — recording every detail to share with Garnel when they returned to the pool.
+Thorn's grip tightened on his shield. "The duergar," he said. "With the spiders. They're in that forge right now."
+
+"It's a network," said Derek quietly, laying his palm against the cool stone of the table. "The old Ethium network. The table can see any place where the stones are still alive. But I can feel it. Most of it is broken now, and dark."
+
+"Can it see Fallcrest?" asked Dave. "Can it see my *room* at the inn? Can it see what Tobbs is having for dinner?"
+
+"I hope not," said Derek, with feeling.
+
+Dave tried one more thing. He pressed in a different stone: the one they had found on Rulden's table in the cellars of the old manor near Fallcrest.
+
+The sphere hummed and re-tuned itself. First it showed a splendid scene from the past: Ethium's nobles in shimmering robes, holding court in a soaring palace of pale stone, high on a cliff-ringed hill. Then, with a pulse of static, it showed the present. The same palace, now a blackened ruin, crudely patched with timber barricades. Goblins swarmed its halls. Huge ogres lumbered through its courtyards. And on a stolen throne in its great hall, a hobgoblin in red armour barked orders at them all.
+
+"That's the castle," said Thorn slowly. "The castle on the great hill. We walked right past it."
+
+"And that," said Nibbles, "is somebody who's taken over the castle. With ogres."
+
+"I really," said Dave, "don't want to go there."
+
+"Nobody's going there," said Derek firmly.
+
+Before they left, Dave took out his leather journal and a stick of charcoal and drew the table carefully, with his tongue out: the socket, the tray, the rising sphere and every groove along the rim, so that he could show Garnel when they got back. It was, Derek noticed, the most patient thing Dave had done all week. He suspected it might be an apology.
 
 ---
 
-The companions stood near the chamber exit, debating their next move.
+The companions stood at the chamber door, arguing about what to do next.
 
-"We know Duergar are in the forge ahead, riding giant spiders," Derek warned softly, adjusting his shield strap. "Should we turn back and regroup with Garnel, or push on?"
+"We know there are duergar in the forge ahead," said Derek quietly, adjusting his shield strap. "Riding spiders. Should we go back to Garnel and regroup, or push on?"
 
-"We've come this far," Thorn grunted, resting his battleaxe on his shoulder. "If we fall back now, they might reinforce the tunnels. We need to see what's further down the corridor and gauge how many Duergar are nearby."
+"We've come this far," said Thorn. "If we fall back now, they might strengthen the tunnels. We need to see what's further down, and how many of them there are."
 
-Agreeing to press forward with extreme caution, they moved quietly down the long hallway until the passage reached a sharp corner that turned up a flight of wide stone stairs leading toward a larger, open chamber above. 
+"I vote we go and look," said Nibbles, "and if it's a lot, we come back. And if it's treasure, we take it."
 
-Staying low in the shadow of the corner, Dave sent **Peggy** — his pseudodragon familiar, who was perched lightly on his shoulder — gliding silently up the stairwell into the upper shadows to scout ahead. Through Peggy's eyes, Dave saw a massive, high-ceilinged hall supported by giant stone pillars. At the far end stood four heavy Duergar guards and two chained Quaggoths, positioned behind barricades and waiting in silence.
+"I vote for lunch," said Dave.
 
-"They know we're coming," Dave whispered, opening his eyes. "They're dug in at the top of the stairs."
+They agreed to press on, very carefully, after lunch. They crept down a long hallway until the passage turned sharply up a wide flight of stone stairs towards a large, open chamber above. Staying low in the shadow of the corner, Dave sent Peggy gliding silently up the stairwell to scout. Through her eyes, he saw a vast, high-ceilinged hall held up by giant stone pillars. At the far end, behind barricades, stood four heavy duergar guards and two chained quaggoths, waiting in silence.
 
-"We can't go back," Thorn said quietly. "We push through."
+"They know we're coming," whispered Dave, opening his eyes. "They're waiting at the top of the stairs."
 
-The companions charged up the stairs into the grand hall. The Duergar captain roared an order, and the guards enlarged themselves once more while releasing the chained Quaggoths. Along the side wall, a Duergar crossbowman stepped out from behind a pillar, trying to flank the party as they came in, raising his heavy crossbow to loose an iron bolt that grazed Thorn's helm.
+"We can't go back now," said Thorn quietly. "We push through."
 
-"Flanker on the left! Rush him!" Thorn shouted, leading the charge to overwhelm the crossbowman before he could reload. 
+---
 
-"Nibbles, move!" Derek yelled.
+They charged up the stairs into the great Assembly Hall. The duergar captain roared an order. The guards swelled to giant size once more and unchained the quaggoths. Along the side wall, a duergar crossbowman stepped out from behind a pillar to catch the party as they came in, and an iron bolt grazed Thorn's helmet.
 
-Nibbles sprinted into position and slammed his hands together, releasing a deafening **Thunderwave** that shattered the wooden barricades and sent two Quaggoths stumbling back. But as he tried to leap clear, a Quaggoth's heavy claws raked across his back, bringing him down to one knee.
+"Flanker on the left! Rush him!" shouted Thorn, leading the charge to overwhelm the crossbowman before he could reload.
 
-"Nibbles!" Dave yelled, directing his rolling Flaming Sphere to cut off the flanking Duergar while Derek rushed to support the rogue.
+"Nibbles, *move*!" yelled Derek.
 
-Suddenly, the stone floor buckled.
+Nibbles sprinted into position and slammed his hands together, and a deafening *Thunderwave* boomed out across the hall, shattering the wooden barricades and sending two quaggoths staggering backwards. But as he tried to leap clear, a quaggoth's heavy claws raked across his back and brought him down onto one knee.
 
-A sound like grinding mountains echoed beneath their feet. Dust rained down from the high ceiling, and heavy granite flags exploded upward in a shower of rock. Out of the broken floor erupted the **Grey Burrower** — a colossal, blind worm forty feet long, its round mouth lined with hundreds of razor-sharp, concentric teeth.
+"*Nibbles*!" yelled Dave, steering his rolling Flaming Sphere to cut off the flanking duergar while Derek rushed to help.
 
-"Worm!" Derek screamed, pulling Nibbles back just as the monster's jaws slammed shut on the flagstone where the rogue had lain.
+Then the floor moved.
 
-The Burrower attacked blindly, striking anything that moved. With a single terrifying snap, it swallowed one of the enlarged Quaggoths whole, then thrashing its tail across the hall, smashing two Duergar into the pillars.
+A sound like grinding mountains rolled up from beneath their feet. Dust poured from the high ceiling, and heavy granite flagstones burst upwards in a shower of rock. Out of the broken floor rose the **Grey Burrower**: a colossal blind worm, forty feet long, its round mouth lined with hundreds of razor-sharp teeth in rings that went on and on, down into the dark.
+
+Nobody made a joke. Not even Dave.
+
+"*Worm*!" bellowed Derek, dragging Nibbles backwards just as the monster's jaws slammed shut on the flagstone where the rogue had been lying.
+
+The Burrower struck blindly at anything that moved. With one terrible snap it swallowed an enlarged quaggoth whole, and then it thrashed its great tail across the hall, smashing two duergar into the pillars like skittles.
 
 ![The colossal blind Grey Burrower erupts through the Assembly Hall floor and swallows an enlarged Quaggoth as the party and Duergar scatter through the shattered hall](/illustrations/scenes/ch07-grey-burrower-assembly-hall.png)
 
 *The Grey Burrower tears through the Assembly Hall — swallowing anything that moves.*
 
-Chaos engulfed the Assembly Hall. Derek’s Spiritual Weapon struck the monster's side while Thorn and Dave's Flaming Sphere brought down the Duergar captain. Dave fell as a stray tail-swipe clipped his chest, but Derek rushed to his side, uttering a prayer of healing just in time.
+The Assembly Hall became total chaos. Derek's spectral hammer struck the monster's side again and again. Thorn and Dave's Flaming Sphere brought down the duergar captain. Then a stray swipe of the worm's tail clipped Dave across the chest and knocked him flat, and he lay very still.
 
-The last surviving Duergar guard broke rank, throwing down his shield and sprinting madly down the long corridor toward the distant city gates. The giant Grey Burrower let out a terrifying roar, turned, and surged down the tunnel after him, its massive body scraping the stone walls.
+Derek had been patient all week. He had been patient with the climbing and the falling, with the questions, with the *oh dear, oh dear*, with Nibbles valuing the statues. He was not patient now. He crossed the shattered floor in a few strides, dropped to his knees beside Dave, and poured out a prayer of healing with a fierceness none of them had heard from him before. Dave gasped, and coughed, and opened his eyes.
 
-Thorn, Derek, Dave, and Nibbles scrambled to the archway, peeking cautiously around the corner.
+"Did we win?" he croaked.
 
-Far down the long stone avenue, the escaping Duergar was met by a patrol of Duergar cavalry mounted on giant, wall-crawling spiders. The dark dwarves raised long iron lances, swarming the Grey Burrower and driving the colossal worm back into the earth with disciplined, lethal precision.
+"Not yet," said Derek, and stood, and turned to face the worm with an expression that would have frightened a much braver monster.
 
-Before the companions could make another move, a heavy metallic grinding echoed down the hall. Great dwarven cogs turned, ancient chains rattled, and with a deafening *BOOM* that shook the foundation of the mountain, the massive dwarven gates of Ethium slammed shut, sealing the lower city.
+But the fight was turning on its own. The last surviving duergar guard broke ranks, threw down his shield, and fled madly down the long corridor towards the distant city gates. The Grey Burrower let out a terrible roar, turned, and surged down the tunnel after him, its huge body scraping the stone walls as it went.
 
-Nibbles slumped against the wall, catching his breath. "Well," he muttered, wiping soot from his forehead. "At least the worm is gone."
+Thorn, Derek, Dave and Nibbles scrambled to the archway and peered round the corner.
 
-Before retreating, the companions searched the fallen Duergar captain and the supply crates near the shattered barricades. 
+Far down the long stone avenue, the fleeing duergar ran straight into a patrol of duergar cavalry mounted on giant, wall-crawling spiders. The dark dwarves lowered long iron lances, swarmed the Grey Burrower with deadly discipline, and drove the colossal worm back down into the earth.
 
-Tucked into an inner pocket of the captain's tunic, Dave discovered a small brass casing. He popped the latch, revealing a campaign-defining relic — the **Explorer's Compass**. Instead of pointing north, its delicate, glowing blue crystal needle spun smoothly before locking firmly onto the resonance of the nearest Ethium Stone. 
+And before the companions could do anything else, a heavy grinding of metal echoed down the hall. Great dwarven cogs turned. Ancient chains rattled. And with a deafening *BOOM* that shook the mountain to its roots, the massive gates of the lower city slammed shut.
 
-From the captain's belt, Nibbles unhooked a heavy pouch containing gold coins, a polished platinum ring, an iron Duergar emblem token, an old dwarven key fragment, written orders in Dwarvish, and a heavy ring holding **four iron keys** — stamped with dwarven runes for side doors, supply stores, and slave pens.
+Nibbles slid down the wall and sat on the floor, getting his breath back. "Well," he said eventually, wiping soot off his forehead. "At least the worm's gone."
 
-Near the barricade crates, Thorn recovered a perfectly preserved **Ethium Smith's Hammer**, its masterwork head bearing ancient guild marks that could aid in repairing, reforging, or understanding Ethium metalwork in the future. Tucked beneath the hammer, Derek found a fragile piece of parchment — a child's drawing depicting a happy dwarf family, a hunting dog, a small stone house, and a glowing blue crystal. Though it held no gold value, a quiet, emotional hush fell over the dwarf cleric as he gently smoothed the fragile paper and tucked it safely inside his tunic.
+"I liked the worm," said Dave weakly.
 
-Finally, they gathered the coiled rope ladders and extra climbing gear stacked beside the crates — a welcome find that would make traversing the cavern lake and scaling the fifty-foot cliff face considerably safer for future journeys.
+"You did *not* like the worm, Dave."
 
-"Four keys, proper rope ladders, and an Ethium compass," Nibbles whispered, slinging the gear over his shoulder. "We're leaving with far more than we came with."
+"I liked it a *little bit*. Afterwards."
 
 ---
 
-With the lower city sealed tight and the Duergar patrols on high alert, the companions fell back through the statues and the excavated tunnel to regroup at the healing pool.
+Before they left, they searched the fallen duergar captain and the supply crates by the shattered barricades.
 
-As they stepped back into the warm, blue-lit pool chamber, Garnel looked up from his papers with a broad, triumphant grin. Standing beside him was the peat-stained zombie they had left propped against the pillar — now thoroughly cleansed by the pool's waters, grey leather gleaming, standing upright and bowing politely while holding Garnel's inkpot with delicate precision.
+Tucked in an inner pocket of the captain's tunic, Dave found a small brass case. He clicked the latch open. Inside was a compass: the **Explorer's Compass**. Instead of pointing north, its delicate glowing blue crystal needle spun round smoothly and then locked firmly onto the nearest Ethium Stone. Dave turned in a slow circle. The needle swung to the stone in Nibbles' pouch, and stayed there, no matter where Dave pointed.
 
-"You're back!" Garnel beamed, gesturing with his quill. "And look! The Ethium resonance from the pool cleansed the old decay. I managed to align the ancient conduits and get him moving!"
+"It finds stones," breathed Dave.
 
-Nibbles stared, his jaw dropping before a wide grin spread across his face. "Poopy Joe! You're walking!"
+Nibbles looked at it with the expression of a man seeing the most important invention in history. "Do you know," he said reverently, "how much money that thing could *make* us?"
+
+From the captain's belt, Nibbles unhooked a heavy pouch holding gold coins, a polished platinum ring, an iron duergar emblem, an old fragment of a dwarven key, some written orders in Dwarvish, and a heavy ring of **four iron keys** stamped with dwarven runes for side doors, supply stores and slave pens. He weighed each item in his palm, valued it out loud, and wrote it down in his ledger, and for once nobody minded.
+
+By the barricade crates Thorn found a perfectly preserved **Ethium Smith's Hammer**, its masterwork head bearing ancient guild marks: the kind of tool that might one day mend, reforge or simply understand Ethium metalwork. It was not an axe. But Thorn held it with great respect all the same.
+
+Tucked beneath the hammer, Derek found a fragile piece of parchment: a child's drawing of a happy dwarf family, a hunting dog, a small stone house and a glowing blue crystal. It had no gold value at all. Derek smoothed it flat with great care, and looked at it for a long time, and then folded it and tucked it inside his tunic without saying a word. Even Nibbles didn't ask what it was worth.
+
+Finally they gathered up the coiled rope ladders and spare climbing gear stacked beside the crates: a very welcome find that would make the lake and the fifty-foot cliff a great deal safer on the way back.
+
+"Four keys, proper rope ladders and a compass that finds treasure," whispered Nibbles, slinging the gear over his shoulder. "We're leaving with *far* more than we came with."
+
+---
+
+With the lower city sealed tight and the duergar patrols on high alert, the companions fell back through the hall of statues and the tunnel they had dug, to regroup at the healing pool.
+
+As they stepped back into the warm, blue-lit chamber, Garnel looked up from his papers with an enormous, triumphant grin. And there beside him, standing upright for the very first time, was Poopy Joe. The peat-stained zombie had been cleansed by the pool's waters, his grey leather gleaming, and he bowed politely to them, holding Garnel's inkpot with delicate care.
+
+"You're back!" Garnel beamed, waving his quill. "And *look*! The pool's resonance washed out the old rot. I managed to line up the ancient channels and get him moving!"
+
+Nibbles stared at Joe, his jaw dropping, and then a huge grin spread across his face. "Poopy Joe! You're *walking*!"
 
 Poopy Joe blinked his empty eye sockets, took a slow, creaking step forward, and held out Garnel's leather folder to Dave with surprising grace.
 
-"See?" Nibbles beamed, nudging Derek with an elbow. "Our very own butler."
+Dave took it. Then, very carefully, he held out his journal, open at the drawing of the Viewing Table. "That's for you," he said to Garnel. "I drew it. Every bit. I was very quiet when I did it."
+
+Garnel looked at the drawing, and then at Dave, and something in his face softened. "That," he said, "is genuinely very helpful. Thank you, Dave."
+
+Dave glowed like an Ethium Stone.
+
+"See?" said Nibbles, nudging Derek with an elbow and pointing at Joe. "Our very own butler."
+
+Poopy Joe bowed to Nibbles, turned smartly round, took three proud, creaking steps towards the pool, and walked straight into a pillar.

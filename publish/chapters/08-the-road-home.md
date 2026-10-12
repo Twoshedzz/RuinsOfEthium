@@ -17,7 +17,7 @@ He did it with great dignity. He took three slow, creaking steps across the pool
 
 Poopy Joe considered this. He turned right, with enormous care, and walked into a pillar.
 
-Dave laughed so hard he had to sit down. Dave was seven. This was not something the others thought about very often, because Dave was also six foot seven and covered in copper scales, and dragonborn grow up quickly on the outside long before they catch up on the inside. Most of the time he looked like a young wizard. When a zombie walked into a pillar, he looked exactly like what he was, which was a small boy who had just seen the funniest thing in the world.
+Dave laughed so hard he had to sit down. It was easy, most of the time, to forget that Dave was seven. He was six foot seven and covered in copper scales, and he could set a quaggoth on fire. But when a zombie walked into a pillar, he looked exactly like what he was, which was a small boy who had just seen the funniest thing in the world.
 
 "Do it again," he said. "Joe! Do it again!"
 
@@ -35,7 +35,7 @@ Derek watched Joe bow to a bucket.
 
 They told Garnel everything over supper, which was dried meat, the last of the road bread, and whatever Nibbles was prepared to share. The statues that came to life when their stones were touched. The black lake, and the voice in the dark that had asked for help. The grey dwarves who could vanish and grow to twice their height. The table that showed the past, and then, with a glitch like a skipped heartbeat, the present. The worm. The gates.
 
-Garnel listened with his spectacles pushed up into his hair and his charcoal pencil moving so fast it smoked. When they described the Viewing Table he made them draw it. When they told him it had shown them *this room*, and him in it, he stopped writing altogether.
+Garnel listened with his spectacles pushed up into his hair and his charcoal pencil moving so fast it smoked. When they described the Viewing Table he spread Dave's drawing out beside him and kept tapping it. When they told him it had shown them *this room*, and him in it, he stopped writing altogether.
 
 "It saw me," he said. "Right here. While I was working."
 
