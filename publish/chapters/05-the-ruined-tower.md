@@ -1,258 +1,328 @@
 ---
 title: "The Ruined Tower"
-chapter: 5
 summary: "On the road to the ruined tower — a grisly dragon's leavings, then a Hammer ambush. Beneath the tower the companions rescue Garnel Stoneblender and awaken an ancient healing pool."
+chapter: 5
 published: true
 ---
 
-The smell reached them before they saw anything on the ridge — wrong for the high plateau, sharp and sour. Loki's ears flattened; Nibbles covered his nose.
+The smell reached them before they saw anything on the ridge: wrong for the high plateau, sharp and sour. Loki's ears flattened. Nibbles covered his nose with his cloak.
 
 "That's not mushrooms," he said.
 
-They found the source just off the path: half a goblin, torn clean through the middle, lying in the grass as though dropped from a great height. No tracks led to or from it.
+They found the cause just off the path: half a goblin, torn clean through the middle, lying in the grass as though it had been dropped from a great height. No tracks led to it or away from it.
 
-Dave looked up at the empty sky, where yesterday a black dragon had circled and something had fallen.
+Dave looked up at the empty sky, where the day before a black dragon had circled and something had fallen.
 
-"That was what dropped," Derek said quietly.
+"That's what dropped," said Derek quietly.
 
-"I don't think we're the biggest thing up here," Dave said.
+"I don't think we're the biggest thing up here," said Dave. He thought about it some more. "I don't think we're even the *second* biggest."
 
-Thorn checked his axe and led them over the rise.
-
-Beyond the ridge, the ruined tower appeared before midday — a broken spire of ancient Ethium stonework on a low crest west of the great hill. Its upper floors were long gone, shattered into a crown of jagged stone, but the base remained stubbornly upright. Pale ashlar blocks, near-white and smooth as dressed marble, were hand-carved with faded Ethium runes along the lower courses, catching the sun in thin geometric grooves. At the front, the grand arched portal that had once formed the tower’s main gateway lay completely choked — the great keystone cracked through, the arch collapsed under an avalanche of heavy masonry and iron-hard mortar, leaving only a narrow breach near the buttress where a camp was tucked.
+Thorn checked his axe and led them over the rise, because that was what a hero would do, and because he didn't want anyone to see how hard he was swallowing.
 
 ---
 
-The camp was tucked against the tower's northern wall, hidden by a fallen buttress and thornbushes. From a distance it looked like any bandit stop — rough tents, a cookfire, men in patched cloaks arguing over dice.
+The ruined tower came into view before midday: a broken spire of ancient Ethium stone on a low crest west of the great hill. Its upper floors were long gone, shattered into a crown of jagged blocks, but the base stood stubbornly upright. The stones were pale, almost white, and smooth as polished marble, with faded runes carved in thin lines around the lower courses that caught the sun as it moved. The great arched gateway at the front had collapsed under an avalanche of fallen masonry. Only a narrow gap remained, beside a buttress on the north side.
 
-"Travellers," Derek murmured. "Nothing more."
+And tucked against the wall by that gap was a camp.
 
-"Travellers with excellent cover," Nibbles said.
+From a distance it looked like any travellers' stop: rough tents, a cookfire, men in patched cloaks arguing over a game of dice.
 
-An arrow struck the ground at Thorn's feet. Archers in the trees — two, then three — had them pinned from above. At the camp, the dice game ended; men grabbed clubs and short swords, spreading out with practised ease.
+"Travellers," murmured Derek. "Nothing more."
+
+"Travellers with *excellent* cover," said Nibbles. "And a tent each. Nice tents, too. Good canvas."
+
+An arrow struck the ground at Thorn's feet. Archers in the trees: two, then three, with the party pinned from above. At the camp the dice game ended at once, and the men grabbed clubs and short swords and spread out with the ease of people who had done this before.
 
 "Stand where you are!" one shouted. "Drop your coin and we'll let you walk!"
 
+Nibbles was appalled. "Drop our *coin*? Do you know how much work went into that coin?"
+
 Thorn looked at Derek. Derek looked at the trees.
 
-"Now," Thorn said.
+"Now," said Thorn.
 
-They moved.
+They moved. Loki went for the nearest thug. Thorn met two more head-on, shield up, axe swinging. Dave ducked behind a fallen block and began to cast. Nibbles vanished into the brush after the archers. And one man by the fire, wearing a dark hood and moving like spilled oil, slipped through the chaos while Thorn held the line, and broke for the tower door.
 
-Loki went for the nearest thug. Thorn met two more head-on, shield up, axe swinging. Dave ducked behind a fallen block and began a spell. Nibbles vanished into the brush towards the archers — exactly where the trouble started, since one man by the fire was faster than he looked.
+"Stop him!" shouted Derek.
 
-He wore a dark hood and moved like oil, slipping through the camp while Thorn held the line, and broke for the tower's doorway.
+Nibbles threw his dagger. It missed by inches. The hooded man glanced back, with cold eyes and a thin smile, and lunged for the stairwell.
 
-"Stop him!" Derek shouted.
+Thorn was faster. He caught the man at the threshold and drove him into the stone with his shield, and Derek was on him a heartbeat later, wrenching his arms behind his back while Loki barked furiously in his face.
 
-Nibbles threw his dagger; it missed by inches. The hooded man glanced back — cold eyes, a thin smile — and lunged for the stairwell.
+The rest were Hammers in all but name: heavy boots, brutal swings and no discipline. The archers in the branches scattered when Dave's magic struck their perch, and the thugs on the ground were soon disarmed and backed against the wall by Thorn's axe and Loki's teeth. Within minutes it was over. The survivors were tied up with their own camp rope against the fallen buttress, and their weapons were thrown far down the slope, so none of them could follow.
 
-Thorn was faster, catching the man at the threshold and driving him into the stone with his shield. Derek was on him in a heartbeat, wrenching his arms behind his back while Loki barked in his face.
-
-The remaining fighters were Hammers in all but name — heavy boots, brutal swings, no discipline. The archers in the branches broke when Dave's magic struck their roost; those on the ground were swiftly disarmed and driven back against the stone wall by Thorn's axe and Loki's fierce lunges.
-
-Within minutes, the fight was over. Dispatched as a threat, the surviving thugs were bound securely with their own camp rope against the fallen buttress, their weapons confiscated and hurled far down the steep slope of the ridge so none could raise an alarm or follow from behind.
-
-Derek rolled the hooded leader over and tugged open his collar: a small iron hammer on a leather cord.
+Derek rolled the hooded leader over and pulled open his collar. On a leather cord hung a small iron hammer.
 
 "Hammers," he said.
 
-"Bandits with jewellery," Nibbles said, retrieving his dagger. "How disappointing. I was hoping for treasure."
+"Bandits with jewellery," said Nibbles, retrieving his dagger. "How disappointing. I was hoping for treasure."
 
-Thorn searched the tents while Derek finished knotting the last prisoner fast: coiled rope, iron pitons, leather harnesses, a grappling hook. Crude climbing kit, but sound — they packed what would fit.
+He searched the tents anyway, at great length, while Derek finished tying knots. Nibbles found no treasure. But Thorn found something better: coils of rope, iron pitons, leather harnesses and a grappling hook. It was rough climbing gear, but sound.
 
-At the tower door, stone steps descended into darkness. From far below came muffled voices — a deep growl, then a frightened reply. The camp fight had been loud, but the stone had swallowed most of it; whoever waited in the depths had no idea anyone else had reached the tower.
+"We're taking the rope," said Thorn.
 
-Nibbles peered into the black. "They don't know we're here."
+"Rope's not treasure," said Nibbles.
 
-"Good," Thorn said. "Quiet steps."
+"It will be," said Derek, "the first time we need it."
+
+At the tower door, worn stone steps went down into darkness. From far below came muffled voices: a deep growl, then a frightened reply. The fight up above had been loud, but the stone had swallowed it. Whoever was down there had no idea anyone else had reached the tower.
+
+"They don't know we're here," said Nibbles.
+
+"Good," said Thorn. "Quiet feet."
+
+"Dave," added Derek.
+
+"I *am* being quiet," whispered Dave, at a volume that made a bird fly out of a tree.
 
 ---
 
-The spiral stair was narrow and damp, cut from pale Ethium blocks so well dressed the joints might have been laid yesterday. Ornate carvings ran along the walls, the work of hands that had cared about beauty as well as strength. The air grew colder with every turn.
+The spiral stair was narrow and damp, built from pale Ethium blocks fitted so well the joints might have been laid yesterday. Carvings ran along the walls: the work of hands that had cared about beauty as well as strength. The air grew colder with every turn.
 
-At a landing where the stair opened into a side passage, the stonework changed, older and grittier — a corner heaped with sludge, rotted wood and the debris of looters who'd come decades too early and never left.
+At a landing, a side passage opened into older, rougher stone, and a corner heaped with sludge, rotten wood and the leftovers of looters who had come decades too early and never left. Something glinted in the muck.
 
-Nibbles saw something glint in the muck — as he always did — and was reaching before Thorn could tell him not to.
+Nibbles saw it, of course. Nibbles always saw it. He was reaching for it before Thorn could open his mouth.
 
-"Shiny," Nibbles said.
+"Shiny," said Nibbles.
 
-A hand shot from the rubble and seized his wrist. Another followed, and a whole body dragged itself upright — a forlorn figure in tatters of old leather, slumped awkwardly in the alcove corner as though sitting on an invisible bucket. A tarnished copper necklace glinted at its throat, and in its stiff grip it held a fine steel axe. Two more shambling forms rose beside it, eyes burning with a pale, unliving light.
+A hand shot out of the rubble and grabbed his wrist.
 
-"Adventurers," Derek said grimly. "Old ones."
+Another followed, and a whole body dragged itself upright: a sad, slumped figure in rags of old leather, sitting crookedly in the corner as though perched on an invisible bucket. A tarnished copper necklace hung at its throat, and in its stiff grip it held a fine steel axe. Two more figures rose beside it, their eyes burning with a pale, dead light.
 
-The fight in the alcove was close and foul, the zombies slow but relentless, the stink of them worse than their claws. Thorn cracked one apart with his axe. Derek shattered another's skull. Nibbles, freed at last, darted behind the axe-bearer and knocked its legs out, leaving it propped stiffly against the wall, mouth agape and eyes staring with a strangely sad, pathetic expression.
+"Adventurers," said Derek grimly. "Old ones."
 
-Thorn pried the glinting weapon from its fingers: a battleaxe, finely made, the head etched with an old Ethium rune. The metal was sound and had not rusted, but there was no blue gleam, no hum — only the mark, as though the blade were waiting.
+The fight in the alcove was close and foul. The zombies were slow but would not stop, and the stink of them was worse than their claws. Thorn cracked one apart. Derek shattered another's skull. Nibbles, free at last, darted behind the one with the axe and knocked its legs out from under it, leaving it propped stiffly against the wall, mouth hanging open and eyes staring with a strangely sad, pathetic expression.
 
-"Ethium work," Derek said, examining the head. "The rune is carved, but the magic is dormant."
+Thorn prised the gleaming weapon from its fingers.
 
-"Still a fine edge," Thorn said, testing the balance with a nod of approval and slinging it through his weapon belt.
+It was a battleaxe, beautifully made, its head etched with an old Ethium rune. The steel was sound and showed no rust, but there was no blue glow, no hum: only the rune, as if the blade were waiting for something. Thorn tested the balance, and something in his face went soft and happy, the way Dave's did around pie.
 
-Nibbles watched Thorn claim the axe with a pout, then looked back down at the slumped, defeated figure. He unhooked the tarnished copper necklace from its throat, examined it, then fastened it right back around the creature's neck. He poked one of its sturdy leather boots.
+"Ethium work," said Derek, looking at the head. "The rune's carved in, but the magic's asleep."
 
-"If Thorn gets the axe, we're keeping him," Nibbles declared.
+"Still a fine edge," said Thorn. He slung it through his belt next to his old axe. Now he had two axes. A man with two axes, Thorn felt, was well on the way to being a man with a *collection* of axes.
 
-Derek stared at him in utter disbelief. "He's a zombie, Nibbles."
+Nibbles watched him do it with a deep pout. Then he looked back down at the slumped, defeated figure in the corner. He unhooked the tarnished copper necklace from its throat, examined it, valued it (two silver, at most), and then, unexpectedly, fastened it back round the creature's neck. He poked one of its sturdy leather boots.
 
-"He has a very sad face," Nibbles said defensively. "And excellent boots! Besides, Thorn gets a shiny new axe *and* has Loki. Dave gets Peggy. Derek summons glowing hammers. I got no loot and I want a companion."
+"If Thorn gets the axe," he announced, "we're keeping *him*."
 
-"He is not loot, he's a corpse," Dave said, backing away with a hand clamped over his snout. "And he smells like a clogged pigsty."
+Derek stared at him in total disbelief. "He's a zombie, Nibbles."
 
-"He smells of pure poop," Derek agreed, nostrils flaring. "Absolute manure."
+"He's got a very sad face," said Nibbles. "And *excellent* boots. Besides, Thorn gets a shiny new axe *and* he's got Loki. Dave gets Peggy. Derek gets glowing hammers. I got no loot, and I want a companion."
 
-"His name is Joe," Nibbles said stubbornly, grabbing the slumped figure under the arms. "Poopy Joe. And he's coming with us. Help me haul him down."
+"He's not loot, he's a *corpse*," said Dave, backing away with a claw clamped over his snout. "And he smells like a blocked pigsty."
 
-Derek groaned, rubbing his forehead in despair, but grabbed the stiff leather boots. "If Poopy Joe tries to bite anyone, I am healing him last."
+"He smells of pure poop," agreed Derek, nostrils flaring. "Absolute manure."
 
-They propped Poopy Joe upright in the corner of the landing for safekeeping, then crept down a second winding flight of stone stairs. The steps descended deep beneath the tower's foundations, ending at a massive Ethium stone doorway set into the solid rock. Engineered with extraordinary precision, the thick stone slabs turned on masterfully crafted counterweight hinges, gliding silently despite their massive weight. The depth of the descent and the solid stone door had muffled all noise from above; inside, the occupiers remained completely unaware of the fight on the landing.
+"His name," said Nibbles stubbornly, hauling the slumped figure up under the arms, "is Joe. *Poopy* Joe. And he's coming with us. Help me carry him."
 
-Thorn gently pushed the heavy stone portal ajar, peering through the gap.
+Dave laughed so hard he had to hold the wall. "*Poopy Joe*," he gasped. "*Poopy Joe!*" He was seven, and it was the funniest thing that had ever happened anywhere, and he would go on saying it under his breath for the rest of the day.
 
-The doorway opened into a broad chamber walled in pale stone, every block hand-carved with runes — lines, curves and old Ethium symbols crawling up the walls and across the floor, dormant and colourless. Papers, books and copied diagrams lay scattered everywhere, kicked aside and trampled alongside brass lenses, ticking copper callipers and little gnome tinkering devices meant for measuring magical currents.
+Derek groaned and rubbed his forehead in despair. Then, because somebody had to be the grown-up and the grown-up was always him, he took hold of the stiff leather boots. "If Poopy Joe tries to bite anyone," he said, "I am healing him last."
 
-A large orc in battered armour loomed over a young adult gnome kneeling on the stone floor — short and scruffy-looking, with a wild mop of bright red hair sticking up in all directions. His eyes darted nervously behind round spectacles between the runes on the floor and a leather-bound folder of parchment sheets he was frantically writing in, an ink-dipped quill clutched in his trembling hand and a fine charcoal pencil for sketching tucked behind one ear. Two Hammer thugs flanked the far wall.
+They propped Poopy Joe upright in a corner of the landing for safekeeping, where he leaned, gazing sadly at nothing, and crept on down a second winding stair.
+
+---
+
+The steps went deep beneath the tower's foundations, ending at a massive stone door set into the rock. It was built with extraordinary skill: the thick slab turned on counterweights so perfect that it swung silently despite its weight. The depth of the stair and the solid stone had muffled every sound from above. Whoever was inside had heard nothing of the fight on the landing.
+
+Thorn pushed the door ajar and looked through the gap.
+
+The doorway opened into a broad chamber walled in pale stone, every block hand-carved with runes: lines, curves and old Ethium symbols climbing the walls and spreading across the floor, all dull and colourless. Papers, books and copied diagrams lay everywhere, kicked about and trampled among brass lenses, ticking copper callipers and little gnomish devices for measuring magic.
+
+A large orc in battered armour loomed over a young gnome kneeling on the floor. The gnome was short and scruffy, with a wild mop of bright red hair sticking up in every direction, and his eyes darted nervously behind round spectacles between the runes on the floor and a leather folder he was scribbling in, a quill trembling in one hand and a charcoal pencil tucked behind his ear. Two Hammer thugs leaned against the far wall.
 
 ![View from the chamber doorway: a broad, square, rune-carved room with double doors ajar to the left, a large brutish orc towering with a raised fist over the wild-red-haired gnome, who crouches scribbling notes among scattered papers and tinkering instruments, while two Hammer thugs in leather armour lounge against the wall](/illustrations/scenes/ch05-garnel-rune-chamber.png)
 
-"Read it again," the orc snarled.
+"Read it again," snarled the orc.
 
-"I did read it again — the angle is wrong, the light is wrong, your shadow is blocking the copper dial —"
+"I *did* read it again! The angle's wrong, the light's wrong, your shadow's blocking the copper dial—"
 
 The orc raised a meaty fist.
 
-"Now," Thorn said, and charged.
+"Now," said Thorn, and charged.
 
-The orc jerked round with a roar, plainly startled — it had been bullying the young gnome, not watching the stair door. The thugs scrambled for weapons they had barely time to raise. The red-haired gnome threw himself flat behind a fallen pillar, clutching his leather folder and brass measuring lenses, muttering that he'd said this might awaken something, oh dear, oh dear. Then an orc backhand nearly caught Derek, and something snapped in the little fellow's terror.
+---
 
-"Look out!" he squeaked — and suddenly there were two Derek's, one stepping left, one right, both confusing the thug who'd been about to swing.
+The orc spun round with a roar, plainly startled. It had been bullying the gnome, not watching the door. The thugs scrambled for weapons they barely had time to raise. The red-haired gnome threw himself flat behind a fallen pillar, clutching his folder and his brass lenses and muttering that he'd *said* this might wake something, oh dear, oh dear.
 
-"Helpful!" Derek called.
+Then an orc fist swung at Derek, and something inside the frightened little gnome snapped.
 
-"I know! I'm sorry! I'm still sorry!"
+"Look out!" he squeaked, and suddenly there were *two* Dereks: one stepping left, one stepping right, and the thug who had been about to swing at Derek stood there with his club raised, entirely unsure which one to hit.
 
-The young gnome scrambled up from behind the pillar, spectacles flashing, and thrust out both hands. A firebolt cracked across the chamber and struck the nearest Hammer thug in the chest. The man yelped and dropped his club. The red-haired gnome fired again — less steady, but the second bolt scorched the orc's shoulder and made it roar with pain and fury.
+"Helpful!" called both Dereks.
 
-Thorn drove the orc back with heavy blows. Nibbles appeared behind the thug the gnome had burned and did what he did best. Dave sent a sleep spell straight into the other thug's face — simple, but remarkably effective. Loki seized the orc's leg and hung on like a dog who'd found something worth keeping.
+"I know! Sorry! I'm still sorry!"
 
-When the fight ended, the orc lay unconscious, the thugs groaned, and the red-haired gnome sat slumped on the stone floor among his scattered parchment sheets and brass dials, spectacles askew, panting as though he had just sprinted for his life.
+The young gnome scrambled up from behind his pillar, spectacles flashing, and thrust out both hands. A bolt of fire cracked across the room and hit the nearest Hammer full in the chest. The man yelped and dropped his club. The gnome fired again, less steadily, and the second bolt scorched the orc's shoulder and made it roar with pain and fury.
 
-"I'm Garnel," he said eventually, wiping ink from his fingers. "Garnel Stoneblender. Thank you. I think. Are you real? Both of you?" He pointed at Derek.
+"Oh, I *hit* him," said the gnome, appalled. "Sorry! No. Not sorry. Take *that*!"
 
-"One of me is," Derek said.
+Thorn drove the orc back with heavy blows. Nibbles appeared behind the burned thug and did what Nibbles did best. Dave sent a *Sleep* spell straight into the other thug's face, and the man yawned enormously and lay down on a pile of papers. Loki seized the orc's leg and hung on like a dog who had found something worth keeping.
 
-"The Hammers took me in Sunfall," Garnel said, the words tumbling out as though he'd been waiting days to say them to someone not threatening to hit him. "They found my grandmother's book — Mala Stoneblender, who researched the Ethium Stones before anyone thought they were waking — and pressganged me to unlock everything she knew about Ethium. They brought me up here to map these ruins, starting with this chamber. Every rune on the wall, every line on the floor." He looked at his scattered parchment sheets. "This room is as far as they've forced me to work. They're too afraid of what's below."
+When it was over, the orc lay senseless, the thugs groaned, and the red-haired gnome sat slumped among his scattered papers and brass dials, spectacles crooked, panting as though he had run all the way from Sunfall.
 
-"What's below?" Thorn asked.
+"I'm Garnel," he said eventually, wiping ink off his fingers. "Garnel Stoneblender. Thank you. I think. Are you real?" He pointed at Derek. "Both of you?"
 
-"The pool chamber." Garnel swallowed. "Grandmother wrote about it — an ancient Ethium pool older than the Hammers, older than Fallcrest. She called it a sacred place of restoration, but the Hammers were too terrified to go down there. They said something unnatural was waiting."
+"One of me is," said Derek.
+
+"*Garnel*," said Dave, delighted, trying out the name. "Garnel *Stoneblender*. Do you blend stones?"
+
+"I... no. It's a family name."
+
+"Why's it called that, then?"
+
+"I don't know. I never asked."
+
+"I would have asked."
+
+"I'm sure you would," said Garnel, and the first faint shadow of a long and difficult friendship crossed his face.
+
+---
+
+The story came out of him in a rush, as if he had been waiting days to tell it to someone who wasn't threatening to hit him.
+
+"The Hammers took me in Sunfall," he said. "They found my grandmother's book. Mala Stoneblender. She studied the Ethium Stones long before anyone thought they were waking, and they pressganged me into unlocking everything she knew. They brought me up here to map these ruins, starting with this room. Every rune on the walls, every line on the floor." He looked at his trampled papers. "This room is as far as they ever made me go. They're too afraid of what's below."
+
+"What *is* below?" asked Thorn.
+
+"The pool chamber." Garnel swallowed. "Grandmother wrote about it: an ancient Ethium pool, older than the Hammers, older than Fallcrest. A sacred place of healing, she called it. But the Hammers wouldn't go near it. They said something unnatural was waiting down there."
+
+"How unnatural?" asked Dave, thrilled.
+
+"*Very*," said Garnel.
 
 ---
 
 They went down together.
 
-The stair beyond Garnel's chamber had partly collapsed, leaving a gap bridged by a single rotten plank. Nibbles stopped at once.
+The stair beyond Garnel's chamber had partly fallen in, leaving a gap bridged by a single rotten plank. Nibbles stopped at once.
 
 "Trap," he said.
 
-Derek studied the walls. Thorn studied the ceiling. Garnel peered nervously over the edge and said, "There is almost certainly a —"
+Derek studied the walls. Thorn studied the ceiling. Garnel peered nervously over the edge and said, "There is almost certainly a—"
 
 The click was very small.
 
-The maul swung from a chain in the shadows with the patient malice of a mechanism that had waited years. Thorn pulled Nibbles back by the collar. It smashed into the plank, which cracked and sagged over the chasm, dust raining into the dark below.
+A huge iron maul swung out of the shadows on a chain, with the patient spite of a machine that had waited years for this. Thorn yanked Nibbles back by the collar. The maul smashed into the plank, which cracked and sagged over the drop, raining dust into the dark below.
 
-"Nobody walk on that," Derek said.
+"—trap," finished Garnel.
 
-Thorn uncoiled the rope looted from the camp above, drove a piton into sound stone, and made the line fast. One by one they crossed above the chasm, boots finding the far side while the plank groaned on its nails.
+"Nobody walk on that," said Derek.
 
-"Glad we kept that rope," Nibbles said, the moment his feet were on solid stone again.
+Thorn uncoiled the rope from the camp above, drove a piton into sound stone, and made it fast. One by one they crossed above the chasm, while the plank groaned on its nails beneath them.
 
-"I know," Thorn said.
+"Glad we kept that rope," said Nibbles, the moment his feet were on solid ground.
 
-He wedged the pressure plate with a piece of iron, and the maul hung still, grumbling on its chain.
+"I know," said Thorn.
 
-Beyond the plank, the passage opened at last into a chamber that took everyone's breath away.
+"It's almost like *treasure*," said Derek.
 
-The room was wide and pale, floored in smooth Ethium stone. At its centre the floor dropped away in broad steps, like a bathing pool sunken into the earth. Water entered from somewhere unseen and filled the basin below, glowing faintly blue, pulsing like a slow heartbeat — old magic held in the water, not the rock. Four pillars stood around the pool, one at each corner, each carved with a socket meant for an Ethium Stone. Three of them held stones already, pale grey and blue-veined, humming with a dormant light. The fourth socket stood empty.
+Nibbles said nothing, which was how everyone knew Derek had won.
 
-On the eastern wall, a corridor that must once have led deeper into the ruins had collapsed. Rubble filled the opening to the ceiling — a cave-in of pale blocks and dark earth, sealed tight. Thorn could not tell how far the passage had run before it fell, or what lay beyond.
+Thorn jammed the pressure plate with a lump of iron, and the maul hung still, grumbling on its chain.
 
-Beside the nearest pillar stood a makeshift table built from a fallen slab and broken crates. On it lay a crumbling leather book, scattered iron callipers, and loose notes covered in cramped script — alongside the fourth Ethium Stone, taken from its pillar and set among the papers as though someone had been studying it. A silent figure in rotted robes centuries out of fashion sat behind the table, head bowed, perfectly still — not a recent prisoner of the Hammers, but something that had waited here since long before Garnel's grandmother was born.
+---
+
+Past the plank, the passage opened at last into a chamber that took everyone's breath away.
+
+It was wide and pale, floored in smooth Ethium stone. In the middle the floor dropped away in broad steps, like a bathing pool sunk into the earth. Water came in from somewhere unseen and filled the basin below, glowing faintly blue and pulsing like a slow heartbeat. Old magic, held in the water. Four pillars stood around the pool, one at each corner, each carved with a socket for an Ethium Stone. Three of them held stones already, grey and blue-veined, humming with a dormant light. The fourth socket was empty.
+
+On the east wall, a corridor that must once have led deeper into the ruins had collapsed. Rubble filled it to the ceiling.
+
+Beside the nearest pillar stood a makeshift table built from a fallen slab and broken crates. On it lay a crumbling leather book, scattered callipers and loose notes in cramped writing, and beside them, set among the papers as though someone had been studying it, the fourth Ethium Stone. And behind the table sat a silent figure in rotted robes centuries out of fashion, head bowed, perfectly still. This was no recent prisoner of the Hammers. Whoever it was had been waiting here since long before Garnel's grandmother was born.
 
 ![Torchlit view from the chamber doorway: four tall pillars frame a sunken pool at the centre, an undead wizard sits at a makeshift table in the back-left corner, zombie guards wait in wall alcoves, Ethium runes catch the light, and the corridor to the right lies collapsed under rubble](/illustrations/scenes/ch05-ethium-pool-chamber.png)
 
 *The pool chamber — pale pillars, a sunken pool, and something in the far corner that had waited a very long time.*
 
-Garnel stopped in the doorway, eyes wide behind his spectacles. "That's... that's not in Grandmother's notes. Don't touch anything — don't wake it!"
+Garnel stopped in the doorway, eyes huge behind his spectacles. "That's... that's not in Grandmother's notes," he whispered. "Don't touch anything. Don't *wake* it!"
+
+"Hello!" said Dave loudly, waving.
+
+There was a long, terrible pause.
+
+Garnel turned slowly to look at Dave with an expression of pure despair.
+
+"I was being *polite*," said Dave.
 
 The figure lifted its head.
 
-The face beneath the hood was withered and wrong — a man dead for hundreds of years, eyes lit by the same pale fire the zombies had carried. Ethium energy crawled along his skin like veins of cold light. In life he had been an ancient scholar of Ethium who tried to force the pool's magic to his will. The magic had corrupted him instead, and death had not finished the work.
+The face beneath the hood was withered and wrong: a man dead for hundreds of years, his eyes lit with the same pale fire as the zombies', Ethium light crawling under his skin like cold veins. In life he had been a scholar of Ethium who had tried to force the pool's magic to obey him. The magic had won, and death had not finished the job.
 
-"You," the thing said, in a voice like stone grinding on stone, dry with centuries. "More thieves."
+"You," said the thing, in a voice like stone grinding on stone. "More thieves."
 
-It rose. Two zombies shambled from alcoves behind the makeshift table. The wizard raised one hand; a pulse of pale light rippled outward, enough to make the air shiver and the three stones in the pillars flare in answer.
+It rose. Two zombies shambled out of the alcoves behind the table. The wizard raised one hand, and a pulse of pale light rippled out across the chamber, making the air shiver and the three stones in the pillars flare in answer.
 
-The fight was the hardest they'd faced since leaving Fallcrest. The wizard fought with spells that tasted of Ethium — bursts of light, distortions that tilted the chamber, commands that pulled at the stones in Thorn's pack — while the zombies pressed from the sides. Derek held the line, Dave hurled potatoes and fire, Nibbles darted and stabbed, and Garnel conjured illusions of falling stone that bought precious seconds.
+---
 
-Thorn drove forward and struck deep with his axe. The wizard screamed — half memory, half magic — and struck back with a pulse that dropped Thorn to one knee. Derek healed him; Dave's fire seared the wizard's robe; Loki latched onto a zombie's leg and didn't let go.
+It was the hardest fight they had had since leaving Fallcrest. The wizard fought with spells that tasted of Ethium: bursts of light, twists in the air that tilted the whole chamber sideways, and commands that tugged at the stone in Thorn's pack like a hand trying to pull it free. The zombies pressed in from the sides. Derek held the line. Dave hurled potatoes and fire. Nibbles darted and stabbed. Garnel conjured illusions of falling stone that bought them precious seconds, shouting apologies the whole time.
 
-At the last, the wizard's form came apart, light leaking from his eyes and mouth and the cracks in his skin. He raised both hands to hold himself together, failed, and burst outward in a wave of Ethium energy that threw everyone from their feet.
+Thorn drove forward and struck deep with his axe. The wizard screamed, half memory and half magic, and struck back with a pulse that dropped Thorn to one knee. Derek healed him. Dave's fire scorched the wizard's robes. Loki clamped onto a zombie's leg and refused to let go.
 
-Nibbles, closest of all, hit the wall and slid down without getting up.
+At the last, the wizard's body began to come apart. Light leaked from his eyes and mouth and from the cracks in his skin. He raised both hands to hold himself together, failed, and burst outwards in a wave of Ethium energy that threw everyone off their feet.
 
-"Nibbles!" Dave shouted.
+Nibbles, who was closest, hit the wall and slid down it, and did not get up.
 
-Derek was already moving, hands on the rogue's shoulders. Light flowed. Breath returned. Nibbles coughed, swore, and opened his eyes.
+"Nibbles!" shouted Dave.
 
-"...I'm fine," he said unconvincingly.
+Derek was already moving. He knelt beside the rogue with both hands on his shoulders, and light flowed out of them. Breath came back. Nibbles coughed, swore, and opened his eyes.
 
-The chamber was quiet at last. The wizard was gone — scattered dust and a fading glow above the sunken pool, the last corruption of a man who had died centuries before any of them were born. His great book on the makeshift table crumbled to ash at a touch; the zombies lay still. But his loose notes had survived, pinned under tools and the fourth Ethium Stone where he had left them.
+"...I'm fine," he said, unconvincingly.
 
-Garnel picked his way down the steps into the pool chamber, one hand on the nearest pillar for balance.
+"You're not fine," said Derek. "You never are. Every fight. *Every single fight*." His voice was shaking slightly, though he would have denied it. "Why is it always you?"
 
-"Four stones," he said softly, looking from pillar to pillar. "Grandmother wrote about this — power in the sockets, water from somewhere else, a source beyond the cave, she thought. He'd taken one out." He lifted the stone from the wizard's table with both hands, careful and reverent, and set it into the empty socket on the fourth pillar.
+"Professional risk," said Nibbles faintly. "I'm putting it on the bill."
 
-Blue light ran through the carved channels in the pale stone. All four stones answered at once. The pool below brightened, its pulse steadying, warm and deep, like a breath held and released.
+---
 
-Garnel spoke two words Thorn had heard once before in a Fallcrest tavern — careful, reverent, slightly mispronounced. "Vaelum Thrae."
+The chamber was quiet at last. The wizard was gone: a scattering of dust and a fading glow above the pool, the final remains of a man who had died centuries before any of them were born. His great book crumbled to ash the moment Garnel touched it, and the zombies lay still. But his loose notes had survived, pinned under his tools beside the fourth Ethium Stone.
 
-The water answered, warmth rolling out across the chamber. The bruises on Thorn's arms ached less; Dave felt the tiredness of three days' fighting and travelling ease from his bones. Even Loki, unhurt, sighed and lay down with his tongue out.
+Garnel picked his way down the steps, one hand on the nearest pillar.
 
-"The pool works," Garnel whispered. "She was right. Mala was right about all of it."
+"Four stones," he said softly, looking from pillar to pillar. "Grandmother wrote about this. Power in the sockets. Water from somewhere else, from a source beyond the cave, she thought. And he'd taken one out." He lifted the stone from the table with both hands, careful and reverent, and set it into the empty socket in the fourth pillar.
 
-Derek tested the water with his fingers, sitting on the top step of the sunken pool. "Healing?"
+Blue light raced through the carved channels in the pale stone. All four stones answered at once. The pool brightened, its pulse steadying, warm and deep, like a breath held and then let go.
 
-"Once a day, I think — bathe properly, and it mends what the road has done."
+Garnel spoke two words. They were careful, reverent, and slightly mispronounced. "Vaelum Thrae."
 
-Garnel gathered the wizard's surviving notes from the table and read by the pool's light, lips moving as his spectacles slid down his nose.
+The water answered. Warmth rolled out across the chamber. The bruises on Thorn's arms ached less. Dave felt three days of fighting and walking melt out of his bones. Even Loki, who wasn't hurt at all, sighed contentedly and lay down with his tongue out.
 
-"It's all here," Garnel whispered, wiping charcoal dust from his face. "He was an ancient wizard from centuries ago — long before the Ethium Stones started to wake again. He was experimenting on the pool's magic, trying to force it to his will. He captured wandering adventurers and used them as test subjects..."
+"The pool works," whispered Garnel. "She was right. Mala was right about *all* of it."
 
-Nibbles glanced toward the upper stair. "The alcove zombies. Including Poopy Joe."
+Derek sat on the top step and dipped his fingers in the water. "Healing?"
 
-Garnel paused, raised a single eyebrow over his spectacles, and stared at the rogue for a long moment. "Er... yes. Quite. In any case, the wizard's dark experiments corrupted the pool's waters and turned his captives into undead. Eventually the corruption took him too, binding his corpse here. The pool water was tainted by his dark magic until we set the fourth stone and cleansed it."
+"Once a day, I think. Bathe properly, and it mends whatever the road has done."
 
-He turned the parchment sheet over to a charcoal sketch. "And he knew there was more. Look at this..." Garnel held up the sketch — a corridor running east from the pool, marked with small circles Garnel recognised at once as stone sockets. "Chambers beyond the collapse. More stones, he thought — or places built to hold them. He never got through." He looked towards the rubble heaped against the eastern wall. "Neither did anyone else, by the look of it."
+Dave immediately sat down in it, fully dressed, and declared it the best bath he had ever had. Nibbles asked whether it could be bottled, and if so, how much a bottle might fetch in Fallcrest. Garnel explained that it almost certainly could not. Nibbles wrote *ask again later* in his ledger.
 
-Thorn studied the cave-in. Pale blocks and earth filled the opening completely, but the shape of a passage was still visible beneath the fall — buried, not gone.
+Garnel gathered the wizard's surviving notes and read them by the light of the pool, his lips moving, his spectacles sliding down his nose.
+
+"It's all here," he said at last, wiping charcoal dust off his face. "He was a wizard from centuries ago, long before the stones began to wake again. He experimented on the pool's magic, trying to force it to obey him. He captured wandering adventurers and used them as test subjects..."
+
+Nibbles glanced towards the stair. "The alcove zombies," he said. "Including Poopy Joe."
+
+Garnel paused, raised a single eyebrow over his spectacles, and looked at Nibbles for a long moment. "Er... yes. Quite. Anyway. His experiments poisoned the pool and turned his captives into the undead. In the end the corruption took him too, and bound his body here. The water stayed tainted until we put the fourth stone back."
+
+He turned the page over to show a charcoal sketch: a corridor running east from the pool, marked with small circles that Garnel recognised at once as stone sockets. "Chambers beyond the collapse. More stones, he thought, or places built to hold them. He never got through." He looked at the rubble heaped against the east wall. "Neither did anybody else, by the look of it."
+
+Thorn studied the cave-in. Pale blocks and earth filled the opening completely, but the shape of a passage could still be seen beneath the fall. Buried, not gone.
 
 "We could dig," he said.
 
-"We should," Dave agreed, too tired to sound as eager as he meant to.
+"We *should*," agreed Dave, who was too tired to sound as excited as he felt.
 
-"Not tonight," Derek said. "Tonight we rest. Tomorrow we see what's on the other side of that rubble."
+"Not tonight," said Derek. "Tonight we rest. Tomorrow we see what's on the other side of that rubble."
 
-Nobody argued. They had food rations and rope looted from the camp above, weapons, and a healing pool at their backs. That was enough to start with in the morning.
+Nobody argued.
 
-Thorn unslung the rune-marked battleaxe from his belt and held it out. Garnel took it carefully, tracing the etched lines with one finger.
+Thorn unslung the rune-etched battleaxe from his belt and held it out to Garnel. Garnel took it carefully, tracing the etched lines with one finger.
 
-"Grandmother wrote about blades like this," he said. "The rune is cut into the steel, but the magic sleeps until you wake it with Ethium — a stone, a socket, the right words. We'll work out how."
+"Grandmother wrote about blades like this," he said. "The rune's cut into the steel, but the magic sleeps until you wake it with Ethium: a stone, a socket, the right words. We'll work out how."
 
-"Later," Thorn said.
+"Later," said Thorn, taking it back with great care, the way you would take back a sleeping baby.
 
-They made camp where the air was warm and the water glowed gently, the collapsed corridor a dark heap at the edge of the light, and for the first time since the wolves on the river road, nobody felt the need to sleep with a hand on a weapon.
+They made camp where the air was warm and the water glowed gently. Upstairs, on the landing, Poopy Joe leaned in his corner, gazing sadly at the wall. And for the first time since the wolves on the river road, nobody felt the need to sleep with a hand on a weapon.
 
 Outside, far above the plateau, the ruined tower stood against the stars.
 
-Somewhere beyond the rubble to the east, old chambers waited — and old magic stirred.
+And somewhere beyond the rubble to the east, old chambers waited, and old magic stirred.
