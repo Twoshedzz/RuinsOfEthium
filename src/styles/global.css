@@ -717,3 +717,87 @@ a:hover {
     text-align: center;
   }
 }
+
+
+/* ==========================================================================
+   Cover page as a red basic-rulebook band (Oct 2026).
+   The header and the art sit on a full-bleed red band: cream rules above and
+   below the title, the art in a thick black frame with clipped corners. A rule
+   divides the band from the chapter list, which stays on the beige paper.
+   ========================================================================== */
+
+:root {
+  --band-red: #c4232b;
+  --band-red-deep: #8f161c;
+  --band-cream: #f6ecd8;
+  --clip: clamp(14px, 3.2vw, 34px);
+}
+
+.site-header--cover {
+  background: var(--band-red);
+  border-bottom: none;
+  color: var(--band-cream);
+  padding-bottom: 0;
+}
+
+.site-header--cover .site-header__ornament {
+  color: var(--band-cream);
+  opacity: 0.85;
+}
+
+.site-header--cover .site-title--cover {
+  border-top: 3px solid var(--band-cream);
+  border-bottom: 3px solid var(--band-cream);
+  padding: 0.35em 0 0.3em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-shadow: 2px 2px 0 var(--band-red-deep);
+}
+
+.site-header--cover .site-title a,
+.site-header--cover .site-nav a {
+  color: var(--band-cream);
+}
+
+.site-header--cover .site-subtitle {
+  color: var(--band-cream);
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--band-cream);
+}
+
+.site-main:has(.cover) {
+  padding-top: 0;
+}
+
+.cover-band {
+  margin-inline: calc(50% - 50vw);
+  padding: clamp(1rem, 3vw, 1.75rem) clamp(0.75rem, 4vw, 2rem) clamp(1.75rem, 4vw, 2.75rem);
+  background: var(--band-red);
+  border-bottom: 3px solid var(--band-cream);
+  box-shadow: 0 6px 0 var(--band-red-deep), 0 8px 0 var(--paper-edge);
+}
+
+.cover-band .cover__hero {
+  max-width: min(64rem, 94vw);
+}
+
+.cover-band .cover__art {
+  background: #111;
+  padding: clamp(6px, 1.2vw, 12px);
+  clip-path: polygon(var(--clip) 0, calc(100% - var(--clip)) 0, 100% var(--clip), 100% calc(100% - var(--clip)),
+    calc(100% - var(--clip)) 100%, var(--clip) 100%, 0 calc(100% - var(--clip)), 0 var(--clip));
+}
+
+.cover-band .cover__art img {
+  clip-path: polygon(calc(var(--clip) * 0.8) 0, calc(100% - var(--clip) * 0.8) 0, 100% calc(var(--clip) * 0.8),
+    100% calc(100% - var(--clip) * 0.8), calc(100% - var(--clip) * 0.8) 100%, calc(var(--clip) * 0.8) 100%,
+    0 calc(100% - var(--clip) * 0.8), 0 calc(var(--clip) * 0.8));
+}
+
+.cover:has(.cover-band) {
+  padding-top: 0;
+}
