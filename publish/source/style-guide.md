@@ -10,7 +10,7 @@ When asking Cursor to write: *"Follow `publish/source/style-guide.md` exactly."*
 
 ## In one paragraph
 
-**Third person, past tense**, close to the party. A **Fighting Fantasy novel for twelve-year-olds**: clear, vivid, warm, never graphic. The narrator carries more of the story than the characters do — **prose first, dialogue second**. Rhythm **changes with the scene**: faster and tighter in a fight or chase; slower and fuller when travelling, describing a place, or explaining something important. Humour comes from what happened at the table, played straight — not from the narrator commenting on it.
+**Third person, past tense**, close to the party. A **Fighting Fantasy novel for twelve-year-olds**: clear, vivid, warm, never graphic. The narrator carries more of the story than the characters do — **prose first, dialogue second**. Rhythm **changes with the scene**: faster and tighter in a fight or chase; slower and fuller when travelling, describing a place, or explaining something important. **The narrator stays straight-faced; the four heroes are ridiculous.** Each has one comic engine that runs every chapter (see *Humour*), and the comedy comes from those engines colliding, in the gaps between the danger.
 
 ---
 
@@ -60,10 +60,10 @@ When asking Cursor to write: *"Follow `publish/source/style-guide.md` exactly."*
 
 | Character | Voice |
 |-----------|--------|
-| **Thorn** | Direct, brave, practical; not every reply is three words |
-| **Derek** | Calm, dry, sensible; may say more when explaining |
-| **Dave** | Young, earnest; wonder and worry |
-| **Nibbles** | Cheeky, greedy; but not only quips |
+| **Thorn** | The only one trying to be a proper hero: rousing speeches nobody listens to, "Put that back", "We are *not* selling…". Brave, direct, slightly exasperated |
+| **Derek** | The tired dad: oldest by a century, patient, dry, counts heads, sighs. Once a chapter the patience snaps and the hammer comes out |
+| **Dave** | Seven years old in a six-foot-seven dragon's body: "are we nearly there", narrates his own spells, takes things literally, pranks at the worst moment, accidentally brilliant |
+| **Nibbles** | Everything has a price: haggles with anyone (goblins included), prices loot out loud, keeps a ledger; always the one who takes the big hit |
 | **Loki** | Actions and barks — no speech |
 | **Tobbs** | Cheerful patter that can open into **longer, worried explanation**; good for lore monologue |
 | **Mara** | Warm, capable |
@@ -85,12 +85,32 @@ Moments like **Tobbs describing Ethium**, the stones, or the Gang of Four can **
 
 ## Humour
 
-- Keep table humour: potatoes, poison shopping, Ratbag, tavern brawl, Loki and sausages
-- **Understatement** still works, but does not require ultra-short paragraphs
-- **Don't explain the joke** — play it straight in-world
-- A funny line can sit inside a longer paragraph
+**The narrator is deadpan. The heroes are funny.** Think Pratchett for younger readers, or *How to Train Your Dragon*: a straight-faced voice describing four people who each want something comically different. Never wink at the reader, never explain the joke, and never let the humour sit on top of real danger. The Grey Burrower stays scary; the jokes live in the gaps.
 
----
+### The four comic engines
+
+| Hero | Engine | Shows up as |
+|---|---|---|
+| **Dave** | **He is seven.** Dragonborn grow fast: a full-grown dragon's body with a child's brain | Asks if they're nearly there. Gets bored at tense moments. Takes instructions literally. Pranks at the worst time (*"Is the tiefling out there?" "Yes."*). Brilliant by accident |
+| **Nibbles** | **Everything has a price.** A businessman among monsters | Haggles mid-fight. Values loot aloud. Keeps a ledger. Outraged by fake gold on principle. **Always takes the big hit**, which the narrator treats as tradition |
+| **Thorn** | **The only one trying to be a hero.** | Speeches, principles, "Put that back". **Collects axes** (three so far) and treats them like friends |
+| **Derek** | **The tired dad.** | Patient, dry, counts heads. "I'm not angry." Then, once a chapter, his patience runs out and the narrator reports it like weather: *"Derek had been patient for eleven days. The bugbear was standing where the twelfth day began."* |
+
+The comedy comes from the engines colliding: Thorn wants to do the right thing, Nibbles wants paying for it, Dave wants to know if it's lunchtime, Derek wants everyone home alive.
+
+### Before and after
+
+> ✗ *They made good time on the first day. Loki ranged ahead through the long grass. Dave asked questions about the plateau every twenty minutes. Nibbles complained that no one had yet invented a horse that didn't smell.*
+
+> ✓ *They made good time on the first day, apart from the stops. Dave needed to stop every twenty minutes to ask whether this was the plateau yet. ("Is that it?" "That's a hill, Dave." "Is THAT it?" "That's a cow.") Nibbles stopped to tell a passing farmer that his ox was undervalued and he would happily take it off his hands. Thorn stopped them both and gave a short speech about the importance of the quest, which nobody heard because Loki had found a badger. Derek, at the back, counted them all twice and said nothing, in the way that fathers say nothing.*
+
+### Rules
+
+- **Source the jokes from the table** first: potatoes, the button, Ratbag, the pie, Poopy Joe, the pig, the tiefling prank. Real table moments beat invented ones.
+- **Running gags pay off by repeating:** Nibbles taking the hit, Dave's questions, Thorn's axes, Derek's sigh.
+- **Understatement and a straight face**, inside normal-length paragraphs. A funny line can sit in the middle of a long one.
+- **Never during real fear.** Let a scary moment land fully, then let the humour return afterwards as relief.
+- Keep the old favourites: potatoes, poison shopping, Ratbag, the tavern brawl, Loki and sausages.
 
 ## Action and combat
 
