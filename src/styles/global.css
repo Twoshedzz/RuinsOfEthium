@@ -785,16 +785,20 @@ a:hover {
 }
 
 .cover-band .cover__art {
+  /* --pad is the white border. The image's corner cut is the outer cut less
+     pad * (2 - sqrt 2), so the diagonal border is exactly as thick as the straight ones. */
+  --pad: clamp(6px, 1.2vw, 12px);
+  --clip-in: calc(var(--clip) - var(--pad) * 0.5858);
   background: #fff;
-  padding: clamp(6px, 1.2vw, 12px);
+  padding: var(--pad);
   clip-path: polygon(var(--clip) 0, calc(100% - var(--clip)) 0, 100% var(--clip), 100% calc(100% - var(--clip)),
     calc(100% - var(--clip)) 100%, var(--clip) 100%, 0 calc(100% - var(--clip)), 0 var(--clip));
 }
 
 .cover-band .cover__art img {
-  clip-path: polygon(calc(var(--clip) * 0.8) 0, calc(100% - var(--clip) * 0.8) 0, 100% calc(var(--clip) * 0.8),
-    100% calc(100% - var(--clip) * 0.8), calc(100% - var(--clip) * 0.8) 100%, calc(var(--clip) * 0.8) 100%,
-    0 calc(100% - var(--clip) * 0.8), 0 calc(var(--clip) * 0.8));
+  clip-path: polygon(var(--clip-in) 0, calc(100% - var(--clip-in)) 0, 100% var(--clip-in),
+    100% calc(100% - var(--clip-in)), calc(100% - var(--clip-in)) 100%, var(--clip-in) 100%,
+    0 calc(100% - var(--clip-in)), 0 var(--clip-in));
 }
 
 .cover:has(.cover-band) {
