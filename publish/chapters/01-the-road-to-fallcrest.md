@@ -389,7 +389,7 @@ Leaving the cave took longer than entering it, mostly because Nibbles insisted o
 
 ---
 
-At last they came out into daylight. The forest seemed brighter than before, and the danger, for now, had passed. Mara walked at Thorn's side with purpose despite her tiredness. Dave nursed his shoulder and explained to everybody that caves were statistically more dangerous than forests, which Nibbles said was only true if you didn't count treasure. Loki walked with his head held high, enormously pleased with himself. Derek carried his hammer as though nothing remarkable had happened at all, which was how Derek preferred things.
+At last they came out into daylight. The forest seemed brighter than before, and the danger, for now, had passed. Mara walked at Thorn's side with purpose despite her tiredness. Dave rubbed the elbow he had landed on in the pit and explained to everybody that caves were statistically more dangerous than forests, which Nibbles said was only true if you didn't count treasure. Loki walked with his head held high, enormously pleased with himself. Derek carried his hammer as though nothing remarkable had happened at all, which was how Derek preferred things.
 
 "When we reach town," said Mara, "come to the Blue Moon Alehouse. I owe you a proper reward. Food, drink, coin if I can arrange it."
 

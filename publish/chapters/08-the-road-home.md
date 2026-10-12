@@ -17,13 +17,13 @@ He did it with great dignity. He took three slow, creaking steps across the pool
 
 Poopy Joe considered this. He turned right, with enormous care, and walked into a pillar.
 
-Dave laughed so hard he had to sit down. It was easy, most of the time, to forget that Dave was seven. He was six foot seven and covered in copper scales, and he could set a quaggoth on fire. But when a zombie walked into a pillar, he looked exactly like what he was, which was a small boy who had just seen the funniest thing in the world.
+Dave laughed so hard he had to sit down. It was easy, most of the time, to forget that Dave was seven. He was six foot seven and covered in copper scales, and he could roll a ball of fire down a corridor full of duergar. But when a zombie walked into a pillar, he looked exactly like what he was, which was a small boy who had just seen the funniest thing in the world.
 
 "Do it again," he said. "Joe! Do it again!"
 
 "Please don't encourage him," said Garnel, rescuing the inkpot.
 
-The pool chamber had changed in the days they had been away. The rubble was swept into tidy heaps. Garnel's papers covered every flat surface, weighted down with brass lenses and the occasional skull. The water glowed its gentle blue in the basin, steady as a heartbeat, and the cleansed zombie the boys had named Poopy Joe now stood upright in his peat-stained leather, smelling only a little of compost, and bowing politely to anyone who looked at him. Garnel had worked out how the old wizard's magic had bound him, and how the pool could soften it. The result was not quite a servant and not quite a friend, but he tried very hard at both.
+The pool chamber had changed in the short time they had been away. The rubble was swept into tidy heaps. Garnel's papers covered every flat surface, weighted down with brass lenses and the occasional skull. The water glowed its gentle blue in the basin, steady as a heartbeat, and the cleansed zombie Nibbles had named Poopy Joe now stood upright in his peat-stained leather, smelling only a little of compost, and bowing politely to anyone who looked at him. Garnel had worked out how the old wizard's magic had bound him, and how the pool could soften it. The result was not quite a servant and not quite a friend, but he tried very hard at both.
 
 Derek watched Joe bow to a bucket.
 
@@ -59,11 +59,11 @@ Thorn was the one who said what they had all been thinking. "We're not going bac
 
 Nibbles had already taken them out. He had a habit, when the word *home* was used, of counting things. He laid the Ethium Stones out on the floor in a row, the three from the statue hall and the one from the manor cellar, and put a small heap of coins beside each, as though the stones might be persuaded to tell him how much they were worth.
 
-"Tobbs pays twenty-five gold a stone," he said. "Which is robbery. These are ancient magical artefacts that we fought animated statues for." He pointed at the last one. "We fought a *lake* for that one."
+"Tobbs pays fifty gold a stone," he said. "After the first. Which is robbery. These are ancient magical artefacts that we fought animated statues for." He pointed at the last one. "We fought *skeletons* for that one."
 
 "So we tell him that," said Dave.
 
-"So I *negotiate*," said Nibbles, and wrote something in the small leather book he had recently begun keeping, which he called his ledger and which nobody else was allowed to read.
+"So I *negotiate*," said Nibbles, and wrote something in his ledger, which nobody else was allowed to read.
 
 Derek, sitting slightly apart with his back against a pillar, counted the stones, then counted the companions, then counted the stones again, in the manner of someone who had been responsible for other people for a very long time and expected to be responsible for them for a long time yet.
 
@@ -80,6 +80,48 @@ They slept by the pool, and woke healed. That was the pool's gift, and none of t
 "You can't put it in a bag, Dave."
 
 "I could if it was a bigger bag."
+
+It was Dave, that last morning, who woke the axe.
+
+Nobody asked him to. Thorn had laid his two axes out on the stone to clean them, the way he did every morning, and Dave had sat down beside them with the back of his spellbook open, where he kept his list. He had been keeping it since the Blue Moon. Every Ethium word anyone had said in front of him was written there in large careful letters, with what it did beside it: *AETHRA LUMIS = LIGHT*. *VAELUM THRAE = POOL (HEALING)*. And lately, a few more, copied from Garnel's notes while Garnel wasn't looking, with question marks after them.
+
+"Garnel said it needs a stone, a socket and the right words," said Dave. "There's stones in the pillars. The pillars have sockets. I've got words."
+
+"Dave," said Derek, in a warning sort of voice.
+
+But Dave had already picked up the rune-etched axe, which was nearly as long as his arm, and carried it to the nearest pillar, and pressed the flat of the blade against the glowing stone in its socket.
+
+"*Aethra Lumis*," he said.
+
+The axe lit up like a lantern, glowed politely for a moment, and went out.
+
+"That's the light one," said Dave. "I knew that. I was checking."
+
+"*Vaelum Thrae*."
+
+The axe dripped slightly.
+
+Dave ran his claw down the list, past the question marks, and stopped at one. "*Kaelith Vorn*," he read.
+
+The rune on the axe head blazed blue.
+
+It was not the soft glow of the stones. It was a bright, hard, singing light, and it ran out of the rune and along the edge of the blade like water finding a crack, and for a moment the whole pool chamber rang with a note like a struck bell. Then the light sank back into the steel and stayed there, a thin bright line of blue along the edge that pulsed, very slowly, like the pool.
+
+Everyone stared at it.
+
+"What did you *do*?" said Garnel faintly.
+
+"I read it off your notes," said Dave. "It had a question mark. Was it the right one?"
+
+Garnel came and looked at the axe, and then at Dave's list, and then at Dave, for a long time. "*Kaelith Vorn*," he said. "Bind and connect. It ties a thing to a stone. I wasn't sure it would work. I hadn't *tried* it."
+
+"I tried it," said Dave helpfully.
+
+Thorn took the axe back with both hands, the way you would take back a baby that has learned to walk while you weren't looking. He turned it in the light. He swung it, once. The air hummed. It was lighter than before, and it sat in his grip as if it had been waiting all this time for exactly this.
+
+"Dave," said Thorn, very seriously, "that is the best thing anyone has ever done for me."
+
+Dave glowed nearly as brightly as the axe.
 
 The question was what to do with Poopy Joe. He could not climb, and he could not be trusted with stairs, and he had developed an attachment to the pool that bordered on devotion. Every time anyone tried to lead him towards the passage, he turned back to the water, and stood at the edge of the basin, swaying slightly, like a sentry.
 
@@ -177,7 +219,7 @@ It stood up.
 
 It looked around for the most interesting thing in the river, and the most interesting thing in the river was Nibbles, who was halfway across the stepping stones with his sword out, shouting at a goblin about the poor quality of its armour.
 
-Nibbles was, by now, quite used to being the one who got hit. It had become, among the companions, something like a tradition. When the bugbear had come down the waterfall path, it had hit Nibbles. When the otyugh had come out of the lake, it had grabbed Nibbles. When the grey worm had burst through the floor, it had gone for Nibbles first. There was no explanation for it. Some people are lucky with dice and some people are Nibbles.
+Nibbles was, by now, quite used to being the one who got hit. It had become, among the companions, something like a tradition. When the bugbear had come down the waterfall path, it had hit Nibbles. When the otyugh had come out of the lake, it had grabbed Nibbles. When the grey worm had burst through the wall, it had gone for Nibbles first. There was no explanation for it. Some people are lucky with dice and some people are Nibbles.
 
 The ogre's fist hit him so hard he left the stepping stone entirely.
 
@@ -227,7 +269,7 @@ None of them saw it. It had been at the very back of the chain gang when everyth
 
 ---
 
-The climb down the falls was wet, and slow, and blessedly uneventful. At the bottom, the old standing stones still leaned together in the spray like gossiping giants. Beyond them the path wound down through the broken hills, and the next day the burial mounds rose out of the grass around them again, green-backed and silent, where the axe beaks had come thundering over the rise all those days ago.
+The climb down the falls was wet, and slow, and blessedly uneventful. At the bottom, the old standing stones still leaned together in the spray like gossiping giants, exactly as they had on the way up. Beyond them the path wound down through the broken hills, and the next day the burial mounds rose out of the grass around them again, green-backed and silent, where the axe beaks had come thundering over the rise all those days ago.
 
 Nibbles walked slower than usual. Derek walked beside him without making a fuss about it.
 

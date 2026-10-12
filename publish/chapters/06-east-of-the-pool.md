@@ -25,7 +25,19 @@ Behind them, propped against a pillar, sat Poopy Joe. Nibbles and Derek had carr
 
 Dave looked up from his spellbook. "Can zombies *like* things?"
 
-"Joe can," said Nibbles firmly.
+"Joe can," said Nibbles firmly. "And I've had an idea. The pool heals things. Joe is a thing. Joe needs healing. Lots of it."
+
+Nobody could find anything wrong with this, exactly, so they tried it. Thorn and Derek carried Poopy Joe down the steps, and Nibbles said "*Vaelum Thrae*" very firmly over the water, and they lowered him in.
+
+Poopy Joe sank.
+
+He sank straight to the bottom of the basin and lay there, gazing sadly up through the glowing water, while a long stream of bubbles rose from somewhere it was better not to think about. The water around him turned faintly brown.
+
+They hauled him out. He was exactly as stiff as before, exactly as smelly as before, and now also wet.
+
+"I think," said Derek, wringing out his beard, "it's more complicated than that."
+
+"It's *much* more complicated than that," said Garnel, who had watched the whole thing from behind his journal with an expression of mild horror.
 
 Garnel peered at Poopy Joe over his spectacles with professional interest. "The pool's waters carry healing," he said slowly. "But Ethium magic is complicated. If I can understand how the old wizard bound him, perhaps the pool could wash out the rot and give him back his movement. It would take time. And a lot of Grandmother's notes."
 

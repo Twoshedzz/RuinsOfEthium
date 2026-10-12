@@ -163,17 +163,17 @@ Nibbles sprinted into position and slammed his hands together, and a deafening *
 
 "*Nibbles*!" yelled Dave, steering his rolling Flaming Sphere to cut off the flanking duergar while Derek rushed to help.
 
-Then the floor moved.
+Then the wall moved.
 
-A sound like grinding mountains rolled up from beneath their feet. Dust poured from the high ceiling, and heavy granite flagstones burst upwards in a shower of rock. Out of the broken floor rose the **Grey Burrower**: a colossal blind worm, forty feet long, its round mouth lined with hundreds of razor-sharp teeth in rings that went on and on, down into the dark.
+A sound like grinding stone rolled through the hall, from somewhere behind the great pillars. Dust poured from the high ceiling. Cracks raced across the side wall, and then the whole wall burst inwards in a shower of granite blocks, and out of the hole came the **Grey Burrower**: a colossal blind worm, forty feet long, its round mouth lined with hundreds of razor-sharp teeth in rings that went on and on, down into the dark.
 
 Nobody made a joke. Not even Dave.
 
-"*Worm*!" bellowed Derek, dragging Nibbles backwards just as the monster's jaws slammed shut on the flagstone where the rogue had been lying.
+"*Worm*!" bellowed Derek, dragging Nibbles backwards just as the monster's jaws slammed shut on the spot where the rogue had been lying.
 
-The Burrower struck blindly at anything that moved. With one terrible snap it swallowed an enlarged quaggoth whole, and then it thrashed its great tail across the hall, smashing two duergar into the pillars like skittles.
+The Burrower struck blindly at anything that moved. With one terrible snap it swallowed a quaggoth whole, and then it thrashed its great tail across the hall, smashing two duergar into the pillars like skittles.
 
-![The colossal blind Grey Burrower erupts through the Assembly Hall floor and swallows an enlarged Quaggoth as the party and Duergar scatter through the shattered hall](/illustrations/scenes/ch07-grey-burrower-assembly-hall.png)
+![The colossal blind Grey Burrower erupts into the Assembly Hall and swallows a Quaggoth as the party and Duergar scatter through the shattered hall](/illustrations/scenes/ch07-grey-burrower-assembly-hall.png)
 
 *The Grey Burrower tears through the Assembly Hall — swallowing anything that moves.*
 
@@ -189,9 +189,9 @@ But the fight was turning on its own. The last surviving duergar guard broke ran
 
 Thorn, Derek, Dave and Nibbles scrambled to the archway and peered round the corner.
 
-Far down the long stone avenue, the fleeing duergar ran straight into a patrol of duergar cavalry mounted on giant, wall-crawling spiders. The dark dwarves lowered long iron lances, swarmed the Grey Burrower with deadly discipline, and drove the colossal worm back down into the earth.
+Far down the long stone avenue, the fleeing duergar ran straight into a patrol of duergar cavalry mounted on giant, wall-crawling spiders. The dark dwarves lowered long iron lances, swarmed the Grey Burrower with deadly discipline, and drove the colossal worm back into the rock it had come from.
 
-And before the companions could do anything else, a heavy grinding of metal echoed down the hall. Great dwarven cogs turned. Ancient chains rattled. And with a deafening *BOOM* that shook the mountain to its roots, the massive gates of the lower city slammed shut.
+And before the companions could do anything else, a heavy grinding of metal echoed down the hall. Great dwarven cogs turned. Ancient chains rattled. And with a deafening *BOOM* that they felt through their boots and in their teeth, the great iron-bound gates of the lower city slammed shut.
 
 Nibbles slid down the wall and sat on the floor, getting his breath back. "Well," he said eventually, wiping soot off his forehead. "At least the worm's gone."
 

@@ -303,7 +303,7 @@ The change was immediate. A soft blue light bloomed inside the stone, steady and
 
 *"Aethra Lumis" — and for a moment the old magic remembered itself.*
 
-Dave made a small sound of wonder. Nibbles' eyes widened, and for once he did not say a number. Derek leaned closer, studying the light without touching it.
+Dave made a small sound of wonder, and then, very quickly, pulled out his spellbook and wrote *AETHRA LUMIS = LIGHT* on the inside of the back cover, in his biggest letters. Nibbles' eyes widened, and for once he did not say a number. Derek leaned closer, studying the light without touching it.
 
 "It gives light," said Tobbs, "and warmth. That's the simplest use, the one even an apprentice can manage without setting his sleeves on fire. They can do more than that, in the right hands. At shrines. At pools. But first..." The cheerful mask slipped away entirely. "First we need to know what's still out there."
 
@@ -329,9 +329,15 @@ Beside him, Dave was already nodding hard. "I want to see the stones. I want to 
 
 "Of course you do," said Nibbles. "I want to know what Nimozaran pays."
 
-Tobbs managed a tired smile. "My master isn't stingy with those who help him."
+Tobbs managed a tired smile. "My master isn't stingy with those who help him. A hundred gold for the first stone you bring back. Fifty for every one after that."
 
-"Define 'stingy'," said Nibbles, taking out his ledger.
+Nibbles took out his ledger, wrote this down, and underlined it twice. "Why less for the second one?"
+
+"Because the first one is the hardest to find."
+
+"The second one might be *harder*."
+
+"Then you can tell me so," said Tobbs, "when you bring it."
 
 Derek folded his arms. "If the stones are waking, someone else will be hunting them too. Better we go with our eyes open than leave it to whoever sent those goblins."
 

@@ -39,7 +39,7 @@ The two figures in grey on the wagon roofs moved fast. These were not Hammers. T
 
 The other leapt down with a short sword in each hand and ran at Dave.
 
-He did not get there. Thorn crossed the road at a flat sprint, and then did something none of them had seen him do before: he found a second wind of speed from nowhere, as if time itself had paused to let him catch up. He arrived beside the man in grey just as the sword came up, and instead of trying to hit him, he hit the space where the man was standing. The axe came round flat, and Thorn's shoulder came in behind it, and the man in grey was simply *removed* from the road. He went backwards through the air, landed in the ditch amongst the oil barrels, and did not get up.
+He did not get there. Thorn crossed the road at a flat sprint, and then found a burst of speed none of them had seen before, as if time itself had paused to let him catch up. He arrived beside the man in grey just as the sword came up, and did the thing that had put the hobgoblin in the river: instead of trying to hit him, he hit the space where the man was standing. The axe came round flat, and Thorn's shoulder came in behind it, and the man in grey was simply *removed* from the road. He went backwards through the air, landed in the ditch amongst the oil barrels, and did not get up.
 
 "*Whoa*," said Dave, in a voice of deep respect.
 
@@ -111,7 +111,7 @@ It was exactly the axe he had seen in the chalk drawing all those weeks ago. A b
 
 "Blade for cutting," said the smith. "Spike for punching through. Your choice, every swing."
 
-Thorn did not say anything for a long time. He now owned three axes. His old axe from home, which had seen him through goblins and wolves. The rune-carved Ethium axe from the tower, still sleeping. And this one, which was *his*, made for him, the first of its kind.
+Thorn did not say anything for a long time. He now owned three axes. His old axe from home, which had seen him through goblins and wolves. The rune-carved Ethium axe from the tower, awake now and humming faintly blue, thanks to Dave. And this one, which was *his*, made for him, the first of its kind.
 
 "Have you named it?" asked the smith.
 

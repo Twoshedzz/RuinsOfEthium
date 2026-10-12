@@ -123,7 +123,7 @@ The track left the valley for broken hills where trees clung to steep slopes and
 
 Dave was silent for a moment, overcome. "We're *nearly there*."
 
-The path to the falls was narrow, wet and partly hidden behind the cascade, with the river throwing up a constant cold mist. Ancient cracked stone steps threaded up beside the thundering water. Goblins had been using it. That much was obvious from the scrape marks, the smell of smoke and the crude handholds hacked where the builders had never meant anyone to climb.
+The path to the falls was narrow, wet and partly hidden behind the cascade, with the river throwing up a constant cold mist. At the foot of the falls, a ring of old standing stones leaned together in the spray like gossiping giants. Beyond them, ancient cracked stone steps threaded up beside the thundering water. Goblins had been using it. That much was obvious from the scrape marks, the smell of smoke and the crude handholds hacked where the builders had never meant anyone to climb.
 
 "They'll be above us," said Derek.
 
@@ -205,7 +205,7 @@ The dragon banked away to the east. Something slipped from its jaws: a dark shap
 
 Nobody wanted to finish the sentence.
 
-The dragon slid away into the haze. Dave swallowed. On the very first day of the journey he had complained that there weren't enough dragons. He was now reconsidering his position.
+The dragon slid away into the haze. Dave swallowed. Back on the North Road, he had complained that there weren't enough dragons. He was now reconsidering his position.
 
 "I always said adventures should have more dragons," he said, in a small voice.
 

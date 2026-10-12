@@ -107,7 +107,7 @@ Nibbles watched him do it with a deep pout. Then he looked back down at the slum
 
 Derek stared at him in total disbelief. "He's a zombie, Nibbles."
 
-"He's got a very sad face," said Nibbles. "And *excellent* boots. Besides, Thorn gets a shiny new axe *and* he's got Loki. Dave gets Peggy. Derek gets glowing hammers. I got no loot, and I want a companion."
+"He's got a very sad face," said Nibbles. "And *excellent* boots. Besides, Thorn gets a shiny new axe *and* he's got Loki. Dave gets Peggy. Derek gets to be in charge. I got no loot, and I want a companion."
 
 "He's not loot, he's a *corpse*," said Dave, backing away with a claw clamped over his snout. "And he smells like a blocked pigsty."
 
@@ -286,6 +286,8 @@ Blue light raced through the carved channels in the pale stone. All four stones 
 Garnel spoke two words. They were careful, reverent, and slightly mispronounced. "Vaelum Thrae."
 
 The water answered. Warmth rolled out across the chamber. The bruises on Thorn's arms ached less. Dave felt three days of fighting and walking melt out of his bones. Even Loki, who wasn't hurt at all, sighed contentedly and lay down with his tongue out.
+
+Dave was already writing in the back of his spellbook, under *AETHRA LUMIS = LIGHT*: *VAELUM THRAE = POOL (HEALING)*.
 
 "The pool works," whispered Garnel. "She was right. Mala was right about *all* of it."
 
