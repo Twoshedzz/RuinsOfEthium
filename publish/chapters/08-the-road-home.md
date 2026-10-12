@@ -81,47 +81,39 @@ They slept by the pool, and woke healed. That was the pool's gift, and none of t
 
 "I could if it was a bigger bag."
 
-It was Dave, that last morning, who woke the axe.
+That last morning, Garnel woke the axe.
 
-Nobody asked him to. Thorn had laid his two axes out on the stone to clean them, the way he did every morning, and Dave had sat down beside them with the back of his spellbook open, where he kept his list. He had been keeping it since the Blue Moon. Every Ethium word anyone had said in front of him was written there in large careful letters, with what it did beside it: *AETHRA LUMIS = LIGHT*. *VAELUM THRAE = POOL (HEALING)*. And lately, a few more, copied from Garnel's notes while Garnel wasn't looking, with question marks after them.
+Thorn had laid his two axes out on the stone to clean them, the way he did every morning, and Garnel came and crouched beside the rune-etched one with a lens in his eye, and a page of his grandmother's notes in one hand, and an expression of great nervousness.
 
-"Garnel said it needs a stone, a socket and the right words," said Dave. "There's stones in the pillars. The pillars have sockets. I've got words."
+"I think I've found it," he said. "A stone, a socket and the right words. Grandmother wrote down a phrase for binding things to stones. I've never tried it. It might do nothing. It might do something terrible."
 
-"Dave," said Derek, in a warning sort of voice.
+"How terrible?" said Thorn, who loved that axe.
 
-But Dave had already picked up the rune-etched axe, which was nearly as long as his arm, and carried it to the nearest pillar, and pressed the flat of the blade against the glowing stone in its socket.
+"I'll be careful," said Garnel, which was not an answer.
 
-"*Aethra Lumis*," he said.
+Dave sat down right beside him with the back of his spellbook open, where he kept his list. He had been keeping it since the Blue Moon. Every Ethium word anyone had said in front of him was written there in large careful letters, with what it did beside it: *AETHRA LUMIS = LIGHT*. *VAELUM THRAE = POOL (HEALING)*. He licked the end of his pencil and waited.
 
-The axe lit up like a lantern, glowed politely for a moment, and went out.
+Garnel carried the axe to the nearest pillar and pressed the flat of the blade against the glowing stone in its socket. He took a deep breath.
 
-"That's the light one," said Dave. "I knew that. I was checking."
-
-"*Vaelum Thrae*."
-
-The axe dripped slightly.
-
-Dave ran his claw down the list, past the question marks, and stopped at one. "*Kaelith Vorn*," he read.
+"*Kaelith Vorn*," he said.
 
 The rune on the axe head blazed blue.
 
 It was not the soft glow of the stones. It was a bright, hard, singing light, and it ran out of the rune and along the edge of the blade like water finding a crack, and for a moment the whole pool chamber rang with a note like a struck bell. Then the light sank back into the steel and stayed there, a thin bright line of blue along the edge that pulsed, very slowly, like the pool.
 
-Everyone stared at it.
+Everyone stared at it. Garnel stared hardest of all.
 
-"What did you *do*?" said Garnel faintly.
+"It *worked*," he whispered. "Bind and connect. It ties a thing to a stone. It actually *worked*."
 
-"I read it off your notes," said Dave. "It had a question mark. Was it the right one?"
+"How do you spell it?" said Dave.
 
-Garnel came and looked at the axe, and then at Dave's list, and then at Dave, for a long time. "*Kaelith Vorn*," he said. "Bind and connect. It ties a thing to a stone. I wasn't sure it would work. I hadn't *tried* it."
-
-"I tried it," said Dave helpfully.
+Garnel spelled it. Dave wrote *KAELITH VORN = WAKES THINGS UP (AXES)* in his biggest letters, underlined it twice, and then, after some thought, added a small drawing of an axe with lines coming off it.
 
 Thorn took the axe back with both hands, the way you would take back a baby that has learned to walk while you weren't looking. He turned it in the light. He swung it, once. The air hummed. It was lighter than before, and it sat in his grip as if it had been waiting all this time for exactly this.
 
-"Dave," said Thorn, very seriously, "that is the best thing anyone has ever done for me."
+"Garnel," said Thorn, very seriously, "that is the best thing anyone has ever done for me."
 
-Dave glowed nearly as brightly as the axe.
+Garnel went pink to the tips of his ears.
 
 The question was what to do with Poopy Joe. He could not climb, and he could not be trusted with stairs, and he had developed an attachment to the pool that bordered on devotion. Every time anyone tried to lead him towards the passage, he turned back to the water, and stood at the edge of the basin, swaying slightly, like a sentry.
 

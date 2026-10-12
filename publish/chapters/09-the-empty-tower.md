@@ -111,7 +111,7 @@ It was exactly the axe he had seen in the chalk drawing all those weeks ago. A b
 
 "Blade for cutting," said the smith. "Spike for punching through. Your choice, every swing."
 
-Thorn did not say anything for a long time. He now owned three axes. His old axe from home, which had seen him through goblins and wolves. The rune-carved Ethium axe from the tower, awake now and humming faintly blue, thanks to Dave. And this one, which was *his*, made for him, the first of its kind.
+Thorn did not say anything for a long time. He now owned three axes. His old axe from home, which had seen him through goblins and wolves. The rune-carved Ethium axe from the tower, awake now and humming faintly blue, thanks to Garnel. And this one, which was *his*, made for him, the first of its kind.
 
 "Have you named it?" asked the smith.
 
