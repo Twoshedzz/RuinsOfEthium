@@ -1,5 +1,9 @@
 # The Ruins of Ethium
 
+**Travelling, or picking this up on another machine?** Start with
+[`.agents/HANDOVER.md`](.agents/HANDOVER.md) — current state of all three apps,
+what is outstanding, and the traps already paid for.
+
 **The full working agreement lives in [`.agents/AGENTS.md`](.agents/AGENTS.md). Read it before doing anything in this repo.**
 
 That file is the single source of truth — it is kept in `.agents/` because Antigravity reads it from there. This root file exists so Claude Code and other tools that look in the repo root find it too. Put new rules in `.agents/AGENTS.md`, not here.
