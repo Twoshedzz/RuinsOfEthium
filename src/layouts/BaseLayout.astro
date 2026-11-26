@@ -6,10 +6,24 @@ import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_TITLE } from '../lib/site';
 interface Props {
   title: string;
   description?: string;
+  /** Site-root-relative picture for link previews. Defaults to the cover card. */
+  ogImage?: string;
 }
 
-const { title, description = SITE_DESCRIPTION } = Astro.props;
+const {
+  title,
+  description = SITE_DESCRIPTION,
+  ogImage = '/illustrations/cover/og-ruins-of-ethium.jpg',
+} = Astro.props;
 const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
+
+/**
+ * Link previews need absolute URLs — Slack, Discord and the rest will not resolve
+ * a relative one, and silently show no picture at all. `site` in astro.config.mjs
+ * is what makes this work.
+ */
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const ogImageUrl = new URL(ogImage, Astro.site).href;
 ---
 
 <!doctype html>
@@ -18,9 +32,23 @@ const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:site_name" content={SITE_TITLE} />
     <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="The four heroes and their dog, in the jungle ruins of Ethium."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
     <meta name="site-edition" content={SITE_EDITION} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{fullTitle}</title>
