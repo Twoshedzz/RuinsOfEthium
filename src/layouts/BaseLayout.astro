@@ -1,5 +1,6 @@
 ---
 import Analytics from '../components/Analytics.astro';
+import CloudflareAnalytics from '../components/CloudflareAnalytics.astro';
 import { SITE_BUILT_AT, SITE_EDITION } from '../lib/build-info';
 import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_TITLE } from '../lib/site';
 
@@ -68,6 +69,7 @@ const ogImageUrl = new URL(ogImage, Astro.site).href;
       </footer>
     </div>
     <Analytics />
+    <CloudflareAnalytics />
   </body>
 </html>
 

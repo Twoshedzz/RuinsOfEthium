@@ -15,3 +15,15 @@ export const SITE_DESCRIPTION =
  * Analytics still does nothing until a reader allows it — see components/Analytics.astro.
  */
 export const GA_MEASUREMENT_ID = 'G-3CQ0WK6GZQ';
+
+/**
+ * Cloudflare Web Analytics site token.
+ *
+ * Cookieless, so it needs no consent and counts every reader — unlike GA above,
+ * which only ever sees the ones who said yes. Not a secret: it is served in every
+ * visitor's page source. PUBLIC_CF_BEACON_TOKEN overrides it.
+ *
+ * Empty until a token is created in the Cloudflare dashboard. Nothing is sent
+ * while it is empty.
+ */
+export const CLOUDFLARE_ANALYTICS_TOKEN = '';

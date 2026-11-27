@@ -1,0 +1,32 @@
+---
+/**
+ * Cloudflare Web Analytics — the count of everyone.
+ *
+ * Google Analytics only sees readers who accept the consent bar, which on a site
+ * shared among friends and family may be a minority. This one is cookieless: it
+ * writes nothing to the device, reads nothing back, and sets no identifier, so
+ * there is nothing for a reader to consent to and it counts every visit.
+ *
+ * That also sets its limits. No sessions, no returning-visitor counts, no
+ * individuals — page views, referrers, countries and browsers. Which is the right
+ * amount to know about who is reading a novel.
+ *
+ * The token is not a secret: Cloudflare serves it in every visitor's page source.
+ * Nothing renders until one is set, so local dev, forks and preview builds stay
+ * clean and no half-configured beacon ever ships.
+ */
+import { CLOUDFLARE_ANALYTICS_TOKEN } from '../lib/site';
+
+const token = import.meta.env.PUBLIC_CF_BEACON_TOKEN || CLOUDFLARE_ANALYTICS_TOKEN;
+---
+
+{
+  token && (
+    <script
+      is:inline
+      defer
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon={JSON.stringify({ token })}
+    />
+  )
+}
