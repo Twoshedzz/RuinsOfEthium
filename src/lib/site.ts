@@ -26,4 +26,4 @@ export const GA_MEASUREMENT_ID = 'G-3CQ0WK6GZQ';
  * Empty until a token is created in the Cloudflare dashboard. Nothing is sent
  * while it is empty.
  */
-export const CLOUDFLARE_ANALYTICS_TOKEN = '';
+export const CLOUDFLARE_ANALYTICS_TOKEN = 'e52688f1ce8a4fedaf456d4f2e829ee5';
